@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0f60a892864809",
+        "id": "d6a86c99a6f4ec5b",
         "type": "tabs",
         "children": [
           {
-            "id": "185a58be92bfe193",
+            "id": "998d33d180582cb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Introduction To Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f788705e0810697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Basic Math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70f6a01d55bb3f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Two Pointer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Two Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Two Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/Two Pointer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f6a01d55bb3f9c",
+  "active": "998d33d180582cb2",
   "lastOpenFiles": [
     "Machine Learning/Basic Math.md",
     "Operating System/Introduction To Operating System.md",
+    "Algorithm/Two Pointer.md",
+    "Algorithm/Greedy.md",
+    "Algorithm/Dynamic Programing.md",
+    "Algorithm/Breadth First Search.md",
+    "Algorithm/Depth First Search.md",
     "Operating System/The Abstraction-The Process.md",
-    "Z-Practices/PP.md",
-    "Untitled.canvas",
-    "2022-12-21.md"
+    "Git/Useful git commands.md",
+    "Z-Practices/PP.md"
   ]
 }
