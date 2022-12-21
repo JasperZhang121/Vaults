@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/Linear Algebra.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 424.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -173,11 +173,11 @@
   },
   "active": "3d2ceac590bd45af",
   "lastOpenFiles": [
+    "Operating System/The Abstraction-The Process.md",
+    "Operating System/Introduction To Operating System.md",
+    "Machine Learning/Linear Algebra.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Linear Algebra.md",
-    "Operating System/Introduction To Operating System.md",
-    "Operating System/The Abstraction-The Process.md",
     "Machine Learning/Basic Math.md",
     "Algorithm/Two Pointer.md",
     "Algorithm/Breadth First Search.md",
