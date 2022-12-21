@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
-                "mode": "source",
+                "file": "Algorithm/Two Pointer.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
+                "file": "Algorithm/Two Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
+                "file": "Algorithm/Two Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md"
+                "file": "Algorithm/Two Pointer.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "b85dee14ceac1340",
   "lastOpenFiles": [
+    "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
     "Leetcode/Two-pointers/11. Container With Most Water.md",
     "Algorithm/Two Pointer.md",
     "Machine Learning/Linear Algebra.md",
@@ -169,7 +170,6 @@
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Basic Math.md",
-    "Algorithm/Breadth First Search.md",
-    "Algorithm/Dynamic Programing.md"
+    "Algorithm/Breadth First Search.md"
   ]
 }
