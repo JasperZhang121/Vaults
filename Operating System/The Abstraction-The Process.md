@@ -25,3 +25,17 @@ The definition:  a running program
 
 <span style="color:yellow">Data Structures:</span>
 To track the state of each process, for example, the OS likely will keep some kind of process list for all processes that are ready, as well as some additional information to track which process is currently running.
+
+-----
+
+fork(): The fork() system call is used to create a new process.
+
+The process calls the fork() system call, which the OS provides as a way to create a new process. The odd part: the process that is created is an (almost) exact copy of the calling process. That means that to the OS, it now looks like there are two copies of the program running, and both are about to return from the fork() system call. The newly-created process (called the child, in contrast to the creating parent) doesn’t start running at main(), rather, it just comes into life as if it had called fork() itself.
+
+
+wait(): parent to wait for a child process to finish what it has been doing
+
+
+
+
+

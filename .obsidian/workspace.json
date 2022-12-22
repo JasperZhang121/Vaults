@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "90fc24374303a772",
   "lastOpenFiles": [
+    "Git/Useful git commands.md",
     "Operating System/The Abstraction-The Process.md",
     "Operating System/Introduction To Operating System.md",
     "Z-Pictures/Pasted image 20221222154419.png",
@@ -156,7 +157,6 @@
     "Algorithm/Two Pointer.md",
     "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
     "Machine Learning/Linear Algebra.md",
-    "Machine Learning/Logistic Regression.md",
-    "Machine Learning/Linear Regression.md"
+    "Machine Learning/Logistic Regression.md"
   ]
 }
