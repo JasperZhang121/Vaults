@@ -32,9 +32,9 @@ fork(): The fork() system call is used to create a new process.
 
 The process calls the fork() system call, which the OS provides as a way to create a new process. The odd part: the process that is created is an (almost) exact copy of the calling process. That means that to the OS, it now looks like there are two copies of the program running, and both are about to return from the fork() system call. The newly-created process (called the child, in contrast to the creating parent) doesn’t start running at main(), rather, it just comes into life as if it had called fork() itself.
 
-
 wait(): parent to wait for a child process to finish what it has been doing
 
+exec(): run a program that is different from the calling program
 
 
 
