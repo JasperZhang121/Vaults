@@ -23,3 +23,5 @@ The definition:  a running program
 ![[Pasted image 20221222154419.png]]
 
 
+<span style="color:yellow">Data Structures:</span>
+To track the state of each process, for example, the OS likely will keep some kind of process list for all processes that are ready, as well as some additional information to track which process is currently running.
