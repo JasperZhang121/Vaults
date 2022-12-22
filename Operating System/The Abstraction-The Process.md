@@ -14,3 +14,12 @@ The definition:  a running program
 - Wait: wait for a process to stop running
 - Miscellaneous Control: other controls that are possible
 - Status: get some status information
+![[Pasted image 20221222154506.png]]
+
+<span style="color:yellow">Process states:</span>
+- Running: In the running state, a process is running on a processor. This means it is executing instructions
+- Ready: In the ready state, a process is ready to run but for some reason the OS has chosen not to run it at this given moment.
+- Blocked: In the blocked state, a process has performed some kind of operation that makes it not ready to run until some other event takes place.
+![[Pasted image 20221222154419.png]]
+
+
