@@ -1,2 +1,0 @@
-VMbox + Ubuntu
-
