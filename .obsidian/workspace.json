@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78b8eb51b7fdd327",
+        "id": "f47acad374be5c14",
         "type": "tabs",
         "children": [
           {
-            "id": "5b72cbf06e55fb47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Two Pointer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1355e75e4679aca",
+            "id": "0e12131400be51a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1355e75e4679aca",
+  "active": "0e12131400be51a1",
   "lastOpenFiles": [
     "Algorithm/Two Pointer.md",
+    "Git/Useful git commands.md",
+    "Linux/1. Preparation and Intro.md",
     "Algorithm/Breadth First Search.md",
     "Operating System/4. The Abstraction-Address Spaces.md",
     "Operating System/3. Scheduling.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
-    "Operating System/2. The Abstraction-The Process.md",
-    "Operating System/1. Introduction To Operating System.md",
-    "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md"
+    "Operating System/2. The Abstraction-The Process.md"
   ]
 }
