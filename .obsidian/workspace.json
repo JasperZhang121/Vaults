@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/2. Vi and Vim.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/2. Vi and Vim.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/2. Vi and Vim.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/2. Vi and Vim.md"
+                "file": "Linux/1. Preparation and Intro.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "0e12131400be51a1",
   "lastOpenFiles": [
+    "Linux/2. Vi and Vim.md",
     "Linux/1. Preparation and Intro.md",
     "Z-Pictures/Pasted image 20221222154419.png",
-    "Linux/2. Vi and Vim.md",
     "Algorithm/Two Pointer.md",
     "Git/Useful git commands.md",
     "Algorithm/Breadth First Search.md",
