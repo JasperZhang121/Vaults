@@ -11,12 +11,8 @@
             "id": "0e12131400be51a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/1. Preparation and Intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/1. Preparation and Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/1. Preparation and Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/1. Preparation and Intro.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +140,15 @@
   },
   "active": "0e12131400be51a1",
   "lastOpenFiles": [
-    "Linux/2. Vi and Vim.md",
-    "Linux/1. Preparation and Intro.md",
-    "Z-Pictures/Pasted image 20221222154419.png",
     "Algorithm/Two Pointer.md",
-    "Git/Useful git commands.md",
+    "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
+    "Algorithm/Greedy.md",
+    "Algorithm/Dynamic Programing.md",
+    "Algorithm/Depth First Search.md",
     "Algorithm/Breadth First Search.md",
-    "Operating System/4. The Abstraction-Address Spaces.md",
-    "Operating System/3. Scheduling.md",
-    "Machine Learning/Linear Algebra.md",
-    "Machine Learning/Logistic Regression.md"
+    "Leetcode/Two-pointers/11. Container With Most Water.md",
+    "Linux/1. Preparation and Intro.md",
+    "Linux/2. Vi and Vim.md",
+    "Z-Pictures/Pasted image 20221222154419.png"
   ]
 }
