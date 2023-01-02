@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f47acad374be5c14",
+        "id": "1135b708d0218ada",
         "type": "tabs",
         "children": [
           {
-            "id": "0e12131400be51a1",
+            "id": "77aa540c51137d86",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e12131400be51a1",
+  "active": "77aa540c51137d86",
   "lastOpenFiles": [
     "Algorithm/Two Pointer.md",
     "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
