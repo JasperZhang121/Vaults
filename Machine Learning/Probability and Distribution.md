@@ -9,7 +9,7 @@ A person wearing an adversarial patch is not detected by a person detector model
 ### Discrete Probabilities
 
 <br/>
-**Joint probability:**
+Joint probability: 
 
 If discrete random variables X and Y are defined on the same sample space S, then their _**joint probability mass function**_ **(joint pmf)** is given by  
 
@@ -22,6 +22,17 @@ where (x,y) is a pair of possible values for the pair of random variables (X,Y
 -   P((X,Y)∈A))=∑∑(x,y)∈A p(x,y)
 
 <br/>
-**Marginal probabilities:**
+Marginal probabilities:
 The marginal probability that X = x irrespective of the value of Y is written as p(x)
 If we consider only the instances where X = x, then the fraction of instances (conditional probability) for which Y = y is written as p(y|x).
+
+<br/>
+Conditinal probabilities:
+The fraction of a row or column in a particular cell.
+
+
+
+
+
+
+

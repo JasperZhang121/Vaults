@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Probability and Distribution.md",
-                "mode": "source",
+                "file": "Machine Learning/Linear Algebra.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Probability and Distribution.md",
+                "file": "Machine Learning/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Probability and Distribution.md",
+                "file": "Machine Learning/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Probability and Distribution.md"
+                "file": "Machine Learning/Linear Algebra.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "77aa540c51137d86",
   "lastOpenFiles": [
-    "Machine Learning/Linear Algebra.md",
     "Machine Learning/Probability and Distribution.md",
+    "Machine Learning/Linear Algebra.md",
     "Algorithm/Two Pointer.md",
     "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
     "Algorithm/Greedy.md",
