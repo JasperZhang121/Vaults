@@ -14,6 +14,24 @@ Margin = 2/ ||W||
 - Hard-margin
 - Soft-margin
 
+---
+
+```python
+
+#Import Library
+from sklearn import svm
+# create
+model = svm.svc()
+
+# train the model using the training sets and check score
+model.fit(x,y)
+model.score(x,y)
+
+```
+
+
+
+
 
 
 
