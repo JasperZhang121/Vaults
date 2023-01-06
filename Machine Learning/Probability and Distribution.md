@@ -42,4 +42,8 @@ In [probability theory](https://en.wikipedia.org/wiki/Probability_theory "Proba
 -  bayes' theorem
 
 
+The Gaussian distribution is the most well-studied probability distribution for continuous-valued random variables. It is also referred to as the normal distribution. The special case of the Gaussian with zero mean and identity covariance, is referred to as the standard normal distribution.
+
+
+
 
