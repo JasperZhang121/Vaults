@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1135b708d0218ada",
+        "id": "0c4585083ef0bbc4",
         "type": "tabs",
         "children": [
           {
-            "id": "77aa540c51137d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Probability and Distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89fb917727076d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Numpy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff44fee385f23469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d3b613e33d67978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Probability and Distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "958b0b1fbe866b95",
+            "id": "841f5af6d5e6c075",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "958b0b1fbe866b95",
+  "active": "841f5af6d5e6c075",
   "lastOpenFiles": [
     "Machine Learning/Probability and Distribution.md",
+    "Machine Learning/Support Vector Machine.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
-    "Linux/1. Preparation and Intro.md",
-    "Linux/2. Vi and Vim.md",
-    "Operating System/2. The Abstraction-The Process.md",
     "Operating System/1. Introduction To Operating System.md",
-    "Python/Pytorch.md",
-    "Python/Pandas.md"
+    "Operating System/2. The Abstraction-The Process.md",
+    "Operating System/3. Scheduling.md",
+    "Operating System/4. The Abstraction-Address Spaces.md",
+    "Z-Pictures/OS pic/Pasted image 20221225104056.png"
   ]
 }
