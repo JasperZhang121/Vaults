@@ -30,8 +30,11 @@ If we consider only the instances where X = x, then the fraction of instances (c
 Conditinal probabilities:
 The fraction of a row or column in a particular cell.
 
+----
 
+### Continuous Probabilities
 
+Probability density function:
 
 
 
