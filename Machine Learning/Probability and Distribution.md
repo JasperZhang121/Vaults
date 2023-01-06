@@ -35,7 +35,8 @@ The fraction of a row or column in a particular cell.
 ### Continuous Probabilities
 
 Probability density function:
+In [probability theory](https://en.wikipedia.org/wiki/Probability_theory "Probability theory"), a **probability density function** (**PDF**), or **density** of a [continuous random variable](https://en.wikipedia.org/wiki/Continuous_random_variable "Continuous random variable"), is a [function](https://en.wikipedia.org/wiki/Function_(mathematics) "Function (mathematics)") whose value at any given sample (or point) in the [sample space](https://en.wikipedia.org/wiki/Sample_space "Sample space") (the set of possible values taken by the random variable) can be interpreted as providing a _relative likelihood_ that the value of the random variable would be equal to that sample.
 
-
+Cumulative distribution function：
 
 

@@ -148,6 +148,8 @@
   },
   "active": "77aa540c51137d86",
   "lastOpenFiles": [
+    "Machine Learning/Logistic Regression.md",
+    "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/Probability and Distribution.md",
     "Algorithm/Two Pointer.md",
@@ -155,8 +157,6 @@
     "Algorithm/Greedy.md",
     "Algorithm/Dynamic Programing.md",
     "Algorithm/Depth First Search.md",
-    "Algorithm/Breadth First Search.md",
-    "Leetcode/Two-pointers/11. Container With Most Water.md",
-    "Linux/1. Preparation and Intro.md"
+    "Algorithm/Breadth First Search.md"
   ]
 }
