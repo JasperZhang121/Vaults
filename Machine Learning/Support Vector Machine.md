@@ -8,10 +8,11 @@ If the training data is [linearly separable](https://en.wikipedia.org/wiki/Line
 - W<sup>T</sup>-b = 1 (anything on or above this boundary is of one class, with label 1)
 - W<sup>T</sup>-b = -1 (anything on or below this boundary is of the other class, with label −1)
 
-margin = 2/ ||W||
-
 <br/>
-Hard-margin: 
+
+Margin = 2/ ||W||
+- Hard-margin
+- Soft-margin
 
 
 
