@@ -1,0 +1,3 @@
+In [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), **support vector machines** (**SVMs**, also **support vector networks**[[1]](https://en.wikipedia.org/wiki/Support_vector_machine#cite_note-CorinnaCortes-1)) are [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning "Supervised learning") models with associated learning [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that analyze data for [classification](https://en.wikipedia.org/wiki/Statistical_classification "Statistical classification") and [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis "Regression analysis").
+
+
