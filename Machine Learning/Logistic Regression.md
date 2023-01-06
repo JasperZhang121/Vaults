@@ -1,0 +1,28 @@
+In [statistics](https://en.wikipedia.org/wiki/Statistics "Statistics"), the **logistic model** (or **logit model**) is a [statistical model](https://en.wikipedia.org/wiki/Statistical_model "Statistical model") that models the [probability](https://en.wikipedia.org/wiki/Probability "Probability") of an event taking place by having the [log-odds](https://en.wikipedia.org/wiki/Log-odds "Log-odds") for the event be a [linear combination](https://en.wikipedia.org/wiki/Linear_function_(calculus) "Linear function (calculus)") of one or more [independent variables](https://en.wikipedia.org/wiki/Independent_variable "Independent variable"). In [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis "Regression analysis"), **logistic regression**[[1]](https://en.wikipedia.org/wiki/Logistic_regression#cite_note-1) (or **logit regression**) is [estimating](https://en.wikipedia.org/wiki/Estimation_theory "Estimation theory") the parameters of a logistic model (the coefficients in the linear combination).
+
+Example:
+```python
+
+# prepare
+import pandas as pd
+import numpy as np
+from sklearn.metrics import accuracy_score
+data = pd.read_excel('example.xlsx')
+data.head()
+
+# create model
+LR = LogisticRegression()
+
+# set data
+x = data.drop('condition',axis=1)
+y = data.loc[:,'condition']
+
+# train 
+LR.fit(x,y)
+
+# y_predict
+y_predict = LR.predict(x)
+```
+
+
+

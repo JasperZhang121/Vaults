@@ -185,15 +185,15 @@
   },
   "active": "0d3b613e33d67978",
   "lastOpenFiles": [
-    "Python/Pytorch.md",
-    "Python/Pandas.md",
-    "Python/Numpy.md",
-    "Machine Learning/Probability and Distribution.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
-    "Algorithm/Two Pointer.md",
-    "Leetcode/Two-pointers/26. Remove Duplicates from Sorted Array.md",
-    "Algorithm/Greedy.md"
+    "Machine Learning/Probability and Distribution.md",
+    "Linux/1. Preparation and Intro.md",
+    "Linux/2. Vi and Vim.md",
+    "Operating System/2. The Abstraction-The Process.md",
+    "Operating System/1. Introduction To Operating System.md",
+    "Python/Pytorch.md",
+    "Python/Pandas.md"
   ]
 }
