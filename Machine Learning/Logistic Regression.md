@@ -8,7 +8,6 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics import accuracy_score
 data = pd.read_excel('example.xlsx')
-data.head()
 
 # create model
 LR = LogisticRegression()

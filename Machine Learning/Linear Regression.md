@@ -9,7 +9,6 @@ Examples:
 # import and prepare
 import pandas as pd
 data=pd.read_excel('example.xlsx')
-data.head()
 from sklearn.linear_model import LinearRegression
 
 # create linear regression model
