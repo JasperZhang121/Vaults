@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f568388ea8c86acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Naive Bayesian algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Math/453. Minimum Moves to Equal Array Elements.md",
+                "file": "Machine Learning/Naive Bayesian algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Math/453. Minimum Moves to Equal Array Elements.md",
+                "file": "Machine Learning/Naive Bayesian algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Math/453. Minimum Moves to Equal Array Elements.md"
+                "file": "Machine Learning/Naive Bayesian algorithm.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c71c2206f9e96ac5",
+  "active": "f568388ea8c86acd",
   "lastOpenFiles": [
+    "Leetcode/Math/453. Minimum Moves to Equal Array Elements.md",
     "Leetcode/Untitled.md",
     "Machine Learning/Support Vector Machine.md",
     "Leetcode/Linked List/24. Swap Nodes in Pairs.md",
@@ -169,7 +182,6 @@
     "Leetcode/Greedy/1833. Maximum Ice Cream Bars.md",
     "Machine Learning/Probability and Distribution.md",
     "Machine Learning/Logistic Regression.md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Linear Algebra.md"
+    "Machine Learning/Linear Regression.md"
   ]
 }
