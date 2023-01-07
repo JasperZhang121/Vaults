@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "353e5882fcb9f712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Greedy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/K-nearest Neighbors.md",
+                "file": "Algorithm/Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/K-nearest Neighbors.md",
+                "file": "Algorithm/Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/K-nearest Neighbors.md"
+                "file": "Algorithm/Greedy.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f76578bab2f3ae4c",
+  "active": "353e5882fcb9f712",
   "lastOpenFiles": [
+    "Leetcode/Greedy/134. Gas Station.md",
+    "Machine Learning/K-nearest Neighbors.md",
     "Machine Learning/Support Vector Machine.md",
     "Machine Learning/Probability and Distribution.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Naive Bayesian Classifier.md",
     "Machine Learning/Linear Algebra.md",
-    "Machine Learning/K-nearest Neighbors.md",
     "README.md",
-    "7.md",
-    "Leetcode/Math/453. Minimum Moves to Equal Array Elements.md"
+    "7.md"
   ]
 }
