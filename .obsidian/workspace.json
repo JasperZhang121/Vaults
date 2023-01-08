@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Logistic Regression.md",
-                "mode": "preview",
+                "file": "Html-CSS-JavaScript/HTML/Tag.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Logistic Regression.md",
+                "file": "Html-CSS-JavaScript/HTML/Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Logistic Regression.md",
+                "file": "Html-CSS-JavaScript/HTML/Tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Logistic Regression.md"
+                "file": "Html-CSS-JavaScript/HTML/Tag.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "f76578bab2f3ae4c",
   "lastOpenFiles": [
+    "Machine Learning/Logistic Regression.md",
+    "Html-CSS-JavaScript/HTML/Tag.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/K-nearest Neighbors.md",
@@ -155,8 +157,6 @@
     "Machine Learning/Support Vector Machine.md",
     "Algorithm/Greedy.md",
     "Leetcode/Greedy/134. Gas Station.md",
-    "Machine Learning/Logistic Regression.md",
-    "Machine Learning/Naive Bayesian Classifier.md",
-    "README.md"
+    "Machine Learning/Naive Bayesian Classifier.md"
   ]
 }
