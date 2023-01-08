@@ -78,10 +78,20 @@ Font:
     <style>
         .font35{
             font-size: 35px;
+            font-weight:700 ;
+            font-style: italic ;
+            font-family: 'Microsoft yahei';
         }
     </style>
 ```
 
+```html
+    <style>
+        div{
+            font: italic 700 35px 'Microsoft yahei'
+        }
+    </style>
+```
 
 Id: (only used by one)
 ```html
@@ -100,5 +110,8 @@ Select All:
         }
     </style>
 ```
+
+
+
 
 

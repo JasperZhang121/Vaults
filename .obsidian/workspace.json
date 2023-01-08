@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Geometry/149. Max Points on a Line.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Geometry/149. Max Points on a Line.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Geometry/149. Max Points on a Line.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Geometry/149. Max Points on a Line.md"
+                "file": "Html-CSS-JavaScript/CSS.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "46d50e511140160c",
   "lastOpenFiles": [
+    "Leetcode/Geometry/149. Max Points on a Line.md",
     "Html-CSS-JavaScript/CSS.md",
     "Html-CSS-JavaScript/HTML.md",
     "Machine Learning/Logistic Regression.md",
@@ -181,7 +182,6 @@
     "Machine Learning/K-nearest Neighbors.md",
     "Machine Learning/Probability and Distribution.md",
     "Machine Learning/Support Vector Machine.md",
-    "Algorithm/Greedy.md",
-    "Leetcode/Greedy/134. Gas Station.md"
+    "Algorithm/Greedy.md"
   ]
 }
