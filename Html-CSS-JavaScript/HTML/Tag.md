@@ -52,7 +52,7 @@ UTF-8 is the most commonly used charset.
 1.Title tag
 
 From h1 to h6:
-```
+```html
     <h1> Here! </h1>
 
     <h2> Here! </h2>
@@ -70,7 +70,7 @@ From h1 to h6:
 
 
 2.Paragraph tag
-```
+```html
     <p> I know this will happen</p>
     <p> but I cannot know when </p>
 ```
@@ -79,7 +79,7 @@ From h1 to h6:
 
 3.Break tag
 
-```
+```html
     <p> I know this <br/> will happen</p>
 
     <p> but I cannot know when </p>
@@ -89,32 +89,32 @@ From h1 to h6:
 
 4.Bold tag
 
-```
+```html
 <strong> be bold <strong>
 ```
 
 5.Italic tag
-```
+```html
 <em> be italic </em>
 <i> be italic </i>
 ```
 
 6.Delete tag
-```
+```html
 <del> to delete </del>
 <s> to delete </s>
 ```
 
 7.Underline tag
 
-```
+```html
 <ins> underline </ins>
 <u> underline </u>
 ```
 
 8.Box tag
 
-```
+```html
     <div> a box </div>
 
     <span> a box </span>
@@ -123,9 +123,60 @@ From h1 to h6:
 One div is a big box which fulfill the whole line, but many spans can exist at the same line.
 
 9.Image tag
-```
+```html
 <img src="" alt="" title="" width="" height="" border = ""/>
 ```
 if src does not work for some reasons, show things from alt. When mouse hover on the picture, showing text from title. 
 
-10. 
+10.HyperLink tag
+```html
+<a href="" target=""> </a>
+```
+Jump to th link after href (the link must start with http or use the internal html file), and whether jump by opening a new tap is decided by the target.
+If files end with .exe or .zip in the href, click will download the file.
+If the a tag's id is put into the href, it will directly jump to the id position in this html.
+
+
+11.Comment
+```html
+<!-- comments -->
+```
+tips: press CTRL and / 
+
+12.Special Characters
+```HTML
+&nbsp
+&lt
+&gt
+```
+
+13.Table
+```HTML
+    <table align="" border="" cellpadding = "" cellspacing = "" width = "" height = "">
+
+        <tr><th></th></tr>
+
+        <tr><td></td></tr>
+        <tr><td></td></tr>
+        <tr><td></td></tr>
+
+    </table>
+```
+
+```html
+    <table>
+
+        <thead></thead>
+
+        <tbody></tbody>
+
+    </table>
+```
+
+```html
+<td colspan=""></td>
+<td rowspan=""></td>
+```
+
+14.List
+
