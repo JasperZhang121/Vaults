@@ -221,4 +221,50 @@ tips: press CTRL and /
 
 15.Form
 
+```html
+    <form action="" method="" name="">
+
+        username: <input type="text" name="username" value="please type your username" maxlength=""> <br>
+
+        password: <input type="password" name="password"> <br>
+
+        gender: male <input type="radio" name = "sex"> female <input type="radio" name="sex">
+
+        Hobby: eat <input type="checkbox" checked = "checked"> sleep <input type="checkbox"> pee <input type="checkbox">
+
+        <input type="submit" value="">
+		<input type="reset" value="">
+    </form>
+```
+
+16.Button
+```html
+    <input type="button" value="It's a button">
+    <input type="file">
+```
+
+17.Label
+```html
+    <label for="gender">male</label>
+    <input type="radio" name="gender" id = "gender">
+```
+
+18.Select (in form)
+```html
+    <select name="" id="">
+
+        <option value="" selected = "selected"></option>
+
+        <option value=""></option>
+
+        <option value=""></option>
+
+    </select>
+```
+
+19.Text area (in form)
+```html
+<textarea name="" id="" cols="30" rows="10"></textarea>
+```
+
 

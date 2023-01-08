@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html-CSS-JavaScript/HTML/Tag.md",
+                "file": "Html-CSS-JavaScript/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca5745efef7e5c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Html-CSS-JavaScript/HTML/Tag.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Html-CSS-JavaScript/HTML/Tag.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Html-CSS-JavaScript/HTML/Tag.md"
+                "file": "Html-CSS-JavaScript/CSS.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f76578bab2f3ae4c",
+  "active": "1ca5745efef7e5c0",
   "lastOpenFiles": [
+    "Html-CSS-JavaScript/HTML.md",
+    "Html-CSS-JavaScript/CSS.md",
     "Machine Learning/Logistic Regression.md",
-    "Html-CSS-JavaScript/HTML/Tag.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/K-nearest Neighbors.md",
     "Machine Learning/Probability and Distribution.md",
     "Machine Learning/Support Vector Machine.md",
     "Algorithm/Greedy.md",
-    "Leetcode/Greedy/134. Gas Station.md",
-    "Machine Learning/Naive Bayesian Classifier.md"
+    "Leetcode/Greedy/134. Gas Station.md"
   ]
 }
