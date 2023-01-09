@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html-CSS-JavaScript/Emmet.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Html-CSS-JavaScript/Emmet.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Html-CSS-JavaScript/Emmet.md",
+                "file": "Html-CSS-JavaScript/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Html-CSS-JavaScript/Emmet.md"
+                "file": "Html-CSS-JavaScript/CSS.md"
               }
             }
           }
@@ -185,15 +185,15 @@
   },
   "active": "877188f9907a3a08",
   "lastOpenFiles": [
+    "Html-CSS-JavaScript/Emmet.md",
+    "Html-CSS-JavaScript/HTML.md",
     "Html-CSS-JavaScript/CSS.md",
     "Leetcode/Geometry/149. Max Points on a Line.md",
-    "Html-CSS-JavaScript/HTML.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/K-nearest Neighbors.md",
     "Machine Learning/Probability and Distribution.md",
-    "Machine Learning/Support Vector Machine.md",
-    "Algorithm/Greedy.md"
+    "Machine Learning/Support Vector Machine.md"
   ]
 }

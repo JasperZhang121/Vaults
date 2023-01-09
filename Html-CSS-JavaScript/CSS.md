@@ -166,3 +166,10 @@ Link Style.css to html:
 ```html
     <link rel="stylesheet" href="Style.css">
 ```
+
+Modify Children:
+```css
+        ol li{
+            color: red;
+        }
+```
