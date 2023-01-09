@@ -150,4 +150,19 @@ line-height:
     </style>     
 ```
 
+Inside a tag:
+```html
+<p style="color:red"> hello css </p>
+```
 
+Style.css:
+```css
+div{
+    color: pink;
+}
+```
+
+Link Style.css to html:
+```html
+    <link rel="stylesheet" href="Style.css">
+```
