@@ -167,9 +167,33 @@ Link Style.css to html:
     <link rel="stylesheet" href="Style.css">
 ```
 
-Modify Children:
+Modify Children or GrandChildren:
 ```css
         ol li{
             color: red;
         }
 ```
+
+Modify only Chidren:
+```css
+.something>a{
+	color: red;
+}
+```
+
+Modify tags together:
+```css
+        div,
+        p {
+            color: red;
+        }
+```
+
+a : link / visited/hover/active
+```css
+a:link{
+	color: red;
+}
+```
+
+
