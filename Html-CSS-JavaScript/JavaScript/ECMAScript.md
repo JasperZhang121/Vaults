@@ -44,14 +44,25 @@ Places of JS:
 Input & output:
 ```html
     <SCript>
-
         prompt("please enter your name");
-
         alert("ugly name!")
-
         console.log("console is here!")
-
     </SCript>
 ```
 
 Variables:
+```html
+    <script>
+        var age = 3,
+            name = 'jasper';
+
+        console.log(age,name);
+        var username = prompt("please enter you name!");
+        alert("oh! you are "+ username+"asshole? It does not matter anyway....");
+        alert("by the way, I'm " + name+"."+" and I'm "+age+" years old.");
+    </script>
+```
+
+
+Data Types:
+
