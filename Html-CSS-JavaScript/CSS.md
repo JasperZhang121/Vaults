@@ -197,3 +197,10 @@ a:link{
 ```
 
 
+&lta>:
+```css
+a {
+	display: block;
+}
+```
+
