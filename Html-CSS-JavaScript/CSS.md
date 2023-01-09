@@ -112,6 +112,42 @@ Select All:
 ```
 
 
+text:
 
+- align
+```html
+    <style>
+        div{
+            text-align: center;
+        }
+    </style>
+```
+
+- decroation
+```html
+    <style>
+        div{
+            text-decoration: underline;
+        }
+    </style>
+```
+
+- indent:
+```html
+    <style>
+		div{
+            text-indent: 20 px;
+        }
+    </style>     
+```
+
+line-height:
+```html
+    <style>
+		p{
+            line-height: 20 px;
+        }
+    </style>     
+```
 
 
