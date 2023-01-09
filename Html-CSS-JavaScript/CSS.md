@@ -204,19 +204,12 @@ a {
 }
 ```
 
-Background image: 
+Background: 
 ```css
         div{
-
-            width: 300px;
-
-            height: 300px;
-
-            background-image: url();
-		    
-		    background-repeat: repeat-x;            
-		    
-		    background-position: center top;
+            background: url() repeat-x center top fixed;
         }
 ```
+
+
 
