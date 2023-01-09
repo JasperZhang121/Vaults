@@ -204,3 +204,19 @@ a {
 }
 ```
 
+Background image: 
+```css
+        div{
+
+            width: 300px;
+
+            height: 300px;
+
+            background-image: url();
+		    
+		    background-repeat: repeat-x;            
+		    
+		    background-position: center top;
+        }
+```
+
