@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0899881dd635944a",
+        "id": "4b7ff3fe980b0a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "f76578bab2f3ae4c",
+            "id": "0abe674366abcccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f8016d46e79727a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/1. Preparation and Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/1. Preparation and Intro.md",
+                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/1. Preparation and Intro.md",
+                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/1. Preparation and Intro.md"
+                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8016d46e79727a7",
+  "active": "0abe674366abcccd",
   "lastOpenFiles": [
+    "Git/Useful git commands.md",
+    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+    "Linux/1. Preparation and Intro.md",
     "Algorithm/Greedy.md",
     "Algorithm/Dynamic Programing.md",
     "Algorithm/Depth First Search.md",
     "Algorithm/Breadth First Search.md",
     "Algorithm/Recursion.md",
     "Leetcode/Tree/100. Same Tree.md",
-    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "Html-CSS-JavaScript/JavaScript/DOM.md",
-    "Html-CSS-JavaScript/JavaScript/BOM.md",
-    "Html-CSS-JavaScript/HTML.md"
+    "Html-CSS-JavaScript/JavaScript/DOM.md"
   ]
 }

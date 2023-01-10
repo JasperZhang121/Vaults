@@ -96,5 +96,17 @@ Data Types:
     </script>
 ```
 
+Convert Data type:
+
+String: 
+-  .toString()
+- String()
+- +""
+
+Number:
+- parseInt()
+- parseFloat()
+- Number()
+
 
 
