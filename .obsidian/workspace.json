@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Tree/100. Same Tree.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Tree/100. Same Tree.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Tree/100. Same Tree.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Tree/100. Same Tree.md"
+                "file": "Linux/1. Preparation and Intro.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "f8016d46e79727a7",
   "lastOpenFiles": [
+    "Algorithm/Greedy.md",
+    "Algorithm/Dynamic Programing.md",
+    "Algorithm/Depth First Search.md",
+    "Algorithm/Breadth First Search.md",
+    "Algorithm/Recursion.md",
+    "Leetcode/Tree/100. Same Tree.md",
     "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
     "Html-CSS-JavaScript/JavaScript/DOM.md",
     "Html-CSS-JavaScript/JavaScript/BOM.md",
-    "Html-CSS-JavaScript/HTML.md",
-    "Html-CSS-JavaScript/CSS.md",
-    "Html-CSS-JavaScript/Emmet.md",
-    "Leetcode/Tree/144. Binary Tree Preorder Traversal.md",
-    "Leetcode/Geometry/149. Max Points on a Line.md",
-    "Machine Learning/Logistic Regression.md",
-    "Machine Learning/Linear Regression.md"
+    "Html-CSS-JavaScript/HTML.md"
   ]
 }
