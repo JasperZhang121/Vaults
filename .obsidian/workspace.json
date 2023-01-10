@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8016d46e79727a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Tree/100. Same Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+                "file": "Leetcode/Tree/100. Same Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+                "file": "Leetcode/Tree/100. Same Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md"
+                "file": "Leetcode/Tree/100. Same Tree.md"
               }
             }
           }
@@ -146,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f76578bab2f3ae4c",
+  "active": "f8016d46e79727a7",
   "lastOpenFiles": [
+    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
     "Html-CSS-JavaScript/JavaScript/DOM.md",
     "Html-CSS-JavaScript/JavaScript/BOM.md",
-    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
     "Html-CSS-JavaScript/HTML.md",
     "Html-CSS-JavaScript/CSS.md",
     "Html-CSS-JavaScript/Emmet.md",
