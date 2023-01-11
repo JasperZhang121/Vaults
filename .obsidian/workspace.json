@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bba80aa2cdce443a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1443. Minimum Time to Collect All Apples in a Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Extra.md",
+                "file": "1443. Minimum Time to Collect All Apples in a Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Extra.md",
+                "file": "1443. Minimum Time to Collect All Apples in a Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Extra.md"
+                "file": "1443. Minimum Time to Collect All Apples in a Tree.md"
               }
             }
           }
@@ -171,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b04c156129169ec",
+  "active": "bba80aa2cdce443a",
   "lastOpenFiles": [
-    "Linux/Shell.md",
     "Linux/Extra.md",
+    "Linux/Shell.md",
     "Linux/1. Preparation and Intro.md",
     "Linux/2. Vi and Vim.md",
     "Operating System/4. The Abstraction-Address Spaces.md",
