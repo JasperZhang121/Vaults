@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b7ff3fe980b0a3f",
+        "id": "228e6b9582b68732",
         "type": "tabs",
         "children": [
           {
-            "id": "0abe674366abcccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9245d613e6bfc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/1. Preparation and Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b04c156129169ec",
+            "id": "25ae531b0e938048",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bba80aa2cdce443a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1443. Minimum Time to Collect All Apples in a Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1443. Minimum Time to Collect All Apples in a Tree.md",
+                "file": "Linux/Extra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1443. Minimum Time to Collect All Apples in a Tree.md",
+                "file": "Linux/Extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1443. Minimum Time to Collect All Apples in a Tree.md"
+                "file": "Linux/Extra.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bba80aa2cdce443a",
+  "active": "25ae531b0e938048",
   "lastOpenFiles": [
-    "Linux/Extra.md",
-    "Linux/Shell.md",
-    "Linux/1. Preparation and Intro.md",
-    "Linux/2. Vi and Vim.md",
-    "Operating System/4. The Abstraction-Address Spaces.md",
-    "Operating System/3. Scheduling.md",
-    "Operating System/2. The Abstraction-The Process.md",
-    "Operating System/1. Introduction To Operating System.md",
+    "Algorithm/Greedy.md",
+    "Algorithm/Breadth First Search.md",
+    "Algorithm/Dynamic Programing.md",
+    "Algorithm/Recursion.md",
+    "Algorithm/Depth First Search.md",
     "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "Git/Useful git commands.md"
+    "Linux/1. Preparation and Intro.md",
+    "Linux/Extra.md",
+    "Leetcode/Tree/100. Same Tree.md",
+    "1443. Minimum Time to Collect All Apples in a Tree.md"
   ]
 }
