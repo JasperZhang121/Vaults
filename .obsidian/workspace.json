@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38e250339d23d051",
+        "id": "016cd628ac4cbbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "112ed427cadd8fca",
+            "id": "aba697c751e46bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "979379640c34b5dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/PySpark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3bf5a5f044c1cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spark/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spark/Untitled.md",
+                "file": "Python/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spark/Untitled.md",
+                "file": "Python/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spark/Untitled.md"
+                "file": "Python/Basic.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3bf5a5f044c1cb3",
+  "active": "aba697c751e46bf5",
   "lastOpenFiles": [
-    "Python/PySpark.md",
     "Python/Basic.md",
+    "Python/PySpark.md",
+    "Spark/Untitled.md",
     "Linux/Shell.md",
     "Linux/Extra.md",
     "Linux/2. Vi and Vim.md",
     "Linux/1. Preparation and Intro.md",
     "Algorithm/Breadth First Search.md",
     "Algorithm/Depth First Search.md",
-    "Leetcode/Greedy/1833. Maximum Ice Cream Bars.md",
-    "Algorithm/Greedy.md"
+    "Leetcode/Greedy/1833. Maximum Ice Cream Bars.md"
   ]
 }
