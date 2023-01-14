@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Basic.md",
+                "file": "Python/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Basic.md",
+                "file": "Python/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Basic.md",
+                "file": "Python/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Basic.md"
+                "file": "Python/Numpy.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aba697c751e46bf5",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Python/Basic.md",
+    "Python/Numpy.md",
     "Python/PySpark.md",
     "Spark/Untitled.md",
     "Linux/Shell.md",
@@ -156,7 +157,6 @@
     "Linux/2. Vi and Vim.md",
     "Linux/1. Preparation and Intro.md",
     "Algorithm/Breadth First Search.md",
-    "Algorithm/Depth First Search.md",
-    "Leetcode/Greedy/1833. Maximum Ice Cream Bars.md"
+    "Algorithm/Depth First Search.md"
   ]
 }
