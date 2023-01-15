@@ -158,8 +158,54 @@ ufunc
 a = np.array([-1,-2,-3,-4])
 ufun = np.frompyfunc(abs,1,1)
 arr33 = ufun(a)
+```
 
+random
+```python
+arr34 = np.random.rand(10)
+arr35 = np.random.rand(5,5)
+arr36 = np.random.randint(5,10,size=(3,2))
 
 ```
 
+Normal distribution:
+```python
+arr37 = np.random.randn(10)
+arr38 = np.random.normal(1000,30,size=(3,3))
+```
 
+Sort:
+```python
+# kind can be "quicksort","mergesort","heapsort"
+np.sort(arr38,axis=-1,kind='quicksort') 
+```
+
+Operations:
+```python
+#1. sum
+arr39 = np.arange(1,20,2).reshape(2,5)
+np.sum(arr39,axis=1)
+
+#2. max
+np.amax(arr39)
+np.amax(arr39, axis= 0)
+arr39.max()
+
+#3. min
+np.amin(arr39)
+np.amin(arr39, axis= 0)
+arr39.min()
+
+# 4. mean
+np.mean(arr39) # also can use nanmean to avoid NaN
+np.mean(arr39, axis= 0)
+arr39.mean() 
+
+# 5. average
+np.average(arr39,axis=0,weights=[0.2,0.8])
+
+# 6. unique
+
+
+
+```
