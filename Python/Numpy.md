@@ -151,10 +151,15 @@ arr31 = np.hsplit(b,3)
 
 # 3. vsplit
 arr31 = np.vsplit(b,3)
+```
+
+ufunc
+```python
+a = np.array([-1,-2,-3,-4])
+ufun = np.frompyfunc(abs,1,1)
+arr33 = ufun(a)
 
 
 ```
-
-
 
 
