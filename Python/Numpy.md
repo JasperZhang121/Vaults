@@ -122,9 +122,39 @@ for x in np.nditer(arr21):
 concatenate
 
 ```python
+# 1. concatenate
 arr23 = np.array([[1,2,3],[1,2,3]])
 arr24 = np.array([[4,5,6],[4,5,6]])
 arr25 = np.concatenate((arr23,arr24),0) # along row 
+
+# 2. hstack
+arr26 = np.hstack((arr23,arr24)) # always axis = 1 (col)
+
+# 3. vstack
+arr27 = np.vstack((arr23,arr24)) # always axis = 0 (row)
 ```
+
+
+split
+
+```python
+a = np.linspace(1,20,9)
+b = a.reshape(3,3)
+
+# 1. split
+arr28 = np.split(a,3)
+arr29 = np.split(a,[4,7])
+arr30 = np.split(b,3,axis=1)
+
+# 2. hsplit
+arr31 = np.hsplit(b,3)
+
+# 3. vsplit
+arr31 = np.vsplit(b,3)
+
+
+```
+
+
 
 
