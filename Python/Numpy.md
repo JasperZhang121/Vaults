@@ -89,4 +89,42 @@ Transpose
 arr15 = arr14.T
 ```
 
+Search
+```python
+# 1. search by boolean list
+arr16 = np.linspace(1,10,5)
+boolist = [True, False,True,False,True]
+arr17 = np.array(boolist)
+arr18 = arr16[arr17]
+
+# 2. search by index list
+arr19 = np.arange(1,16,2)
+i = np.array([[1,1],[3,4]])
+arr20 = arr19[i]
+
+# search by multi index list
+arr21 = np.arange(12).reshape(3,4)
+m = np.array([[1,1],[2,0]])
+n = np.array([[2,0],[1,1]])
+arr22 = arr21[m,n]
+```
+
+
+Iterate:
+
+```python
+# one loop get all elements
+for x in np.nditer(arr21):
+    print(x,end=",")
+```
+
+
+concatenate
+
+```python
+arr23 = np.array([[1,2,3],[1,2,3]])
+arr24 = np.array([[4,5,6],[4,5,6]])
+arr25 = np.concatenate((arr23,arr24),0) # along row 
+```
+
 
