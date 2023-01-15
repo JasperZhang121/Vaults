@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python/Numpy.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "8eac287560756914",
   "lastOpenFiles": [
+    "README.md",
     "Algorithm/Two Pointer.md",
     "Algorithm/Union Find.md",
     "Algorithm/Greedy.md",
@@ -169,7 +170,6 @@
     "Algorithm/Breadth First Search.md",
     "Algorithm/Recursion.md",
     "Leetcode/String/1061. Lexicographically Smallest Equivalent String.md",
-    "Python/Numpy.md",
-    "Python/Basic.md"
+    "Python/Numpy.md"
   ]
 }

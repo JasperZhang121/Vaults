@@ -45,9 +45,48 @@ N-D array
 LL= [[1,2,3],[4,5,6],[7,8,9]]
 arr7 = np.array(LL)
 
+# 2. ones
+arr9 = np.ones((4,4), dtype = 'float')
 
+# 3. zeros
+arr10 = np.zeros((4,4), dtype = 'float')
+
+# 4. empty
+arr11 = np.empty((2,2))
+
+# 5. full
+arr12 = np.full((2,5),5)
+
+# 6. identity
+arr13 = np.identity(3,dtype="float")
+
+# 7. eye
+arr14 = np.eye(3,6,1)
 
 ```
 
+
+Shape:
+
+```python
+arr8 = np.arange(1,10)
+arr8 = arr8.reshape(3,3)
+arr8
+```
+
+
+Property
+```python
+arr14.ndim
+arr14.shape
+arr14.size
+arr14.itemsize
+arr14.nbytes
+```
+
+Transpose
+```python
+arr15 = arr14.T
+```
 
 
