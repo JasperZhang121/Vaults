@@ -1,6 +1,6 @@
 
 Import:
-```
+```python
 import numpy as np
 ```
 
@@ -205,7 +205,42 @@ arr39.mean()
 np.average(arr39,axis=0,weights=[0.2,0.8])
 
 # 6. unique
+arr40 = np.array(['l','o','l','i','p'])
+u,v = np.unique(arr10,return_index=True,axis=0)
+arr41 = np.array([[1,1,1],[1,1,1],[1,2,1]])
+u,v = np.unique(arr41,return_index=True,axis=0)
+```
 
+where:
+```python
+a = np.array([1,2,3,4,100,20,40,30,10,22,55])
+arr43 = np.where(a<30,a,a-20)
 
+b = np.array([[1,2,3],[1,2,2],[3,3,1]])
+arr44 = np.where(b==1,b,b+2)
+```
 
+det:
+```python
+np.linalg.det(arr44)
+```
+
+inv:
+```python
+np.linalg.inv(arr44)
+```
+
+Save:
+np.save('example_name',example_arr)
+np.savez('example_name',example_arr1, example_arr2)
+np.savez compressed('example_name',example_arr1,example_arr2)
+
+```python
+np.savez('numSav',a = arr44,b= arr43)
+```
+
+Load:
+```python
+data = np.load('numSav.npz')
+data['a']
 ```
