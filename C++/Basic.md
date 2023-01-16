@@ -98,6 +98,13 @@ Loop:
 
 pointers:
 
+type of pointers is not important at all, as a pointer is simply an address in memory
+
+```C++
+
+
+```
+
 
 
 
