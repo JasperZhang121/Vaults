@@ -44,6 +44,36 @@ int main(){
 ```
 
 
+Memory visulization
+start debug -> Debug -> Windows -> Memory ->Memory 1
+
+If:
+```C++
+	int f = 100;
+	bool g = f == 100;
+		if (g) {
+		printf("true \n");
+	}
+	if (5) {
+		printf("true \n");
+	}
+	int *ptr = nullptr;
+	if (ptr) {
+		printf("true \n");
+	}else
+	{
+		printf("null pointer");
+	}
+```
+
+Compile visualization:
+start debug -> right click -> Go to Disassembly
+
+Loop:
+```C++
+
+
+```
 
 
 
