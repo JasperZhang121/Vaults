@@ -28,8 +28,25 @@ int main(){
 
 head files:
 ```C++
+# 1. a file called multiply.h in Header Files
 
+#pragma once
+int mul(int a, int b) {
+	return a * b;
+}
+
+# 2. main func
+
+#include "multiply.h"
+int main(){
+		std::cout << mul(3,4) << std::endl;
+}
 ```
+
+
+
+
+
 
 
 
