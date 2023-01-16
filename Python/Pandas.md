@@ -14,6 +14,14 @@ readExcel.head()
 readExcel.columns
 readExcel.index
 readExcel.dtypes
+
+df.describe()
+df['b'].mean()
+df.mean()
+df.max()
+df.min()
+df.cov()
+df.corr()
 ```
 
 DataFrame & Series
@@ -39,7 +47,63 @@ data = {
 df =pd.DataFrame(data)
 
 # 3. Search
+
+#basic search 
 df['a']
 df.loc[1:3] #including 3
+df.loc[3,'b']
+df.loc[3,['b','c']]
+df.loc[[2,3],['b','c']]
+df.loc[1:3,['b','c']]
 
+#conditin applied (bool list)
+df.loc[df['b']<7,:]
+
+# lambda expression
+df.loc[lambda df: (df['b']<7) & (df['c']>1),:]
 ```
+
+
+Operations:
+
+```python
+# 1. set date as index
+df.set_index('a',inplace=True)
+
+# 2. series cal
+df1 = df
+df1['c'] = df1['b']-df['c']
+
+# 3. increase a new col
+df.loc[:,'d'] = df['b']-df['c']
+df['e'] = df['b']-df['c']
+# df.apply and df.assign
+
+# 3. missing data
+df.isnull()
+df.fillna({'e':0}, inplace =True)
+
+# 4. sort
+df['c'].sort_values()
+df.sort_values(by='c',ascending=True)
+
+# 5. str
+df['col_name'].str.replace("[abc]","d") #repalce a,b,c to d whenever find them in the df
+
+# 6. drop
+df.drop("e",axis=1)
+df.drop(1,axis=0)
+
+# 7. concat
+dat = {
+    'h':[1,2,3,4],
+    'j':[6,7,8,9],
+    'k':[1,3,4,5]
+}
+df2 = pd.DataFrame(dat,index=[1,2,3,4])
+pd.concat([df,df2],axis = 1)
+
+# index modify
+df.index-=1
+```
+
