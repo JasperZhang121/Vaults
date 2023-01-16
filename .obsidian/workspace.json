@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "491d7b01947cfeae",
+        "id": "7df9318e1b59e9f3",
         "type": "tabs",
         "children": [
           {
-            "id": "ec9e18fee3b7220c",
+            "id": "14d017a583929b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas.md",
+                "file": "C++/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas.md",
+                "file": "C++/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas.md",
+                "file": "C++/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas.md"
+                "file": "C++/Basic.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec9e18fee3b7220c",
+  "active": "14d017a583929b35",
   "lastOpenFiles": [
-    "Python/Numpy.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Linear Algebra.md",
+    "Machine Learning/K-nearest Neighbors.md",
+    "Machine Learning/Naive Bayesian Classifier.md",
     "Python/Pandas.md",
+    "Python/Numpy.md",
     "Python/Basic.md",
     "Html-CSS-JavaScript/HTML.md",
     "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "Html-CSS-JavaScript/Emmet.md",
-    "Html-CSS-JavaScript/CSS.md",
-    "Leetcode/String/1061. Lexicographically Smallest Equivalent String.md",
-    "Machine Learning/Linear Algebra.md",
-    "Machine Learning/Linear Regression.md"
+    "Html-CSS-JavaScript/Emmet.md"
   ]
 }
