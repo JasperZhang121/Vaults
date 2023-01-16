@@ -71,9 +71,36 @@ start debug -> right click -> Go to Disassembly
 
 Loop:
 ```C++
+	for (int i = 0; i < 5; i++) {
+		printf("loop %d \n", i);
+	}
+	int i = 0;
+	bool condition = true;
+	for (; condition; ) {
+		printf("loop %d \n", i);
+		i++;
+		if (i == 5)
+			condition = false;
+	}
 
+	i = 0;
+	while (i<5)
+	{
+		printf("i<5 \n");
+		i++;
+	}
 
+		do {
+		printf("i>0 \n");
+		i--;
+	} while (i > 0);
 ```
+
+pointers:
+
+
+
+
 
 
 
