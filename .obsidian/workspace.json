@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7df9318e1b59e9f3",
+        "id": "492096157bcae195",
         "type": "tabs",
         "children": [
           {
-            "id": "14d017a583929b35",
+            "id": "a293b1b118deb9a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "357a171cb35f4ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Keywords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic.md",
+                "file": "C++/Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic.md",
+                "file": "C++/Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic.md"
+                "file": "C++/Keywords.md"
               }
             }
           }
@@ -146,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d017a583929b35",
+  "active": "357a171cb35f4ab5",
   "lastOpenFiles": [
+    "C++/Basic.md",
     "Leetcode/Array/57. Insert Interval.md",
     "Leetcode/Array.md",
-    "C++/Basic.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/K-nearest Neighbors.md",
