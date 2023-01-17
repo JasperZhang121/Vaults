@@ -122,8 +122,41 @@ basically a ref is an alias to the variable, change ref simply means change the 
 ```
 
 ```C++
+void increase(int& a){
+	a++;
+}
 
+void increas(int a) {
+	a++;
+}
+
+int main() {
+	int& ref = j;
+	ref = 9;
+	printf("ref: %d, j: %d \n", ref, j);
+
+	increase(j);
+	printf("%d \n", j);
+
+	increas(j);
+	printf("%d \n", j);
+}
 ```
+
+Class:
+```C++
+class object {
+public:
+	int size, weight;
+
+	void getFat(int a) {
+		weight += a;
+	}
+};
+```
+
+
+
 
 
 
