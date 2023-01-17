@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic.md",
+                "file": "Leetcode/Array/57. Insert Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic.md",
+                "file": "Leetcode/Array/57. Insert Interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic.md"
+                "file": "Leetcode/Array/57. Insert Interval.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d017a583929b35",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Leetcode/Array.md",
+    "C++/Basic.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/K-nearest Neighbors.md",
@@ -155,8 +157,6 @@
     "Python/Pandas.md",
     "Python/Numpy.md",
     "Python/Basic.md",
-    "Html-CSS-JavaScript/HTML.md",
-    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "Html-CSS-JavaScript/Emmet.md"
+    "Html-CSS-JavaScript/HTML.md"
   ]
 }
