@@ -159,9 +159,39 @@ Struct:
 basically almost identical to class, but in class you need to claim public to access variables and methods from outside, vice-versa.
 
 Inheritance:
+```C++
+class object {
+
+public:
+	int size, weight;
+	object() {
+	}
+	object(int s, int w) {
+		size = s;
+		weight = w;
+	}
+	~object() {
+		std::cout << "Delete" << std::endl;
+	}
+	void getFat(int a) {
+		weight += a;
+	}
+	void printInheri() {
+		std::cout << "inheritance" << std::endl;
+	}
+};
+
+class thi : public object {
+public:
+};
+
+int main() {
+	thi thing1;
+	thing1.printInheri();
+}
+```
 
 
-  
 
 
 
