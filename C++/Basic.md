@@ -1,6 +1,6 @@
 ----
 
-variable:
+Variable:
 ```C++
 
 int a = 100; // signed integer, around -2b -> 2b due to 4 bytes limit, 2^(4*8-1)
@@ -11,7 +11,7 @@ bool e = false; // 1 byte, actullt 1 bit in 1 byte
 char ch = 'a'; // 1 byte
 ```
 
-function:
+Function:
 ```C++
 int multiply(int a, int b) {
 	return a * b;
@@ -26,7 +26,7 @@ int main(){
 ```
 
 
-head files:
+Head files:
 ```C++
 # 1. a file called multiply.h in Header Files
 
@@ -96,16 +96,34 @@ Loop:
 	} while (i > 0);
 ```
 
-pointers:
+Pointers:
 
 type of pointers is not important at all, as a pointer is simply an address in memory
 
 ```C++
+	int j = 10;
+	void* ptr1 = nullptr; // same as 0
+	int* ptr2 = &j; // get the address of int j 
+	*ptr2 = 8; // change the value in ptr2 address
 
-
+	char* buffer = new char[8]; // pointer points to the begining of this 8 bytes memory block
+	memset(buffer, 0, 8);
+	delete[] buffer;
+	char** p3 = &buffer;
 ```
 
+References:
 
+basically a ref is an alias to the variable, change ref simply means change the variable
+
+```C++
+	int& ref = j;
+	ref = 9;
+```
+
+```C++
+
+```
 
 
 
