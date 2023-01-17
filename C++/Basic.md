@@ -158,6 +158,7 @@ public:
 Struct:
 basically almost identical to class, but in class you need to claim public to access variables and methods from outside, vice-versa.
 
+Inheritance:
 
 
   
