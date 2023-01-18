@@ -55,6 +55,29 @@ int *const func2(); // pointer cannot change
 void func(const int var); // var cannot change
 void func(int *const var); // ptr cannot change
 
+```
+
+static:
+useful **when we want to have only one instance of our object in the local scope**, which means all calls to the function will share the same object. The same can also be achieved by using global variables or static member variables.
+
+```C++
+
+# static variable in function
+void demo() 
+{ 
+	// static variable 
+	static int count = 0; 
+	cout << count << " "; 	
+	// value is updated and 
+	// will be carried to next 
+	// function calls 
+	count++; 
+}
+
+# static variable in class
+
+
+
 
 
 ```

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d42792ce7afd6651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Keywords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "357a171cb35f4ab5",
+  "active": "d42792ce7afd6651",
   "lastOpenFiles": [
+    "C++/Compiler.md",
+    "C++/Keywords.md",
     "C++/Basic.md",
     "Leetcode/Array/57. Insert Interval.md",
     "Leetcode/Array.md",
@@ -168,8 +182,6 @@
     "Machine Learning/Linear Algebra.md",
     "Machine Learning/K-nearest Neighbors.md",
     "Machine Learning/Naive Bayesian Classifier.md",
-    "Python/Pandas.md",
-    "Python/Numpy.md",
-    "Python/Basic.md"
+    "Python/Pandas.md"
   ]
 }
