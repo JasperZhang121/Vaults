@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Keywords/Virtual.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Keywords/Virtual.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Keywords/Virtual.md",
+                "file": "Linux/1. Preparation and Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Keywords/Virtual.md"
+                "file": "Linux/1. Preparation and Intro.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "fbbab489267ea9ef",
   "lastOpenFiles": [
+    "Linux/2. Vi and Vim.md",
+    "C++/Keywords/Virtual.md",
     "C++/Keywords/const.md",
     "C++/Basic.md",
     "C++/Compiler.md",
@@ -155,8 +157,6 @@
     "Computer Organization and Architecture/CPU architecture.md",
     "C++/Keywords/inline.md",
     "C++/Keywords/this.md",
-    "C++/Keywords/static.md",
-    "Linux/1. Preparation and Intro.md",
-    "Leetcode/Array/57. Insert Interval.md"
+    "C++/Keywords/static.md"
   ]
 }
