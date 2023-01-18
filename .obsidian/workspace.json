@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d693016d884df38d",
+            "id": "fbbab489267ea9ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Keywords/static.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5380337d52f2639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Keywords/inline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f3cd2a7bcd68f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Organization and Architecture/CPU architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82e94edbd78f19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Organization and Architecture/CPU architecture.md",
+                "file": "C++/Keywords/Virtual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/CPU architecture.md",
+                "file": "C++/Keywords/Virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/CPU architecture.md",
+                "file": "C++/Keywords/Virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/CPU architecture.md"
+                "file": "C++/Keywords/Virtual.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82e94edbd78f19b",
+  "active": "fbbab489267ea9ef",
   "lastOpenFiles": [
+    "C++/Keywords/const.md",
+    "C++/Basic.md",
+    "C++/Compiler.md",
     "Computer Organization and Architecture/Cache line.md",
     "Computer Organization and Architecture/CPU architecture.md",
     "C++/Keywords/inline.md",
     "C++/Keywords/this.md",
     "C++/Keywords/static.md",
-    "C++/Keywords/const.md",
     "Linux/1. Preparation and Intro.md",
-    "C++/Compiler.md",
-    "C++/Basic.md",
     "Leetcode/Array/57. Insert Interval.md"
   ]
 }
