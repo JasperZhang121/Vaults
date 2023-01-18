@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36f3cd2a7bcd68f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Architecture/CPU architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f82e94edbd78f19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Architecture/CPU architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Keywords/inline.md",
+                "file": "Computer Organization and Architecture/CPU architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Keywords/inline.md",
+                "file": "Computer Organization and Architecture/CPU architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Keywords/inline.md"
+                "file": "Computer Organization and Architecture/CPU architecture.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5380337d52f2639",
+  "active": "f82e94edbd78f19b",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/Cache line.md",
+    "Computer Organization and Architecture/CPU architecture.md",
+    "C++/Keywords/inline.md",
     "C++/Keywords/this.md",
     "C++/Keywords/static.md",
     "C++/Keywords/const.md",
     "Linux/1. Preparation and Intro.md",
     "C++/Compiler.md",
     "C++/Basic.md",
-    "Leetcode/Array/57. Insert Interval.md",
-    "Leetcode/Array.md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Linear Algebra.md"
+    "Leetcode/Array/57. Insert Interval.md"
   ]
 }
