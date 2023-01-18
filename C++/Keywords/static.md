@@ -41,7 +41,27 @@ output:
 33
 ```
 
+```C++
+class human {
+public:
+	static int age;
+	human () {}
+	static void say() {
+		std::cout << "say!" << std::endl;
+	}
+};
 
+int main() {
+	human h1;
+	h1.say();
+	human::say();
+}
+```
+output:
+```
+say!
+say!
+```
 
 
 
