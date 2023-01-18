@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Keywords.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d42792ce7afd6651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Keywords.md",
+                "file": "C++/Keywords/static.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Keywords.md",
+                "file": "C++/Keywords/static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Keywords.md",
+                "file": "C++/Keywords/static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Keywords.md"
+                "file": "C++/Keywords/static.md"
               }
             }
           }
@@ -171,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42792ce7afd6651",
+  "active": "357a171cb35f4ab5",
   "lastOpenFiles": [
+    "Linux/1. Preparation and Intro.md",
+    "C++/Keywords/static.md",
+    "C++/Keywords/const.md",
     "C++/Compiler.md",
-    "C++/Keywords.md",
     "C++/Basic.md",
     "Leetcode/Array/57. Insert Interval.md",
     "Leetcode/Array.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Algebra.md",
-    "Machine Learning/K-nearest Neighbors.md",
-    "Machine Learning/Naive Bayesian Classifier.md",
-    "Python/Pandas.md"
+    "Machine Learning/K-nearest Neighbors.md"
   ]
 }
