@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Keywords/this.md",
+                "file": "C++/Keywords/inline.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Keywords/this.md",
+                "file": "C++/Keywords/inline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Keywords/this.md",
+                "file": "C++/Keywords/inline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Keywords/this.md"
+                "file": "C++/Keywords/inline.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "c5380337d52f2639",
   "lastOpenFiles": [
+    "C++/Keywords/this.md",
     "C++/Keywords/static.md",
     "C++/Keywords/const.md",
     "Linux/1. Preparation and Intro.md",
@@ -169,7 +170,6 @@
     "Leetcode/Array/57. Insert Interval.md",
     "Leetcode/Array.md",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Linear Algebra.md",
-    "Machine Learning/K-nearest Neighbors.md"
+    "Machine Learning/Linear Algebra.md"
   ]
 }
