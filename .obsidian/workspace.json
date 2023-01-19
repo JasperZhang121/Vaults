@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f520317a8e851572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Basic/Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/STL.md",
+                "file": "C/Basic/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/STL.md",
+                "file": "C/Basic/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/STL.md"
+                "file": "C/Basic/Syntax.md"
               }
             }
           }
@@ -171,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89fc93390cb5487d",
+  "active": "f520317a8e851572",
   "lastOpenFiles": [
+    "C++/Basic/STL.md",
     "C++/Keywords/：：.md",
     "C++/Keywords/friend.md",
     "C++/Basic/Syntax and Rules.md",
@@ -181,7 +194,6 @@
     "C++/Compiler/Compiling Process.md",
     "Linux/1. Preparation and Intro.md",
     "Linux/2. Vi and Vim.md",
-    "C++/Keywords/Virtual.md",
-    "C++/Keywords/const.md"
+    "C++/Keywords/Virtual.md"
   ]
 }
