@@ -1,5 +1,5 @@
 
-constant variable:
+variable:
 ```C
 // different types
 
@@ -340,4 +340,169 @@ printf("%d\n", *p1);
 
 }
 ```
+
+
+struct:
+```C
+typedef struct Student {
+
+int ID;
+
+char name[10];
+
+float score;
+
+} std;
+
+
+int main(){
+	std aa = { 1,"jack",70 };
+	
+	printf("%d\n", aa.ID);
+	
+	aa.ID = 66;
+	
+	printf("%d\n", aa.ID);
+	
+	printf("%d\n", sizeof(aa));	
+	return 0;
+}
+```
+
+union and enum：
+```C
+union arr {
+
+int ID;
+
+char name[10];
+
+float score;
+
+};
+
+enum arr1 {
+
+left,
+
+right,
+
+up,
+
+down
+
+};
+
+```
+
+pointer and malloc:
+```C
+int* p1 = NULL, * p2=NULL, * p3=NULL;
+
+p1 = &a;
+
+p2 = &b;
+
+p3 = &c;
+
+printf("%d\n", *p1);
+
+printf("check\n");
+
+printf("%d\n", sizeof(p1));
+
+int arr4[10] = { 9,2,3,4 };
+
+for (int i = 0; i < 10; i++)
+
+{
+
+printf("%d\n", &arr4[i]);
+
+}
+
+int *p4 = arr4;
+
+p4 += 3;
+
+printf("%d\n", *p4);
+
+printf("%d\n", p4);
+
+printf("check\n");
+
+char * p5 = "hello world";
+
+printf("%d\n", sizeof(p5));
+
+printf("%d\n", strlen(p5));
+
+double* p6 = (double*)&arr[0];
+
+p2++;
+
+printf("%d\n", *((int*)p2));
+
+int arr5[3][3] = {
+
+{1,2,3},
+
+{4,5,6},
+
+{7,8,9}
+
+};
+
+int(*p)[3]=arr;
+
+int* p7 = &a, * p8 = &b, * p9 = &c;
+
+int** pp = p;
+
+std studen;
+
+studen.ID = 10;
+
+printf("%d\n", studen.ID);
+
+std* ps = &studen;
+
+ps->ID = 20;
+
+printf("%d\n", studen.ID);
+
+int* p10 = (int *) malloc(100); // 100 bytes
+
+*p10 = 10;
+
+*(p10 + 1) = 20;
+
+printf("%d\t %d\n", *p10, *(p10 + 1));
+
+free(p10);
+
+int* p11 = (int*)malloc(sizeof(int)*25);
+
+for (int i = 0; i < 25;i++) {
+
+*(p11 + i) = i + 1;
+
+}
+
+for (int i = 0; i < 25;i++) {
+
+printf("%d\n", p11[i]);
+
+}
+
+memset(p11, 0, sizeof(int) * 25);
+
+for (int i = 0; i < 25;i++) {
+
+printf("%d\n", p11[i]);
+
+}
+```
+
+
 
