@@ -54,5 +54,17 @@ string:
 	cout << s5 << endl;
 	string s6 = s3.append(s2);
 	cout << s6 << endl;
+	
+	// find
+	int pos = s2.find("el");
+	cout << pos << endl;
+
+	// replace
+	s5.replace(0,3,"111");
+	cout << s5 << endl;
+
 ```
+
+
+
 
