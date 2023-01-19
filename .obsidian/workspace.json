@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66304be0b1094442",
+        "id": "f16239699eafdacc",
         "type": "tabs",
         "children": [
           {
-            "id": "eea8e57f8e0cf350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Keywords/friend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cea13d6f86fdcf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Keywords/：：.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89fc93390cb5487d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Basic/STL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f520317a8e851572",
+            "id": "31be243ed955be15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f520317a8e851572",
+  "active": "31be243ed955be15",
   "lastOpenFiles": [
-    "C++/Basic/Syntax and Rules.md",
-    "C/Basic/Syntax.md",
     "C++/Basic/STL.md",
     "C++/Keywords/：：.md",
+    "C++/Basic/Syntax and Rules.md",
+    "C/Basic/Syntax.md",
     "C++/Keywords/friend.md",
     "Leetcode/Array/Subarray/918. Maximum Sum Circular Subarray.md",
     "Leetcode/Array/Subarray/53. Maximum Subarray.md",

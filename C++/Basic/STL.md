@@ -63,7 +63,20 @@ string:
 	s5.replace(0,3,"111");
 	cout << s5 << endl;
 
+	// compare
+	cout << s1.compare(s2) << endl;
+	
+	// visit and modify
+	cout << s1[0] << endl;
+	s1[0] = 'x';
+	cout << s1[0] << endl;
+
+	
 ```
+
+
+
+
 
 
 
