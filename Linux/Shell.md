@@ -47,3 +47,27 @@ Back:
 ```shell
 bash batch.sh
 ```
+
+---
+
+variable
+
+```shell
+A=2
+echo $A
+unset A
+
+readonly B=3 #cannot unset, exist untill restart
+echo $B
+
+c=1+1
+echo $c
+
+d = "test test test"
+echo $d
+```
+
+global variable:
+```shell
+export D 
+```
