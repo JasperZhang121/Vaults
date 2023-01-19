@@ -67,10 +67,15 @@ string:
 	cout << s1.compare(s2) << endl;
 	
 	// visit and modify
-	cout << s1[0] << endl;
-	s1[0] = 'x';
-	cout << s1[0] << endl;
-
+	cout << s2[0] << endl;
+	s2[0] = 'x';
+	cout << s2[0] << endl;
+	// insert
+	s2.insert(1, "1111");
+	cout << s2 << endl;
+	// erase
+	s2.erase(1, 3);
+	cout << s2 << endl;
 	
 ```
 
