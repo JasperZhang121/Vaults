@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f16239699eafdacc",
+        "id": "b4d558f5999fed81",
         "type": "tabs",
         "children": [
           {
-            "id": "31be243ed955be15",
+            "id": "9f1190a4d1ab8c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Shell.md",
+                "file": "C++/Basic/Syntax and Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Shell.md",
+                "file": "C++/Basic/Syntax and Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Shell.md",
+                "file": "C++/Basic/Syntax and Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Shell.md"
+                "file": "C++/Basic/Syntax and Rules.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31be243ed955be15",
+  "active": "9f1190a4d1ab8c27",
   "lastOpenFiles": [
+    "Html-CSS-JavaScript/HTML.md",
+    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
     "C++/Basic/STL.md",
-    "C++/Keywords/：：.md",
     "C++/Basic/Syntax and Rules.md",
+    "Linux/Shell.md",
+    "C++/Keywords/：：.md",
     "C/Basic/Syntax.md",
     "C++/Keywords/friend.md",
     "Leetcode/Array/Subarray/918. Maximum Sum Circular Subarray.md",
-    "Leetcode/Array/Subarray/53. Maximum Subarray.md",
-    "C++/Compiler/Compiling Process.md",
-    "Linux/1. Preparation and Intro.md",
-    "Linux/2. Vi and Vim.md"
+    "Leetcode/Array/Subarray/53. Maximum Subarray.md"
   ]
 }
