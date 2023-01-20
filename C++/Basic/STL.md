@@ -117,6 +117,24 @@ stack:
 
 queue:
 
+```C++
+	queue<int> q1;
+	q1.push(1);
+	q1.push(2);
+	q1.push(3);
+	q1.push(4);
+	
+	while (!q1.empty()) {
+		cout << "front: " << q1.front() << " back " << q1.back() << endl;
+		q1.pop();
+	}
+```
+
+list:
+```C++
+
+
+```
 
 
 
