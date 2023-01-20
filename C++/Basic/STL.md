@@ -82,7 +82,37 @@ string:
 deque
 
 ```C++
+	deque<int> d1; 
+	d1.push_back(111);
+	d1.push_front(222);
+	d1.push_back(333);
+	d1.push_front(444);
 
+	for (int i = 0; i < d1.size();i++)
+		cout << d1[i] << endl;
+	cout << " " << endl;
+
+	sort(d1.begin(), d1.end());
+	for (int i = 0; i < d1.size();i++)
+		cout << d1[i] << endl;
+	cout << " " << endl;
+	
+	d1.pop_front();
+	d1.pop_back();
+	for (int i = 0; i < d1.size();i++)
+		cout << d1[i] << endl;
+```
+
+stack:
+```C++
+	stack<int> st1;
+	st1.push(1);
+	st1.push(2);
+	st1.push(3);
+	while (!st1.empty()) {
+		cout << st1.top() << endl;
+		st1.pop();
+	}
 ```
 
 
