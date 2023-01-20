@@ -148,6 +148,25 @@ list:
 	ls2.sort();
 ```
 
+set:
+```C++
+	set<int> st; // automatically sort, no duplicate
+	stt1.insert(11);
+	stt1.insert(13);
+	stt1.insert(13);
+	set<int> stt2(stt1);
+	stt1.erase(11);
+	s1.clear();
+	set<int>::iterator poss = stt2.find(11);
+	if (poss != stt2.end())
+		cout << "found" << endl;
+	cout << stt2.count(13) << endl;
+```
+
+
+
+
+
 
 
 

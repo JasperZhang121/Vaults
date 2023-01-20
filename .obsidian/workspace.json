@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26318d22554f7760",
+        "id": "ea6af8c6d3fe67a2",
         "type": "tabs",
         "children": [
           {
-            "id": "993b907e64103ca8",
+            "id": "ec9818b1566c153f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Basic/STL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/STL.md",
+                "file": "Leetcode/Array/Subarray/53. Maximum Subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/STL.md",
+                "file": "Leetcode/Array/Subarray/53. Maximum Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/STL.md"
+                "file": "Leetcode/Array/Subarray/53. Maximum Subarray.md"
               }
             }
           }
@@ -146,17 +142,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "993b907e64103ca8",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "C++/Basic/Syntax and Rules.md",
-    "C++/Basic/STL.md",
-    "Linux/Shell.md",
     "Leetcode/Array/Subarray/974. Subarray Sums Divisible by K.md",
     "Leetcode/Array/Subarray/53. Maximum Subarray.md",
     "Leetcode/Array/Subarray/918. Maximum Sum Circular Subarray.md",
-    "Html-CSS-JavaScript/HTML.md",
-    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "C++/Keywords/：：.md",
-    "C/Basic/Syntax.md"
+    "Algorithm/Kadane's Algorithm.md",
+    "C++/Keywords/friend.md",
+    "C++/Keywords/const.md",
+    "C++/Compiler/Compiling Process.md",
+    "C++/Basic/STL.md",
+    "C++/Basic/Syntax and Rules.md",
+    "Linux/Shell.md"
   ]
 }
