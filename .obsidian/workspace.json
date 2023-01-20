@@ -11,8 +11,12 @@
             "id": "ec9818b1566c153f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/3. Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Array/Subarray/53. Maximum Subarray.md",
+                "file": "Linux/3. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Array/Subarray/53. Maximum Subarray.md",
+                "file": "Linux/3. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Array/Subarray/53. Maximum Subarray.md"
+                "file": "Linux/3. Shell.md"
               }
             }
           }
@@ -142,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "ec9818b1566c153f",
   "lastOpenFiles": [
+    "Linux/4. Extra.md",
+    "Linux/3. Shell.md",
     "Leetcode/Array/Subarray/974. Subarray Sums Divisible by K.md",
     "Leetcode/Array/Subarray/53. Maximum Subarray.md",
     "Leetcode/Array/Subarray/918. Maximum Sum Circular Subarray.md",
@@ -151,8 +157,6 @@
     "C++/Keywords/friend.md",
     "C++/Keywords/const.md",
     "C++/Compiler/Compiling Process.md",
-    "C++/Basic/STL.md",
-    "C++/Basic/Syntax and Rules.md",
-    "Linux/Shell.md"
+    "C++/Basic/STL.md"
   ]
 }
