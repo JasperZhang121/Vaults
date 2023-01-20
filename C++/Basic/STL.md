@@ -132,9 +132,26 @@ queue:
 
 list:
 ```C++
-
-
+	list<int> ls1;
+	ls1.push_back(1);
+	ls1.push_back(2);
+	list<int> ls2(ls1.begin(),ls1.end());
+	for (list<int>::const_iterator it = ls2.begin(); it != ls2.end(); it++ ) {
+		cout << *it << endl;
+	}
+	list<int>::iterator it = ls2.begin();
+	ls2.insert(++it,100);
+	ls2.erase(it);
+	cout << ls2.front() << endl;
+	cout << ls2.back() << endl;
+	ls2.reverse();
+	ls2.sort();
 ```
+
+
+
+
+
 
 
 
