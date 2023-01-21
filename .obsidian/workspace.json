@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2de2ba5de5581a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Two Pointer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96358edc76cfdceb",
+  "active": "2de2ba5de5581a6c",
   "lastOpenFiles": [
+    "Leetcode/Two-pointers/18. 4Sum.md",
+    "Algorithm/Two Pointer.md",
     "Leetcode/Two-pointers/16. 3Sum Closest.md",
     "Leetcode/Two-pointers/15. 3Sum.md",
     "Leetcode/Greedy/11. Container With Most Water.md",
@@ -155,8 +170,6 @@
     "Algorithm/Depth First Search.md",
     "Algorithm/Dynamic Programing.md",
     "Algorithm/Kadane's Algorithm.md",
-    "Algorithm/Union Find.md",
-    "Algorithm/Two Pointer.md",
-    "Algorithm/Recursion.md"
+    "Algorithm/Union Find.md"
   ]
 }
