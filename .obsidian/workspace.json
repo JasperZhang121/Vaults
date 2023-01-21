@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b0d199dc3e3240a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/Backtracking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c311bef5c9e20c7",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Algorithm/Backtracking.md",
     "Algorithm/Depth First Search.md",
     "Algorithm/Dynamic Programing.md",
     "Algorithm/Kadane's Algorithm.md",
@@ -181,7 +186,6 @@
     "Algorithm/Recursion.md",
     "Algorithm/Greedy.md",
     "Algorithm/Breadth First Search.md",
-    "Algorithm/Backtracking.md",
     "Leetcode/Array/Subarray/491. Non-decreasing Subsequences.md"
   ]
 }
