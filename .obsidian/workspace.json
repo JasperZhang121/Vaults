@@ -11,8 +11,12 @@
             "id": "0c0664c2cbb61698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Sliding Window.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/Sliding Window.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "0c0664c2cbb61698",
   "lastOpenFiles": [
+    "Leetcode/Two-pointers/360. Sort Transformed Array.md",
     "Leetcode/Two-pointers/713. Subarray Product Less Than K.md",
-    "Algorithm/Slide Window.md",
+    "Algorithm/Sliding Window.md",
     "Leetcode/Two-pointers/209. Minimum Size Subarray Sum.md",
     "Algorithm/Breadth First Search.md",
     "Algorithm/Two Pointer.md",
     "Algorithm/Depth First Search.md",
     "Algorithm/Backtracking.md",
     "Leetcode/String/131. Palindrome Partitioning.md",
-    "Leetcode/Two-pointers/259. 3Sum Smaller.md",
-    "Leetcode/Two-pointers/18. 4Sum.md"
+    "Leetcode/Two-pointers/259. 3Sum Smaller.md"
   ]
 }
