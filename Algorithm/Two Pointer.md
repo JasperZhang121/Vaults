@@ -7,7 +7,7 @@ Left - Right pointers:
 - [[Leetcode/Two-pointers/11. Container With Most Water]]
 
 Fast-slow pointers:
-
+[[1004. Max Consecutive Ones III]]
 
 sort then pointers:
 - [[15. 3Sum]]
