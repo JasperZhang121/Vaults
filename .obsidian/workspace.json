@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7338e485a7c3218f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Breadth First Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c259092ac08d5941",
+  "active": "7338e485a7c3218f",
   "lastOpenFiles": [
+    "Leetcode/Graph/490. The Maze.md",
+    "Algorithm/Breadth First Search.md",
     "Leetcode/Tree/102. Binary Tree Level Order Traversal.md",
     "Leetcode/Tree/103. Binary Tree Zigzag Level Order Traversal.md",
-    "Algorithm/Breadth First Search.md",
     "C++/Basic/STL.md",
     "C++/Basic/Syntax and Rules.md",
     "Leetcode/Two-pointers/18. 4Sum.md",
     "Leetcode/Two-pointers/16. 3Sum Closest.md",
     "Leetcode/Two-pointers/15. 3Sum.md",
-    "Leetcode/Two-pointers/11. Container With Most Water.md",
-    "Linux/3. Shell.md"
+    "Leetcode/Two-pointers/11. Container With Most Water.md"
   ]
 }
