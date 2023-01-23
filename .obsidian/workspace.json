@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Tree/102. Binary Tree Level Order Traversal.md",
+                "file": "Algorithm/Breadth First Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Tree/102. Binary Tree Level Order Traversal.md",
+                "file": "Algorithm/Breadth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Tree/102. Binary Tree Level Order Traversal.md",
+                "file": "Algorithm/Breadth First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Tree/102. Binary Tree Level Order Traversal.md"
+                "file": "Algorithm/Breadth First Search.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "c259092ac08d5941",
   "lastOpenFiles": [
+    "Leetcode/Tree/102. Binary Tree Level Order Traversal.md",
     "Leetcode/Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "Algorithm/Breadth First Search.md",
     "C++/Basic/STL.md",
@@ -181,7 +182,6 @@
     "Leetcode/Two-pointers/16. 3Sum Closest.md",
     "Leetcode/Two-pointers/15. 3Sum.md",
     "Leetcode/Two-pointers/11. Container With Most Water.md",
-    "Linux/3. Shell.md",
-    "Linux/1. Preparation and Intro.md"
+    "Linux/3. Shell.md"
   ]
 }
