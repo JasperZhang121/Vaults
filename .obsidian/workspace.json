@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Recursion.md",
+                "file": "C/Basic/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Recursion.md",
+                "file": "C/Basic/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Recursion.md",
+                "file": "C/Basic/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Recursion.md"
+                "file": "C/Basic/Syntax.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ad7728afc1ad6bd9",
   "lastOpenFiles": [
+    "Algorithm/Recursion.md",
     "Leetcode/Tree/1490. Clone N-ary Tree.md",
     "Leetcode/Tree/637. Average of Levels in Binary Tree.md",
     "Leetcode/Tree/102. Binary Tree Level Order Traversal.md",
@@ -156,7 +157,6 @@
     "Leetcode/Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "C++/Basic/STL.md",
     "C++/Basic/Syntax and Rules.md",
-    "Leetcode/Two-pointers/18. 4Sum.md",
-    "Leetcode/Two-pointers/16. 3Sum Closest.md"
+    "Leetcode/Two-pointers/18. 4Sum.md"
   ]
 }
