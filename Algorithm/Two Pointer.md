@@ -4,7 +4,7 @@ Basic two-pointers:
 - [[27. Remove Element]]
 
 Left - Right pointers:
-- [[Leetcode/Two-pointers/11. Container With Most Water]]
+- [[11. Container With Most Water]]
 
 Fast-slow pointers:
 [[1004. Max Consecutive Ones III]]

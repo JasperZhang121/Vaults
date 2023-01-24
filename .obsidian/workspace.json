@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d7481fb3ddca94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Array/Matrix/909. Snakes and Ladders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Basic/Syntax.md",
+                "file": "Leetcode/Array/Matrix/909. Snakes and Ladders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Basic/Syntax.md",
+                "file": "Leetcode/Array/Matrix/909. Snakes and Ladders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Basic/Syntax.md"
+                "file": "Leetcode/Array/Matrix/909. Snakes and Ladders.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad7728afc1ad6bd9",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "C/Basic/Syntax.md",
     "Algorithm/Recursion.md",
     "Leetcode/Tree/1490. Clone N-ary Tree.md",
     "Leetcode/Tree/637. Average of Levels in Binary Tree.md",
@@ -156,7 +170,6 @@
     "Leetcode/Graph/490. The Maze.md",
     "Leetcode/Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "C++/Basic/STL.md",
-    "C++/Basic/Syntax and Rules.md",
-    "Leetcode/Two-pointers/18. 4Sum.md"
+    "C++/Basic/Syntax and Rules.md"
   ]
 }
