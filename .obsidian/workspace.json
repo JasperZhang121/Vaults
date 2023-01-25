@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d789df04d092036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Depth First Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Array/Matrix/695. Max Area of Island.md",
+                "file": "Algorithm/Depth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Array/Matrix/695. Max Area of Island.md",
+                "file": "Algorithm/Depth First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Array/Matrix/695. Max Area of Island.md"
+                "file": "Algorithm/Depth First Search.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80d4b83a17e05396",
+  "active": "1d789df04d092036",
   "lastOpenFiles": [
+    "Leetcode/Array/Matrix/417. Pacific Atlantic Water Flow.md",
+    "Leetcode/Array/Matrix/695. Max Area of Island.md",
     "Algorithm/Depth First Search.md",
     "Algorithm/Binary Search.md",
     "Leetcode/Array/Two-pointers/81. Search in Rotated Sorted Array II.md",
@@ -155,8 +170,6 @@
     "Leetcode/Array/Two-pointers/69. Sqrt(x).md",
     "Leetcode/Array/Untitled.md",
     "Leetcode/Array/Two-pointers/633. Sum of Square Numbers.md",
-    "Algorithm/Floyd.md",
-    "Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
-    "Leetcode/Array/Interval/57. Insert Interval.md"
+    "Algorithm/Floyd.md"
   ]
 }
