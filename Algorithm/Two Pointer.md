@@ -6,6 +6,7 @@ Basic two-pointers:
 Left - Right pointers:
 - [[11. Container With Most Water]]
 - [[633. Sum of Square Numbers]]
+- [[69. Sqrt(x)]]
 
 Fast-slow pointers:
 - [[Floyd]]
