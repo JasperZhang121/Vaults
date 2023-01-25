@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "075dd4b11945509b",
+        "id": "0df3d45b896587a4",
         "type": "tabs",
         "children": [
           {
-            "id": "5f93305474dfa3bf",
+            "id": "4565923e78656a02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Array/Interval/57. Insert Interval.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Array/Interval/57. Insert Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Array/Interval/57. Insert Interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/Array/Interval/57. Insert Interval.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f93305474dfa3bf",
+  "active": "4565923e78656a02",
   "lastOpenFiles": [
+    "Leetcode/Array/Untitled.md",
+    "Algorithm/Binary Search.md",
+    "Algorithm/Two Pointer.md",
+    "Leetcode/Array/Two-pointers/633. Sum of Square Numbers.md",
+    "Algorithm/Floyd.md",
+    "Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
+    "Leetcode/Array/Interval/57. Insert Interval.md",
     "Algorithm/Greedy.md",
     "Leetcode/Array/Two-pointers/88. Merge Sorted Array.md",
-    "Leetcode/Greedy/435. Non-overlapping Intervals.md",
-    "Leetcode/Greedy/135. Candy.md",
-    "Algorithm/Two Pointer.md",
-    "Leetcode/Greedy/455. Assign Cookies.md",
-    "Algorithm/Dynamic Programing.md",
-    "Leetcode/Array/Matrix/695. Max Area of Island.md",
-    "C/Basic/Syntax.md",
-    "Leetcode/Tree/2415. Reverse Odd Levels of Binary Tree.md"
+    "Leetcode/Greedy/435. Non-overlapping Intervals.md"
   ]
 }
