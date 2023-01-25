@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "54b6bddcb28b6cd5",
+        "id": "a3159a7c9325d6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1873cdc9b7ea04",
+            "id": "129f92dde35a37fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/2. Vi and Vim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/2. Vi and Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/2. Vi and Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/2. Vi and Vim.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1873cdc9b7ea04",
+  "active": "129f92dde35a37fc",
   "lastOpenFiles": [
+    "Linux/1. Preparation and Intro.md",
+    "Linux/3. Shell.md",
+    "Algorithm/Breadth First Search.md",
+    "Leetcode/Array/Matrix/934. Shortest Bridge.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Linear Algebra.md",
     "Algorithm/Union Find.md",
     "Algorithm/Two Pointer.md",
     "Algorithm/Sliding Window.md",
-    "Algorithm/Recursion.md",
-    "Algorithm/Kadane's Algorithm.md",
-    "Algorithm/Greedy.md",
-    "Algorithm/Floyd.md",
-    "Algorithm/Dynamic Programing.md",
-    "Algorithm/Depth First Search.md",
-    "Algorithm/Breadth First Search.md"
+    "Algorithm/Recursion.md"
   ]
 }
