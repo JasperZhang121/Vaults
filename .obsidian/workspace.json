@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e93bf762fe77f6",
+        "id": "6dda48496c3d46c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5451590f5dfff351",
+            "id": "2499e0d58512ece4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Breadth First Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce7309f79dbf9ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Dijkstra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06bc7ffd5f8af546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06bc7ffd5f8af546",
+  "active": "2499e0d58512ece4",
   "lastOpenFiles": [
+    "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
     "Algorithm/Dijkstra.md",
+    "Html-CSS-JavaScript/CSS.md",
+    "Html-CSS-JavaScript/HTML.md",
+    "Html-CSS-JavaScript/JavaScript/BOM.md",
+    "Html-CSS-JavaScript/JavaScript/DOM.md",
+    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
     "Algorithm/Breadth First Search.md",
     "Leetcode/Array/Matrix/934. Shortest Bridge.md",
-    "Leetcode/Array/DP/413. Arithmetic Slices.md",
-    "Leetcode/Array/DP/198. House Robber.md",
-    "Leetcode/Array/Permutation/77. Combinations.md",
-    "Algorithm/Dynamic Programing.md",
-    "Leetcode/Array/DP/70. Climbing Stairs.md",
-    "Leetcode/Array/Untitled.md",
-    "Linux/2. Vi and Vim.md"
+    "Leetcode/Array/DP/413. Arithmetic Slices.md"
   ]
 }
