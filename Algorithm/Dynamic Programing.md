@@ -1,1 +1,3 @@
 - [[70. Climbing Stairs]]
+- [[413. Arithmetic Slices]]
+- [[221. Maximal Square]]
