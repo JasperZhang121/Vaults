@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6dda48496c3d46c6",
+        "id": "672709777ae40240",
         "type": "tabs",
         "children": [
           {
-            "id": "2499e0d58512ece4",
+            "id": "932dff3f2de292c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Array/DP/542. 01 Matrix.md",
+                "file": "Algorithm/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3af3fa45610172d6",
+            "id": "4927f8f833b37363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "Algorithm/Breadth First Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e700e4972dbb13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md"
+                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3af3fa45610172d6",
+  "active": "e2e700e4972dbb13",
   "lastOpenFiles": [
-    "Leetcode/Array/DP/221. Maximal Square.md",
-    "Leetcode/Array/DP/542. 01 Matrix.md",
-    "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
-    "Algorithm/Dijkstra.md",
-    "Html-CSS-JavaScript/CSS.md",
-    "Html-CSS-JavaScript/HTML.md",
-    "Html-CSS-JavaScript/JavaScript/BOM.md",
-    "Html-CSS-JavaScript/JavaScript/DOM.md",
-    "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "Algorithm/Breadth First Search.md"
+    "Algorithm/Breadth First Search.md",
+    "Leetcode/Tree/1602. Find Nearest Right Node in Binary Tree.md",
+    "Algorithm/Backtracking.md",
+    "Leetcode/Graph/797. All Paths From Source to Target.md",
+    "Algorithm/Dynamic Programing.md",
+    "Algorithm/Depth First Search.md",
+    "Leetcode/Graph/1971. Find if Path Exists in Graph.md",
+    "Leetcode/Graph/490. The Maze.md",
+    "Leetcode/Array/DP/300. Longest Increasing Subsequence.md",
+    "Leetcode/Array/DP/1143. Longest Common Subsequence.md"
   ]
 }

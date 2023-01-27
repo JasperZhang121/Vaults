@@ -2,3 +2,4 @@
 - [[102. Binary Tree Level Order Traversal]]
 - [[490. The Maze]]
 - [[934. Shortest Bridge]]
+- [[1602. Find Nearest Right Node in Binary Tree]]

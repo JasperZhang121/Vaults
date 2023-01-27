@@ -1,3 +1,5 @@
 - [[70. Climbing Stairs]]
 - [[413. Arithmetic Slices]]
 - [[221. Maximal Square]]
+- [[1143. Longest Common Subsequence]]
+- [[300. Longest Increasing Subsequence]]

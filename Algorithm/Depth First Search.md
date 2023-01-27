@@ -1,3 +1,5 @@
 - [[100. Same Tree]]
 - [[1061. Lexicographically Smallest Equivalent String]]
 - [[417. Pacific Atlantic Water Flow]]
+- [[472. Concatenated Words]]
+- [[1971. Find if Path Exists in Graph]]
