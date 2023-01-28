@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ad98252ced488fe8",
+        "id": "565d8794605fb0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "400516872c59469c",
+            "id": "d591ab8bea864844",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/1. Concept.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Networking/1. Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Networking/1. Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Networking/1. Concept.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "400516872c59469c",
+  "active": "d591ab8bea864844",
   "lastOpenFiles": [
+    "Machine Learning/K-nearest Neighbors.md",
+    "Leetcode/Tree/429. N-ary Tree Level Order Traversal.md",
+    "Algorithm/Depth First Search.md",
+    "Leetcode/Tree/1123. Lowest Common Ancestor of Deepest Leaves.md",
+    "Leetcode/Graph/841. Keys and Rooms.md",
+    "Leetcode/Tree/2196. Create Binary Tree From Descriptions.md",
     "Leetcode/Tree/1660. Correct a Binary Tree.md",
     "Algorithm/Breadth First Search.md",
     "Leetcode/Tree/1602. Find Nearest Right Node in Binary Tree.md",
-    "Algorithm/Backtracking.md",
-    "Leetcode/Graph/797. All Paths From Source to Target.md",
-    "Algorithm/Dynamic Programing.md",
-    "Algorithm/Depth First Search.md",
-    "Leetcode/Graph/1971. Find if Path Exists in Graph.md",
-    "Leetcode/Graph/490. The Maze.md",
-    "Leetcode/Array/DP/300. Longest Increasing Subsequence.md"
+    "Algorithm/Backtracking.md"
   ]
 }
