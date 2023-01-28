@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "672709777ae40240",
+        "id": "ad98252ced488fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "932dff3f2de292c6",
+            "id": "400516872c59469c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Backtracking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4927f8f833b37363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Breadth First Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2e700e4972dbb13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/Tree/1660. Correct a Binary Tree.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2e700e4972dbb13",
+  "active": "400516872c59469c",
   "lastOpenFiles": [
+    "Leetcode/Tree/1660. Correct a Binary Tree.md",
     "Algorithm/Breadth First Search.md",
     "Leetcode/Tree/1602. Find Nearest Right Node in Binary Tree.md",
     "Algorithm/Backtracking.md",
@@ -181,7 +149,6 @@
     "Algorithm/Depth First Search.md",
     "Leetcode/Graph/1971. Find if Path Exists in Graph.md",
     "Leetcode/Graph/490. The Maze.md",
-    "Leetcode/Array/DP/300. Longest Increasing Subsequence.md",
-    "Leetcode/Array/DP/1143. Longest Common Subsequence.md"
+    "Leetcode/Array/DP/300. Longest Increasing Subsequence.md"
   ]
 }
