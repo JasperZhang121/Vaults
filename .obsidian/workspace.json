@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "565d8794605fb0c7",
+        "id": "d68159ee680cbcc6",
         "type": "tabs",
         "children": [
           {
-            "id": "d591ab8bea864844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/1. Concept.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "847beadfdc03ea69",
+            "id": "6e925319ee0ae4a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Networking/2. Data Rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41396e0136b75db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/3. Network delay.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/2. Data Rate.md",
+                "file": "Computer Networking/3. Network delay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/2. Data Rate.md",
+                "file": "Computer Networking/3. Network delay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/2. Data Rate.md"
+                "file": "Computer Networking/3. Network delay.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "847beadfdc03ea69",
+  "active": "41396e0136b75db4",
   "lastOpenFiles": [
+    "Computer Networking/2. Data Rate.md",
+    "Computer Networking/3. Network delay.md",
+    "Leetcode/Bit/190. Reverse Bits.md",
+    "Leetcode/Bit/461. Hamming Distance.md",
+    "Linux/3. Shell.md",
     "Computer Networking/1. Concept.md",
     "Machine Learning/K-nearest Neighbors.md",
     "Leetcode/Tree/429. N-ary Tree Level Order Traversal.md",
     "Algorithm/Depth First Search.md",
-    "Leetcode/Tree/1123. Lowest Common Ancestor of Deepest Leaves.md",
-    "Leetcode/Graph/841. Keys and Rooms.md",
-    "Leetcode/Tree/2196. Create Binary Tree From Descriptions.md",
-    "Leetcode/Tree/1660. Correct a Binary Tree.md",
-    "Algorithm/Breadth First Search.md",
-    "Leetcode/Tree/1602. Find Nearest Right Node in Binary Tree.md"
+    "Leetcode/Tree/1123. Lowest Common Ancestor of Deepest Leaves.md"
   ]
 }
