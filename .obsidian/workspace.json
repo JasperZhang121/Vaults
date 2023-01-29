@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2925781f1e1efa",
+        "id": "5e92fc78687e3e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "d6cec43696cf01b3",
+            "id": "33d3056e834e1bfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/4. Layered Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b38e31d903b4147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/5. OSI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/5. OSI.md",
+                "file": "Computer Networking/1. Overview/6. TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/5. OSI.md",
+                "file": "Computer Networking/1. Overview/6. TCP IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/5. OSI.md"
+                "file": "Computer Networking/1. Overview/6. TCP IP.md"
               }
             }
           }
@@ -159,17 +142,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b38e31d903b4147",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Computer Networking/4. Layered Architecture.md",
-    "Computer Networking/3. Network delay.md",
+    "Computer Networking/1. Overview/5. OSI.md",
+    "Computer Networking/1. Overview/4. Layered Architecture.md",
+    "Computer Networking/1. Overview/3. Network delay.md",
     "Z-Pictures/CNET/Network-Interface-Layer.webp",
-    "Computer Networking/2. Data Rate.md",
-    "Computer Networking/1. Concept.md",
+    "Computer Networking/1. Overview/2. Data Rate.md",
+    "Computer Networking/1. Overview/1. Concept.md",
     "Leetcode/Bit/190. Reverse Bits.md",
     "Leetcode/Bit/461. Hamming Distance.md",
     "Linux/3. Shell.md",
-    "Machine Learning/K-nearest Neighbors.md",
-    "Leetcode/Tree/429. N-ary Tree Level Order Traversal.md"
+    "Machine Learning/K-nearest Neighbors.md"
   ]
 }
