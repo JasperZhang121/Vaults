@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5e92fc78687e3e1b",
+        "id": "b9953c6f98679784",
         "type": "tabs",
         "children": [
           {
-            "id": "33d3056e834e1bfd",
+            "id": "5b3c41c89aafb270",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/2. Physical/1. Concept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a6288b3d34f4a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/2. Physical/2. Symbol.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/1. Overview/6. TCP IP.md",
+                "file": "Computer Networking/2. Physical/2. Symbol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/1. Overview/6. TCP IP.md",
+                "file": "Computer Networking/2. Physical/2. Symbol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/1. Overview/6. TCP IP.md"
+                "file": "Computer Networking/2. Physical/2. Symbol.md"
               }
             }
           }
@@ -142,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "7a6288b3d34f4a5b",
   "lastOpenFiles": [
+    "Computer Networking/2. Physical/1. Concept.md",
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Computer Networking/1. Overview/6. TCP IP.md",
     "Computer Networking/1. Overview/5. OSI.md",
     "Computer Networking/1. Overview/4. Layered Architecture.md",
     "Computer Networking/1. Overview/3. Network delay.md",
     "Z-Pictures/CNET/Network-Interface-Layer.webp",
     "Computer Networking/1. Overview/2. Data Rate.md",
-    "Computer Networking/1. Overview/1. Concept.md",
     "Leetcode/Bit/190. Reverse Bits.md",
-    "Leetcode/Bit/461. Hamming Distance.md",
-    "Linux/3. Shell.md",
-    "Machine Learning/K-nearest Neighbors.md"
+    "Leetcode/Bit/461. Hamming Distance.md"
   ]
 }
