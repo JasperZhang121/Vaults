@@ -14,12 +14,17 @@ The process of converting a program into an executable program by the C/C++ comp
 
 
 ---
+
 Preprocessing
 A preprocessor is a program that processes a program source file according to preprocessing instructions before the program source file is compiled. Preprocessor directives start with a # sign and do not contain a semicolon at the end. Preprocessing commands are not part of the C/C++ language itself, and they cannot be compiled and linked directly. An important function of the C/C++ language is that preprocessing instructions and preprocessing functions can be used. The preprocessing functions provided by C/C++ mainly include file inclusion, macro replacement, and conditional compilation.
 
 ```C++
 #include <xxx.h>    // serach from root
 #include "xxx.h"    // search from source then root
+```
+
+```shell
+g++ -E test.cpp -o test.i
 ```
 
 ----
@@ -29,12 +34,21 @@ A commonly used representation method is a syntax tree, each internal node in th
 Next is the semantic analyzer, which uses information in the syntax tree and symbol table to detect whether the source program is consistent with the semantics defined by the language.
 This is generally followed by a machine-independent code optimization step that attempts to improve the intermediate code in order to generate better object code.
 
+```shell
+g++ -S test.i -o test.s
+```
+
 ----
 Assembly:
 For each C/C++ language source program processed by the translation system, the corresponding target file will be finally obtained through this processing. What is stored in the object file is the target machine language code equivalent to the source program. Object files are made up of segments, and usually there are at least two segments in an object file: the code segment and the data segment.
 
 Code segment: This segment contains mainly program instructions. This section is generally readable and executable, but generally not writable.
 Data segment: mainly stores various global variables or static data to be used in the program. General data segments are readable, writable, and executable.
+
+
+```shell
+g++ -c test.s -o test.o
+```
 
 ---
 Linking: 
@@ -43,5 +57,7 @@ The main job of the linker is to connect the related object files to each other,
 - Dynamic linking: Link information such as the file module (DLL) where the called function is located and the location of the called function in the file into the target program. When the program is running, it will find the corresponding function code from the DLL, so the support of the corresponding DLL file is required.
 
 
-
+```shell
+g++ test.o -o test
+```
 
