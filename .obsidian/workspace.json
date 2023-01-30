@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/5. C++.md",
+                "file": "Linux/3. Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "257f8b5e057eaee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/6. Cmake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/5. C++.md",
+                "file": "Linux/6. Cmake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/5. C++.md",
+                "file": "Linux/6. Cmake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/5. C++.md"
+                "file": "Linux/6. Cmake.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bf7092b3e32d6aa",
+  "active": "257f8b5e057eaee2",
   "lastOpenFiles": [
-    "Linux/1. Preparation and Intro.md",
-    "Linux/2. Vi and Vim.md",
     "Linux/3. Shell.md",
     "Linux/5. C++.md",
+    "Linux/1. Preparation and Intro.md",
+    "Linux/2. Vi and Vim.md",
     "C++/Compiler/Compiling Process.md",
     "C++/Basic/Syntax and Rules.md",
     "C++/Basic/STL.md",
