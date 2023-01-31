@@ -11,8 +11,12 @@
             "id": "0e2b80d873442ed9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Binary Search.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Array/Hash/454. 4Sum II.md",
+                "file": "Algorithm/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Array/Hash/454. 4Sum II.md",
+                "file": "Algorithm/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Array/Hash/454. 4Sum II.md"
+                "file": "Algorithm/Binary Search.md"
               }
             }
           }
@@ -142,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "0e2b80d873442ed9",
   "lastOpenFiles": [
+    "Leetcode/Array/Matrix/74. Search a 2D Matrix.md",
+    "Leetcode/Array/Hash/454. 4Sum II.md",
     "Leetcode/String/395. Longest Substring with At Least K Repeating Characters.md",
     "Algorithm/Divide and Conquer.md",
     "Algorithm/Sliding Window.md",
@@ -151,8 +157,6 @@
     "Algorithm/Two Pointer.md",
     "Leetcode/Array/Two-pointers/253. Meeting Rooms II.md",
     "Linux/6. Cmake.md",
-    "Linux/3. Shell.md",
-    "Linux/5. C++.md",
-    "Linux/1. Preparation and Intro.md"
+    "Linux/3. Shell.md"
   ]
 }
