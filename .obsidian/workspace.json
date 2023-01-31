@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "26989a771b2eade7",
+        "id": "230e2d62c87d8089",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf7092b3e32d6aa",
+            "id": "de14947372489302",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/3. Shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "257f8b5e057eaee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/6. Cmake.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/6. Cmake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/6. Cmake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/6. Cmake.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "257f8b5e057eaee2",
+  "active": "de14947372489302",
   "lastOpenFiles": [
+    "Algorithm/Sliding Window.md",
+    "Leetcode/String/340. Longest Substring with At Most K Distinct Characters.md",
+    "Algorithm/Two Pointer.md",
+    "Leetcode/Array/Two-pointers/253. Meeting Rooms II.md",
+    "Linux/6. Cmake.md",
     "Linux/3. Shell.md",
     "Linux/5. C++.md",
     "Linux/1. Preparation and Intro.md",
     "Linux/2. Vi and Vim.md",
-    "C++/Compiler/Compiling Process.md",
-    "C++/Basic/Syntax and Rules.md",
-    "C++/Basic/STL.md",
-    "C/Basic/Syntax.md",
-    "Computer Organization and Architecture/1. CPU architecture.md",
-    "Computer Organization and Architecture/3. Arithmetic Logic Unit.md"
+    "C++/Compiler/Compiling Process.md"
   ]
 }

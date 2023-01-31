@@ -19,5 +19,6 @@
 - [[16. 3Sum Closest]]
 - [[18. 4Sum]]
 - [[259. 3Sum Smaller]]
+- [[253. Meeting Rooms II]] which can be done by heap as well
 
 
