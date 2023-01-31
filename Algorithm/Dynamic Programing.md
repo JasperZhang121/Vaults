@@ -3,3 +3,4 @@
 - [[221. Maximal Square]]
 - [[1143. Longest Common Subsequence]]
 - [[300. Longest Increasing Subsequence]]
+- [[1626. Best Team With No Conflicts]]

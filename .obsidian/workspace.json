@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eacc31225995aacf",
+        "id": "07ec80b938fd9a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "79e05315e0b7acea",
+            "id": "625a67741d9d3b7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Math/1. Linear Algebra.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Math/1. Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/Math/1. Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/Math/1. Linear Algebra.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79e05315e0b7acea",
+  "active": "625a67741d9d3b7a",
   "lastOpenFiles": [
     "Machine Learning/Stats/Models/1. Linear Regression stats.md",
     "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
+    "Algorithm/Dynamic Programing.md",
+    "Leetcode/Array/DP/1626. Best Team With No Conflicts.md",
     "Machine Learning/Math/2. Least Squares.md",
     "Machine Learning/Math/1. Linear Algebra.md",
     "Z-Pictures/FORM/255px-Covariance_trends.svg.png",
     "Machine Learning/Stats/Formula/2. Covariance.md",
     "Machine Learning/Stats/Formula/1. Variance.md",
-    "Z-Pictures/OS/covariance_formula.svg",
-    "Machine Learning/Common Algorithm/1. Linear Regression.md",
-    "Machine Learning/Common Algorithm/6. Support Vector Machine.md"
+    "Z-Pictures/OS/covariance_formula.svg"
   ]
 }
