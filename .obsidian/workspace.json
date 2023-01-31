@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "230e2d62c87d8089",
+        "id": "7b8377b89b7d185f",
         "type": "tabs",
         "children": [
           {
-            "id": "de14947372489302",
+            "id": "0e2b80d873442ed9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Divide and Conquer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838d3b330162394e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/String/395. Longest Substring with At Least K Repeating Characters.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/String/395. Longest Substring with At Least K Repeating Characters.md",
+                "file": "Leetcode/Array/Hash/454. 4Sum II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/String/395. Longest Substring with At Least K Repeating Characters.md",
+                "file": "Leetcode/Array/Hash/454. 4Sum II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/String/395. Longest Substring with At Least K Repeating Characters.md"
+                "file": "Leetcode/Array/Hash/454. 4Sum II.md"
               }
             }
           }
@@ -159,8 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "838d3b330162394e",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Leetcode/String/395. Longest Substring with At Least K Repeating Characters.md",
     "Algorithm/Divide and Conquer.md",
     "Algorithm/Sliding Window.md",
     "Leetcode/String/340. Longest Substring with At Most K Distinct Characters.md",
@@ -169,7 +153,6 @@
     "Linux/6. Cmake.md",
     "Linux/3. Shell.md",
     "Linux/5. C++.md",
-    "Linux/1. Preparation and Intro.md",
-    "Linux/2. Vi and Vim.md"
+    "Linux/1. Preparation and Intro.md"
   ]
 }
