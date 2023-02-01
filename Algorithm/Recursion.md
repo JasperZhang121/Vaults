@@ -4,4 +4,5 @@ Linkedlist:
 Tree:
 - [[1490. Clone N-ary Tree]]
 
-
+String:
+- [[1071. Greatest Common Divisor of Strings]]
