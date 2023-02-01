@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas.md",
+                "file": "Machine Learning/Math/2. Gradient descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas.md",
+                "file": "Machine Learning/Math/2. Gradient descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas.md",
+                "file": "Machine Learning/Math/2. Gradient descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas.md"
+                "file": "Machine Learning/Math/2. Gradient descent.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "53d459239bbd172c",
   "lastOpenFiles": [
+    "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
+    "Python/Pandas.md",
     "Machine Learning/Math/2. Gradient descent.md",
     "Algorithm/Two Pointer.md",
     "Leetcode/Array/Two-pointers/392. Is Subsequence.md",
@@ -155,8 +157,6 @@
     "C++/Basic/Syntax and Rules.md",
     "gradiant descend graph.png.md",
     "Z-Pictures/FORM/gradiant decs.png",
-    "Machine Learning/Stats/Models/1. Linear Regression stats.md",
-    "Machine Learning/Math/1. Linear Algebra.md",
-    "Machine Learning/Stats/Formula/5. Sum of Squares.md"
+    "Machine Learning/Stats/Models/1. Linear Regression stats.md"
   ]
 }
