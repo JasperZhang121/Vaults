@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -148,15 +148,15 @@
   },
   "active": "a428f8ef29457893",
   "lastOpenFiles": [
-    "Terminal/Commands.md",
+    "Computer Organization and Architecture/1. CPU architecture.md",
     "Operating System/Writing an OS/1. Components.md",
+    "Terminal/Commands.md",
     "Leetcode/Tree/114. Flatten Binary Tree to Linked List.md",
     "Algorithm/Recursion.md",
     "Leetcode/String/1071. Greatest Common Divisor of Strings.md",
     "Operating System/Knowledge Base/1. Introduction To Operating System.md",
     "Machine Learning/Math/2. Gradient descent.md",
     "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
-    "Python/Pandas.md",
-    "Algorithm/Two Pointer.md"
+    "Python/Pandas.md"
   ]
 }
