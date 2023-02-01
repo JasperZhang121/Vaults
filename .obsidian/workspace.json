@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "07ec80b938fd9a2a",
+        "id": "861724b9f0714f50",
         "type": "tabs",
         "children": [
           {
-            "id": "625a67741d9d3b7a",
+            "id": "53d459239bbd172c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Math/2. Gradient descent.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Math/2. Gradient descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Math/2. Gradient descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/Math/2. Gradient descent.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "625a67741d9d3b7a",
+  "active": "53d459239bbd172c",
   "lastOpenFiles": [
+    "Algorithm/Two Pointer.md",
+    "Leetcode/Array/Two-pointers/392. Is Subsequence.md",
+    "C++/Basic/STL.md",
+    "C++/Basic/Syntax and Rules.md",
+    "Machine Learning/Math/2. Gradient descent.md",
     "gradiant descend graph.png.md",
     "Z-Pictures/FORM/gradiant decs.png",
-    "Machine Learning/Math/2. Gradient descent.md",
     "Machine Learning/Stats/Models/1. Linear Regression stats.md",
     "Machine Learning/Math/1. Linear Algebra.md",
-    "Machine Learning/Stats/Formula/5. Sum of Squares.md",
-    "Machine Learning/Stats/Formula/4. Correlation.md",
-    "Z-Pictures/FORM/Gradient descent.png",
-    "Machine Learning/Stats/Formula/1. Variance.md",
-    "Machine Learning/Stats/Formula/2. Covariance.md"
+    "Machine Learning/Stats/Formula/5. Sum of Squares.md"
   ]
 }

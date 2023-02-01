@@ -10,9 +10,9 @@
 
 #### Fast-slow pointers:
 - [[Floyd]]
-
 - [[1004. Max Consecutive Ones III]]
 - [[455. Assign Cookies]]
+- [[392. Is Subsequence]]
 
 #### Sort then pointers:
 - [[15. 3Sum]]
