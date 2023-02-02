@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e7719ab869ab281a",
+        "id": "989d66537fbddb9e",
         "type": "tabs",
         "children": [
           {
-            "id": "c71e740dc6c89b13",
+            "id": "82a3548fb8488e20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Stats/Models/1. Linear Regression stats.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Stats/Models/1. Linear Regression stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/Stats/Models/1. Linear Regression stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/Stats/Models/1. Linear Regression stats.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c71e740dc6c89b13",
+  "active": "82a3548fb8488e20",
   "lastOpenFiles": [
+    "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
+    "Machine Learning/Stats/Models/1. Linear Regression stats.md",
+    "Computer Networking/2. Physical/3. Nyquist Theorem.md",
+    "Operating System/x86/2. Registers.md",
     "Operating System/x86/1. BIOS.md",
-    "Operating System/x86/3. Registers.md",
     "Operating System/Write an OS/1. Components.md",
     "Operating System/x86/0. Intro.md",
     "Computer Organization and Architecture/1. CPU architecture.md",
     "Algorithm/Backtracking.md",
-    "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
-    "Computer Organization and Architecture/Cache line.md",
-    "Computer Organization and Architecture/4. Register.md",
-    "Terminal/Commands.md"
+    "Computer Organization and Architecture/0. High-Level Discription of codes running.md"
   ]
 }
