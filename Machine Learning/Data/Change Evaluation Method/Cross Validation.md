@@ -1,0 +1,40 @@
+a technique used in machine learning to assess the performance of a model. The goal of cross-validation is to estimate the performance of a model on unseen data, which is useful for determining whether the model has overfitted to the training data.
+
+----
+
+Cross-validation works by dividing the dataset into several subsets, called "folds". The model is trained on `k-1` folds of the data and tested on the remaining fold. This process is repeated `k` times, each time using a different fold as the test set and averaging the results to obtain a performance metric. The most common performance metric used in cross-validation is accuracy for classification problems and mean squared error for regression problems.
+
+There are several types of cross-validation techniques, including k-fold cross-validation, stratified k-fold cross-validation, and leave-one-out cross-validation. The choice of cross-validation technique depends on the size of the dataset and the specific requirements of the problem.
+
+----
+
+```python
+import numpy as np
+from sklearn.model_selection import KFold
+from sklearn.linear_model import LinearRegression
+
+# Define a sample data array
+X = np.array([[1], [2], [3], [4], [5]])
+y = np.array([1, 2, 3, 4, 5])
+
+# Create a Linear Regression model
+reg = LinearRegression()
+
+# Define the number of folds
+k = 3
+
+# Create a KFold object
+kf = KFold(n_splits=k)
+
+# Perform cross-validation on the model
+scores = []
+for train_index, test_index in kf.split(X):
+    X_train, X_test = X[train_index], X[test_index]
+    y_train, y_test = y[train_index], y[test_index]
+    reg.fit(X_train, y_train)
+    score = reg.score(X_test, y_test)
+    scores.append(score)
+
+# Print the mean score of the cross-validation
+print(np.mean(scores))
+```
