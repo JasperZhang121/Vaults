@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Writing an OS/1. Components.md",
+                "file": "Computer Organization and Architecture/1. CPU architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9dc92f1d9381c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Writing an OS/1. Components.md",
+                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Writing an OS/1. Components.md",
+                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Writing an OS/1. Components.md"
+                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428f8ef29457893",
+  "active": "c9dc92f1d9381c4e",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/Cache line.md",
+    "Computer Organization and Architecture/4. Register.md",
     "Computer Organization and Architecture/1. CPU architecture.md",
     "Operating System/Writing an OS/1. Components.md",
     "Terminal/Commands.md",
@@ -155,8 +170,6 @@
     "Algorithm/Recursion.md",
     "Leetcode/String/1071. Greatest Common Divisor of Strings.md",
     "Operating System/Knowledge Base/1. Introduction To Operating System.md",
-    "Machine Learning/Math/2. Gradient descent.md",
-    "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
-    "Python/Pandas.md"
+    "Machine Learning/Math/2. Gradient descent.md"
   ]
 }
