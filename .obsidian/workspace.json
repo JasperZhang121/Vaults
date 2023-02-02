@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
+                "file": "Operating System/Write an OS/1. Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
+                "file": "Operating System/Write an OS/1. Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
+                "file": "Operating System/Write an OS/1. Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/0. High-Level Discription of codes running.md"
+                "file": "Operating System/Write an OS/1. Components.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9dc92f1d9381c4e",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
     "Computer Organization and Architecture/Cache line.md",
     "Computer Organization and Architecture/4. Register.md",
     "Computer Organization and Architecture/1. CPU architecture.md",
-    "Operating System/Writing an OS/1. Components.md",
+    "Operating System/Write an OS/1. Components.md",
     "Terminal/Commands.md",
     "Leetcode/Tree/114. Flatten Binary Tree to Linked List.md",
     "Algorithm/Recursion.md",
     "Leetcode/String/1071. Greatest Common Divisor of Strings.md",
-    "Operating System/Knowledge Base/1. Introduction To Operating System.md",
-    "Machine Learning/Math/2. Gradient descent.md"
+    "Operating System/Knowledge Base/1. Introduction To Operating System.md"
   ]
 }
