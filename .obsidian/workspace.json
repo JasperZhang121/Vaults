@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63a11ed4843e6f8b",
+        "id": "40efd7ec4d54b97e",
         "type": "tabs",
         "children": [
           {
-            "id": "41b3ed1244597c1f",
+            "id": "db304f769eb35afc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0dded8b9e9204a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Dynamic Programing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "Leetcode/Array/DP/740. Delete and Earn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "Leetcode/Array/DP/740. Delete and Earn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md"
+                "file": "Leetcode/Array/DP/740. Delete and Earn.md"
               }
             }
           }
@@ -159,8 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0dded8b9e9204a0",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Algorithm/Dynamic Programing.md",
     "Leetcode/Array/DP/213. House Robber II.md",
     "Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
     "Algorithm/Floyd.md",
@@ -169,7 +153,6 @@
     "Machine Learning/Data/Special Evaluation Method/Cross Validation.md",
     "Machine Learning/Stats/Formula/6. Normal Equation.md",
     "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
-    "Machine Learning/Stats/Models/2. Polynomial Regression.md",
-    "Machine Learning/Stats/Models/1. Linear Regression stats.md"
+    "Machine Learning/Stats/Models/2. Polynomial Regression.md"
   ]
 }
