@@ -11,8 +11,12 @@
             "id": "db304f769eb35afc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/String/6. Zigzag Conversion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Array/DP/740. Delete and Earn.md",
+                "file": "Leetcode/String/6. Zigzag Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Array/DP/740. Delete and Earn.md",
+                "file": "Leetcode/String/6. Zigzag Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Array/DP/740. Delete and Earn.md"
+                "file": "Leetcode/String/6. Zigzag Conversion.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "db304f769eb35afc",
   "lastOpenFiles": [
+    "Leetcode/Array/DP/740. Delete and Earn.md",
     "Algorithm/Dynamic Programing.md",
     "Leetcode/Array/DP/213. House Robber II.md",
     "Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
@@ -152,7 +157,6 @@
     "Machine Learning/Data/Modify Data/2. Fix overfitting.md",
     "Machine Learning/Data/Special Evaluation Method/Cross Validation.md",
     "Machine Learning/Stats/Formula/6. Normal Equation.md",
-    "Machine Learning/Stats/Formula/3. Cost function - Least Square.md",
-    "Machine Learning/Stats/Models/2. Polynomial Regression.md"
+    "Machine Learning/Stats/Formula/3. Cost function - Least Square.md"
   ]
 }
