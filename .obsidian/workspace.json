@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40efd7ec4d54b97e",
+        "id": "3f4a8472a0fd73a7",
         "type": "tabs",
         "children": [
           {
-            "id": "db304f769eb35afc",
+            "id": "d3cf00a689f3fe35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/String/6. Zigzag Conversion.md",
+                "file": "Operating System/x86/2. Registers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/String/6. Zigzag Conversion.md",
+                "file": "Operating System/x86/2. Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/String/6. Zigzag Conversion.md",
+                "file": "Operating System/x86/2. Registers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/String/6. Zigzag Conversion.md"
+                "file": "Operating System/x86/2. Registers.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db304f769eb35afc",
+  "active": "d3cf00a689f3fe35",
   "lastOpenFiles": [
+    "Operating System/x86/1. BIOS.md",
+    "Operating System/x86/2. Registers.md",
+    "Leetcode/String/6. Zigzag Conversion.md",
     "Leetcode/Array/DP/740. Delete and Earn.md",
     "Algorithm/Dynamic Programing.md",
     "Leetcode/Array/DP/213. House Robber II.md",
     "Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
     "Algorithm/Floyd.md",
     "Machine Learning/Data/Modify Data/1. Feature scaling.md",
-    "Machine Learning/Data/Modify Data/2. Fix overfitting.md",
-    "Machine Learning/Data/Special Evaluation Method/Cross Validation.md",
-    "Machine Learning/Stats/Formula/6. Normal Equation.md",
-    "Machine Learning/Stats/Formula/3. Cost function - Least Square.md"
+    "Machine Learning/Data/Modify Data/2. Fix overfitting.md"
   ]
 }
