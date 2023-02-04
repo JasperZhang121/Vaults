@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "492d09f108c3c691",
+            "id": "53e3396480973b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Stats/Models/3. Ridge Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b90196ab780cfe28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Stats/Models/2. Polynomial Regression.md",
+                "file": "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Stats/Models/2. Polynomial Regression.md",
+                "file": "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Stats/Models/2. Polynomial Regression.md",
+                "file": "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Stats/Models/2. Polynomial Regression.md"
+                "file": "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md"
               }
             }
           }
@@ -171,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b90196ab780cfe28",
+  "active": "53e3396480973b8a",
   "lastOpenFiles": [
-    "Machine Learning/Stats/Models/3. Ridge Regression.md",
-    "Machine Learning/Stats/Models/1. Linear Regression stats.md",
-    "Machine Learning/Math/3. Full Rank Matrix.md",
+    "Machine Learning/Stats/Models/Untitled.md",
     "Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
-    "Linux/5. GCC.md",
-    "Linux/1. Preparation and Intro.md",
-    "Linux/3. Shell.md",
-    "Linux/2. Vi and Vim.md",
-    "Operating System/Write an OS/2. Load Data From Sector to RAM.md",
-    "Machine Learning/Data/Modify Data/2. Fix overfitting.md"
+    "Machine Learning/Stats/Models/3. Ridge Regression.md",
+    "Machine Learning/Stats/Formula/6. Normal Equation.md",
+    "Machine Learning/Stats/Formula/5. Sum of Squares.md",
+    "Machine Learning/Stats/Formula/4. Correlation.md",
+    "Machine Learning/Stats/Formula/2. Covariance.md",
+    "Machine Learning/Stats/Formula/1. Variance.md",
+    "Machine Learning/Stats/Models/1. Linear Regression stats.md",
+    "Machine Learning/Stats/Models/2. Polynomial Regression.md"
   ]
 }
