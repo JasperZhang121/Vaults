@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "795a70c526c74a46",
+        "id": "0e393c6c2b88a476",
         "type": "tabs",
         "children": [
           {
-            "id": "5f943941b409bbe5",
+            "id": "a09ac5e64676ce67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+                "file": "Git/Useful git commands.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "53e3396480973b8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67b401c93379de25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/1. Test debug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29c7930fa2c80a08",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 396.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -118,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Useful git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/Useful git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Useful git commands.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29c7930fa2c80a08",
+  "active": "a09ac5e64676ce67",
   "lastOpenFiles": [
+    "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "ZZZ-Debug Vault (Not Notes)/2. Test.md",
-    "ZZZ-Debug Vault (Not Notes)/1. Test debug.md",
     "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
     "ZZZ-Debug Vault (Not Notes)/1. Test add.md",
     "Machine Learning/Stats/Models/Untitled.md",
