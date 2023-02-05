@@ -47,12 +47,8 @@
             "id": "29c7930fa2c80a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/2. Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/2. Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/2. Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/2. Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,6 +177,7 @@
   },
   "active": "29c7930fa2c80a08",
   "lastOpenFiles": [
+    "ZZZ-Debug Vault (Not Notes)/2. Test.md",
     "ZZZ-Debug Vault (Not Notes)/1. Test debug.md",
     "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
     "ZZZ-Debug Vault (Not Notes)/1. Test add.md",
@@ -193,7 +186,6 @@
     "Machine Learning/Stats/Models/3. Ridge Regression.md",
     "Machine Learning/Stats/Formula/6. Normal Equation.md",
     "Machine Learning/Stats/Formula/5. Sum of Squares.md",
-    "Machine Learning/Stats/Formula/4. Correlation.md",
-    "Machine Learning/Stats/Formula/2. Covariance.md"
+    "Machine Learning/Stats/Formula/4. Correlation.md"
   ]
 }
