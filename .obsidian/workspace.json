@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e393c6c2b88a476",
+        "id": "08596a0ea03278a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a09ac5e64676ce67",
+            "id": "33811587812168e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Useful git commands.md",
+                "file": "Machine Learning/Algorithm/2. Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 341.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Useful git commands.md",
+                "file": "Machine Learning/Algorithm/2. Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Useful git commands.md",
+                "file": "Machine Learning/Algorithm/2. Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Useful git commands.md"
+                "file": "Machine Learning/Algorithm/2. Logistic Regression.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a09ac5e64676ce67",
+  "active": "33811587812168e3",
   "lastOpenFiles": [
-    "ZZZ-Debug Vault (Not Notes)/Debug.md",
-    "ZZZ-Debug Vault (Not Notes)/2. Test.md",
-    "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
-    "ZZZ-Debug Vault (Not Notes)/1. Test add.md",
-    "Machine Learning/Stats/Models/Untitled.md",
-    "Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+    "Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
+    "Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
     "Machine Learning/Stats/Models/3. Ridge Regression.md",
-    "Machine Learning/Stats/Formula/6. Normal Equation.md",
     "Machine Learning/Stats/Formula/5. Sum of Squares.md",
-    "Machine Learning/Stats/Formula/4. Correlation.md"
+    "Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+    "Machine Learning/Stats/Formula/6. Normal Equation.md",
+    "Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
+    "Operating System/Write an OS/2. Load Data From Sector to RAM.md",
+    "Operating System/Write an OS/1. Components.md"
   ]
 }

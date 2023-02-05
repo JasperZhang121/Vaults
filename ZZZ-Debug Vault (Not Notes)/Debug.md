@@ -31,4 +31,4 @@ Enumerating objects: 1836, done. Counting objects: 100% (1836/1836), done. Delta
 ----
 
 Solve by :
-- clone your repository again from a backup or the remote origin.
+- clone repository again from remote origin
