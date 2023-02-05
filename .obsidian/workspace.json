@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "08596a0ea03278a7",
+        "id": "a26cb20fdfebe4a2",
         "type": "tabs",
         "children": [
           {
-            "id": "33811587812168e3",
+            "id": "6b9f2986d2a71044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Algorithm/2. Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "075f1364a65e632b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Data/Modify Data/1. Feature scaling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Data/Modify Data/1. Feature scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Data/Modify Data/1. Feature scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/Data/Modify Data/1. Feature scaling.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "075f1364a65e632b",
+  "active": "6b9f2986d2a71044",
   "lastOpenFiles": [
+    "Algorithm/Sliding Window.md",
+    "Leetcode/String/438. Find All Anagrams in a String.md",
+    "Machine Learning/Data/Modify Data/1. Feature scaling.md",
     "Machine Learning/Data/Modify Data/2. Fix overfitting.md",
     "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
     "Machine Learning/Algorithm/7. Neural Network.md",
     "Machine Learning/Algorithm/2. Logistic Regression.md",
     "Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
     "Machine Learning/Stats/Models/5.  Logistic Regression.md",
-    "Machine Learning/Stats/Models/3. Ridge Regression.md",
-    "Machine Learning/Stats/Formula/5. Sum of Squares.md",
-    "Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
-    "Machine Learning/Stats/Formula/6. Normal Equation.md"
+    "Machine Learning/Stats/Models/3. Ridge Regression.md"
   ]
 }
