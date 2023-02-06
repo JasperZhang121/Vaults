@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
+                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
+                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
+                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md"
+                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "6b9f2986d2a71044",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/1. CPU architecture.md",
     "Algorithm/Sliding Window.md",
     "Leetcode/String/438. Find All Anagrams in a String.md",
     "Machine Learning/Data/Modify Data/1. Feature scaling.md",
@@ -157,7 +158,6 @@
     "Machine Learning/Algorithm/7. Neural Network.md",
     "Machine Learning/Algorithm/2. Logistic Regression.md",
     "Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
-    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
-    "Machine Learning/Stats/Models/3. Ridge Regression.md"
+    "Machine Learning/Stats/Models/5.  Logistic Regression.md"
   ]
 }
