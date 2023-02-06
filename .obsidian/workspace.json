@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a26cb20fdfebe4a2",
+        "id": "7be062fc59dd1d94",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9f2986d2a71044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/4. The Abstraction-Address Spaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f454e509a94ab47",
+            "id": "26b3c4585fc161b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f454e509a94ab47",
+  "active": "26b3c4585fc161b3",
   "lastOpenFiles": [
+    "Algorithm/Two Pointer.md",
     "Operating System/Knowledge Base/4. The Abstraction-Address Spaces.md",
+    "Operating System/Knowledge Base/5. Thread.md",
     "Operating System/Knowledge Base/3. Scheduling.md",
     "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
     "Computer Organization and Architecture/1. CPU architecture.md",
     "Algorithm/Sliding Window.md",
     "Leetcode/String/438. Find All Anagrams in a String.md",
     "Machine Learning/Data/Modify Data/1. Feature scaling.md",
-    "Machine Learning/Data/Modify Data/2. Fix overfitting.md",
-    "Machine Learning/Data/Modify Data/3. Seasonal Dummy.md",
-    "Machine Learning/Algorithm/7. Neural Network.md"
+    "Machine Learning/Data/Modify Data/2. Fix overfitting.md"
   ]
 }
