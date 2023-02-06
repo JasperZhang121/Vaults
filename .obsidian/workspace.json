@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Knowledge Base/5. Thread.md",
+                "file": "Operating System/Knowledge Base/5. The Abstraction-Address Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/5. Thread.md",
+                "file": "Operating System/Knowledge Base/5. The Abstraction-Address Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/5. Thread.md",
+                "file": "Operating System/Knowledge Base/5. The Abstraction-Address Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Knowledge Base/5. Thread.md"
+                "file": "Operating System/Knowledge Base/5. The Abstraction-Address Spaces.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "26b3c4585fc161b3",
   "lastOpenFiles": [
+    "Operating System/Knowledge Base/1. Introduction To Operating System.md",
+    "Operating System/Knowledge Base/3. Thread.md",
+    "Operating System/Knowledge Base/4. Scheduling.md",
+    "Operating System/Knowledge Base/5. The Abstraction-Address Spaces.md",
     "Algorithm/Two Pointer.md",
-    "Operating System/Knowledge Base/4. The Abstraction-Address Spaces.md",
-    "Operating System/Knowledge Base/5. Thread.md",
-    "Operating System/Knowledge Base/3. Scheduling.md",
     "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
     "Computer Organization and Architecture/1. CPU architecture.md",
     "Algorithm/Sliding Window.md",
     "Leetcode/String/438. Find All Anagrams in a String.md",
-    "Machine Learning/Data/Modify Data/1. Feature scaling.md",
-    "Machine Learning/Data/Modify Data/2. Fix overfitting.md"
+    "Machine Learning/Data/Modify Data/1. Feature scaling.md"
   ]
 }
