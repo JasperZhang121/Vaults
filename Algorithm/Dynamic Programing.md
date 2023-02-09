@@ -1,3 +1,6 @@
+----
+
+Classic:
 - [[70. Climbing Stairs]]
 - [[413. Arithmetic Slices]]
 - [[221. Maximal Square]]
@@ -5,3 +8,8 @@
 - [[300. Longest Increasing Subsequence]]
 - [[1626. Best Team With No Conflicts]]
 - [[213. House Robber II]]
+
+
+Caching:
+- [[309. Best Time to Buy and Sell Stock with Cooldown]]
+- [[714. Best Time to Buy and Sell Stock with Transaction Fee]]

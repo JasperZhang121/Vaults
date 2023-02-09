@@ -5,3 +5,5 @@
 - [[1971. Find if Path Exists in Graph]]
 - [[841. Keys and Rooms]]
 - [[1123. Lowest Common Ancestor of Deepest Leaves]]
+- [[309. Best Time to Buy and Sell Stock with Cooldown]]
+- [[714. Best Time to Buy and Sell Stock with Transaction Fee]]
