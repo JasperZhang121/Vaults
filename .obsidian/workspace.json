@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
+                "file": "Operating System/Knowledge Base/4. Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
+                "file": "Operating System/Knowledge Base/4. Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
+                "file": "Operating System/Knowledge Base/4. Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Knowledge Base/2. The Abstraction-The Process.md"
+                "file": "Operating System/Knowledge Base/4. Scheduling.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "67d06fff05861096",
   "lastOpenFiles": [
+    "Operating System/Knowledge Base/2. The Abstraction-The Process.md",
     "Operating System/Knowledge Base/5. The Abstraction-Address Spaces.md",
     "Algorithm/Dynamic Programing.md",
     "Leetcode/Array/DP/714. Best Time to Buy and Sell Stock with Transaction Fee.md",
@@ -157,7 +158,6 @@
     "Operating System/Knowledge Base/1. Introduction To Operating System.md",
     "Operating System/Knowledge Base/3. Thread.md",
     "Operating System/Knowledge Base/4. Scheduling.md",
-    "Algorithm/Two Pointer.md",
-    "Operating System/Knowledge Base/2. The Abstraction-The Process.md"
+    "Algorithm/Two Pointer.md"
   ]
 }
