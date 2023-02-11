@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c0285281cd78b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acc15b6adbb56f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/6. Dynamic Partition Allocation Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2cc67d7c586fdfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
+                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
+                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md"
+                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md"
               }
             }
           }
@@ -147,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d64fb27551f6950d",
+  "active": "f2cc67d7c586fdfc",
   "lastOpenFiles": [
+    "Operating System/Knowledge Base/3. Memory Management/0. Concept/6. Dynamic Partition Allocation Algorithm.md",
+    "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md",
+    "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
     "Computer Organization and Architecture/1. CPU architecture.md",
     "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/3. Memory Protection.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/0. Memory allocation and recovery.md",
-    "C++/Compiler/Compiling Process.md",
-    "Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
-    "Operating System/Knowledge Base/1. Process & Thread/5.2 Monitors.md"
+    "C++/Compiler/Compiling Process.md"
   ]
 }
