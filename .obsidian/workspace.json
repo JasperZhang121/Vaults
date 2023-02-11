@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.0 Synchronization and Mutual Exclusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7439f83375e27b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md"
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md"
               }
             }
           }
@@ -168,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d7365a160cee98",
+  "active": "d7439f83375e27b9",
   "lastOpenFiles": [
+    "Operating System/Knowledge Base/1. Process & Thread/5.0 Synchronization and Mutual Exclusion.md",
+    "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
     "Operating System/Knowledge Base/2. Scheduling/3.0 Scheduling Level vs Scheduling Algo.md",
+    "Operating System/Knowledge Base/2. Scheduling/2. Scheduling Level.md",
     "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
     "Operating System/Knowledge Base/0. Abstraction/2. The Abstraction-Address Spaces.md",
-    "Operating System/Knowledge Base/1. Process & Thread/5. Synchronization and Mutual Exclusion.md",
     "Operating System/Knowledge Base/4. Scheduling.md",
     "Operating System/Knowledge Base/1. Process & Thread/0. Process.md",
-    "Operating System/Knowledge Base/2. Scheduling/2. Scheduling Level.md",
     "Operating System/Knowledge Base/2. Scheduling/1. Algorithm.md",
-    "Operating System/Knowledge Base/1. Process & Thread/1. Thread.md",
-    "Operating System/Knowledge Base/2. Scheduling/0. Scheduling in Operating Systems.md"
+    "Operating System/Knowledge Base/1. Process & Thread/1. Thread.md"
   ]
 }
