@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4a5284c64714589",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1de65e4580c5fae6",
+            "id": "9ca9630df04648d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/0. Process.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6d7365a160cee98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/5.0 Synchronization and Mutual Exclusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7439f83375e27b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e987379dd1ac4242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/5.2 Monitors.md",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 265.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/5.2 Monitors.md",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/5.2 Monitors.md",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Knowledge Base/1. Process & Thread/5.2 Monitors.md"
+                "file": "Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md"
               }
             }
           }
@@ -192,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e987379dd1ac4242",
+  "active": "9ca9630df04648d6",
   "lastOpenFiles": [
-    "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
     "Operating System/Knowledge Base/1. Process & Thread/5.2 Monitors.md",
+    "Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
     "Operating System/Knowledge Base/1. Process & Thread/5.0 Synchronization and Mutual Exclusion.md",
     "Operating System/Knowledge Base/2. Scheduling/3.0 Scheduling Level vs Scheduling Algo.md",
     "Operating System/Knowledge Base/2. Scheduling/2. Scheduling Level.md",
