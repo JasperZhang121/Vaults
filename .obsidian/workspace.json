@@ -8,43 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3abe5dc337b4871e",
+            "id": "b4a5284c64714589",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1de65e4580c5fae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Knowledge Base/3. Thread.md",
-                "mode": "source",
+                "file": "Operating System/Knowledge Base/1. Process & Thread/0. Process.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "132fcca4ab7f5a7e",
+            "id": "f6d7365a160cee98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Process & Thread/3. Thread vs Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5c8d9444b9d294d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/2. Process & Thread/2. Thread.md",
+                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Process & Thread/3. Thread vs Process.md",
+                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Process & Thread/3. Thread vs Process.md",
+                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Knowledge Base/2. Process & Thread/3. Thread vs Process.md"
+                "file": "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md"
               }
             }
           }
@@ -172,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "132fcca4ab7f5a7e",
+  "active": "f6d7365a160cee98",
   "lastOpenFiles": [
-    "Operating System/Knowledge Base/1. Abstraction/1. Introduction To Operating System.md",
-    "Operating System/Knowledge Base/2. Process & Thread/3. Thread vs Process.md",
-    "Operating System/Knowledge Base/3. Thread.md",
-    "Operating System/Knowledge Base/2. Process & Thread/1. Process.md",
-    "Operating System/Knowledge Base/2. Process & Thread/2. Thread.md",
+    "Operating System/Knowledge Base/2. Scheduling/3.0 Scheduling Level vs Scheduling Algo.md",
+    "Operating System/Knowledge Base/2. Scheduling/3.1. Primitive.md",
+    "Operating System/Knowledge Base/0. Abstraction/2. The Abstraction-Address Spaces.md",
+    "Operating System/Knowledge Base/1. Process & Thread/5. Synchronization and Mutual Exclusion.md",
     "Operating System/Knowledge Base/4. Scheduling.md",
-    "Operating System/Knowledge Base/6. Primitive.md",
-    "Leetcode/String/438. Find All Anagrams in a String.md",
-    "Algorithm/Sliding Window.md",
-    "Algorithm/Dynamic Programing.md"
+    "Operating System/Knowledge Base/1. Process & Thread/0. Process.md",
+    "Operating System/Knowledge Base/2. Scheduling/2. Scheduling Level.md",
+    "Operating System/Knowledge Base/2. Scheduling/1. Algorithm.md",
+    "Operating System/Knowledge Base/1. Process & Thread/1. Thread.md",
+    "Operating System/Knowledge Base/2. Scheduling/0. Scheduling in Operating Systems.md"
   ]
 }
