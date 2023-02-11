@@ -8,6 +8,7 @@ Classic:
 - [[300. Longest Increasing Subsequence]]
 - [[1626. Best Team With No Conflicts]]
 - [[213. House Robber II]]
+- [[62. Unique Paths]]
 
 
 Caching:
