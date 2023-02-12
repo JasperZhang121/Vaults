@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "95fbd676ac36dcac",
+        "id": "80c12047195dc6c6",
         "type": "tabs",
         "children": [
           {
-            "id": "d64fb27551f6950d",
+            "id": "986f99ad4a40d0aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c0285281cd78b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acc15b6adbb56f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/6. Dynamic Partition Allocation Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2cc67d7c586fdfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -184,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2cc67d7c586fdfc",
+  "active": "986f99ad4a40d0aa",
   "lastOpenFiles": [
+    "Leetcode/Array/DP/96. Unique Binary Search Trees.md",
+    "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/6. Dynamic Partition Allocation Algorithm.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
@@ -193,8 +150,6 @@
     "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/3. Memory Protection.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/0. Memory allocation and recovery.md",
-    "C++/Compiler/Compiling Process.md"
+    "Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md"
   ]
 }
