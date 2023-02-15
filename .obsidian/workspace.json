@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "986f99ad4a40d0aa",
+            "id": "4a95febe05699f09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6ad767cac6bc51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Basic/1. Variable/3. Pointers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/Basic/1. Variable/3. Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Basic/1. Variable/3. Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/Basic/1. Variable/3. Pointers.md"
+              }
             }
           }
         ],
@@ -139,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "986f99ad4a40d0aa",
+  "active": "f6ad767cac6bc51f",
   "lastOpenFiles": [
+    "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
+    "C++/Basic/1. Variable/2. Variable and Basic Types.md",
+    "C++/Basic/1. Variable/2. Reference.md",
+    "C++/Basic/1. Variable/1. Variables.md",
+    "C++/Basic/1. Variable/0. Basic Types.md",
+    "C++/Basic/0. General Concepts/1. STL.md",
     "Leetcode/Array/DP/96. Unique Binary Search Trees.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
     "Operating System/Knowledge Base/3. Memory Management/0. Concept/6. Dynamic Partition Allocation Algorithm.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/4. Paging and Swapping.md",
-    "Computer Organization and Architecture/1. CPU architecture.md",
-    "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/3. Memory Protection.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md"
+    "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md"
   ]
 }
