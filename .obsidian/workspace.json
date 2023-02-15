@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a95febe05699f09",
+            "id": "47cc20d86b07b35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
+                "file": "C++/Basic/1. Variable/6. Type Specifier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6ad767cac6bc51f",
+            "id": "aad1ef36d3307dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Basic/1. Variable/3. Pointers.md",
+                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/1. Variable/3. Pointers.md",
+                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/1. Variable/3. Pointers.md",
+                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/1. Variable/3. Pointers.md"
+                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6ad767cac6bc51f",
+  "active": "aad1ef36d3307dd1",
   "lastOpenFiles": [
+    "C++/Basic/1. Variable/6. Type Specifier.md",
+    "C++/Basic/1. Variable/5. Type aliases.md",
+    "C++/Basic/1. Variable/4. Pointers and const.md",
+    "C++/Basic/1. Variable/3. Pointers.md",
     "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
     "C++/Basic/1. Variable/2. Variable and Basic Types.md",
     "C++/Basic/1. Variable/2. Reference.md",
     "C++/Basic/1. Variable/1. Variables.md",
     "C++/Basic/1. Variable/0. Basic Types.md",
-    "C++/Basic/0. General Concepts/1. STL.md",
-    "Leetcode/Array/DP/96. Unique Binary Search Trees.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/6. Dynamic Partition Allocation Algorithm.md",
-    "Operating System/Knowledge Base/3. Memory Management/0. Concept/5. Continuous Allocation Management Mode.md"
+    "C++/Basic/0. General Concepts/1. STL.md"
   ]
 }
