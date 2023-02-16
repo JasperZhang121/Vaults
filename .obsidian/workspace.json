@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "80c12047195dc6c6",
+        "id": "cad7a49ac316fb82",
         "type": "tabs",
         "children": [
           {
-            "id": "47cc20d86b07b35f",
+            "id": "a0f5f45bffa56f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Basic/1. Variable/6. Type Specifier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aad1ef36d3307dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md",
+                "file": "C++/Basic/1. Variable/0. Knowledge Base/0. Basic Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md",
+                "file": "C++/Basic/1. Variable/0. Knowledge Base/0. Basic Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md",
+                "file": "C++/Basic/1. Variable/0. Knowledge Base/0. Basic Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/1. Variable/7. Custom Data Structure.md"
+                "file": "C++/Basic/1. Variable/0. Knowledge Base/0. Basic Types.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad1ef36d3307dd1",
+  "active": "a0f5f45bffa56f9f",
   "lastOpenFiles": [
-    "C++/Basic/1. Variable/6. Type Specifier.md",
-    "C++/Basic/1. Variable/5. Type aliases.md",
-    "C++/Basic/1. Variable/4. Pointers and const.md",
-    "C++/Basic/1. Variable/3. Pointers.md",
+    "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
+    "ex2_4.cpp.md",
+    "C++/Basic/1. Variable/0. Knowledge Base/1. Variables.md",
+    "C++/Basic/1. Variable/0. Knowledge Base/7. Custom Data Structure.md",
+    "C++/Basic/1. Variable/0. Knowledge Base/6. Type Specifier.md",
+    "C++/Basic/1. Variable/0. Knowledge Base/5. Type aliases.md",
+    "C++/Basic/1. Variable/0. Knowledge Base/4. Pointers and const.md",
+    "C++/Basic/1. Variable/0. Knowledge Base/3. Pointers.md",
     "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
-    "C++/Basic/1. Variable/2. Variable and Basic Types.md",
-    "C++/Basic/1. Variable/2. Reference.md",
-    "C++/Basic/1. Variable/1. Variables.md",
-    "C++/Basic/1. Variable/0. Basic Types.md",
-    "C++/Basic/0. General Concepts/1. STL.md"
+    "C++/Basic/1. Variable/2. Variable and Basic Types.md"
   ]
 }
