@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,15 +149,15 @@
   },
   "active": "a0f5f45bffa56f9f",
   "lastOpenFiles": [
+    "ex2_34.cpp.md",
+    "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
     "C++/Basic/1. Variable/0. Knowledge Base/2. Reference.md",
     "C++/Basic/1. Variable/0. Knowledge Base/5. Type aliases.md",
-    "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
     "C++/Basic/1. Variable/0. Knowledge Base/0. Basic Types.md",
     "ex2_4.cpp.md",
     "C++/Basic/1. Variable/0. Knowledge Base/1. Variables.md",
     "C++/Basic/1. Variable/0. Knowledge Base/7. Custom Data Structure.md",
     "C++/Basic/1. Variable/0. Knowledge Base/6. Type Specifier.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/4. Pointers and const.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/3. Pointers.md"
+    "C++/Basic/1. Variable/0. Knowledge Base/4. Pointers and const.md"
   ]
 }
