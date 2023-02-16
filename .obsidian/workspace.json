@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cad7a49ac316fb82",
+        "id": "6d91f78fd44510ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a0f5f45bffa56f9f",
+            "id": "8d830d6547742b72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
+                "file": "C++/Basic/2. String Vector Array/1. String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
+                "file": "C++/Basic/2. String Vector Array/1. String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md"
+                "file": "C++/Basic/2. String Vector Array/1. String.md"
               }
             }
           }
@@ -147,17 +143,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0f5f45bffa56f9f",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "C++/Basic/2. String Vector Array/0. Namespace using.md",
+    "C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "ex2_34.cpp.md",
-    "C++/Basic/1. Variable/1. Exercises in CPP Primer/1. Cpp Primer practices.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/2. Reference.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/5. Type aliases.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/0. Basic Types.md",
+    "C++/Basic/1. Variable/0. Notes/2. Reference.md",
+    "C++/Basic/1. Variable/0. Notes/5. Type aliases.md",
+    "C++/Basic/1. Variable/0. Notes/0. Basic Types.md",
     "ex2_4.cpp.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/1. Variables.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/7. Custom Data Structure.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/6. Type Specifier.md",
-    "C++/Basic/1. Variable/0. Knowledge Base/4. Pointers and const.md"
+    "C++/Basic/1. Variable/0. Notes/1. Variables.md",
+    "C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md",
+    "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md"
   ]
 }
