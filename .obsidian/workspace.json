@@ -11,8 +11,12 @@
             "id": "8d830d6547742b72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/Basic/2. String Vector Array/1. String.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -143,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "8d830d6547742b72",
   "lastOpenFiles": [
     "C++/Basic/2. String Vector Array/0. Namespace using.md",
     "C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
