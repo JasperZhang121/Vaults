@@ -11,11 +11,28 @@
             "id": "5900f8d9730fed71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Architecture/4. Register.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b30127ec2f28a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Architecture/2. Main Memory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Organization and Architecture/2. Main Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Organization and Architecture/2. Main Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Organization and Architecture/2. Main Memory.md"
+              }
             }
           }
         ],
@@ -139,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5900f8d9730fed71",
+  "active": "2b30127ec2f28a5a",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/5. Instruction Set Architecture (ISA).md",
+    "Computer Organization and Architecture/4. Register.md",
+    "Computer Organization and Architecture/3. Arithmetic Logic Unit.md",
+    "Computer Organization and Architecture/1. CPU architecture.md",
+    "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
     "Algorithm/Breadth First Search.md",
     "Python/Pytorch.md",
     "Python/PySpark.md",
     "Python/Basic.md",
-    "Python/Numpy.md",
-    "Python/Pandas.md",
-    "Quant/0. Guide/0. Quantitative Models for Finance.md",
-    "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
-    "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
-    "Quant/0. Guide/1. Brownian motion.md"
+    "Python/Numpy.md"
   ]
 }
