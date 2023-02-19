@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f1ca0858ac91658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant/Financial Models/1. Black Scholes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/2. String Vector Array/2. Vector.md",
+                "file": "Quant/Financial Models/1. Black Scholes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/2. String Vector Array/2. Vector.md",
+                "file": "Quant/Financial Models/1. Black Scholes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/2. String Vector Array/2. Vector.md"
+                "file": "Quant/Financial Models/1. Black Scholes.md"
               }
             }
           }
@@ -160,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2be3a7575fc8897",
+  "active": "5f1ca0858ac91658",
   "lastOpenFiles": [
-    "C++/Basic/2. String Vector Array/1. String.md",
     "C++/Basic/2. String Vector Array/2. Vector.md",
+    "C++/Basic/2. String Vector Array/1. String.md",
     "C++/Basic/2. String Vector Array/0. Namespace using.md",
     "C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "ex2_34.cpp.md",
