@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f1ca0858ac91658",
+            "id": "8c3a28143be92fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/Financial Models/Black Scholes/0. Definition.md",
+                "file": "Quant/Financial Models/Black Scholes/1. Assumptions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95839f3c3c999624",
+            "id": "79f7d23f91e67f15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/Financial Models/Black Scholes/1. Assumptions.md",
+                "file": "Quant/Financial Models/Stochastic Differential Equations/0. Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/Financial Models/Black Scholes/1. Assumptions.md",
+                "file": "Quant/Financial Models/Stochastic Differential Equations/0. Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/Financial Models/Black Scholes/1. Assumptions.md",
+                "file": "Quant/Financial Models/Stochastic Differential Equations/0. Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/Financial Models/Black Scholes/1. Assumptions.md"
+                "file": "Quant/Financial Models/Stochastic Differential Equations/0. Definition.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95839f3c3c999624",
+  "active": "79f7d23f91e67f15",
   "lastOpenFiles": [
-    "Quant/Financial Models/Black Scholes/0. Definition.md",
     "Quant/Financial Models/Black Scholes/1. Assumptions.md",
+    "Quant/Financial Models/Black Scholes/0. Definition.md",
+    "Quant/Financial Models/Black Scholes/2. Drawbacks.md",
     "C++/Basic/2. String Vector Array/2. Vector.md",
     "C++/Basic/2. String Vector Array/1. String.md",
     "C++/Basic/2. String Vector Array/0. Namespace using.md",
     "C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "ex2_34.cpp.md",
     "C++/Basic/1. Variable/0. Notes/2. Reference.md",
-    "C++/Basic/1. Variable/0. Notes/5. Type aliases.md",
-    "C++/Basic/1. Variable/0. Notes/0. Basic Types.md"
+    "C++/Basic/1. Variable/0. Notes/5. Type aliases.md"
   ]
 }
