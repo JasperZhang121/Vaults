@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05353f1e921bdf65",
+        "id": "fa95e1dbfb158666",
         "type": "tabs",
         "children": [
           {
-            "id": "962563b79c73f472",
+            "id": "8885118b3fbf1cfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Write an OS/2. Load Data From Sector to RAM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/2. Main Memory.md",
+                "file": "Operating System/Write an OS/2. Load Data From Sector to RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/2. Main Memory.md",
+                "file": "Operating System/Write an OS/2. Load Data From Sector to RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/2. Main Memory.md"
+                "file": "Operating System/Write an OS/2. Load Data From Sector to RAM.md"
               }
             }
           }
@@ -143,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "8885118b3fbf1cfb",
   "lastOpenFiles": [
-    "Computer Organization and Architecture/5. Instruction Set Architecture (ISA).md",
-    "Computer Organization and Architecture/4. Register.md",
-    "Computer Organization and Architecture/3. Arithmetic Logic Unit.md",
-    "Computer Organization and Architecture/1. CPU architecture.md",
+    "README.md",
+    "Quant/0. Guide/1. Brownian motion.md",
+    "Quant/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
+    "Quant/2. Stochastic Calculus/Black Scholes/0. Definition.md",
+    "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
+    "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+    "Quant/0. Guide/0. Quantitative Models for Finance.md",
     "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
-    "Algorithm/Breadth First Search.md",
-    "Python/Pytorch.md",
-    "Python/PySpark.md",
-    "Python/Basic.md",
-    "Python/Numpy.md"
+    "Computer Organization and Architecture/5. Instruction Set Architecture (ISA).md",
+    "Computer Organization and Architecture/4. Register.md"
   ]
 }
