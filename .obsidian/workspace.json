@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2be3a7575fc8897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Basic/2. String Vector Array/2. Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/2. String Vector Array/1. String.md",
+                "file": "C++/Basic/2. String Vector Array/2. Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/2. String Vector Array/1. String.md",
+                "file": "C++/Basic/2. String Vector Array/2. Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/2. String Vector Array/1. String.md"
+                "file": "C++/Basic/2. String Vector Array/2. Vector.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d830d6547742b72",
+  "active": "a2be3a7575fc8897",
   "lastOpenFiles": [
+    "C++/Basic/2. String Vector Array/1. String.md",
+    "C++/Basic/2. String Vector Array/2. Vector.md",
     "C++/Basic/2. String Vector Array/0. Namespace using.md",
     "C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "ex2_34.cpp.md",
@@ -156,8 +171,6 @@
     "C++/Basic/1. Variable/0. Notes/5. Type aliases.md",
     "C++/Basic/1. Variable/0. Notes/0. Basic Types.md",
     "ex2_4.cpp.md",
-    "C++/Basic/1. Variable/0. Notes/1. Variables.md",
-    "C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md",
-    "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md"
+    "C++/Basic/1. Variable/0. Notes/1. Variables.md"
   ]
 }
