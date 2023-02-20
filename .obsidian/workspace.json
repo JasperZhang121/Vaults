@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "83b301b207ccca2b",
+        "id": "c480dae5813d4786",
         "type": "tabs",
         "children": [
           {
-            "id": "4139c6e510f12ee0",
+            "id": "a7db7da109fb20cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/3. Exception/1. Exceptions Handling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/3. Exception/1. Exceptions Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/3. Exception/1. Exceptions Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/3. Exception/1. Exceptions Handling.md"
+              }
             }
           }
         ],
@@ -139,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4139c6e510f12ee0",
+  "active": "a7db7da109fb20cf",
   "lastOpenFiles": [
-    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
-    "Symbolic AI/0. Reasoning and Inference/1. Propositional Logic.md",
-    "Symbolic AI/0. Reasoning and Inference/0. Introduction.md",
-    "Git/1. Basic git commands.md",
-    "Git/0. Concepts.md",
-    "ZZZ-Debug Vault (Not Notes)/Debug.md",
-    "Data Science/Data Mining/1. Algorithm/1. Unsupervised learning algorithms.md",
-    "Data Science/Data Mining/1. Algorithm/3. Time series analysis.md",
-    "Data Science/Data Mining/1. Algorithm/4. Text Mining.md"
+    "Java/3. Exception/2. Catch Exceptions.md",
+    "Java/3. Exception/0. Introduction to Exception Handling.md",
+    "Java/2. Collections Framework/1. Set.md",
+    "Java/2. Collections Framework/3. Map.md",
+    "Java/2. Collections Framework/0. List.md",
+    "Java/2. Collections Framework/2. Queue.md",
+    "Java/1. OOP/0. Intro.md",
+    "Java/1. OOP/4. Abstraction.md",
+    "Java/0. Syntax/0. Basics.md",
+    "Java/1. OOP/3. Polymorphism.md"
   ]
 }
