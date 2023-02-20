@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e991317aab9e5ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/Fundamentals/0. Data Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56815c79b20aaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/Fundamentals/1. Data Preprocessing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/6. Caches.md",
+                "file": "Data Science/Data Mining/Fundamentals/1. Data Preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/6. Caches.md",
+                "file": "Data Science/Data Mining/Fundamentals/1. Data Preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/6. Caches.md"
+                "file": "Data Science/Data Mining/Fundamentals/1. Data Preprocessing.md"
               }
             }
           }
@@ -147,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76bfed9875434103",
+  "active": "b56815c79b20aaf1",
   "lastOpenFiles": [
+    "Data Science/Data Mining/Fundamentals/0. Data Types.md",
+    "Data Science/Data Mining/Fundamentals/1. Data Preprocessing.md",
+    "Computer Organization and Architecture/6. Caches.md",
     "Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "README.md",
     "Quant/0. Guide/1. Brownian motion.md",
     "Quant/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
     "Quant/2. Stochastic Calculus/Black Scholes/0. Definition.md",
     "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
-    "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
-    "Quant/0. Guide/0. Quantitative Models for Finance.md",
-    "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
-    "Computer Organization and Architecture/5. Instruction Set Architecture (ISA).md"
+    "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md"
   ]
 }
