@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/0. Version Control/0. Concepts.md",
+                "file": "Git/1. Basic git commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/0. Version Control/0. Concepts.md",
+                "file": "Git/1. Basic git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/0. Version Control/0. Concepts.md",
+                "file": "Git/1. Basic git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/0. Version Control/0. Concepts.md"
+                "file": "Git/1. Basic git commands.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "e2599068b5ebea13",
   "lastOpenFiles": [
+    "Git/0. Concepts.md",
     "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "Data Science/Data Mining/1. Algorithm/1. Unsupervised learning algorithms.md",
     "Data Science/Data Mining/1. Algorithm/3. Time series analysis.md",
@@ -157,7 +158,6 @@
     "Data Science/Data Mining/1. Algorithm/2. Association rule mining.md",
     "Data Science/Data Mining/0. Fundamentals/6. Model Deployment.md",
     "Data Science/Data Mining/0. Fundamentals/5. Feature Selection.md",
-    "Data Science/Data Mining/0. Fundamentals/4. Model Evaluation.md",
-    "Data Science/Data Mining/0. Fundamentals/3. Data Mining Techniques.md"
+    "Data Science/Data Mining/0. Fundamentals/4. Model Evaluation.md"
   ]
 }
