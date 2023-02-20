@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Debug.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,11 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "e2599068b5ebea13",
   "lastOpenFiles": [
+    "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "Data Science/Data Mining/1. Algorithm/1. Unsupervised learning algorithms.md",
     "Data Science/Data Mining/1. Algorithm/3. Time series analysis.md",
-    "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "Data Science/Data Mining/1. Algorithm/4. Text Mining.md",
     "Data Science/Data Mining/1. Algorithm/0. Supervised learning algorithms.md",
     "Data Science/Data Mining/1. Algorithm/2. Association rule mining.md",
