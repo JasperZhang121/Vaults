@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5769fe9a12e15649",
+        "id": "b96e052e39e5daf0",
         "type": "tabs",
         "children": [
           {
-            "id": "e2599068b5ebea13",
+            "id": "7fb22af6386c773b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/1. Basic git commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/1. Basic git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/1. Basic git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/1. Basic git commands.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2599068b5ebea13",
+  "active": "7fb22af6386c773b",
   "lastOpenFiles": [
+    "Git/1. Basic git commands.md",
     "Git/0. Concepts.md",
     "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "Data Science/Data Mining/1. Algorithm/1. Unsupervised learning algorithms.md",
@@ -157,7 +150,6 @@
     "Data Science/Data Mining/1. Algorithm/0. Supervised learning algorithms.md",
     "Data Science/Data Mining/1. Algorithm/2. Association rule mining.md",
     "Data Science/Data Mining/0. Fundamentals/6. Model Deployment.md",
-    "Data Science/Data Mining/0. Fundamentals/5. Feature Selection.md",
-    "Data Science/Data Mining/0. Fundamentals/4. Model Evaluation.md"
+    "Data Science/Data Mining/0. Fundamentals/5. Feature Selection.md"
   ]
 }
