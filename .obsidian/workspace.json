@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b96e052e39e5daf0",
+        "id": "83b301b207ccca2b",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb22af6386c773b",
+            "id": "4139c6e510f12ee0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb22af6386c773b",
+  "active": "4139c6e510f12ee0",
   "lastOpenFiles": [
+    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
+    "Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
+    "Symbolic AI/0. Reasoning and Inference/1. Propositional Logic.md",
+    "Symbolic AI/0. Reasoning and Inference/0. Introduction.md",
     "Git/1. Basic git commands.md",
     "Git/0. Concepts.md",
     "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "Data Science/Data Mining/1. Algorithm/1. Unsupervised learning algorithms.md",
     "Data Science/Data Mining/1. Algorithm/3. Time series analysis.md",
-    "Data Science/Data Mining/1. Algorithm/4. Text Mining.md",
-    "Data Science/Data Mining/1. Algorithm/0. Supervised learning algorithms.md",
-    "Data Science/Data Mining/1. Algorithm/2. Association rule mining.md",
-    "Data Science/Data Mining/0. Fundamentals/6. Model Deployment.md",
-    "Data Science/Data Mining/0. Fundamentals/5. Feature Selection.md"
+    "Data Science/Data Mining/1. Algorithm/4. Text Mining.md"
   ]
 }
