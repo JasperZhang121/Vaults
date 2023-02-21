@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md"
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "f3edb270ad22b070",
   "lastOpenFiles": [
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
     "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
     "Statistics/1. Statistical Inference/0. Hypothesis Testing/2. One-sample and two-sample t-test.md",
     "Statistics/1. Statistical Inference/0. Hypothesis Testing/0. Null and alternative hypotheses.md",
@@ -170,7 +171,6 @@
     "Statistics/0. Introduction/1. Probability Theory/2. Central Limit Theorem.md",
     "Statistics/0. Introduction/1. Probability Theory/0. Basic Probability Rules.md",
     "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
-    "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md",
-    "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md"
+    "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md"
   ]
 }
