@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "438c1af7bc2cd176",
+        "id": "85c8708a1620333e",
         "type": "tabs",
         "children": [
           {
-            "id": "321ca1a5321acf75",
+            "id": "087f472fe5fa1c87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3edb270ad22b070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md"
+                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md"
               }
             }
           }
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "321ca1a5321acf75",
+  "active": "f3edb270ad22b070",
   "lastOpenFiles": [
-    "Statistics/0. Introduction/1. Probability Theory/0. Basic Probability Rules.md",
-    "Statistics/0. Introduction/1. Probability Theory/2. Central Limit Theorem.md",
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/2. One-sample and two-sample t-test.md",
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/0. Null and alternative hypotheses.md",
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/1. Type I and Type II errors.md",
     "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
+    "Statistics/0. Introduction/1. Probability Theory/2. Central Limit Theorem.md",
+    "Statistics/0. Introduction/1. Probability Theory/0. Basic Probability Rules.md",
     "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
     "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md",
-    "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md",
-    "Statistics/0. Introduction/0. Intro/1. Types of Data.md",
-    "Statistics/0. Introduction/0. Intro/0. Overview.md",
-    "Statistics/Statistical Inference/Untitled.md",
-    "Git/1. Basic git commands.md"
+    "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md"
   ]
 }
