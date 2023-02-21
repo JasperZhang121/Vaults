@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afcac84ea2cd3265",
+            "id": "321ca1a5321acf75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/0. Introduction/0. Intro/0. Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd67d9c86201d408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/0. Introduction/0. Intro/1. Types of Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9824958ef44611c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9215008e8e53a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b2368a4518f3548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
+                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
+                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
+                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md"
+                "file": "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md"
               }
             }
           }
@@ -196,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b2368a4518f3548",
+  "active": "321ca1a5321acf75",
   "lastOpenFiles": [
+    "Statistics/0. Introduction/1. Probability Theory/0. Basic Probability Rules.md",
+    "Statistics/0. Introduction/1. Probability Theory/2. Central Limit Theorem.md",
+    "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
+    "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
     "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md",
     "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md",
     "Statistics/0. Introduction/0. Intro/1. Types of Data.md",
     "Statistics/0. Introduction/0. Intro/0. Overview.md",
     "Statistics/Statistical Inference/Untitled.md",
-    "Git/1. Basic git commands.md",
-    "Java/7. JDBC/0. Java Database Connectivity.md",
-    "C++/Basic/2. String Vector Array/5. Exercise.md",
-    "C++/Basic/2. String Vector Array/4. Array.md",
-    "C++/Basic/2. String Vector Array/3. Iterator.md"
+    "Git/1. Basic git commands.md"
   ]
 }
