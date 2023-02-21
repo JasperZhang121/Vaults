@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b52a8d04b6d0964",
+        "id": "6e06fba706a3e1ed",
         "type": "tabs",
         "children": [
           {
-            "id": "378e353f38956dbf",
+            "id": "398deb9c54c87d8b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "398deb9c54c87d8b",
   "lastOpenFiles": [
+    "Java/7. JDBC/0. Java Database Connectivity.md",
+    "Java/6. IO/2. Network based.md",
+    "Java/6. IO/1. Advanced.md",
+    "Java/6. IO/0. Intro.md",
+    "Java/5. Networking/2. Networked Applications.md",
     "Java/5. Networking/0. Fundamentals of Networking.md",
     "Java/5. Networking/1. Advanced Networking.md",
-    "Java/5. Networking/2. Networked Applications.md",
     "Java/1. OOP/3. Polymorphism.md",
     "Java/1. OOP/4. Abstraction.md",
-    "Java/4. Multithreading/2. Thread vs Process.md",
-    "Java/4. Multithreading/0. Intro.md",
-    "Java/4. Multithreading/1. Synchronization and Coordination.md",
-    "Java/3. Exception/1. Exceptions Handling.md",
-    "Java/3. Exception/2. Catch Exceptions.md"
+    "Java/4. Multithreading/2. Thread vs Process.md"
   ]
 }
