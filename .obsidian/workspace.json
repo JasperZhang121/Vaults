@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c480dae5813d4786",
+        "id": "220e9144341f2bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "a7db7da109fb20cf",
+            "id": "0ea24fdd1c9fe28e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/3. Exception/1. Exceptions Handling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/3. Exception/1. Exceptions Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/3. Exception/1. Exceptions Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/3. Exception/1. Exceptions Handling.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7db7da109fb20cf",
+  "active": "0ea24fdd1c9fe28e",
   "lastOpenFiles": [
+    "Java/5. Networking/1. Advanced Networking.md",
+    "Java/5. Networking/0. Fundamentals of Networking.md",
+    "Java/5. Networking/2. Networked Applications.md",
+    "Java/4. Multithreading/2. Thread vs Process.md",
+    "Java/4. Multithreading/0. Intro.md",
+    "Java/4. Multithreading/1. Synchronization and Coordination.md",
+    "Java/3. Exception/1. Exceptions Handling.md",
     "Java/3. Exception/2. Catch Exceptions.md",
     "Java/3. Exception/0. Introduction to Exception Handling.md",
-    "Java/2. Collections Framework/1. Set.md",
-    "Java/2. Collections Framework/3. Map.md",
-    "Java/2. Collections Framework/0. List.md",
-    "Java/2. Collections Framework/2. Queue.md",
-    "Java/1. OOP/0. Intro.md",
-    "Java/1. OOP/4. Abstraction.md",
-    "Java/0. Syntax/0. Basics.md",
-    "Java/1. OOP/3. Polymorphism.md"
+    "Java/2. Collections Framework/1. Set.md"
   ]
 }
