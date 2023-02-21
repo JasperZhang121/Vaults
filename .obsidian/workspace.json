@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
+                "file": "C++/Basic/2. String Vector Array/5. Exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
+                "file": "C++/Basic/2. String Vector Array/5. Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
+                "file": "C++/Basic/2. String Vector Array/5. Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md"
+                "file": "C++/Basic/2. String Vector Array/5. Exercise.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "f3edb270ad22b070",
   "lastOpenFiles": [
-    "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
+    "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
+    "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
+    "C++/Basic/0. General Concepts/1. STL.md",
+    "C++/Basic/2. String Vector Array/1. String.md",
+    "C++/Basic/2. String Vector Array/2. Vector.md",
+    "C++/Basic/2. String Vector Array/5. Exercise.md",
     "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
     "Statistics/1. Statistical Inference/0. Hypothesis Testing/2. One-sample and two-sample t-test.md",
-    "Statistics/1. Statistical Inference/0. Hypothesis Testing/0. Null and alternative hypotheses.md",
-    "Statistics/1. Statistical Inference/0. Hypothesis Testing/1. Type I and Type II errors.md",
-    "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
-    "Statistics/0. Introduction/1. Probability Theory/2. Central Limit Theorem.md",
-    "Statistics/0. Introduction/1. Probability Theory/0. Basic Probability Rules.md",
-    "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
-    "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md"
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/0. Null and alternative hypotheses.md"
   ]
 }
