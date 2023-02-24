@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45c882169db42913",
+        "id": "cc2a09ef3228119b",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e11200292a4568",
+            "id": "210c23b276087665",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -147,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9e11200292a4568",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "C++/Basic/2. String Vector Array/5. Exercise.md",
     "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
