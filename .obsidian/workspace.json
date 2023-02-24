@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2a09ef3228119b",
+        "id": "e084fc6c2beff865",
         "type": "tabs",
         "children": [
           {
-            "id": "210c23b276087665",
+            "id": "5a45317e5f55ae46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Basic/3. Expression/0. Basics of Expressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "961bef0f0a5d0a82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Basic/3. Expression/1. Operators.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/3. Expression/1. Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/3. Expression/1. Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/Basic/3. Expression/1. Operators.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,10 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "961bef0f0a5d0a82",
+  "active": "5a45317e5f55ae46",
   "lastOpenFiles": [
-    "C++/Basic/3. Expression/0. Basics of Expressions.md",
+    "Python/OOP/2. Inheritance.md",
+    "Python/OOP/3. Polymorphism.md",
+    "Python/OOP/1. Encapsulation.md",
+    "Python/OOP/0. Class.md",
+    "Python/OOP",
+    "Python/Data Analysis & Modeling & ML",
     "C++/Basic/3. Expression/1. Operators.md",
+    "C++/Basic/3. Expression/0. Basics of Expressions.md",
     "C++/Basic/2. String Vector Array/5. Exercise.md",
     "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
     "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
