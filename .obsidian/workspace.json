@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e084fc6c2beff865",
+        "id": "941f5c88b8db3459",
         "type": "tabs",
         "children": [
           {
-            "id": "5a45317e5f55ae46",
+            "id": "b97c48b35b27a4f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/Basic/3. Expression/3. Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Basic/3. Expression/3. Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/Basic/3. Expression/3. Exercise.md"
+              }
             }
           }
         ],
@@ -139,15 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a45317e5f55ae46",
+  "active": "b97c48b35b27a4f8",
   "lastOpenFiles": [
+    "C++/Basic/3. Expression/2. Type Conversion.md",
+    "C++/Basic/3. Expression/3. Exercise.md",
+    "C++/Basic/3. Expression/1. Operators.md",
+    "Python/Data Analysis & Modeling & ML/Pandas.md",
+    "Python/Data Analysis & Modeling & ML/Numpy.md",
     "Python/OOP/2. Inheritance.md",
     "Python/OOP/3. Polymorphism.md",
     "Python/OOP/1. Encapsulation.md",
     "Python/OOP/0. Class.md",
     "Python/OOP",
     "Python/Data Analysis & Modeling & ML",
-    "C++/Basic/3. Expression/1. Operators.md",
     "C++/Basic/3. Expression/0. Basics of Expressions.md",
     "C++/Basic/2. String Vector Array/5. Exercise.md",
     "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
