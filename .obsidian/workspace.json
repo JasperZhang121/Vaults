@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b97c48b35b27a4f8",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "C++/Basic/3. Expression/2. Type Conversion.md",
+    "C++/Basic/1. Variable/0. Notes/3. Pointers.md",
     "C++/Basic/3. Expression/3. Exercise.md",
+    "C++/Basic/3. Expression/2. Type Conversion.md",
     "C++/Basic/3. Expression/1. Operators.md",
     "Python/Data Analysis & Modeling & ML/Pandas.md",
     "Python/Data Analysis & Modeling & ML/Numpy.md",
