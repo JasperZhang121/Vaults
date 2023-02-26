@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "941f5c88b8db3459",
+        "id": "d99472b65146cf9f",
         "type": "tabs",
         "children": [
           {
-            "id": "b97c48b35b27a4f8",
+            "id": "40776fff1287069b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "file": "Leetcode/SQL/183. Customers Who Never Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "file": "Leetcode/SQL/183. Customers Who Never Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "file": "Leetcode/SQL/183. Customers Who Never Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md"
+                "file": "Leetcode/SQL/183. Customers Who Never Order.md"
               }
             }
           }
@@ -147,10 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "40776fff1287069b",
   "lastOpenFiles": [
-    "C++/Basic/1. Variable/0. Notes/3. Pointers.md",
+    "Leetcode/SQL/183. Customers Who Never Order.md",
+    "Leetcode/SQL/584. Find Customer Referee.md",
+    "Leetcode/SQL/1757. Recyclable and Low Fat Products.md",
+    "Leetcode/SQL/595. Big Countries.md",
     "C++/Basic/3. Expression/3. Exercise.md",
+    "Leetcode/SQL",
+    "C++/Basic/1. Variable/0. Notes/3. Pointers.md",
     "C++/Basic/3. Expression/2. Type Conversion.md",
     "C++/Basic/3. Expression/1. Operators.md",
     "Python/Data Analysis & Modeling & ML/Pandas.md",
