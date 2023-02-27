@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5866cbaac5974302",
+        "id": "4d2582f122eec59f",
         "type": "tabs",
         "children": [
           {
-            "id": "f29750a03ba29955",
+            "id": "7cb5f1cd445198eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f29750a03ba29955",
+  "active": "7cb5f1cd445198eb",
   "lastOpenFiles": [
-    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
