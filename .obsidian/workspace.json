@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad73eea811b00e1",
+        "id": "5866cbaac5974302",
         "type": "tabs",
         "children": [
           {
-            "id": "561a128ea380cf4a",
+            "id": "48571823494a0d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Basic/3. Expression/3. Exercise.md"
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md"
               }
             }
           }
@@ -147,13 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "561a128ea380cf4a",
+  "active": "48571823494a0d50",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
+    "C++/Basic/3. Expression/3. Exercise.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction",
+    "Data Science/Data Mining/0. Concepts",
     "Leetcode/SQL/183. Customers Who Never Order.md",
     "Leetcode/SQL/584. Find Customer Referee.md",
     "Leetcode/SQL/1757. Recyclable and Low Fat Products.md",
     "Leetcode/SQL/595. Big Countries.md",
-    "C++/Basic/3. Expression/3. Exercise.md",
     "Leetcode/SQL",
     "C++/Basic/1. Variable/0. Notes/3. Pointers.md",
     "C++/Basic/3. Expression/2. Type Conversion.md",
