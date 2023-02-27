@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "902e56e9f5a897ea",
+            "id": "f29750a03ba29955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md"
+                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902e56e9f5a897ea",
+  "active": "f29750a03ba29955",
   "lastOpenFiles": [
+    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
+    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
     "C++/Basic/3. Expression/3. Exercise.md",
@@ -177,8 +179,6 @@
     "C++/Basic/3. Expression/0. Basics of Expressions.md",
     "C++/Basic/2. String Vector Array/5. Exercise.md",
     "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
-    "C++/Basic/0. General Concepts/0. Syntax and Rules.md",
-    "C++/Basic/0. General Concepts/1. STL.md",
-    "C++/Basic/2. String Vector Array/1. String.md"
+    "C++/Basic/0. General Concepts/0. Syntax and Rules.md"
   ]
 }
