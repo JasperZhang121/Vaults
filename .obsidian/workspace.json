@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d153ac0af419066a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ced2893d5bf30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 296
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md"
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md"
               }
             }
           }
@@ -147,8 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48571823494a0d50",
+  "active": "10ced2893d5bf30d",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
     "C++/Basic/3. Expression/3. Exercise.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction",
@@ -177,8 +204,6 @@
     "C++/Basic/2. String Vector Array/1. String.md",
     "C++/Basic/2. String Vector Array/2. Vector.md",
     "Statistics/1. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
-    "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md",
-    "Statistics/1. Statistical Inference/0. Hypothesis Testing/2. One-sample and two-sample t-test.md",
-    "Statistics/1. Statistical Inference/0. Hypothesis Testing/0. Null and alternative hypotheses.md"
+    "Statistics/1. Statistical Inference/0. Hypothesis Testing/4. Chi-squared tests.md"
   ]
 }
