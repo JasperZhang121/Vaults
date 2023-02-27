@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cb5f1cd445198eb",
+            "id": "adc569d0596fca55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+                "file": "C++/Basic/4. Statements/1. Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+                "file": "C++/Basic/4. Statements/1. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+                "file": "C++/Basic/4. Statements/1. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md"
+                "file": "C++/Basic/4. Statements/1. Exercises.md"
               }
             }
           }
@@ -147,9 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cb5f1cd445198eb",
+  "active": "adc569d0596fca55",
   "lastOpenFiles": [
+    "C++/Basic/4. Statements/0. Statements.md",
+    "C++/Basic/4. Statements/1. Exercises.md",
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+    "C++/Basic/4. Statements",
     "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
@@ -177,8 +180,6 @@
     "Python/OOP",
     "Python/Data Analysis & Modeling & ML",
     "C++/Basic/3. Expression/0. Basics of Expressions.md",
-    "C++/Basic/2. String Vector Array/5. Exercise.md",
-    "C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
-    "C++/Basic/0. General Concepts/0. Syntax and Rules.md"
+    "C++/Basic/2. String Vector Array/5. Exercise.md"
   ]
 }
