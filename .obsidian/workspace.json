@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05c544fc56ff763a",
+            "id": "b15e83961bc4f9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c953451c5e0abf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md"
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md"
               }
             }
           }
@@ -160,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c953451c5e0abf8",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
+    "Z-Pictures/Stats-ML/quartile.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
+    "Z-Pictures/Stats-ML/mean-mode-median.png",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
     "Leetcode/Array/Sort/912. Sort an Array.md",
     "Leetcode/SQL/1965. Employees With Missing Information.md",
     "Leetcode/Array/Sort",
@@ -192,8 +182,6 @@
     "Leetcode/SQL",
     "C++/Basic/1. Variable/0. Notes/3. Pointers.md",
     "C++/Basic/3. Expression/2. Type Conversion.md",
-    "C++/Basic/3. Expression/1. Operators.md",
-    "Python/Data Analysis & Modeling & ML/Pandas.md",
     "Python/OOP",
     "Python/Data Analysis & Modeling & ML"
   ]
