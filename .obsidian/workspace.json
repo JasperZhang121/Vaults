@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61c4038d89669d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md"
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md"
               }
             }
           }
@@ -147,11 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "61c4038d89669d23",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
+    "outlier.png",
+    "Z-Pictures/Stats-ML/Five-number summary.png",
     "Z-Pictures/Stats-ML/quartile.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
     "Z-Pictures/Stats-ML/mean-mode-median.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
     "Leetcode/Array/Sort/912. Sort an Array.md",
