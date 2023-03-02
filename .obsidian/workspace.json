@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0500a9989e7bc75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,14 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e3d28da5bf6f946",
+  "active": "0500a9989e7bc75c",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+    "conflict-files-obsidian-git.md",
+    "AWS/Services/IAM/0. Intro.md",
+    "AWS/Services/IAM",
+    "AWS/Services",
+    "AWS/Introduction/1. Services.md",
+    "AWS/Introduction/0. Intro.md",
+    "AWS/Introduction",
     "AWS/0. Intro.md",
     "AWS",
     "ZZZ-Debug Vault (Not Notes)/Sync Test.md",
-    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.7 Proximity Measures for Nominal Attributes.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
@@ -194,13 +212,8 @@
     "C++/Basic/4. Statements/0. Statements.md",
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "C++/Basic/4. Statements",
-    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction",
     "Data Science/Data Mining/0. Concepts",
-    "Leetcode/SQL",
-    "Python/OOP",
-    "Python/Data Analysis & Modeling & ML"
+    "Leetcode/SQL"
   ]
 }
