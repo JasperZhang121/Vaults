@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3984660fc4941fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434
+    "width": 269
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -160,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e3d28da5bf6f946",
+  "active": "b3984660fc4941fe",
   "lastOpenFiles": [
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.7 Proximity Measures for Nominal Attributes.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
