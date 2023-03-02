@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b15e83961bc4f9ee",
+            "id": "afb88565244c7ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61c4038d89669d23",
+            "id": "82d99157b029c9f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md"
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md"
               }
             }
           }
@@ -160,11 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61c4038d89669d23",
+  "active": "82d99157b029c9f0",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/2. Foundation/3.2. Measuring the Dispersion of Data.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/3.3. Computation of Measures.md",
-    "outlier.png",
+    "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.4 Computation of Measures.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
+    "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
     "Z-Pictures/Stats-ML/quartile.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
@@ -192,12 +195,9 @@
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
-    "C++/Basic/3. Expression/3. Exercise.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction",
     "Data Science/Data Mining/0. Concepts",
     "Leetcode/SQL",
-    "C++/Basic/1. Variable/0. Notes/3. Pointers.md",
-    "C++/Basic/3. Expression/2. Type Conversion.md",
     "Python/OOP",
     "Python/Data Analysis & Modeling & ML"
   ]
