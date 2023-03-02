@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3399a085e5b618",
+        "id": "b8855af9c54ec394",
         "type": "tabs",
         "children": [
           {
-            "id": "cc039899f6d42cfd",
+            "id": "8051f00ca5cc6696",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.7 Proximity Measures for Nominal Attributes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e3d28da5bf6f946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434
+    "width": 269
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md"
+              }
             }
           }
         ],
@@ -139,13 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc039899f6d42cfd",
+  "active": "9e3d28da5bf6f946",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "ZZZ-Debug Vault (Not Notes)/Sync Test.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.7 Proximity Measures for Nominal Attributes.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
@@ -175,6 +195,7 @@
     "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction",
     "Data Science/Data Mining/0. Concepts",
     "Leetcode/SQL",
