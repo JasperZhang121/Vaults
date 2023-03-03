@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Services/IAM/0. Intro.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "549938bf652bf34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/SQL/Union&Select/608. Tree Node.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Services/IAM/0. Intro.md",
+                "file": "Leetcode/SQL/Union&Select/608. Tree Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Services/IAM/0. Intro.md",
+                "file": "Leetcode/SQL/Union&Select/608. Tree Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Services/IAM/0. Intro.md"
+                "file": "Leetcode/SQL/Union&Select/608. Tree Node.md"
               }
             }
           }
@@ -147,15 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "549938bf652bf34d",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
+    "Leetcode/SQL/Union&Select/608. Tree Node.md",
+    "AWS/Services/IAM/0. Intro.md",
     "Leetcode/SQL/Union&Select",
     "Leetcode/SQL/String Processing Functions",
     "Leetcode/SQL/Select&Order",
     "Leetcode/SQL/Select",
     "AWS/Introduction/0. Intro.md",
     "AWS/Introduction/1. Services.md",
-    "AWS/Services/IAM/0. Intro.md",
     "AWS/Services/IAM",
     "AWS/Services",
     "AWS/Introduction",
@@ -187,8 +202,6 @@
     "Leetcode/SQL/Select/584. Find Customer Referee.md",
     "Leetcode/SQL/Select/595. Big Countries.md",
     "Leetcode/SQL/String Processing Functions/1667. Fix Names in a Table.md",
-    "C++/Basic/4. Statements/1. Exercises.md",
-    "C++/Basic/4. Statements/0. Statements.md",
-    "C++/Basic/4. Statements"
+    "C++/Basic/4. Statements/1. Exercises.md"
   ]
 }
