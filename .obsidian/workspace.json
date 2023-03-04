@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b659f9f311ffca3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "370d685951a90aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/SQL/Union/197. Rising Temperature.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/SQL/Union/197. Rising Temperature.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/SQL/Union/197. Rising Temperature.md"
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md"
               }
             }
           }
@@ -147,10 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e761862ac65ac7ff",
+  "active": "370d685951a90aee",
   "lastOpenFiles": [
-    "Python/OOP/2. Inheritance.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
     "Leetcode/SQL/Union/197. Rising Temperature.md",
+    "Python/OOP/2. Inheritance.md",
     "Leetcode/SQL/Union",
     "Python/OOP/1. Encapsulation.md",
     "Python/OOP/0. Class.md",
@@ -187,8 +214,6 @@
     "Leetcode/Array/Sort/912. Sort an Array.md",
     "Leetcode/SQL/Union&Select/1965. Employees With Missing Information.md",
     "Leetcode/Array/Sort",
-    "Leetcode/SQL/String Processing Functions/1527. Patients With a Condition.md",
-    "Leetcode/SQL/String Processing Functions/1484. Group Sold Products By The Date.md",
-    "Leetcode/SQL/Select/1757. Recyclable and Low Fat Products.md"
+    "Leetcode/SQL/String Processing Functions/1527. Patients With a Condition.md"
   ]
 }
