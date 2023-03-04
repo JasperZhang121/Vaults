@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8d581a09b5d7334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md"
+                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "370d685951a90aee",
+  "active": "e8d581a09b5d7334",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+    "Leetcode/Tree/1302. Deepest Leaves Sum.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
     "Leetcode/SQL/Union/197. Rising Temperature.md",
     "Python/OOP/2. Inheritance.md",
     "Leetcode/SQL/Union",
@@ -188,7 +202,6 @@
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
     "Leetcode/Array/Sort/912. Sort an Array.md",
     "Leetcode/SQL/Union&Select/1965. Employees With Missing Information.md",
-    "Leetcode/Array/Sort",
-    "Leetcode/SQL/String Processing Functions/1527. Patients With a Condition.md"
+    "Leetcode/Array/Sort"
   ]
 }
