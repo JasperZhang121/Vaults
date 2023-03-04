@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9436f0c99e917d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "549938bf652bf34d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Debug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8234ceb8c3e468b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/OOP/2. Inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e761862ac65ac7ff",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
