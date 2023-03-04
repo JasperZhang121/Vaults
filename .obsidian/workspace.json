@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3399a085e5b618",
+        "id": "956556ae95dae781",
         "type": "tabs",
         "children": [
           {
-            "id": "370d685951a90aee",
+            "id": "2f3c24c78613eddc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8d581a09b5d7334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/Tree/1302. Deepest Leaves Sum.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,10 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d581a09b5d7334",
+  "active": "2f3c24c78613eddc",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+    "Linux/3. Shell.md",
+    "Linux/4. Extra.md",
+    "Linux/5. GCC.md",
     "Leetcode/Tree/1302. Deepest Leaves Sum.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
     "Leetcode/SQL/Union/197. Rising Temperature.md",
     "Python/OOP/2. Inheritance.md",
@@ -199,9 +181,6 @@
     "Z-Pictures/Stats-ML/quartile.png",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
     "Z-Pictures/Stats-ML/mean-mode-median.png",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
-    "Leetcode/Array/Sort/912. Sort an Array.md",
-    "Leetcode/SQL/Union&Select/1965. Employees With Missing Information.md",
     "Leetcode/Array/Sort"
   ]
 }
