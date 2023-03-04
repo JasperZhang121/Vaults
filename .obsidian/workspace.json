@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e761862ac65ac7ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/SQL/Union/197. Rising Temperature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b659f9f311ffca3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "370d685951a90aee",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
