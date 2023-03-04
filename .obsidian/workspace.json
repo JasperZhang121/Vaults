@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Git-testing.md",
+                "file": "Python/OOP/2. Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Git-testing.md",
+                "file": "Python/OOP/2. Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Git-testing.md",
+                "file": "Python/OOP/2. Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZ-Debug Vault (Not Notes)/Git-testing.md"
+                "file": "Python/OOP/2. Inheritance.md"
               }
             }
           }
@@ -174,8 +174,10 @@
   },
   "active": "8234ceb8c3e468b1",
   "lastOpenFiles": [
-    "ZZZ-Debug Vault (Not Notes)/Debug.md",
+    "Python/OOP/1. Encapsulation.md",
+    "Python/OOP/0. Class.md",
     "ZZZ-Debug Vault (Not Notes)/Git-testing.md",
+    "ZZZ-Debug Vault (Not Notes)/Debug.md",
     "Leetcode/SQL/Union&Select/608. Tree Node.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
     "AWS/Services/IAM/0. Intro.md",
@@ -212,8 +214,6 @@
     "Leetcode/SQL/String Processing Functions/1484. Group Sold Products By The Date.md",
     "Leetcode/SQL/Select/1757. Recyclable and Low Fat Products.md",
     "Leetcode/SQL/Select/183. Customers Who Never Order.md",
-    "Leetcode/SQL/Select/584. Find Customer Referee.md",
-    "Leetcode/SQL/Select/595. Big Countries.md",
-    "Leetcode/SQL/String Processing Functions/1667. Fix Names in a Table.md"
+    "Leetcode/SQL/Select/584. Find Customer Referee.md"
   ]
 }
