@@ -139,8 +139,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3c24c78613eddc",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "AWS/Introduction/Intro.md",
     "Linux/3. Shell.md",
     "Linux/4. Extra.md",
     "Linux/5. GCC.md",
@@ -179,7 +180,6 @@
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
     "Z-Pictures/Stats-ML/quartile.png",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
     "Z-Pictures/Stats-ML/mean-mode-median.png",
     "Leetcode/Array/Sort"
   ]
