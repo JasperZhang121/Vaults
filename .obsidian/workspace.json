@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+                "file": "AWS/Services/IAM/0. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+                "file": "AWS/Services/IAM/0. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+                "file": "AWS/Services/IAM/0. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md"
+                "file": "AWS/Services/IAM/0. Intro.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "9e3d28da5bf6f946",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+    "conflict-files-obsidian-git.md",
     "AWS/Services/IAM/0. Intro.md",
     "AWS/Services/IAM",
     "AWS/Services",
