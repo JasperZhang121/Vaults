@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fc3986ac4191e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/2. Search/1. Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Agents.md",
+                "file": "Symbolic AI/2. Search/1. Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Agents.md",
+                "file": "Symbolic AI/2. Search/1. Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Agents.md"
+                "file": "Symbolic AI/2. Search/1. Search.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa9beac87fa2796",
+  "active": "0fc3986ac4191e0f",
   "lastOpenFiles": [
     "Symbolic AI/2. Search/0. Agents.md",
+    "Symbolic AI/2. Search/1. Search.md",
     "conflict-files-obsidian-git.md",
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Symbolic AI/2. Search",
@@ -183,7 +197,6 @@
     "AWS",
     "ZZZ-Debug Vault (Not Notes)/Sync Test.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.7 Proximity Measures for Nominal Attributes.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
