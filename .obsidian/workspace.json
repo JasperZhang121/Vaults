@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec4073c32874d2f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8073e4516666f236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic AI/2. Search/0. Agents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "caa9beac87fa2796",
             "type": "leaf",
             "state": {
@@ -38,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe75f8103b64856a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/0. Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/0. Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Symbolic AI/2. Search/0. Agents.md"
               }
             }
           }
@@ -180,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe75f8103b64856a",
+  "active": "caa9beac87fa2796",
   "lastOpenFiles": [
     "Symbolic AI/2. Search/0. Agents.md",
     "conflict-files-obsidian-git.md",
