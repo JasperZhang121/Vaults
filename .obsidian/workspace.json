@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/2. Complex/1. Segment Tree.md",
+                "file": "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/2. Complex/1. Segment Tree.md",
+                "file": "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/2. Complex/1. Segment Tree.md",
+                "file": "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/2. Complex/1. Segment Tree.md"
+                "file": "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "43050bb643172dc5",
   "lastOpenFiles": [
+    "Data Structures/2. Complex/1. Segment Tree.md",
     "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex/5. B-Tree.md",
     "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex/3. AVL tree.md",
     "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
-    "Data Structures/2. Complex/1. Segment Tree.md",
     "Data Structures/2. Complex/0. Graph.md",
     "Data Structures/1. Intermediate/4. Map.md",
     "Data Structures/1. Intermediate/2. Hash Table.md",
