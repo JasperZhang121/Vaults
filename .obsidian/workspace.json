@@ -11,8 +11,12 @@
             "id": "48828d238bcdb5b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md"
+              }
             }
           }
         ],
@@ -141,6 +149,8 @@
   },
   "active": "48828d238bcdb5b8",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex/5. B-Tree.md",
     "Data Structures/2. Complex/3. AVL tree.md",
@@ -171,12 +181,10 @@
     "conflict-files-obsidian-git.md",
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Symbolic AI/2. Search",
-    "AWS/Services/IAM/0. Intro.md",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
     "Leetcode/SQL/String Processing Functions",
     "Leetcode/SQL/Select",
-    "AWS/Services/IAM",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
