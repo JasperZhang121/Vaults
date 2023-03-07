@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23a7fd64ddcee32f",
+        "id": "58c3545436b0928f",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe37f8eaa0fc0ba",
+            "id": "43050bb643172dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/1. Intermediate/1. Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d80684818c1b3b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/1. Intermediate/2. Hash Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8804916670f5f99a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/1. Intermediate/3. Trie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ed4dfc0370a7074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/1. Intermediate/2. Hash Table.md",
+                "file": "Data Structures/2. Complex/1. Segment Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/1. Intermediate/2. Hash Table.md",
+                "file": "Data Structures/2. Complex/1. Segment Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/1. Intermediate/2. Hash Table.md",
+                "file": "Data Structures/2. Complex/1. Segment Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/1. Intermediate/2. Hash Table.md"
+                "file": "Data Structures/2. Complex/1. Segment Tree.md"
               }
             }
           }
@@ -184,11 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ed4dfc0370a7074",
+  "active": "43050bb643172dc5",
   "lastOpenFiles": [
+    "Data Structures/2. Complex/6. B+ Tree.md",
+    "Data Structures/2. Complex/5. B-Tree.md",
+    "Data Structures/2. Complex/4. Red-black tree.md",
+    "Data Structures/2. Complex/3. AVL tree.md",
+    "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
+    "Data Structures/2. Complex/1. Segment Tree.md",
+    "Data Structures/2. Complex/0. Graph.md",
     "Data Structures/1. Intermediate/4. Map.md",
-    "Data Structures/1. Intermediate/3. Trie.md",
     "Data Structures/1. Intermediate/2. Hash Table.md",
+    "Data Structures/1. Intermediate/3. Trie.md",
     "Data Structures/1. Intermediate/1. Heap.md",
     "Data Structures/1. Intermediate/0. Binary Tree.md",
     "Data Structures/0. Simple/4. Set.md",
@@ -210,15 +180,8 @@
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Symbolic AI/2. Search",
     "AWS/Services/IAM/0. Intro.md",
-    "ZZZ-Debug Vault (Not Notes)/Git-testing.md",
-    "Leetcode/Tree/1302. Deepest Leaves Sum.md",
-    "Leetcode/SQL/Union/197. Rising Temperature.md",
     "Leetcode/SQL/Union",
-    "Leetcode/SQL/Union&Select/608. Tree Node.md",
-    "Leetcode/SQL/Union&Select/1965. Employees With Missing Information.md",
     "Leetcode/SQL/Union&Select",
-    "Leetcode/SQL/String Processing Functions/1667. Fix Names in a Table.md",
-    "Leetcode/SQL/String Processing Functions/1527. Patients With a Condition.md",
     "Leetcode/SQL/String Processing Functions",
     "Leetcode/SQL/Select",
     "AWS/Services/IAM",
