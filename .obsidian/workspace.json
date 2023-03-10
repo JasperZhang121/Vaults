@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d72565824bcbfa24",
+        "id": "82b6578db2f45ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "48828d238bcdb5b8",
+            "id": "23bd0381bea06671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 328.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -147,20 +143,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48828d238bcdb5b8",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/0. Agents.md",
+    "Symbolic AI/2. Search/1. Search.md",
+    "Symbolic AI/2. Search",
     "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex/5. B-Tree.md",
     "Data Structures/2. Complex/3. AVL tree.md",
+    "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
     "Data Structures/2. Complex/1. Segment Tree.md",
-    "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex/0. Graph.md",
     "Data Structures/1. Intermediate/4. Map.md",
-    "Data Structures/1. Intermediate/2. Hash Table.md",
     "Data Structures/1. Intermediate/3. Trie.md",
+    "Data Structures/1. Intermediate/2. Hash Table.md",
     "Data Structures/1. Intermediate/1. Heap.md",
     "Data Structures/1. Intermediate/0. Binary Tree.md",
     "Data Structures/0. Simple/4. Set.md",
@@ -168,23 +166,21 @@
     "Data Structures/0. Simple/2. Stack.md",
     "Data Structures/0. Simple/1. Linked List.md",
     "Data Structures/0. Simple/0. Array.md",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
-    "Algorithm/Dijkstra.md",
-    "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
-    "Algorithm/Breadth First Search.md",
-    "Symbolic AI/2. Search/1. Search.md",
-    "Symbolic AI/2. Search/0. Agents.md",
-    "conflict-files-obsidian-git.md",
-    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
-    "Symbolic AI/2. Search",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
+    "AWS/Introduction/Intro.md",
+    "Linux/3. Shell.md",
+    "Linux/4. Extra.md",
+    "Linux/5. GCC.md",
+    "Leetcode/Tree/1302. Deepest Leaves Sum.md",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
     "Leetcode/SQL/String Processing Functions",
-    "Leetcode/SQL/Select",
+    "Leetcode/SQL/Select&Order",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
