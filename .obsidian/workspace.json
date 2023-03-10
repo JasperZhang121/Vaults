@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "82b6578db2f45ae4",
+        "id": "bf7265384876e663",
         "type": "tabs",
         "children": [
           {
-            "id": "23bd0381bea06671",
+            "id": "ef33d785fee31c51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Floyd's cycle-finding algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Algorithm/Floyd's cycle-finding algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Algorithm/Floyd's cycle-finding algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md"
+                "file": "Algorithm/Floyd's cycle-finding algorithm.md"
               }
             }
           }
@@ -143,8 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "ef33d785fee31c51",
   "lastOpenFiles": [
+    "Leetcode/Array/DP/70. Climbing Stairs.md",
+    "Algorithm/Floyd's cycle-finding algorithm.md",
+    "Algorithm/Dijkstra.md",
+    "Algorithm/Breadth First Search.md",
+    "Algorithm/A star.md",
+    "Algorithm/Depth First Search.md",
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/0. Agents.md",
     "Symbolic AI/2. Search/1. Search.md",
@@ -170,13 +180,7 @@
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
-    "AWS/Introduction/Intro.md",
-    "Linux/3. Shell.md",
-    "Linux/4. Extra.md",
-    "Linux/5. GCC.md",
-    "Leetcode/Tree/1302. Deepest Leaves Sum.md",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
     "Leetcode/SQL/String Processing Functions",
