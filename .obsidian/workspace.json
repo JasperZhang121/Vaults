@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md"
+                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "48828d238bcdb5b8",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Data Structures/2. Complex/6. B+ Tree.md",
@@ -178,8 +180,6 @@
     "Algorithm/Breadth First Search.md",
     "Symbolic AI/2. Search/1. Search.md",
     "Symbolic AI/2. Search/0. Agents.md",
-    "conflict-files-obsidian-git.md",
-    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Symbolic AI/2. Search",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
