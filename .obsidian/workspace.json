@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "878f213d6b69fdfe",
+            "id": "b8f89bea922c6e70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SQL/Precedence.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SQL/Precedence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SQL/Precedence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "SQL/Precedence.md"
               }
             }
           }
@@ -160,9 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "878f213d6b69fdfe",
+  "active": "b8f89bea922c6e70",
   "lastOpenFiles": [
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+    "SQL/Precedence.md",
+    "SQL",
     "conflict-files-obsidian-git.md",
     "Algorithm/Floyd's cycle-finding algorithm.md",
     "Algorithm/A star.md",
@@ -192,12 +194,10 @@
     "Data Structures/0. Simple",
     "Data Structures",
     "Algorithm/Dijkstra.md",
-    "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
     "Symbolic AI/2. Search",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
     "Leetcode/SQL/String Processing Functions",
-    "Leetcode/SQL/Select",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
