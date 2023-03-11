@@ -9,7 +9,7 @@
 - [[69. Sqrt(x)]]
 
 #### Fast-slow pointers:
-- [[Floyd]]
+- [[Floyd's cycle-finding algorithm]]
 - [[1004. Max Consecutive Ones III]]
 - [[455. Assign Cookies]]
 - [[392. Is Subsequence]]

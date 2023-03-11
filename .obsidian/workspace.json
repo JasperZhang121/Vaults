@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "878f213d6b69fdfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48828d238bcdb5b8",
+  "active": "878f213d6b69fdfe",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+    "conflict-files-obsidian-git.md",
+    "Algorithm/Floyd's cycle-finding algorithm.md",
+    "Algorithm/A star.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Data Structures/2. Complex/6. B+ Tree.md",
@@ -177,9 +193,6 @@
     "Data Structures",
     "Algorithm/Dijkstra.md",
     "Leetcode/Shortest Path/787. Cheapest Flights Within K Stops.md",
-    "Algorithm/Breadth First Search.md",
-    "Symbolic AI/2. Search/1. Search.md",
-    "Symbolic AI/2. Search/0. Agents.md",
     "Symbolic AI/2. Search",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
