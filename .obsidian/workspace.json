@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1cfc7af0fc5beea",
+            "id": "5b9e6c0b6cb2b431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6db35b7d783ecc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df4774ed6c095262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md"
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md"
               }
             }
           }
@@ -147,14 +172,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1cfc7af0fc5beea",
+  "active": "df4774ed6c095262",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "data cube.png",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
+    "Z-Pictures/Data/data warehouse pivot.png",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
+    "Z-Pictures/Data/data cube.png",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-    "data warehouse architecture.png",
+    "Z-Pictures/Data/data warehouse architecture.png",
     "Z-Pictures/Data",
     "Z-Pictures/Data/data warehouse comparision.png",
     "Algorithm/A star.md",
@@ -177,10 +207,6 @@
     "Data Structures/1. Intermediate/2. Hash Table.md",
     "Data Structures/1. Intermediate/3. Trie.md",
     "Data Structures/1. Intermediate/1. Heap.md",
-    "Data Structures/1. Intermediate/0. Binary Tree.md",
-    "Data Structures/0. Simple/4. Set.md",
-    "Data Structures/0. Simple/3. Queue.md",
-    "Data Structures/0. Simple/2. Stack.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
