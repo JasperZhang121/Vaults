@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "05229c062c19ccf6",
+        "id": "b7c728c38d979f98",
         "type": "tabs",
         "children": [
           {
-            "id": "5f38cde876f0fee2",
+            "id": "d80b9fe205cbeb26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/A star.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1cfc7af0fc5beea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/A star.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/A star.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/A star.md"
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md"
               }
             }
           }
@@ -147,17 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f38cde876f0fee2",
+  "active": "e1cfc7af0fc5beea",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
+    "data cube.png",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "data warehouse architecture.png",
+    "Z-Pictures/Data",
+    "Z-Pictures/Data/data warehouse comparision.png",
+    "Algorithm/A star.md",
     "Algorithm/Iterative Deepening.md",
     "SQL/Precedence.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "SQL",
     "conflict-files-obsidian-git.md",
     "Algorithm/Floyd's cycle-finding algorithm.md",
-    "Algorithm/A star.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex/5. B-Tree.md",
@@ -174,9 +194,6 @@
     "Data Structures/0. Simple/4. Set.md",
     "Data Structures/0. Simple/3. Queue.md",
     "Data Structures/0. Simple/2. Stack.md",
-    "Data Structures/0. Simple/1. Linked List.md",
-    "Data Structures/0. Simple/0. Array.md",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
@@ -184,7 +201,6 @@
     "Symbolic AI/2. Search",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
-    "Leetcode/SQL/String Processing Functions",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
