@@ -1,0 +1,8 @@
+
+A* search is a widely used informed search algorithm that combines elements of both uniform cost search and greedy search. It uses a heuristic function to guide the search towards the goal state and is often used in pathfinding and graph traversal problems.
+
+In A* search, each node in the search space is assigned a cost, which is the sum of the cost of the path from the start node to that node (called the g-score) and an estimate of the remaining cost to reach the goal state from that node (called the h-score). The algorithm maintains a priority queue of nodes to be expanded based on their f-score (the sum of the g-score and h-score).
+
+At each step, the algorithm expands the node with the lowest f-score and updates the g-score and h-score of its neighbors. If the goal state is reached, the algorithm terminates and returns the optimal path from the start node to the goal state. Otherwise, the algorithm continues to expand nodes until the goal state is reached or there are no more nodes to expand.
+
+A key advantage of A* search is that it can often find the optimal solution to a problem efficiently by intelligently selecting which nodes to expand based on their estimated distance to the goal state. However, the accuracy of the heuristic function used to estimate the remaining cost can greatly affect the performance of the algorithm, and in some cases, the algorithm may be slow or fail to find the optimal solution.
