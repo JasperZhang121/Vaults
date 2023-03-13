@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Floyd's cycle-finding algorithm.md",
+                "file": "Algorithm/A star.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Floyd's cycle-finding algorithm.md",
+                "file": "Algorithm/A star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Floyd's cycle-finding algorithm.md",
+                "file": "Algorithm/A star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Floyd's cycle-finding algorithm.md"
+                "file": "Algorithm/A star.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "ef33d785fee31c51",
   "lastOpenFiles": [
-    "Leetcode/Array/DP/70. Climbing Stairs.md",
     "Algorithm/Floyd's cycle-finding algorithm.md",
+    "Leetcode/Array/DP/70. Climbing Stairs.md",
     "Algorithm/Dijkstra.md",
     "Algorithm/Breadth First Search.md",
     "Algorithm/A star.md",
