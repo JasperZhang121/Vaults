@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b7c728c38d979f98",
+        "id": "c22b1b10cb7f8b4b",
         "type": "tabs",
         "children": [
           {
-            "id": "df4774ed6c095262",
+            "id": "f838f06b22d970de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48aae9800d5be954",
+            "id": "b3652e99f5225e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md"
               }
             }
           }
@@ -160,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aae9800d5be954",
+  "active": "b3652e99f5225e9c",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+    "Symbolic AI/2. Search/1. Search.md",
+    "Symbolic AI/2. Search/0. Agents.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
@@ -193,9 +197,6 @@
     "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex/0. Graph.md",
     "Data Structures/1. Intermediate/4. Map.md",
-    "Data Structures/1. Intermediate/2. Hash Table.md",
-    "Data Structures/1. Intermediate/3. Trie.md",
-    "Data Structures/1. Intermediate/1. Heap.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
