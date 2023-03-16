@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d7040094560394e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Dynamic Programing.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -143,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "d7040094560394e8",
   "lastOpenFiles": [
-    "Algorithm/A star.md",
     "conflict-files-obsidian-git.md",
+    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+    "Algorithm/Dynamic Programing.md",
+    "Algorithm/A star.md",
     "Z-Pictures/Data/data warehouse pivot.png",
     "Z-Pictures/Data/data warehouse comparision.png",
     "Z-Pictures/Data/data warehouse architecture.png",
@@ -178,8 +193,6 @@
     "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
     "Data Structures/2. Complex/1. Segment Tree.md",
-    "Data Structures/2. Complex/0. Graph.md",
-    "Data Structures/1. Intermediate/4. Map.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
