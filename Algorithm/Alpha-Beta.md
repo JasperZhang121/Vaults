@@ -1,4 +1,12 @@
 
+In the alpha-beta pruning algorithm, when we are trying to minimize the potential search space, we keep track of two variables: alpha and beta. Alpha represents the best option for the maximizing player so far, and beta represents the best option for the minimizing player so far.
+
+When we are evaluating a node and we are in the maximizing player's turn, if the current alpha value is greater than or equal to the current beta value, we stop evaluating that node and any subsequent nodes, because we know that the minimizing player has already found a better move in a previous branch.
+
+This may seem counterintuitive at first, because we're using the alpha variable (associated with the maximizing player) to determine when to cut off the search, instead of the beta variable (associated with the minimizing player). However, this is simply a clever trick that allows us to save computational resources while still finding the optimal move. By considering alpha as the upper bound for the maximizing player, we can eliminate entire subtrees of the game tree that we know will not yield a better outcome than what has already been found.
+
+----
+
 -   Alpha-Beta Pruning is a search algorithm commonly used in game theory to improve the efficiency of the Minimax algorithm.
 -   It works by pruning branches in the game tree that are guaranteed to be worse than previously explored branches, thereby reducing the number of nodes that need to be explored.
 -   The algorithm keeps track of two values, alpha and beta, which represent the best score the maximizing player (alpha) and the minimizing player (beta) can achieve respectively.
