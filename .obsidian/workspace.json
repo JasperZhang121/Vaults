@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a743e6a94a77a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Alpha-Beta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 257.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/MinMax.md",
+                "file": "Algorithm/Alpha-Beta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/MinMax.md",
+                "file": "Algorithm/Alpha-Beta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/MinMax.md"
+                "file": "Algorithm/Alpha-Beta.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2cfbc04dc471d2f",
+  "active": "2a743e6a94a77a1b",
   "lastOpenFiles": [
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
     "Algorithm/MinMax.md",
+    "Algorithm/Alpha-Beta.md",
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/1. Search.md",
     "Symbolic AI/2. Search/0. Agents.md",
@@ -183,7 +197,6 @@
     "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
     "Data Structures/2. Complex/1. Segment Tree.md",
     "Data Structures/2. Complex/4. Red-black tree.md",
-    "Data Structures/2. Complex/0. Graph.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
