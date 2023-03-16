@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48aae9800d5be954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,14 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df4774ed6c095262",
+  "active": "48aae9800d5be954",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Z-Pictures/Data/cuboids cal.png",
     "Z-Pictures/Data/data cube 1.png",
     "Z-Pictures/Data/data warehouse pivot.png",
@@ -168,7 +182,6 @@
     "SQL/Precedence.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "SQL",
-    "conflict-files-obsidian-git.md",
     "Algorithm/Floyd's cycle-finding algorithm.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
