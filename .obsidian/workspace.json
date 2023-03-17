@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c22b1b10cb7f8b4b",
+        "id": "72fad74d18032e25",
         "type": "tabs",
         "children": [
           {
-            "id": "f2cfbc04dc471d2f",
+            "id": "ba28c9e37c44c0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/MinMax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a743e6a94a77a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Alpha-Beta.md",
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 328.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Alpha-Beta.md",
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Alpha-Beta.md",
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Alpha-Beta.md"
+                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md"
               }
             }
           }
@@ -160,48 +147,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a743e6a94a77a1b",
+  "active": "ba28c9e37c44c0d1",
   "lastOpenFiles": [
-    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
     "Algorithm/MinMax.md",
     "Algorithm/Alpha-Beta.md",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
-    "Symbolic AI/2. Search/1. Search.md",
-    "Symbolic AI/2. Search/0. Agents.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "conflict-files-obsidian-git.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
-    "Z-Pictures/Data/cuboids cal.png",
-    "Z-Pictures/Data/data cube 1.png",
-    "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data cube.png",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data",
-    "Z-Pictures/Data/data warehouse comparision.png",
+    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+    "Algorithm/Dynamic Programing.md",
     "Algorithm/A star.md",
-    "Algorithm/Iterative Deepening.md",
+    "Z-Pictures/Data/data warehouse pivot.png",
+    "Z-Pictures/Data/data warehouse comparision.png",
+    "Z-Pictures/Data/data warehouse architecture.png",
+    "Z-Pictures/Data/data cube.png",
+    "Z-Pictures/Data/data cube 1.png",
+    "Z-Pictures/Data/cuboids cal.png",
+    "Z-Pictures/Data",
     "SQL/Precedence.md",
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "SQL",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
+    "Algorithm/Iterative Deepening.md",
     "Algorithm/Floyd's cycle-finding algorithm.md",
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
+    "Leetcode/Array/DP/70. Climbing Stairs.md",
+    "Algorithm/Dijkstra.md",
+    "Algorithm/Breadth First Search.md",
+    "Algorithm/Depth First Search.md",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/0. Agents.md",
+    "Symbolic AI/2. Search/1. Search.md",
+    "Symbolic AI/2. Search",
     "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex/5. B-Tree.md",
     "Data Structures/2. Complex/3. AVL tree.md",
-    "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
-    "Data Structures/2. Complex/1. Segment Tree.md",
     "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
-    "Symbolic AI/2. Search",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Leetcode/SQL/Union",
     "Leetcode/SQL/Union&Select",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
