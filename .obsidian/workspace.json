@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2cfbc04dc471d2f",
+            "id": "8c7fc239bef09cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/MinMax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a743e6a94a77a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md"
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md"
               }
             }
           }
@@ -160,18 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a743e6a94a77a1b",
+  "active": "8c7fc239bef09cde",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Algorithm/MinMax.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Algorithm/Alpha-Beta.md",
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
-    "Algorithm/MinMax.md",
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/1. Search.md",
     "Symbolic AI/2. Search/0. Agents.md",
@@ -195,15 +185,12 @@
     "Data Structures/2. Complex/5. B-Tree.md",
     "Data Structures/2. Complex/3. AVL tree.md",
     "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
-    "Data Structures/2. Complex/1. Segment Tree.md",
-    "Data Structures/2. Complex/4. Red-black tree.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
     "Symbolic AI/2. Search",
     "Leetcode/SQL/Union",
-    "Leetcode/SQL/Union&Select",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
