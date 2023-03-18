@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md"
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "94cf5315b316bc79",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Algorithm/MinMax.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
