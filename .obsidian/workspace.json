@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ec727e6dbffc374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md"
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "357152ecb7478ea3",
+  "active": "6ec727e6dbffc374",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
@@ -184,7 +198,6 @@
     "Algorithm/Floyd's cycle-finding algorithm.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
-    "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
