@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c7fc239bef09cde",
+            "id": "94cf5315b316bc79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 264.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c7fc239bef09cde",
+  "active": "94cf5315b316bc79",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Algorithm/MinMax.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
@@ -184,7 +185,6 @@
     "Data Structures/2. Complex/6. B+ Tree.md",
     "Data Structures/2. Complex/5. B-Tree.md",
     "Data Structures/2. Complex/3. AVL tree.md",
-    "Data Structures/2. Complex/2. Fenwick tree (Binary Indexed Tree).md",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
