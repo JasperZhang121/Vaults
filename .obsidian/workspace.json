@@ -11,17 +11,21 @@
             "id": "8d3dce9dd7194dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "e98866f5bc9e05a3",
+            "id": "f2db73cde7c57d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md"
               }
             }
           }
@@ -156,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e98866f5bc9e05a3",
+  "active": "f2db73cde7c57d2a",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "conflict-files-obsidian-git.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
@@ -192,7 +197,6 @@
     "Algorithm/Floyd's cycle-finding algorithm.md",
     "Leetcode/Array/DP/70. Climbing Stairs.md",
     "Algorithm/Dijkstra.md",
-    "Algorithm/Breadth First Search.md",
     "Symbolic AI/2. Search",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
