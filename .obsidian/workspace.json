@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "357152ecb7478ea3",
+            "id": "276fc2bd18152456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ec727e6dbffc374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md"
+                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md"
               }
             }
           }
@@ -160,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ec727e6dbffc374",
+  "active": "276fc2bd18152456",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
@@ -195,8 +184,6 @@
     "SQL/Precedence.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "SQL",
-    "Algorithm/Floyd's cycle-finding algorithm.md",
-    "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
