@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba28c9e37c44c0d1",
+            "id": "6409f75f22f4042f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/3. Adversarial Search Problems.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba28c9e37c44c0d1",
+  "active": "6409f75f22f4042f",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+    "conflict-files-obsidian-git.md",
     "Algorithm/MinMax.md",
     "Algorithm/Alpha-Beta.md",
-    "conflict-files-obsidian-git.md",
-    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
     "Algorithm/Dynamic Programing.md",
     "Algorithm/A star.md",
     "Z-Pictures/Data/data warehouse pivot.png",
