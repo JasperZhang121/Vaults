@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md"
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md"
               }
             }
           }
@@ -160,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "f2db73cde7c57d2a",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
@@ -190,8 +192,6 @@
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "Algorithm/Iterative Deepening.md",
     "Algorithm/Floyd's cycle-finding algorithm.md",
