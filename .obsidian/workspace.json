@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "58532daf3b9db909",
+            "id": "d7f7ddeb3436086a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -184,10 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58532daf3b9db909",
+  "active": "d7f7ddeb3436086a",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+    "conflict-files-obsidian-git.md",
+    "Symbolic AI/3. KRR/Logical Agents.md",
+    "Symbolic AI/3. KRR",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
@@ -199,7 +202,6 @@
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
-    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
@@ -220,14 +222,12 @@
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "Algorithm/Iterative Deepening.md",
-    "Algorithm/Floyd's cycle-finding algorithm.md",
     "Symbolic AI/2. Search",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
-    "Leetcode/SQL/Union",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
