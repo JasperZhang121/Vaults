@@ -169,13 +169,85 @@ $$\tau = \frac{2}{n(n-1)} \sum_{i<j} sgn(x_i - x_j) sgn(y_i - y_j)$$
 -   Spearman's rank correlation coefficient is based on the ranks of the observations, while Kendall's tau coefficient is based on the signs of the differences between the observations.
 -   These measures of correlation can be calculated using various statistical software packages or programming languages.
 
+
 ### [[2.6 Measuring Similarity and Dissimilarity of Multivariate Data]]
 
 -   Similarity and dissimilarity measures are used to assess how alike or unlike objects are to each other.
--   Similarity is a numerical measure of how alike two data objects are, often falling in the range of [0, 1].
+-   <mark style="background: #BBFABBA6;">Similarity is a numerical measure of how alike two data objects</mark> are, often falling in the range of [0, 1].
 -   Dissimilarity, also known as distance, is a numerical measure of how different two data objects are, with the minimum dissimilarity being 0 and upper limit varying.
 -   A dissimilarity matrix is a common data structure used to represent dissimilarity among objects, with an n x n matrix data structure showing dissimilarity or distance d(i,j) for all pairs of n objects i and j.
 -   The matrix is symmetric or triangular with zeros along the diagonal and duplicates in the upper right triangle.
--   Similarity can be expressed as a function of dissimilarity, such as sim(i,j) = 1 - d(i,j), when d(i,j) is normalized to [0,1].
+-   Similarity can be expressed as a function of dissimilarity, such as <mark style="background: #FF5582A6;">sim(i,j) = 1 - d(i,j)</mark>, when d(i,j) is normalized to [0,1].
 -   Distances can be calculated for each attribute type, and then combined to give an overall object distance for objects with heterogeneous types of attributes.
 
+
+### [[2.7 Proximity Measures for Nominal Attributes]]
+
+1.  **Simple matching method:** Calculate the number of matches (m) between two objects for all their attributes and divide it by the total number of attributes (p) to obtain the dissimilarity measure (d). The similarity measure (sim) can be obtained by subtracting d from 1. This method is based on the idea that objects with a higher number of matches are more similar.
+
+$$d(i,j) = \frac{p-m}{p}$$
+
+
+
+$$sim(i,j) = 1-d(i,j) = \frac{m}{p}$$    
+2.  **Mapping to binary attributes method:** Create a new binary attribute for each state of the nominal attribute and map each object to a corresponding object with binary attributes. Then, use any method for proximity of binary attributes to calculate the similarity or dissimilarity. This method is also known as one-hot encoding.
+
+
+### [[2.8  Proximity Measures for Binary Attributes]]
+
+|                 | 1  | 0 |
+|-----------------|-----------|----------|
+| 1  | q         | r        |
+|  0  | s         | t        |
+
+-   Binary attributes have two values: 0 or 1.
+-   There are two types of binary attributes: <mark style="background: #FFB86CA6;">symmetric and asymmetric</mark>.
+	- Dissimilarity for symmetric binary attributes :
+		- d(i,j) = (r + s) / (q + r + s + t)
+	- Dissimilarity for asymmetric binary attributes:
+		- d(i,j) = (r + s ) / (q + r + s )
+		- sim(i,j) = 1 - d(i,j)
+
+-   Treating binary attributes as numeric can be misleading.
+-   The contingency table is used to count the number of matching and non-matching attributes for two objects.
+-   For symmetric binary dissimilarity, the dissimilarity is defined as the proportion of non-matching attributes amongst all attributes.
+-   For asymmetric binary dissimilarity, the dissimilarity is defined as the proportion of non-matching attributes among the matching attributes, and the corresponding similarity is called the Jaccard coefficient.
+-   Alternatively, the Jaccard similarity between two objects can be thought of as the size of the intersection of the two sets divided by the size of the union of the sets.
+
+### [[2.9 Normalisation of numeric data]]
+
+There are different methods of normalization, such as:
+
+- <mark style="background: #FF5582A6;">Min-Max Scaling</mark>: This is the most commonly used normalization technique, which rescales the data to a fixed range between 0 and 1. The formula for min-max scaling is:
+
+$$ x_{\text{normalized}} = \frac{x - \min(x)}{\max(x) - \min(x)} $$
+
+where $x$ is the original data and $x_{\text{normalized}}$ is the normalized data.
+
+- <mark style="background: #FF5582A6;">Z-Score Normalization</mark>: This technique standardizes the data by transforming it to have a mean of 0 and a standard deviation of 1. The formula for z-score normalization is:
+
+$$ x_{\text{normalized}} = \frac{x - \text{mean}(x)}{\text{standard deviation}(x)}$$
+
+where $x$ is the original data, $\text{mean}(x)$ is the mean of the data, $\text{standard deviation}(x)$ is the standard deviation of the data, and $x_{\text{normalized}}$ is the normalized data.
+
+- <mark style="background: #FF5582A6;">Decimal Scaling</mark>: This technique involves dividing each observation by a power of 10 to move the decimal point. The number of decimal places is chosen based on the maximum absolute value of the data. For example, if the maximum absolute value of the data is 1000, we can divide each observation by 1000 to move the decimal point three places to the left.
+
+
+### [[2.10 Minkowski Distance]]
+
+$d_{M}(x,y) = (\sum_{i=1}^{n} {|x_{i} - y_{i}|}^p)^\frac{1}{p}$
+
+
+----
+
+### [[0. Basic concepts]]
+
+-   A data warehouse is a <mark style="background: #FF5582A6;">decision support database</mark> that is maintained separately from the operational database and supports information processing by providing a solid platform of <mark style="background: #FF5582A6;">consolidated, historical data</mark> for analysis.
+-   A data warehouse is subject-oriented, integrated, time-variant, and nonvolatile.
+-   Data warehousing is the process of constructing and using data warehouses.
+-   Data warehouses are organised around major subjects and provide a simple and concise view around particular subject issues by excluding data that are not useful in the decision support process.
+-   Data warehouses are constructed by integrating multiple, heterogeneous data sources, and data cleaning and data integration techniques are applied.
+-   The time horizon for the data warehouse is significantly longer than that of operational systems, and every key structure in the data warehouse contains an element of time, explicitly or implicitly.
+-   Data warehouses are nonvolatile, meaning that they are a physically separate store of data transformed from the operational environment, and operational update of data does not occur in the data warehouse environment.
+-   Data warehouses are built specifically for analytics to support decision making, that is, online analytical processing (OLAP), while operational databases are used for day-to-day operations, that is, online transaction processing (OLTP).
+-   The formula for calculating the number of cells in an n-dimensional data cube with m levels for each dimension is C = (m+1)^n - 1, where C is the total number of cells in the cube, n is the number of dimensions in the cube, and m is the number of levels for each dimension.
