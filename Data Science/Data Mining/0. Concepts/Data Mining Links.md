@@ -140,6 +140,42 @@
 -   Variance measures how much the data deviate from the mean.
 -   Standard Deviation is the square root of the variance and measures the amount of variation or dispersion of a set of values.
 -   Chebyshev's inequality states that at least (1 - 1/k^2) x 100% of the observations are no more than k standard deviations from the mean.
--   The five-number summary consists of the minimum value, Q1, median, Q3, and maximum value of a dataset.
+-   The five-number summary consists of the <mark style="background: #BBFABBA6;">minimum value, Q1, median, Q3, and maximum value</mark> of a dataset.
 -   Boxplots can be used to visually compare sets of compatible data, with the box representing the quartiles and the whiskers extending to the min and max values or to 1.5 x IQR if there are outliers.
--   An outlier is a value below Q1 - 1.5 IQR or above Q3 + 1.5 IQR, and they are often plotted individually in a boxplot.
+-   An <mark style="background: #BBFABBA6;">outlier is a value below Q1 - 1.5 IQR or above Q3 + 1.5 IQR</mark>, and they are often plotted individually in a boxplot.
+
+
+### [[2.4 Computation of Measures]]
+
+-   In statistics, <mark style="background: #FFB86CA6;">computational</mark> cost of all processing stages should be considered when dealing with big data.
+-   Some measures of data character, data summarization, and data pattern interestingness are computationally more difficult to compute than others.
+-   Measure functions can be classified as <mark style="background: #FF5582A6;">distributive, algebraic, or holistic</mark> based on their computational complexity.
+-   Distributive functions are applied to each partition of the data and then combined to obtain the result.
+-   Algebraic functions can be computed by a function with a bounded number of arguments, each of which is obtained by applying a distributive function.
+-   Holistic functions are difficult to compute efficiently and often require approximations.
+-   Mean, median, mode, midrange, quartiles, variance, standard deviation, and interquartile range are commonly used measures of central tendency, variability, and distribution in data.
+-   Boxplots can be used to summarize and compare data, and to identify outliers.
+
+
+### [[2.5 Measuring Correlation amongst Two Variables]]
+
+-   Measures of correlation are used to assess the relationship between two variables.
+-   <mark style="background: #FF5582A6;">Pearson's correlation coefficient</mark> measures the strength and direction of the linear relationship between two continuous variables.
+$$r = \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n}(x_i - \bar{x})^2} \sqrt{\sum_{i=1}^{n}(y_i - \bar{y})^2}}$$
+-   The coefficient <mark style="background: #BBFABBA6;">ranges from -1 (perfect negative correlation) to 1 (perfect positive correlation), with 0 indicating no correlation</mark>.
+-   Spearman's rank correlation coefficient and Kendall's tau coefficient are nonparametric measures of correlation that do not require the assumption of a linear relationship between the variables. $$r_s = 1 - \frac{6\sum d_i^2}{n(n^2 - 1)}$$
+$$\tau = \frac{2}{n(n-1)} \sum_{i<j} sgn(x_i - x_j) sgn(y_i - y_j)$$
+
+-   Spearman's rank correlation coefficient is based on the ranks of the observations, while Kendall's tau coefficient is based on the signs of the differences between the observations.
+-   These measures of correlation can be calculated using various statistical software packages or programming languages.
+
+### [[2.6 Measuring Similarity and Dissimilarity of Multivariate Data]]
+
+-   Similarity and dissimilarity measures are used to assess how alike or unlike objects are to each other.
+-   Similarity is a numerical measure of how alike two data objects are, often falling in the range of [0, 1].
+-   Dissimilarity, also known as distance, is a numerical measure of how different two data objects are, with the minimum dissimilarity being 0 and upper limit varying.
+-   A dissimilarity matrix is a common data structure used to represent dissimilarity among objects, with an n x n matrix data structure showing dissimilarity or distance d(i,j) for all pairs of n objects i and j.
+-   The matrix is symmetric or triangular with zeros along the diagonal and duplicates in the upper right triangle.
+-   Similarity can be expressed as a function of dissimilarity, such as sim(i,j) = 1 - d(i,j), when d(i,j) is normalized to [0,1].
+-   Distances can be calculated for each attribute type, and then combined to give an overall object distance for objects with heterogeneous types of attributes.
+

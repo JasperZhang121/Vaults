@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md"
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "17cd56966e19ea8b",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.4 Computation of Measures.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
@@ -173,10 +176,7 @@
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "conflict-files-obsidian-git.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
-    "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
-    "Algorithm/MinMax.md",
     "Z-Pictures/Data/data warehouse pivot.png",
     "Z-Pictures/Data/data warehouse comparision.png",
     "Z-Pictures/Data/data warehouse architecture.png",
