@@ -243,11 +243,23 @@ $d_{M}(x,y) = (\sum_{i=1}^{n} {|x_{i} - y_{i}|}^p)^\frac{1}{p}$
 ### [[0. Basic concepts]]
 
 -   A data warehouse is a <mark style="background: #FF5582A6;">decision support database</mark> that is maintained separately from the operational database and supports information processing by providing a solid platform of <mark style="background: #FF5582A6;">consolidated, historical data</mark> for analysis.
--   A data warehouse is subject-oriented, integrated, time-variant, and nonvolatile.
+-   A data warehouse is <mark style="background: #BBFABBA6;">subject-oriented, integrated, time-variant, and nonvolatile</mark>.
 -   Data warehousing is the process of constructing and using data warehouses.
--   Data warehouses are organised around major subjects and provide a simple and concise view around particular subject issues by excluding data that are not useful in the decision support process.
+-   Data warehouses are organised around major subjects and provide a simple and concise view around particular subject issues by <mark style="background: #ABF7F7A6;">excluding data that are not useful</mark> in the decision support process.
 -   Data warehouses are constructed by integrating multiple, heterogeneous data sources, and data cleaning and data integration techniques are applied.
 -   The time horizon for the data warehouse is significantly longer than that of operational systems, and every key structure in the data warehouse contains an element of time, explicitly or implicitly.
--   Data warehouses are nonvolatile, meaning that they are a physically separate store of data transformed from the operational environment, and operational update of data does not occur in the data warehouse environment.
+-   Data warehouses are nonvolatile, meaning that they are a <mark style="background: #ADCCFFA6;">physically separate store of data</mark> transformed from the operational environment, and operational update of data does not occur in the data warehouse environment.
 -   Data warehouses are built specifically for analytics to support decision making, that is, online analytical processing (OLAP), while operational databases are used for day-to-day operations, that is, online transaction processing (OLTP).
--   The formula for calculating the number of cells in an n-dimensional data cube with m levels for each dimension is C = (m+1)^n - 1, where C is the total number of cells in the cube, n is the number of dimensions in the cube, and m is the number of levels for each dimension.
+-   The formula for calculating the <mark style="background: #FF5582A6;">number of cells</mark> in an n-dimensional data cube with m levels for each dimension is <mark style="background: #FF5582A6;">C = (m+1)^n - 1,</mark> where C is the total number of cells in the cube, n is the number of dimensions in the cube, and m is the number of levels for each dimension.
+
+### [[1. Multi-dimensional Data Cubes]]
+
+-   A data warehouse uses a <mark style="background: #FF5582A6;">multidimensional data model</mark> called a <mark style="background: #FF5582A6;">data cube</mark>.
+-   A data cube allows data to be viewed and analyzed in multiple dimensions.
+-   The cube axes represent dimensions such as item, time, or location.
+-   The <mark style="background: #BBFABBA6;">cube cells hold measures</mark> such as dollars sold, quantity sold, and quantity returned.
+-   A cuboid is a component of a data cube and can be used to aggregate measures along one or more dimensions of the base cuboid.
+-   The top-most 0-D cuboid is called the apex cuboid, which holds the highest level of summarization in a single cell.
+-   The lattice of cuboids forms a data cube.
+-   The bottom-most base cuboid contains cells for every possible combination of specific values for time, item, location, and supplier.
+-   Data cubes are commonly used in data warehousing and business intelligence to analyze and report on large amounts of data.
