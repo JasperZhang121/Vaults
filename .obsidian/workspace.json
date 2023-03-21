@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b2605c5dca8d4064",
+        "id": "c22b1b10cb7f8b4b",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3dce9dd7194dfa",
+            "id": "276fc2bd18152456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2db73cde7c57d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "734f7f93bf81349c",
+            "id": "8acfa857d52760e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "6e78ecc1940a8256",
+            "id": "0db2d9278ecb1765",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Exercises.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 200
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Exercises.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Exercises.md",
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Exercises.md"
+                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md"
               }
             }
           }
@@ -184,50 +172,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e78ecc1940a8256",
+  "active": "0db2d9278ecb1765",
   "lastOpenFiles": [
     "Symbolic AI/2. Search/4. Exercises.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
-    "conflict-files-obsidian-git.md",
     "Symbolic AI/3. KRR/Logical Agents.md",
     "Symbolic AI/3. KRR",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Algorithm/MinMax.md",
-    "Algorithm/Alpha-Beta.md",
-    "Algorithm/Dynamic Programing.md",
-    "Algorithm/A star.md",
-    "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data warehouse comparision.png",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data/data cube.png",
-    "Z-Pictures/Data/data cube 1.png",
-    "Z-Pictures/Data/cuboids cal.png",
-    "Z-Pictures/Data",
-    "SQL/Precedence.md",
-    "SQL",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
-    "Symbolic AI/2. Search",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+    "Algorithm/Alpha-Beta.md",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/1. Search.md",
+    "Z-Pictures/Data/cuboids cal.png",
+    "Z-Pictures/Data/data cube 1.png",
+    "Z-Pictures/Data/data warehouse pivot.png",
+    "Z-Pictures/Data/data cube.png",
+    "Z-Pictures/Data/data warehouse architecture.png",
+    "Z-Pictures/Data",
+    "Z-Pictures/Data/data warehouse comparision.png",
+    "SQL",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
+    "Symbolic AI/2. Search",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
