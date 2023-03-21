@@ -258,8 +258,156 @@ $d_{M}(x,y) = (\sum_{i=1}^{n} {|x_{i} - y_{i}|}^p)^\frac{1}{p}$
 -   A data cube allows data to be viewed and analyzed in multiple dimensions.
 -   The cube axes represent dimensions such as item, time, or location.
 -   The <mark style="background: #BBFABBA6;">cube cells hold measures</mark> such as dollars sold, quantity sold, and quantity returned.
--   A cuboid is a component of a data cube and can be used to aggregate measures along one or more dimensions of the base cuboid.
--   The top-most 0-D cuboid is called the apex cuboid, which holds the highest level of summarization in a single cell.
+-   A <mark style="background: #FF5582A6;">cuboid </mark>is a component of a data cube and can be used to aggregate measures along one or more dimensions of the base cuboid.
+-   The <mark style="background: #FFB8EBA6;">top-most 0-D cuboid is called the apex cuboid</mark>, which holds the highest level of summarization in a single cell.
 -   The lattice of cuboids forms a data cube.
--   The bottom-most base cuboid contains cells for every possible combination of specific values for time, item, location, and supplier.
+-   The bottom-most base cuboid contains cells for every possible combination.
 -   Data cubes are commonly used in data warehousing and business intelligence to analyze and report on large amounts of data.
+
+### [[2. Concept Hierarchies]]
+
+-   A concept hierarchy provides mappings <mark style="background: #BBFABBA6;">from low-level concepts to higher-level</mark>, more general concepts.
+-   They allow for the modeling of data at different levels of abstraction.
+-   Examples include a geography hierarchy and a sales organization hierarchy.
+-   In a geography hierarchy, data is aggregated by country at the top level and becomes more granular as you move down to store location.
+-   In a sales organization hierarchy, data is aggregated by year at the top level and becomes more granular as you move down to the day level.
+
+### [[3. Modelling the Cube in a Relational Database]]
+
+- Dimension tables, such as item and time, and a fact table containing measures are necessary for data warehousing.
+-   <mark style="background: #FF5582A6;">Star schema</mark> is a structure where <mark style="background: #FFB8EBA6;">a fact table</mark> in the middle is connected to a set of <mark style="background: #D2B3FFA6;">dimension tables</mark>.
+-   In the star schema, the primary key for the fact table is composed of a key for each dimension and the remaining attributes are the measures.
+-   <mark style="background: #FF5582A6;">Snowflake schema</mark> is a <mark style="background: #FFB8EBA6;">refinement of star schema</mark> where some dimensional hierarchy is normalized into a set of smaller dimension tables.
+-   <mark style="background: #FF5582A6;">Fact constellation</mark> is a structure where <mark style="background: #ABF7F7A6;">multiple fact tables</mark> share dimension tables, viewed as a collection of stars or a galaxy schema.
+-   Snowflake and Constellation schemes are extensions of the basic Star schema to more complex data.
+
+
+### [[4. Data Mining in Data Warehouses]]
+
+-   There are three kinds of data warehouse applications: <mark style="background: #FF5582A6;">information processing</mark>, <mark style="background: #FF5582A6;">analytical processing</mark> (OLAP), and <mark style="background: #FF5582A6;">multidimensional data mining</mark> (OLAM).
+-   Information processing supports <mark style="background: #BBFABBA6;">querying, basic statistical analysis, and reporting using crosstabs, tables, charts and graphs</mark>.
+-   <mark style="background: #FF5582A6;">Analytical </mark>processing (OLAP) is <mark style="background: #FF5582A6;">multidimensional analysis</mark> of data warehouse data that supports basic OLAP operations, slice-dice, drilling, pivoting and derives information summarised at multiple granularities from user-specified subsets.
+-   Multidimensional data <mark style="background: #FF5582A6;">mining</mark> (OLAM) is knowledge <mark style="background: #BBFABBA6;">discovery from hidden patterns and supports finding associations, constructing analytical models,</mark> performing classification and prediction, and presenting the mining results using visualization tools.
+-   OLAP operations are typically implemented in OLAP servers, while SQL standard also defines some OLAP operators but these are generally implemented inconsistently in relational databases.
+-   A common architecture for multidimensional cube operations is <mark style="background: #FFF3A3A6;">ROLAP (Relational OLAP)</mark> server, which extends and optimizes relational architecture to form an OLAP server and relies on a star schema (+snowflake, fact constellation) database structure.
+-   An <mark style="background: #FFF3A3A6;">MOLAP (Multidimensional OLAP)</mark> server uses a column-oriented data storage architecture, particularly well-suited for optimizing rapid access to aggregate data and storage of sparse cubes.
+-   A <mark style="background: #FFF3A3A6;">hybrid architecture HOLAP</mark> (Hybrid OLAP) server combines ROLAP and MOLAP, with detailed data in a relational database and aggregations in a MOLAP store, and has the performance advantages of each.
+
+
+### [[5. Typical OLAP Operations]]
+
+**<mark style="background: #FF5582A6;">Rollup</mark>** (also called drill-up) summarizes data in one of two ways:
+
+1.  By <mark style="background: #FFF3A3A6;">dimension reduction</mark>
+2.  By <mark style="background: #FFF3A3A6;">climbing up the concept hierarchy</mark>
+
+**<mark style="background: #FF5582A6;">Drill-down</mark>** (also called roll down) is the <mark style="background: #FFF3A3A6;">reverse of rollup</mark>, navigating from less detailed data to more detailed data.
+
+**Slice and Dice**
+
+1.  Slice <mark style="background: #BBFABBA6;">cuts off one dimension of the cube</mark>, not by aggregating but by selecting only one fixed value along one dimension.
+2.  Dice cuts out a <mark style="background: #BBFABBA6;">sub-cube</mark>, not by aggregating but by selecting multiple fixed values for each of multiple dimensions.
+
+**Pivot** (also called rotate) is a <mark style="background: #ADCCFFA6;">visualization operator and does not change the data</mark>. It changes the data axes in view to an alternative presentation.
+
+**Other OLAP Operations** offered by OLAP servers:
+
+-   Drill-across: involving (across) more than one fact table
+-   Drill-through: through the bottom level of the cube to its back-end relational tables (using SQL)
+-   Ranking: top-k or bottom-k items in a list ordered by some measure
+-   Moving averages: over time
+-   Statistical functions
+-   Domain specific operators: growth rates, interest, internal rate of return, depreciation, currency conversion.
+
+### [[6. Processing OLAP queries]]
+
+-   Data warehouses contain large volumes of data but aim to <mark style="background: #BBFABBA6;">answer queries in interactive query time-frames</mark>.
+-   Pre-computing all aggregate measures required in a data cube can deliver fast response times, but this is expensive in storage.
+-   Data warehouses must support efficient cube computation, access methods, and query processing techniques.
+-   A data cube is a lattice of cuboids where each cuboid represents a choice of group-by attributes.
+-   The total number of cuboids in a data cube with n dimensions and m levels for each dimension is (m+1)^n - 1.
+-   <mark style="background: #ADCCFFA6;">OLAP servers can materialize every, none, or some cuboids to reduce run-time query processing costs</mark>.
+-   Processing OLAP queries involves determining which operations to perform on available cuboids and selecting the materialized cuboid(s) with the least estimated query processing cost.
+-   Efficient cube materialization strategies include full cube materialization, cube shell, and iceberg cube.
+-   The three OLAP server architectures are ROLAP, MOLAP, and HOLAP.
+
+---
+
+
+### [[4.1 Motivation]]
+
+-   <mark style="background: #FF5582A6;">Frequent pattern mining</mark> discovers <mark style="background: #FF5582A6;">associations and correlation</mark>s in itemsets in databases.
+-   Techniques were initially developed for commercial market basket analysis in the 90s.
+-   The language of frequent pattern mining assumes data items are grouped into transactions.
+-   The goal is to <mark style="background: #BBFABBA6;">find patterns of items that occur in a high proportion of transactions</mark>.
+-   Examples include supermarket shopping, pharmaceutical benefits, cross-marketing, and DNA sequence analysis.
+-   Frequent pattern mining is used in many other applications such as catalogue design, sale campaign analysis, and web clickstream analysis.
+-   The focus is on association mining to <mark style="background: #FF5582A6;">learn patterns of association rules</mark>.
+
+
+### [[4.2 Basic Concepts]]
+
+-   <mark style="background: #FF5582A6;">Item</mark>: a single piece of nominal data, like "apple," "orange," or "banana."
+-   <mark style="background: #FF5582A6;">Itemset</mark>: a set of one or more items, denoted by ${\cal I} = {I_1, I_2,..I_m}$, for example ${\cal I}={apple, orange, banana}$.
+-   <mark style="background: #FF5582A6;">k-itemset</mark>: an itemset containing k items, denoted by $X = {x_{1},...,x_{k}}$, for example, ${apple, orange}$ is a 2-itemset.
+-   Transaction: a non-empty itemset identified by a unique identifier in a database. Denoted by $T\in D$, where $D$ is a set of task-relevant transactions, for example, $D = {T_1, T_2}$, $T_1={apple, orange}$, $T_2={apple, banana, orange}$.
+-   <mark style="background: #FF5582A6;">Support Count: the number of transactions that contain an itemset</mark>, denoted by $|T, \text{such that } A\subseteq T \text{ and } T\in D|$. Also known as occurrence frequency, frequency, absolute support, and count.
+-   <mark style="background: #FF5582A6;">Support: the proportion of transactions that contain an itemset</mark>, denoted by $\text{support}(A) = \frac{\text{support count of }A \text{ in } D}{\text{cardinality of }D}$. Also called relative support and sometimes frequency.
+-   <mark style="background: #FF5582A6;">Frequent Itemset</mark>: an itemset with support greater than or equal to a minimum support threshold.
+-   Association Rule: an implication of the form $A \Longrightarrow B$, where $A\subset {\cal I}$, $B\subset {\cal I}$, $A\neq \emptyset$, $B\neq \emptyset$, and $A\cap B = \emptyset$.
+-   <mark style="background: #BBFABBA6;">Rule Support</mark>: the proportion of transactions that contain all of both $A$'s and $B$'s items. Denoted by $P(A\cup B)$, it measures the significance of the association rule in the dataset.
+-   <mark style="background: #FF5582A6;">Confidence</mark>: the conditional probability of $B$ given $A$, denoted by $P(B\vert A)$. Also called the support ratio, it is the support count of $A\cup B$ in $D$ as a proportion of the support count of $A$ in $D$.
+-   <mark style="background: #BBFABBA6;">Strong Rule</mark>: an association rule $A \Longrightarrow B$ is strong when $A\cup B$ is frequent.
+
+
+### [[4.3 Interesting pattern]]
+
+-   Lift: a <mark style="background: #ADCCFFA6;">measure of dependence or correlation</mark> between two itemsets $A$ and $B$. If lift = 1, $A$ and $B$ are independent; if lift > 1, they are positively correlated; if lift < 1, they are negatively correlated.
+$$\frac{\text{support}(A\cup B)}{\text{support}(A)\times \text{support}(B)}$$
+
+-   Chi-square test: a hypothesis test used to <mark style="background: #ADCCFFA6;">determine if two nominal variables are related</mark>. The chi-square statistic is calculated by comparing observed and expected frequencies in a contingency table, and <mark style="background: #FFB86CA6;">degrees of freedom are (r-1)*(c-1)</mark>, where r and c are the number of rows and columns in the table, respectively. If the chi-square value is greater than the critical value at a given level of significance and the degrees of freedom, we reject the null hypothesis and conclude that there is a relationship between the two variables.
+
+$$\chi^2 = \sum_{i=1}^{r}\sum_{j=1}^{c} \frac{(O_{ij} - E_{ij})^2}{E_{ij}}$$
+-   Chi-square test for non-singleton itemsets: a hypothesis test used to determine if there is a significant association between two or more items in a transaction. The chi-square value is calculated by comparing observed and expected frequencies in a contingency table, and the expected frequency is calculated as (row total * column total) / grand total.
+
+### [[4.4 Frequent Itemset Mining]]
+
+- Find all frequent itemsets--i.e. all the itemsets that occur at least $\mathit{min_sup} \times \mathit{cardinality~~of~~dataset}$ times in the dataset.
+
+- Use the frequent itemsets to generate strong association rules that satisfy $\mathit{min_conf}$.
+
+
+### [[4.5 Apriori algorithm]]
+
+1.  Start by scanning the database of transactions to determine the support of each item, i.e., the number of transactions in which it occurs.
+2.  Generate a list of frequent <mark style="background: #FF5582A6;">1-itemsets</mark> by selecting those items whose support is greater than or equal to a predefined minimum support threshold.
+3.  <mark style="background: #FF5582A6;">Use the frequent 1-itemsets to generate candidate 2-itemsets</mark>, i.e., pairs of items, by joining each frequent itemset with itself.
+4.  Scan the database again to determine the support of each candidate 2-itemset and generate a list of frequent 2-itemsets by selecting those whose support is greater than or equal to the minimum support threshold.
+5.  Use the frequent <mark style="background: #FF5582A6;">k-itemsets to generate candidate (k+1) itemsets </mark>by joining each frequent itemset with itself.
+6.  Repeat steps 4 and 5 until no new frequent itemsets are generated, i.e., <mark style="background: #FF5582A6;">until the list of frequent k-itemsets is empty.</mark>
+7.  <mark style="background: #FF5582A6;">Use the frequent itemsets to generate association rules</mark>, i.e., rules of the form A→B, where A and B are disjoint itemsets and the support and confidence of the rule are greater than or equal to predefined minimum thresholds.
+
+### [[4.6 Generating Association rules]]
+
+-   All frequent itemsets and their non-empty subsets meet the minimum support requirement.
+-   So, only the confidence of the rule needs to be checked.
+-   To create association rules using Apriori algorithm:
+-   For each frequent itemset, generate non-empty proper subsets.
+-   Check if the confidence of the rule is greater than or equal to the minimum confidence threshold.
+-   Output the rule if it meets the threshold.
+
+
+### [[4.7 Efficient frequent Data Mining]]
+
+- An important optimization in frequent itemset mining algorithms based on the fact that <mark style="background: #FF5582A6;">if an itemset is frequent</mark>, then <mark style="background: #FF5582A6;">all of its non-empty subsets are also frequent</mark>. This allows for significant memory-saving in algorithms like Apriori.
+
+### [[4.8 Closed and Maximal Frequent]]
+
+-   Closed frequent itemsets and maximal frequent itemsets are used to efficiently mine frequent itemsets without losing important information.
+-   An itemset X is considered closed in a dataset D if there is no other itemset Y in D that is a superset of X and has the same support count as X.
+-   A closed frequent itemset is both closed and frequent, meaning it occurs in the dataset with a frequency that is at least the minimum support threshold.
+-   A maximal frequent itemset is an itemset that is frequent in the dataset and has no superset that is also frequent, satisfying the minimum support threshold.
+-   Closed frequent itemsets with their support counts represent all frequent itemsets in the dataset, including those that are not closed.
+-   Maximal frequent itemsets represent all the frequent itemsets but may not give the exact counts for all of them.
+-   Mining closed and maximal frequent itemsets can efficiently discover all frequent itemsets in a large dataset without generating redundant or unnecessary itemsets.
+-   This approach significantly reduces the computational cost of frequent itemset mining while preserving the important information about the frequency of itemsets in the dataset.
