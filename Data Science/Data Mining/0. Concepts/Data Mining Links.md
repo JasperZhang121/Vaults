@@ -404,10 +404,28 @@ $$\chi^2 = \sum_{i=1}^{r}\sum_{j=1}^{c} \frac{(O_{ij} - E_{ij})^2}{E_{ij}}$$
 ### [[4.8 Closed and Maximal Frequent]]
 
 -   Closed frequent itemsets and maximal frequent itemsets are used to efficiently mine frequent itemsets without losing important information.
--   An itemset X is considered closed in a dataset D if there is no other itemset Y in D that is a superset of X and has the same support count as X.
+-   An itemset X is considered <mark style="background: #FF5582A6;">closed</mark> in a dataset D if there is <mark style="background: #FF5582A6;">no</mark> other itemset Y in D that is a <mark style="background: #FF5582A6;">superset</mark> of X and has the <mark style="background: #FF5582A6;">same support count</mark> as X.
 -   A closed frequent itemset is both closed and frequent, meaning it occurs in the dataset with a frequency that is at least the minimum support threshold.
--   A maximal frequent itemset is an itemset that is frequent in the dataset and has no superset that is also frequent, satisfying the minimum support threshold.
+-   A <mark style="background: #FF5582A6;">maximal frequent itemset</mark> is an itemset that is frequent in the dataset and has <mark style="background: #ADCCFFA6;">no superset that is also frequent, satisfying the minimum support threshold</mark>.
 -   Closed frequent itemsets with their support counts represent all frequent itemsets in the dataset, including those that are not closed.
 -   Maximal frequent itemsets represent all the frequent itemsets but may not give the exact counts for all of them.
 -   Mining closed and maximal frequent itemsets can efficiently discover all frequent itemsets in a large dataset without generating redundant or unnecessary itemsets.
 -   This approach significantly reduces the computational cost of frequent itemset mining while preserving the important information about the frequency of itemsets in the dataset.
+
+
+### [[4.9 Adavanced pattern Mining]]
+
+-   Algorithms other than Apriori have been developed to reduce database scans or reduce main memory usage, which may scale better over large datasets.
+-   Some of the most well-known alternative algorithms are FP-growth and mining closed and max-patterns.
+-   Some algorithms rely on representing transactions in a vertical form as <item, set of TIDs> instead of the horizontal form <TID, set of items>.
+-   Advanced pattern mining methods have been developed to apply more structure over the input data and the rules produced, such as:
+    -   Multilevel association rules: employing a concept hierarchy to discover rules at different levels of abstraction.
+    -   Multidimensional associations: replacing items in itemsets by instantiated relational predicates to allow mined rules to become more expressive.
+    -   Rare patterns and negative patterns: looking for patterns that are surprisingly infrequent or strongly negatively correlated by lift.
+    -   Compressed or approximate patterns: looking for the top-k most frequent patterns or clustering patterns to stand for all the patterns in the cluster more efficiently.
+    -   Sequential patterns: where the order of items is significant, for example in text or DNA sequences.
+    -   Graph patterns: where frequent sub-graphs may be discovered in graph network structures.
+-   Extended data types, such as multidimensional patterns over nominal data, ordinal data, and quantitative (continuous) data, require different mining approaches and interpretation of rules.
+-   A simple solution to distinguish the attributes for single-dimensional algorithms like Apriori is to transform the values of nominal attributes to explicit attribute-value pairs.
+-   Dynamic discretization is a more sophisticated approach that interacts with the mining algorithm to choose good value ranges.
+-   Interpreting rules over transformed data requires being aware of the transformation and its impact on the evaluation metrics for the rules.
