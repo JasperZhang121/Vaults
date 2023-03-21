@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
+                "file": "Symbolic AI/2. Search/4. Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
+                "file": "Symbolic AI/2. Search/4. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
+                "file": "Symbolic AI/2. Search/4. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md"
+                "file": "Symbolic AI/2. Search/4. Exercises.md"
               }
             }
           }
@@ -174,11 +174,11 @@
   },
   "active": "0db2d9278ecb1765",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
     "Symbolic AI/2. Search/4. Exercises.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
     "Symbolic AI/3. KRR/Logical Agents.md",
     "Symbolic AI/3. KRR",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
