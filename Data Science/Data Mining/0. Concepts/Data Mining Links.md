@@ -108,7 +108,7 @@
 
 --------
 
-[[2.1 Data Types and Representations]]
+### [[2.1 Data Types and Representations]]
 
 -   Data is structured as objects with properties or attributes and may include relationships to other objects.
 -   Objects may also be called samples, instances, data points, observations, rows, tuples, records, or vectors, while attributes may be called fields, variables, dimensions, properties, or features.
@@ -130,3 +130,16 @@
 -   The weighted mean is a variation of the arithmetic mean that multiplies each value by a weight that reflects its importance in the dataset.
 -   The <mark style="background: #BBFABBA6;">midrange is the average of the largest and smallest value</mark>s and is a cheap indication of central tendency.
 -   <mark style="background: #ABF7F7A6;">Skewness</mark> is a measure of asymmetry in data and can be indicated by the difference between the mean and mode.
+
+
+### [[2.3 Measuring the Dispersion of Data]]
+
+-   The range is the difference between the maximum and minimum values in a dataset.
+-   Quartiles divide a dataset into four equal parts. The first quartile (Q1) is the 25th percentile, the second quartile (Q2) is the median, and the third quartile (Q3) is the 75th percentile.
+-   The Interquartile Range (IQR) is the difference between the third quartile and the first quartile.
+-   Variance measures how much the data deviate from the mean.
+-   Standard Deviation is the square root of the variance and measures the amount of variation or dispersion of a set of values.
+-   Chebyshev's inequality states that at least (1 - 1/k^2) x 100% of the observations are no more than k standard deviations from the mean.
+-   The five-number summary consists of the minimum value, Q1, median, Q3, and maximum value of a dataset.
+-   Boxplots can be used to visually compare sets of compatible data, with the box representing the quartiles and the whiskers extending to the min and max values or to 1.5 x IQR if there are outliers.
+-   An outlier is a value below Q1 - 1.5 IQR or above Q3 + 1.5 IQR, and they are often plotted individually in a boxplot.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md"
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "17cd56966e19ea8b",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.1 Data Types and Representations.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.5 Challenges in Data Mining.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.3. What makes a pattern useful.md",
@@ -176,7 +177,6 @@
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
     "Algorithm/MinMax.md",
-    "Algorithm/Alpha-Beta.md",
     "Z-Pictures/Data/data warehouse pivot.png",
     "Z-Pictures/Data/data warehouse comparision.png",
     "Z-Pictures/Data/data warehouse architecture.png",
