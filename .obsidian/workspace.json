@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc487d342e8cd79",
+        "id": "b2605c5dca8d4064",
         "type": "tabs",
         "children": [
           {
-            "id": "c6cc235d1e338634",
+            "id": "17cd56966e19ea8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4af43381b701012e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/2. Search/0. Agents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 366.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
+                "file": "Symbolic AI/2. Search/0. Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
+                "file": "Symbolic AI/2. Search/0. Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md"
+                "file": "Symbolic AI/2. Search/0. Agents.md"
               }
             }
           }
@@ -147,50 +160,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6cc235d1e338634",
+  "active": "4af43381b701012e",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
-    "Symbolic AI/2. Search/0. Agents.md",
-    "Symbolic AI/2. Search/1. Search.md",
-    "AWS/Introduction/0. Intro.md",
-    "AWS/Introduction/1. Services.md",
-    "AWS/Introduction/Intro.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.8  Proximity Measures for Binary Attributes.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.7 Proximity Measures for Nominal Attributes.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.6 Measuring Similarity and Dissimilarity of Multivariate Data.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.4 Computation of Measures.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
-    "Z-Pictures/Data/cuboids cal.png",
-    "Z-Pictures/Data/data cube 1.png",
     "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data cube.png",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data",
     "Z-Pictures/Data/data warehouse comparision.png",
+    "Z-Pictures/Data/data warehouse architecture.png",
+    "Z-Pictures/Data/data cube.png",
+    "Z-Pictures/Data/data cube 1.png",
+    "Z-Pictures/Data/cuboids cal.png",
+    "Z-Pictures/Data",
     "SQL",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
+    "Symbolic AI/2. Search",
     "Data Structures/2. Complex",
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
-    "Symbolic AI/2. Search",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png",
