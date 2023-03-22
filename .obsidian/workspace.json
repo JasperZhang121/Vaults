@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4af43381b701012e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md"
+                "file": "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17cd56966e19ea8b",
+  "active": "4af43381b701012e",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+    "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
@@ -174,7 +188,6 @@
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.5 Measuring Correlation amongst Two Variables.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.4 Computation of Measures.md",
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.6 Privacy Implications of Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.3 Measuring the Dispersion of Data.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
