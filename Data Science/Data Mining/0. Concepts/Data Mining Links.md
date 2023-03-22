@@ -430,3 +430,5 @@ $$\chi^2 = \sum_{i=1}^{r}\sum_{j=1}^{c} \frac{(O_{ij} - E_{ij})^2}{E_{ij}}$$
 -   Dynamic discretization is a more sophisticated approach that interacts with the mining algorithm to choose good value ranges.
 -   Interpreting rules over transformed data requires being aware of the transformation and its impact on the evaluation metrics for the rules.
 
+
+
