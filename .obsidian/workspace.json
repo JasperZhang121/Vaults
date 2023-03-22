@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md"
+                "file": "Data Science/Data Mining/0. Concepts/Data Mining Links.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "29196fc2fdcf4d8c",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
