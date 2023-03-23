@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6efa7df1783df28c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17cd56966e19ea8b",
+  "active": "6efa7df1783df28c",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
@@ -173,8 +188,6 @@
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
