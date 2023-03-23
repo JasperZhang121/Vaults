@@ -11,8 +11,12 @@
             "id": "0a097cfe72eabb61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md"
+              }
             }
           }
         ],
@@ -141,6 +149,7 @@
   },
   "active": "0a097cfe72eabb61",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/1. Search.md",
     "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
@@ -168,7 +177,6 @@
     "Symbolic AI/2. Search/3. Adversarial Search Problems.md",
     "Algorithm/MinMax.md",
     "Algorithm/Alpha-Beta.md",
-    "Algorithm/Dynamic Programing.md",
     "Z-Pictures/Data/data warehouse pivot.png",
     "Z-Pictures/Data/data warehouse comparision.png",
     "Z-Pictures/Data/data warehouse architecture.png",
