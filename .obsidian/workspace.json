@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2605c5dca8d4064",
+        "id": "88e3719f79188431",
         "type": "tabs",
         "children": [
           {
-            "id": "17cd56966e19ea8b",
+            "id": "664faf5cde9f7e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6efa7df1783df28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/1. Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/1. Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/2. Search/1. Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Symbolic AI/2. Search/1. Search.md"
               }
             }
           }
@@ -160,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6efa7df1783df28c",
+  "active": "664faf5cde9f7e96",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/0. Agents.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
     "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
@@ -177,7 +165,6 @@
     "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/1. Search.md",
-    "Symbolic AI/2. Search/0. Agents.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
