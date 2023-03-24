@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
+                "file": "Algorithm/Alpha-Beta.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
+                "file": "Algorithm/Alpha-Beta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
+                "file": "Algorithm/Alpha-Beta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/4. Adversarial Search Problems.md"
+                "file": "Algorithm/Alpha-Beta.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "5280348132a66f89",
   "lastOpenFiles": [
-    "Symbolic AI/2. Search/0. Agents.md",
     "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
+    "Symbolic AI/2. Search/0. Agents.md",
     "Algorithm/MinMax.md",
     "Symbolic AI/2. Search/3. Informed search algorithms.md",
     "Algorithm/A star.md",
