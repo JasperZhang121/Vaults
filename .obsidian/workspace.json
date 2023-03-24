@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+                "file": "Symbolic AI/2. Search/6. Exercises 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ff3a3cad234e917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md"
+                "file": "Symbolic AI/2. Search/5. Exercises 1.md"
               }
             }
           }
@@ -147,12 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a097cfe72eabb61",
+  "active": "6ff3a3cad234e917",
   "lastOpenFiles": [
-    "Symbolic AI/2. Search/5. Exercises.md",
+    "Z-Pictures/AI",
+    "Z-Pictures/AI/search.png",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/5. Exercises 1.md",
+    "Symbolic AI/2. Search/6. Exercises 2.md",
+    "Symbolic AI/2. Search/1. Search.md",
+    "Symbolic AI/2. Search/0. Agents.md",
     "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
     "Symbolic AI/2. Search/3. Informed search algorithms.md",
-    "Symbolic AI/2. Search/1. Search.md",
     "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
@@ -172,10 +190,6 @@
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.7 Efficient frequent Data Mining.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.9 Adavanced pattern Mining.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
     "Z-Pictures/Data/data warehouse comparision.png",
@@ -193,7 +207,6 @@
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
-    "Z-Pictures/Stats-ML/Five-number summary.png",
-    "Z-Pictures/Stats-ML/quartile.png"
+    "Z-Pictures/Stats-ML/Five-number summary.png"
   ]
 }
