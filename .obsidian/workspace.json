@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2605c5dca8d4064",
+        "id": "88e3719f79188431",
         "type": "tabs",
         "children": [
           {
-            "id": "0a097cfe72eabb61",
+            "id": "5280348132a66f89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic AI/2. Search/6. Exercises 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ff3a3cad234e917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 366.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,36 +139,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ff3a3cad234e917",
+  "active": "5280348132a66f89",
   "lastOpenFiles": [
-    "Z-Pictures/AI",
+    "Symbolic AI/2. Search/5. Exercises.md",
     "Z-Pictures/AI/search.png",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
-    "Symbolic AI/2. Search/5. Exercises 1.md",
+    "Z-Pictures/AI",
     "Symbolic AI/2. Search/6. Exercises 2.md",
-    "Symbolic AI/2. Search/1. Search.md",
-    "Symbolic AI/2. Search/0. Agents.md",
+    "Symbolic AI/2. Search/5. Exercises 1.md",
     "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
+    "Algorithm/Alpha-Beta.md",
+    "Symbolic AI/2. Search/0. Agents.md",
+    "Algorithm/MinMax.md",
     "Symbolic AI/2. Search/3. Informed search algorithms.md",
-    "conflict-files-obsidian-git.md",
-    "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
-    "Symbolic AI/1. Planning and Decision Making/2. Exercises.md",
-    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
-    "Symbolic AI/2. Search/4. Exercises.md",
+    "Algorithm/A star.md",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+    "Algorithm/Iterative Deepening.md",
+    "Symbolic AI/2. Search/1. Search.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
+    "conflict-files-obsidian-git.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
+    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
-    "Symbolic AI/3. KRR/Logical Agents.md",
-    "Symbolic AI/3. KRR",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/2. Concept Hierarchies.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
+    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.2 What is Data Mining.md",
+    "Data Science/Data Mining/0. Concepts/1. Introduction/1.1 Why Data Mining.md",
+    "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
     "Z-Pictures/Data/data warehouse comparision.png",
@@ -205,7 +183,6 @@
     "Data Structures/1. Intermediate",
     "Data Structures/0. Simple",
     "Data Structures",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png",
     "Z-Pictures/Stats-ML/outlier.png",
     "Z-Pictures/Stats-ML/Five-number summary.png"
