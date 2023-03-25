@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c6d6b2390e602cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/2. Search/7.  AIMA book questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
+                "file": "Symbolic AI/2. Search/7.  AIMA book questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md",
+                "file": "Symbolic AI/2. Search/7.  AIMA book questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/5. Exercises 1.md"
+                "file": "Symbolic AI/2. Search/7.  AIMA book questions.md"
               }
             }
           }
@@ -147,13 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5280348132a66f89",
+  "active": "8c6d6b2390e602cc",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/5. Exercises 1.md",
+    "Symbolic AI/2. Search/7.  AIMA book questions.md",
     "Symbolic AI/2. Search/5. Exercises.md",
     "Z-Pictures/AI/search.png",
     "Z-Pictures/AI",
     "Symbolic AI/2. Search/6. Exercises 2.md",
-    "Symbolic AI/2. Search/5. Exercises 1.md",
     "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
     "Algorithm/Alpha-Beta.md",
     "Symbolic AI/2. Search/0. Agents.md",
