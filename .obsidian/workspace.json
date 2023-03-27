@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/8. Exercises 4.md"
+                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "32e63dc4db848d28",
   "lastOpenFiles": [
-    "Symbolic AI/2. Search/7. Exercises 3.md",
     "Symbolic AI/2. Search/8. Exercises 4.md",
+    "Symbolic AI/2. Search/7. Exercises 3.md",
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/5. Exercises 1.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
