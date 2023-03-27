@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md"
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md"
               }
             }
           }
@@ -174,17 +174,17 @@
   },
   "active": "32e63dc4db848d28",
   "lastOpenFiles": [
-    "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/3. KRR/1. DPLL.md",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/8. Exercises 4.md",
     "Symbolic AI/2. Search/5. Exercises 1.md",
+    "Symbolic AI/3. KRR/1. DPLL.md",
+    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/2. Search/6. Exercises 2.md",
     "6. Exercises 1.md",
     "Exercises 2.md",
     "Symbolic AI/2. Search/7. Exercises 3.md",
     "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
     "Symbolic AI/2. Search/3. Informed search algorithms.md",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
     "Symbolic AI/2. Search/0. Agents.md",
