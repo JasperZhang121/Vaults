@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md",
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/2. Uninformed search strategies.md"
+                "file": "Symbolic AI/2. Search/8. Exercises 4.md"
               }
             }
           }
@@ -172,14 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32e63dc4db848d28",
+  "active": "8c6d6b2390e602cc",
   "lastOpenFiles": [
+    "Symbolic AI/3. KRR/0. Intro.md",
+    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/8. Exercises 4.md",
     "Symbolic AI/2. Search/7. Exercises 3.md",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/5. Exercises 1.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
-    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/2. Search/6. Exercises 2.md",
     "6. Exercises 1.md",
     "Exercises 2.md",
