@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
+                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
+                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
+                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md"
+                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "5280348132a66f89",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/0. Concepts/1. Search.md",
     "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
@@ -166,7 +167,6 @@
     "Symbolic AI/2. Search/1. Exercises",
     "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
-    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
     "Symbolic AI/2. Search/5. Exercises.md",
