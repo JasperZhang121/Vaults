@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+                "file": "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+                "file": "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+                "file": "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md"
+                "file": "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "c6cc235d1e338634",
   "lastOpenFiles": [
-    "Algorithm/MiniMax.md",
-    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
+    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+    "Algorithm/MiniMax.md",
+    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
     "Symbolic AI/2. Search/0. Concepts/1. Search.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
@@ -164,7 +165,6 @@
     "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
     "Symbolic AI/2. Search/1. Exercises/2. Exercises 3.md",
     "Symbolic AI/2. Search/1. Exercises/1. Exercises 2.md",
-    "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
     "Symbolic AI/2. Search/1. Exercises",
     "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
     "Symbolic AI/2. Search/0. Concepts",
