@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc487d342e8cd79",
+        "id": "12dc641c3cf3c709",
         "type": "tabs",
         "children": [
           {
-            "id": "c6cc235d1e338634",
+            "id": "477aa005081874a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,13 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6cc235d1e338634",
+  "active": "477aa005081874a0",
   "lastOpenFiles": [
-    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
-    "Symbolic AI/2. Search/1. Exercises/1. Exercises 2.md",
-    "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
     "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+    "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
+    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
+    "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/1. Exercises/1. Exercises 2.md",
+    "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
     "Algorithm/MiniMax.md",
     "Symbolic AI/2. Search/0. Concepts/1. Search.md",
     "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
@@ -163,7 +164,6 @@
     "Z-Pictures/AI",
     "Symbolic AI/3. KRR/1. DPLL.md",
     "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
     "Symbolic AI/2. Search/1. Exercises/2. Exercises 3.md",
     "Symbolic AI/2. Search/1. Exercises",
     "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
