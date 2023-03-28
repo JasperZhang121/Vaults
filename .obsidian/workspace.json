@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d064ee85ee1d635e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,13 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5280348132a66f89",
+  "active": "d064ee85ee1d635e",
   "lastOpenFiles": [
+    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+    "conflict-files-obsidian-git.md",
+    "Algorithm/MiniMax.md",
     "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/0. Concepts/1. Search.md",
     "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
-    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
     "Exercises 2.md",
     "6. Exercises 1.md",
     "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
@@ -177,10 +192,8 @@
     "Algorithm/A star.md",
     "Algorithm/Iterative Deepening.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
-    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
