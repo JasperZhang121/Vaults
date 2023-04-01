@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/3. KRR/1. DPLL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/3. KRR/1. DPLL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/3. KRR/1. DPLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md"
+                "file": "Symbolic AI/3. KRR/1. DPLL.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "66396867e5c3d04d",
   "lastOpenFiles": [
-    "Symbolic AI/3. KRR/1. DPLL.md",
     "Symbolic AI/3. KRR/0. Intro.md",
+    "Symbolic AI/3. KRR/1. DPLL.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
     "Data Science/Data Mining/3. Classification & Prediction",
     "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
