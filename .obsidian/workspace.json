@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f14508685b4e1b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md"
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md"
               }
             }
           }
@@ -147,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66396867e5c3d04d",
+  "active": "f14508685b4e1b38",
   "lastOpenFiles": [
-    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
+    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "Symbolic AI/3. KRR/2. Prenex",
+    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
     "Data Science/Data Mining/3. Classification & Prediction",
     "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
@@ -192,7 +207,6 @@
     "Z-Pictures/Data/data warehouse comparision.png",
     "SQL",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing",
-    "Data Structures/2. Complex",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
   ]
 }
