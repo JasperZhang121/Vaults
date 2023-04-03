@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "605bb3af32017b9e",
+        "id": "fc117e591182d9db",
         "type": "tabs",
         "children": [
           {
-            "id": "66396867e5c3d04d",
+            "id": "303e3de2e6709eff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f14508685b4e1b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md"
               }
             }
           }
@@ -160,13 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f14508685b4e1b38",
+  "active": "303e3de2e6709eff",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
     "Symbolic AI/3. KRR/1. DPLL.md",
-    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Symbolic AI/3. KRR/2. Prenex",
     "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
@@ -196,7 +186,6 @@
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/5. Typical OLAP Operations.md",
     "Data Science/Data Mining/0. Concepts/3. Data Warehousing/4. Data Mining in Data Warehouses.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/3. Modelling the Cube in a Relational Database.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/cuboids cal.png",
