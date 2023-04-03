@@ -11,24 +11,15 @@
             "id": "007e90b1fc63c3eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a5bdd0e0f81d47d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Python/OOP/3. Polymorphism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Python/OOP/3. Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Python/OOP/3. Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Python/OOP/3. Polymorphism.md"
               }
             }
           }
@@ -156,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a5bdd0e0f81d47d",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
+    "Python/OOP/2. Inheritance.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
@@ -187,9 +181,6 @@
     "Z-Pictures/AI",
     "Algorithm/Alpha-Beta.md",
     "Algorithm/MinMax.md",
-    "Algorithm/A star.md",
-    "Algorithm/Iterative Deepening.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
