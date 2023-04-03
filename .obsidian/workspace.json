@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40dae149203d4273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/3. Polymorphism.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/3. Polymorphism.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/3. Polymorphism.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "40dae149203d4273",
   "lastOpenFiles": [
+    "Python/OOP/3. Polymorphism.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
     "Python/OOP/2. Inheritance.md",
     "README.md",
@@ -180,7 +195,6 @@
     "Z-Pictures/AI/search.png",
     "Z-Pictures/AI",
     "Algorithm/Alpha-Beta.md",
-    "Algorithm/MinMax.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
@@ -193,7 +207,6 @@
     "SQL",
     "Symbolic AI/2. Search",
     "Data Structures/2. Complex",
-    "Data Structures/1. Intermediate",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
   ]
 }
