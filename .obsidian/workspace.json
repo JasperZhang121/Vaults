@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fec4cc2ee9bd396e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40dae149203d4273",
+  "active": "fec4cc2ee9bd396e",
   "lastOpenFiles": [
-    "Python/OOP/3. Polymorphism.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Python/OOP/3. Polymorphism.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
     "Python/OOP/2. Inheritance.md",
     "README.md",
@@ -194,7 +207,6 @@
     "Symbolic AI/2. Search/5. Exercises.md",
     "Z-Pictures/AI/search.png",
     "Z-Pictures/AI",
-    "Algorithm/Alpha-Beta.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
