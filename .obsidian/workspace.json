@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49a402cc9bd73eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md"
               }
             }
           }
@@ -147,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4113389d7bee8e77",
+  "active": "49a402cc9bd73eae",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Untitled 1.canvas",
@@ -185,7 +200,6 @@
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/6. Processing OLAP queries.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/cuboids cal.png",
