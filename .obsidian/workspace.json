@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fec4cc2ee9bd396e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fec4cc2ee9bd396e",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Untitled 1.canvas",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
@@ -182,7 +167,6 @@
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Python/OOP/3. Polymorphism.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
     "Python/OOP/2. Inheritance.md",
