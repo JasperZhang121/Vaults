@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fc117e591182d9db",
+        "id": "c48f63fad4ade1fd",
         "type": "tabs",
         "children": [
           {
-            "id": "7171ac853d53f52b",
+            "id": "007e90b1fc63c3eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+                "file": "Python/OOP/3. Polymorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40dae149203d4273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec4cc2ee9bd396e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md"
               }
             }
           }
@@ -148,55 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7171ac853d53f52b",
+  "active": "fec4cc2ee9bd396e",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Python/OOP/3. Polymorphism.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
-    "Symbolic AI/3. KRR/1. DPLL.md",
-    "Symbolic AI/3. KRR/2. Prenex",
-    "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Data Science/Data Mining/3. Classification & Prediction",
-    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
-    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
-    "Symbolic AI/2. Search/1. Exercises/1. Exercises 2.md",
-    "Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
-    "Algorithm/MiniMax.md",
-    "Symbolic AI/2. Search/0. Concepts/1. Search.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
-    "Z-Pictures/AI/search.png",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
-    "Z-Pictures/AI",
-    "Symbolic AI/2. Search/1. Exercises/2. Exercises 3.md",
-    "Symbolic AI/2. Search/1. Exercises",
-    "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
-    "Symbolic AI/2. Search/0. Concepts",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.10 Exercises.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.8 Closed and Maximal Frequent.md",
-    "Data Science/Data Mining/0. Concepts/3. Data Warehousing/7. Exercises.md",
+    "Python/OOP/2. Inheritance.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+    "Algorithm/MiniMax.md",
+    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
+    "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
+    "Symbolic AI/2. Search/0. Concepts/1. Search.md",
+    "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
+    "Exercises 2.md",
+    "6. Exercises 1.md",
+    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
+    "Symbolic AI/0. Reasoning and Inference/0. Introduction.md",
+    "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
+    "Symbolic AI/2. Search/0. Concepts",
+    "Symbolic AI/2. Search/1. Exercises",
+    "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
+    "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
+    "Z-Pictures/AI/search.png",
+    "Z-Pictures/AI",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
-    "Z-Pictures/Data/cuboids cal.png",
-    "Z-Pictures/Data/data cube 1.png",
     "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data cube.png",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data",
     "Z-Pictures/Data/data warehouse comparision.png",
+    "Z-Pictures/Data/data warehouse architecture.png",
+    "Z-Pictures/Data/data cube.png",
+    "Z-Pictures/Data/data cube 1.png",
+    "Z-Pictures/Data/cuboids cal.png",
+    "Z-Pictures/Data",
     "SQL",
+    "Symbolic AI/2. Search",
+    "Data Structures/2. Complex",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
   ]
 }
