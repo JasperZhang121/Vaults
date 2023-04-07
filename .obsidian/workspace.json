@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md",
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/1. DPLL.md"
+                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4546017cfc3a109c",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
+    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
