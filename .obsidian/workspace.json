@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "21dd6e7f1b3797e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -139,8 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4546017cfc3a109c",
+  "active": "21dd6e7f1b3797e4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
     "Symbolic AI/2. Search/6. Exercises 2.md",
     "Symbolic AI/2. Search/5. Exercises 1.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
@@ -164,14 +191,6 @@
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/1. Search.md",
     "Symbolic AI/2. Search/0. Agents.md",
-    "Symbolic AI/2. Search/4. Adversarial Search Problems.md",
-    "Symbolic AI/2. Search/3. Informed search algorithms.md",
-    "conflict-files-obsidian-git.md",
-    "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Data Science/Data Mining/0. Concepts/2. Foundation/2.11 Exercises.md",
-    "Symbolic AI/1. Planning and Decision Making/2. Exercises.md",
-    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
@@ -184,7 +203,6 @@
     "SQL",
     "Symbolic AI/2. Search",
     "Data Structures/2. Complex",
-    "Data Structures/1. Intermediate",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
   ]
 }
