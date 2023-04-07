@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/3. KRR/1. DPLL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 304.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/3. KRR/1. DPLL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Symbolic AI/3. KRR/1. DPLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md"
+                "file": "Symbolic AI/3. KRR/1. DPLL.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "4546017cfc3a109c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Symbolic AI/3. KRR/0. Intro.md",
+    "Symbolic AI/3. KRR/1. DPLL.md",
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
@@ -163,8 +165,6 @@
     "Symbolic AI/2. Search/5. Exercises 1.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
-    "Symbolic AI/3. KRR/1. DPLL.md",
-    "Symbolic AI/3. KRR/0. Intro.md",
     "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
     "Symbolic AI/2. Search/1. Exercises/2. Exercises 3.md",
     "Symbolic AI/2. Search/1. Exercises/1. Exercises 2.md",
