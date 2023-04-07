@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c48f63fad4ade1fd",
+        "id": "3cae6706b08e3b91",
         "type": "tabs",
         "children": [
           {
-            "id": "007e90b1fc63c3eb",
+            "id": "567ddcfd0e406ce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/3. Polymorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40dae149203d4273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "file": "Symbolic AI/3. KRR/0. Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Symbolic AI/3. KRR/0. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Symbolic AI/3. KRR/0. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Symbolic AI/3. KRR/0. Intro.md"
+              }
             }
           }
         ],
@@ -156,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "567ddcfd0e406ce8",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "Untitled 1.canvas",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
