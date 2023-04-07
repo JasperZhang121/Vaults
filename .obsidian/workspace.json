@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2605c5dca8d4064",
+        "id": "83869eccb99fcfb5",
         "type": "tabs",
         "children": [
           {
-            "id": "0a097cfe72eabb61",
+            "id": "4546017cfc3a109c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -140,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a097cfe72eabb61",
+  "active": "4546017cfc3a109c",
   "lastOpenFiles": [
     "Symbolic AI/2. Search/6. Exercises 2.md",
     "Symbolic AI/2. Search/5. Exercises 1.md",
