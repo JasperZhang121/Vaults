@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "987a300779bf4a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic AI/3. KRR/3. CSP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+                "file": "Symbolic AI/3. KRR/3. CSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+                "file": "Symbolic AI/3. KRR/3. CSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md"
+                "file": "Symbolic AI/3. KRR/3. CSP.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "987a300779bf4a37",
   "lastOpenFiles": [
+    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "Symbolic AI/3. KRR/3. CSP.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
     "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
@@ -181,7 +195,6 @@
     "Z-Pictures/AI/search.png",
     "Symbolic AI/2. Search/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/1. Search.md",
-    "Symbolic AI/2. Search/0. Agents.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
