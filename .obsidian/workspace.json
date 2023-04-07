@@ -11,24 +11,15 @@
             "id": "4546017cfc3a109c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "21dd6e7f1b3797e4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/3. KRR/0. Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/3. KRR/0. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Symbolic AI/3. KRR/0. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Symbolic AI/3. KRR/0. Intro.md"
               }
             }
           }
@@ -156,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21dd6e7f1b3797e4",
+  "active": "4546017cfc3a109c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
