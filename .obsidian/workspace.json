@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Computer Networking/2. Physical/3. Nyquist Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Computer Networking/2. Physical/3. Nyquist Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md",
+                "file": "Computer Networking/2. Physical/3. Nyquist Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic AI/3. KRR/0. Intro.md"
+                "file": "Computer Networking/2. Physical/3. Nyquist Theorem.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "567ddcfd0e406ce8",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Symbolic AI/3. KRR/3. CSP.md",
     "Computer Networking/2. Physical/1. The Physical Layer.md",
+    "Computer Networking/2. Physical/2. Symbol.md",
+    "Computer Networking/2. Physical/3. Nyquist Theorem.md",
+    "Symbolic AI/3. KRR/0. Intro.md",
+    "Symbolic AI/3. KRR/3. CSP.md",
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -175,9 +178,6 @@
     "Symbolic AI/2. Search/0. Concepts/1. Search.md",
     "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
     "Exercises 2.md",
-    "6. Exercises 1.md",
-    "Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
-    "Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Symbolic AI/2. Search/0. Concepts",
     "Symbolic AI/2. Search/1. Exercises",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
