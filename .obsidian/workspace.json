@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "83869eccb99fcfb5",
+        "id": "6cc6e114789112fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4546017cfc3a109c",
+            "id": "356dbc5ad47df085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic AI/3. KRR/2. Prenex Normal form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "987a300779bf4a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic AI/3. KRR/3. CSP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic AI/3. KRR/3. CSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic AI/3. KRR/3. CSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Symbolic AI/3. KRR/3. CSP.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "987a300779bf4a37",
+  "active": "356dbc5ad47df085",
   "lastOpenFiles": [
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Symbolic AI/3. KRR/3. CSP.md",
