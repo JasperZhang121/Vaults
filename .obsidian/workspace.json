@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md",
+                "file": "Computer Networking/1. Overview/3. Network delay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md",
+                "file": "Computer Networking/1. Overview/3. Network delay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md",
+                "file": "Computer Networking/1. Overview/3. Network delay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md"
+                "file": "Computer Networking/1. Overview/3. Network delay.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "356dbc5ad47df085",
   "lastOpenFiles": [
+    "Computer Networking/1. Overview/2. Data Rate.md",
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Computer Networking/1. Overview/6. TCP IP.md",
+    "Computer Networking/1. Overview/5. OSI.md",
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Symbolic AI/3. KRR/3. CSP.md",
     "Symbolic AI/3. KRR/1. DPLL.md",
@@ -175,13 +179,9 @@
     "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
     "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
     "Symbolic AI/2. Search/0. Concepts/0. Agents.md",
-    "Symbolic AI/2. Search/0. Concepts/1. Search.md",
     "Symbolic AI/2. Search/0. Concepts",
-    "Algorithm/MiniMax.md",
     "Z-Pictures/AI",
     "Z-Pictures/AI/search.png",
-    "Symbolic AI/2. Search/2. Uninformed search strategies.md",
-    "Symbolic AI/2. Search/1. Search.md",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
