@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12f8fb550c7c445a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Vision/0. Image Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+                "file": "Computer Vision/0. Image Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+                "file": "Computer Vision/0. Image Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md"
+                "file": "Computer Vision/0. Image Processing.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "12f8fb550c7c445a",
   "lastOpenFiles": [
-    "Computer Vision",
     "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+    "Computer Vision/0. Image Processing.md",
+    "Computer Vision",
     "Computer Networking/3. Data Link Layer/Untitled.md",
     "Computer Networking/3. Data Link Layer",
     "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
@@ -195,7 +209,6 @@
     "Z-Pictures/Data/cuboids cal.png",
     "Z-Pictures/Data",
     "SQL",
-    "Symbolic AI/2. Search",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
   ]
 }
