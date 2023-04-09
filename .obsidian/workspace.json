@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e53510a639f1ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
