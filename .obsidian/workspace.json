@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
+                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
+                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md"
+                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md"
               }
             }
           }
