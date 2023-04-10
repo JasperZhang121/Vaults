@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3cae6706b08e3b91",
+        "id": "6cc6e114789112fc",
         "type": "tabs",
         "children": [
           {
-            "id": "567ddcfd0e406ce8",
+            "id": "356dbc5ad47df085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f8fb550c7c445a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/0. Image Processing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 304.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/0. Image Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/0. Image Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Vision/0. Image Processing.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,45 +139,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12f8fb550c7c445a",
+  "active": "356dbc5ad47df085",
   "lastOpenFiles": [
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+    "Computer Networking/2. Physical/2. Symbol.md",
     "Computer Vision/0. Image Processing.md",
     "Computer Vision",
     "Computer Networking/3. Data Link Layer/Untitled.md",
     "Computer Networking/3. Data Link Layer",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
+    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
     "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/3. KRR/3. CSP.md",
+    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
+    "Computer Networking/2. Physical Layer",
+    "Computer Networking/2. Physical/3. Nyquist Theorem.md",
+    "Computer Networking/2. Physical/1. The Physical Layer.md",
+    "Computer Networking/1. Overview/6. TCP IP.md",
+    "Computer Networking/1. Overview/5. OSI.md",
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Computer Networking/1. Overview/2. Data Rate.md",
+    "Computer Networking/1. Overview/4. Layered Architecture.md",
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "Symbolic AI/3. KRR/3. CSP.md",
+    "Symbolic AI/3. KRR/1. DPLL.md",
+    "Symbolic AI/3. KRR/0. Intro.md",
+    "conflict-files-obsidian-git.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
-    "Python/OOP/3. Polymorphism.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
-    "Python/OOP/2. Inheritance.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
-    "Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Algorithm/MiniMax.md",
-    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
-    "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Symbolic AI/2. Search/0. Concepts/1. Search.md",
-    "Symbolic AI/2. Search/0. Concepts",
-    "Symbolic AI/2. Search/1. Exercises",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
-    "Z-Pictures/AI/search.png",
+    "Symbolic AI/2. Search/1. Exercises",
+    "Symbolic AI/2. Search/0. Concepts",
     "Z-Pictures/AI",
+    "Z-Pictures/AI/search.png",
     "Symbolic AI/3. KRR",
     "Data Science/Data Mining/0. Concepts/4. Association Mining",
     "Z-Pictures/Data/data warehouse pivot.png",
@@ -208,7 +186,6 @@
     "Z-Pictures/Data/data cube 1.png",
     "Z-Pictures/Data/cuboids cal.png",
     "Z-Pictures/Data",
-    "SQL",
     "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
   ]
 }
