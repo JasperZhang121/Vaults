@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/0. Image Processing.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/0. Image Processing.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/0. Image Processing.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/0. Image Processing.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md"
               }
             }
           }
@@ -162,12 +162,12 @@
   },
   "active": "12f8fb550c7c445a",
   "lastOpenFiles": [
+    "Computer Vision/0. Image Processing.md",
     "Python/Flask/1. URL and View Mapping.md",
     "Python/Flask/0. Start.md",
     "Python/Flask",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Computer Vision/0. Image Processing.md",
     "Computer Vision",
     "Computer Networking/3. Data Link Layer/Untitled.md",
     "Computer Networking/3. Data Link Layer",
