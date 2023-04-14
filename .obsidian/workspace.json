@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Flask/1. Interacts.md",
+                "file": "Python/Flask/1. URL and View Mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Flask/1. Interacts.md",
+                "file": "Python/Flask/1. URL and View Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Flask/1. Interacts.md",
+                "file": "Python/Flask/1. URL and View Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Flask/1. Interacts.md"
+                "file": "Python/Flask/1. URL and View Mapping.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "9459ab4e264dca05",
   "lastOpenFiles": [
     "Python/Flask/0. Start.md",
-    "Python/Flask/1. Interacts.md",
+    "Python/Flask/1. URL and View Mapping.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Python/Flask",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
