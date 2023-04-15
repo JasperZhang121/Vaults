@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md"
               }
             }
           }
@@ -150,9 +149,9 @@
   },
   "active": "61ccdd09b08ad042",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Python/Flask/0. Start.md",
     "Python/Flask/1. URL and View Mapping.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Python/Flask",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/6. Classification",
@@ -167,7 +166,7 @@
     "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
     "Computer Networking/2. Physical Layer",
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
