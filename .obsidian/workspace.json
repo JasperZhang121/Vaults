@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "6a34fe39a86c99f5",
+    "id": "d6c4637d03c9aba2",
     "type": "split",
     "children": [
       {
-        "id": "db5485bdeee7e53c",
+        "id": "1d1be6ecf055d574",
         "type": "tabs",
         "children": [
           {
-            "id": "69569d62c8c268a9",
+            "id": "61ccdd09b08ad042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc48e3864eb4f9ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fdda849bd868e7e5",
+    "id": "e842880b3bac6047",
     "type": "split",
     "children": [
       {
-        "id": "ed7baa3a1b567995",
+        "id": "7faa162f138bac53",
         "type": "tabs",
         "children": [
           {
-            "id": "b479d51c4371e10a",
+            "id": "0e3d9c4c550f9ca9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "00cf0bda7c65a28d",
+            "id": "fd15b7c9e49ac477",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +70,7 @@
             }
           },
           {
-            "id": "264b7ebb80f897bd",
+            "id": "a16cfca35d6d24dd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,18 +81,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
-    "id": "eb9b5048f48397f5",
+    "id": "7dcb91c75a3768a3",
     "type": "split",
     "children": [
       {
-        "id": "a0834791f219d68a",
+        "id": "b0573f0c77a254ee",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7affea9bfa5c3b",
+            "id": "d8837a168bb7d2e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +110,7 @@
             }
           },
           {
-            "id": "944522d91f6e63e4",
+            "id": "99ec26e8c41d3271",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +122,7 @@
             }
           },
           {
-            "id": "c01df8636922d9b3",
+            "id": "6fc3d4e5b474eb74",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +133,7 @@
             }
           },
           {
-            "id": "fb12409e2924c77d",
+            "id": "17198e5890d3f845",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,11 +142,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,11 +160,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69569d62c8c268a9",
+  "active": "61ccdd09b08ad042",
   "lastOpenFiles": [
+    "Z-Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
+    "Z-Pictures/Stats-ML/data_2d_to_3d.png",
+    "Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "Z-Pictures/Stats-ML/dataset_nonsep.png",
+    "Z-Pictures/Stats-ML/lssvm.png",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+    "Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Wiki.md",
+    "Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
+    "Z-Pictures/Stats-ML/neuralnetworks.png",
+    "Z-Pictures/Stats-ML/hidden_unit.png",
+    "Z-Pictures/Stats-ML/Multi.png",
+    "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
-    "conflict-files-obsidian-git.md"
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+    "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
+    "Machine Learning/Algorithm/7. Convolutional neural networks.md",
+    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
+    "Statistics/1. Statistical Inference/3. Neural Network",
+    "Machine Learning/Algorithm/1. Linear Regression.md",
+    "Python/Flask/0. Start.md",
+    "Python/Flask/1. URL and View Mapping.md",
+    "Python/Flask",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+    "Data Science/Data Mining/0. Concepts/6. Classification",
+    "conflict-files-obsidian-git.md",
+    "Symbolic AI/3. KRR/3. CSP.md",
+    "Computer Vision/0. Image Processing.md",
+    "Computer Vision",
+    "Computer Networking/3. Data Link Layer/Untitled.md",
+    "Computer Networking/3. Data Link Layer",
+    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+    "Computer Networking/2. Physical Layer/2. Symbol.md",
+    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
+    "Computer Networking/2. Physical Layer",
+    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
+    "Symbolic AI/3. KRR/2. Prenex",
+    "Data Science/Data Mining/3. Classification & Prediction",
+    "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
+    "Z-Pictures/AI/search.png",
+    "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
+    "Z-Pictures/AI",
+    "Z-Pictures/Data/cuboids cal.png"
   ]
 }
