@@ -23,12 +23,8 @@
             "id": "0f4df1137b6c7e07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,14 +33,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
+                "file": "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc3a0837820e5caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45232df9ae5edf8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Stats/Models/6. Neural Network Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
+                "file": "Machine Learning/Stats/Models/6. Neural Network Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
+                "file": "Machine Learning/Stats/Models/6. Neural Network Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Algorithm/1. Linear Regression.md"
+                "file": "Machine Learning/Stats/Models/6. Neural Network Learning.md"
               }
             }
           }
@@ -172,11 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f4df1137b6c7e07",
+  "active": "45232df9ae5edf8d",
   "lastOpenFiles": [
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
+    "Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
+    "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
+    "Statistics/1. Statistical Inference/3. Neural Network",
     "Machine Learning/Algorithm/1. Linear Regression.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+    "Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10.1 Exercises.md",
     "Python/Flask/0. Start.md",
     "Python/Flask/1. URL and View Mapping.md",
@@ -203,18 +229,12 @@
     "Symbolic AI/3. KRR/2. Prenex Normal form.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
-    "Symbolic AI/3. KRR/1. DPLL.md",
     "Symbolic AI/3. KRR/2. Prenex",
-    "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/2. Search/0. Concepts/2. Uninformed search strategies.md",
     "Data Science/Data Mining/3. Classification & Prediction",
-    "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/search.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
     "Z-Pictures/AI",
-    "Symbolic AI/2. Search/1. Exercises",
     "Z-Pictures/Data/cuboids cal.png",
     "Z-Pictures/Data/data cube 1.png",
     "Z-Pictures/Data/data warehouse pivot.png",
