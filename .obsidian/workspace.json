@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3cae6706b08e3b91",
+        "id": "6c85576802ff6397",
         "type": "tabs",
         "children": [
           {
-            "id": "567ddcfd0e406ce8",
+            "id": "1f1487ca6e96cb83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f8fb550c7c445a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md"
               }
             }
           }
@@ -160,21 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12f8fb550c7c445a",
+  "active": "1f1487ca6e96cb83",
   "lastOpenFiles": [
+    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
     "Statistics/1. Statistical Inference/3. Neural Network",
     "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
     "Statistics/1. Statistical Inference/2. Regression",
     "Machine Learning/Stats/Models/6. Neural Network Learning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10.1 Exercises.md",
     "Computer Vision/0. Image Processing.md",
     "Python/Flask/1. URL and View Mapping.md",
     "Python/Flask/0. Start.md",
     "Python/Flask",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
     "Computer Vision",
     "Computer Networking/3. Data Link Layer/Untitled.md",
     "Computer Networking/3. Data Link Layer",
