@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f4df1137b6c7e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d5e3138c462807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
+                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
+                "file": "Machine Learning/Algorithm/1. Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md"
+                "file": "Machine Learning/Algorithm/1. Linear Regression.md"
               }
             }
           }
@@ -147,9 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61ccdd09b08ad042",
+  "active": "0f4df1137b6c7e07",
   "lastOpenFiles": [
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+    "Machine Learning/Algorithm/1. Linear Regression.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10.1 Exercises.md",
     "Python/Flask/0. Start.md",
     "Python/Flask/1. URL and View Mapping.md",
     "Python/Flask",
@@ -166,7 +194,6 @@
     "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
     "Computer Networking/2. Physical Layer",
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Exercises.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
@@ -183,8 +210,6 @@
     "Data Science/Data Mining/3. Classification & Prediction",
     "Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
     "Symbolic AI/2. Search/1. Exercises/3. Exercises 4.md",
-    "Symbolic AI/2. Search/0. Concepts/3. Informed search algorithms.md",
-    "Symbolic AI/2. Search/1. Exercises/1. Exercises 2.md",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/search.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
