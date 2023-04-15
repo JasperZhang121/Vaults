@@ -13,58 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f4df1137b6c7e07",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9d5e3138c462807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc3a0837820e5caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45232df9ae5edf8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Machine Learning/Stats/Models/6. Neural Network Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc48e3864eb4f9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,18 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45232df9ae5edf8d",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
+    "Wiki.md",
+    "Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+    "Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
     "Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Z-Pictures/Stats-ML/neuralnetworks.png",
+    "Z-Pictures/Stats-ML/hidden_unit.png",
+    "Z-Pictures/Stats-ML/Multi.png",
     "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
+    "Machine Learning/Algorithm/7. Convolutional neural networks.md",
+    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
     "Statistics/1. Statistical Inference/3. Neural Network",
     "Machine Learning/Algorithm/1. Linear Regression.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-    "Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10.1 Exercises.md",
     "Python/Flask/0. Start.md",
     "Python/Flask/1. URL and View Mapping.md",
     "Python/Flask",
@@ -222,12 +197,8 @@
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
     "Symbolic AI/3. KRR/2. Prenex",
     "Data Science/Data Mining/3. Classification & Prediction",
@@ -238,9 +209,6 @@
     "Z-Pictures/Data/cuboids cal.png",
     "Z-Pictures/Data/data cube 1.png",
     "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data cube.png",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data/data warehouse comparision.png",
-    "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
+    "Z-Pictures/Data/data cube.png"
   ]
 }
