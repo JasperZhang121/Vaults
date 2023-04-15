@@ -1,39 +1,48 @@
 {
   "main": {
-    "id": "d6c4637d03c9aba2",
+    "id": "6a34fe39a86c99f5",
     "type": "split",
     "children": [
       {
-        "id": "6c85576802ff6397",
+        "id": "db5485bdeee7e53c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f1487ca6e96cb83",
+            "id": "69569d62c8c268a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c190f308f4514b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e842880b3bac6047",
+    "id": "fdda849bd868e7e5",
     "type": "split",
     "children": [
       {
-        "id": "7faa162f138bac53",
+        "id": "ed7baa3a1b567995",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3d9c4c550f9ca9",
+            "id": "b479d51c4371e10a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +52,7 @@
             }
           },
           {
-            "id": "fd15b7c9e49ac477",
+            "id": "00cf0bda7c65a28d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +67,7 @@
             }
           },
           {
-            "id": "a16cfca35d6d24dd",
+            "id": "264b7ebb80f897bd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 300
   },
   "right": {
-    "id": "7dcb91c75a3768a3",
+    "id": "eb9b5048f48397f5",
     "type": "split",
     "children": [
       {
-        "id": "b0573f0c77a254ee",
+        "id": "a0834791f219d68a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8837a168bb7d2e7",
+            "id": "ab7affea9bfa5c3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "99ec26e8c41d3271",
+            "id": "944522d91f6e63e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6fc3d4e5b474eb74",
+            "id": "c01df8636922d9b3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +129,20 @@
             }
           },
           {
-            "id": "17198e5890d3f845",
+            "id": "fb12409e2924c77d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,55 +155,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f1487ca6e96cb83",
+  "active": "c190f308f4514b5f",
   "lastOpenFiles": [
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-    "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
-    "Statistics/1. Statistical Inference/3. Neural Network",
-    "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
-    "Statistics/1. Statistical Inference/2. Regression",
-    "Machine Learning/Stats/Models/6. Neural Network Learning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10.1 Exercises.md",
-    "Computer Vision/0. Image Processing.md",
-    "Python/Flask/1. URL and View Mapping.md",
-    "Python/Flask/0. Start.md",
-    "Python/Flask",
-    "Computer Vision",
-    "Computer Networking/3. Data Link Layer/Untitled.md",
-    "Computer Networking/3. Data Link Layer",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Symbolic AI/3. KRR/0. Intro.md",
-    "Symbolic AI/3. KRR/3. CSP.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
-    "Python/OOP/3. Polymorphism.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
-    "Python/OOP/2. Inheritance.md",
-    "README.md",
-    "Symbolic AI/2. Search/0. Concepts",
-    "Symbolic AI/2. Search/1. Exercises",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
-    "Z-Pictures/AI/search.png",
-    "Z-Pictures/AI",
-    "Symbolic AI/3. KRR",
-    "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data warehouse comparision.png",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data/data cube.png",
-    "Z-Pictures/Data/data cube 1.png",
-    "Z-Pictures/Data/cuboids cal.png",
-    "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
+    "conflict-files-obsidian-git.md"
   ]
 }
