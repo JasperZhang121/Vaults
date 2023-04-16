@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9016a1e7d942397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+                "file": "Algorithm/Algo/Backtracking/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+                "file": "Algorithm/Algo/Backtracking/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+                "file": "Algorithm/Algo/Backtracking/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md"
+                "file": "Algorithm/Algo/Backtracking/Backtracking.md"
               }
             }
           }
@@ -186,53 +174,53 @@
   },
   "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Algorithm/Two Pointers",
-    "Algorithm/Divide and Conquer",
-    "Algorithm/Backtracking",
-    "Untitled",
-    "Algorithm/Greedy",
-    "Algorithm/Dynamic Programming",
-    "Algorithm/Sorting",
-    "Algorithm/Search",
-    "Data Structures/2. Complex/6. B+ Tree.md",
-    "Algorithm/Search/A star.md",
-    "Algorithm/Alpha-Beta.md",
-    "Algorithm/Two Pointers/Two Pointer.md",
-    "Algorithm/Recursion.md",
-    "Algorithm/Greedy/Greedy.md",
-    "Algorithm/Search/Dijkstra.md",
-    "Algorithm/Sorting/Binary Search.md",
-    "Artificial Intelligence/Deep Learning/4.Transfer Learning.md",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Z-Archive",
+    "Commands",
+    "Programming Languages",
+    "Algorithm/Algo",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+    "Algorithm/Algo/Backtracking/Backtracking.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Algorithm/Algo/Recursion",
+    "Algorithm/Algo/Sliding Window",
+    "Algorithm/Algo/Graph",
+    "Algorithm/Algo/Two Pointers",
+    "Algorithm/Algo/Divide and Conquer",
+    "Algorithm/Algo/Backtracking",
+    "Algorithm/Algo/Greedy",
+    "Data Structures/2. Complex/6. B+ Tree.md",
+    "Algorithm/Algo/Search/A star.md",
+    "Algorithm/Algo/Graph/Alpha-Beta.md",
+    "Algorithm/Algo/Two Pointers/Two Pointer.md",
+    "Algorithm/Algo/Recursion/Recursion.md",
+    "Algorithm/Algo/Greedy/Greedy.md",
+    "Algorithm/Algo/Search/Dijkstra.md",
+    "Algorithm/Algo/Sorting/Binary Search.md",
+    "Artificial Intelligence/Deep Learning/4.Transfer Learning.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Deep Learning/Untitled",
-    "Artificial Intelligence/Reinforcement Learning",
-    "Artificial Intelligence/Deep Learning",
-    "Stats/Models/7. Lazy Leaner.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Stats/Models/8. Eager Learning.md",
-    "Z-Pictures/Stats-ML/structure-of-a-decision-tree.png",
+    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
+    "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Probability and Distribution.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Z-Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
-    "Z-Pictures/Stats-ML/data_2d_to_3d.png",
-    "Z-Pictures/Stats-ML/dataset_nonsep.png",
-    "Z-Pictures/Stats-ML/lssvm.png",
-    "Stats/Models/6. Neural Network Learning.md",
-    "Wiki.md",
-    "Z-Pictures/Stats-ML/neuralnetworks.png",
-    "Z-Pictures/Stats-ML/hidden_unit.png",
-    "Z-Pictures/Stats-ML/Multi.png",
+    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
+    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
+    "Z-Archive/Pictures/Stats-ML/dataset_nonsep.png",
+    "Z-Archive/Pictures/Stats-ML/lssvm.png",
+    "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Z-Archive/Pictures/Stats-ML/neuralnetworks.png",
+    "Z-Archive/Pictures/Stats-ML/hidden_unit.png",
+    "Z-Archive/Pictures/Stats-ML/Multi.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
-    "Z-Pictures/AI/search.png"
+    "Z-Archive/Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
+    "Z-Archive/Pictures/AI/search.png"
   ]
 }
