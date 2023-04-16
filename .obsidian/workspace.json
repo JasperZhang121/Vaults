@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md"
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "69569d62c8c268a9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/OS/Know/Pasted image 20221222154506.png",
     "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
     "Z-Archive/Pictures/OS/Write/vm first run for setting check.png",
