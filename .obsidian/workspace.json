@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md"
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "69569d62c8c268a9",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
@@ -156,7 +158,6 @@
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Reinforcement Learning",
@@ -192,7 +193,6 @@
     "Z-Archive/Pictures/CNET",
     "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
     "Z-Archive/Debug Vault (Not Notes)/Debug.md",
-    "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md"
+    "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md"
   ]
 }
