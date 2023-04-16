@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396.5
   },
   "right": {
     "id": "eb9b5048f48397f5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
               }
             }
           }
@@ -146,14 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69569d62c8c268a9",
+  "active": "b479d51c4371e10a",
   "lastOpenFiles": [
+    "Artificial Intelligence/Reinforced Learning",
+    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
-    "Programming Languages/Python/Pytorch/0. Introduction.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "Programming Languages/Python/Pytorch",
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
+    "Programming Languages/Python/Pytorch/0. Introduction.md",
+    "Programming Languages/Python/Pytorch",
     "Machine Learning/Algorithm/6. Support Vector Machine.md",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/OS/Know/Pasted image 20221222154506.png",
@@ -186,13 +193,6 @@
     "Programming Languages/C++/Basic/1. Variable/0. Notes/2. Reference.md",
     "Programming Languages/C++/Basic/1. Variable/0. Notes/1. Variables.md",
     "Programming Languages/C++/Basic/1. Variable/0. Notes/0. Basic Types.md",
-    "Programming Languages/C++/Basic/4. Statements/1. Exercises.md",
-    "Programming Languages/C++/Basic/4. Statements/0. Statements.md",
-    "Programming Languages/C++/Basic/3. Expression/3. Exercise.md",
-    "Programming Languages/C++/Basic/3. Expression/2. Type Conversion.md",
-    "Programming Languages/C++/Basic/3. Expression/0. Basics of Expressions.md",
-    "Programming Languages/C++/Basic/3. Expression/1. Operators.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/5. Exercise.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/4. Array.md"
+    "Programming Languages/C++/Basic/4. Statements/1. Exercises.md"
   ]
 }
