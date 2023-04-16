@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9c6c84288207b294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -143,53 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "9c6c84288207b294",
   "lastOpenFiles": [
-    "Computer Networking/2. Physical/2. Symbol.md",
-    "Computer Vision/0. Image Processing.md",
-    "Computer Vision",
-    "Computer Networking/3. Data Link Layer/Untitled.md",
-    "Computer Networking/3. Data Link Layer",
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
-    "Computer Networking/2. Physical Layer",
-    "Computer Networking/2. Physical/3. Nyquist Theorem.md",
-    "Computer Networking/2. Physical/1. The Physical Layer.md",
-    "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Computer Networking/1. Overview/2. Data Rate.md",
-    "Computer Networking/1. Overview/4. Layered Architecture.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Symbolic AI/3. KRR/2. Prenex Normal form.md",
-    "Symbolic AI/3. KRR/3. CSP.md",
-    "Symbolic AI/3. KRR/1. DPLL.md",
-    "Symbolic AI/3. KRR/0. Intro.md",
     "conflict-files-obsidian-git.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/3. Enhancements to the Basic Algorithm.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/2. Overfitting and tree pruning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
-    "Symbolic AI/2. Search/1. Exercises",
-    "Symbolic AI/2. Search/0. Concepts",
-    "Z-Pictures/AI",
-    "Z-Pictures/AI/search.png",
-    "Symbolic AI/3. KRR",
-    "Data Science/Data Mining/0. Concepts/4. Association Mining",
-    "Z-Pictures/Data/data warehouse pivot.png",
-    "Z-Pictures/Data/data warehouse comparision.png",
-    "Z-Pictures/Data/data warehouse architecture.png",
-    "Z-Pictures/Data/data cube.png",
-    "Z-Pictures/Data/data cube 1.png",
-    "Z-Pictures/Data/cuboids cal.png",
-    "Z-Pictures/Data",
-    "Z-Pictures/Stats-ML/Dissimilarity Matrix.png"
+    "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
+    "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
+    "Z-Archive/Pictures/OS/Write/vm first run for setting check.png",
+    "Z-Archive/Pictures/OS/Write/vhd.png",
+    "Z-Archive/Pictures/OS/Write/dd.png",
+    "Z-Archive/Pictures/OS/Know/Pasted image 20221225104056.png",
+    "Z-Archive/Pictures/OS/Know/Pasted image 20221224050102.png",
+    "Z-Archive/Pictures/OS/Know/Pasted image 20221222154419.png",
+    "Z-Archive/Pictures/OS/Know/Pasted image 20221222154506.png",
+    "Z-Archive/Pictures/Stats-ML/sum of squares form.png",
+    "Z-Archive/Pictures/OS/Write",
+    "Z-Archive/Pictures/OS/Know",
+    "Z-Archive/Pictures/Stats-ML",
+    "Z-Archive/Pictures/OS",
+    "Z-Archive/Pictures/H-C-J",
+    "Z-Archive/Pictures/Data",
+    "Z-Archive/Pictures/COA",
+    "Z-Archive/Pictures/CNET",
+    "Z-Archive/Pictures/AI",
+    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
+    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
+    "Z-Archive/Pictures",
+    "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
+    "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
+    "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/5. Type aliases.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/4. Pointers and const.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/3. Pointers.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/2. Reference.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/1. Variables.md",
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/0. Basic Types.md",
+    "Programming Languages/C++/Basic/2. String Vector Array/5. Exercise.md",
+    "Programming Languages/C++/Basic/2. String Vector Array/4. Array.md",
+    "Programming Languages/C++/Basic/2. String Vector Array/3. Iterator.md",
+    "Programming Languages/C++/Basic/2. String Vector Array/2. Vector.md",
+    "Programming Languages/C++/Basic/2. String Vector Array/1. String.md",
+    "Programming Languages/C++/Basic/2. String Vector Array/0. Namespace using.md",
+    "Programming Languages/C++/Basic/3. Expression/3. Exercise.md",
+    "Programming Languages/C++/Basic/3. Expression/2. Type Conversion.md",
+    "Programming Languages/C++/Basic/3. Expression/1. Operators.md",
+    "Programming Languages/C++/Basic/3. Expression/0. Basics of Expressions.md",
+    "Programming Languages/C++/Basic/4. Statements/1. Exercises.md",
+    "Programming Languages/C++/Basic/4. Statements/0. Statements.md"
   ]
 }
