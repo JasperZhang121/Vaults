@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db5485bdeee7e53c",
+        "id": "86a34147b17e652a",
         "type": "tabs",
         "children": [
           {
-            "id": "69569d62c8c268a9",
+            "id": "d16d93ec882319a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
               }
             }
           }
@@ -146,8 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69569d62c8c268a9",
+  "active": "b479d51c4371e10a",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
@@ -157,7 +154,6 @@
     "Artificial Intelligence/Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Reinforcement Learning",
