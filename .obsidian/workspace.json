@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/0. Introduction.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/0. Introduction.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/0. Introduction.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/0. Introduction.md"
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "69569d62c8c268a9",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Programming Languages/Python/Pytorch",
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
@@ -191,8 +193,6 @@
     "Programming Languages/C++/Basic/3. Expression/0. Basics of Expressions.md",
     "Programming Languages/C++/Basic/3. Expression/1. Operators.md",
     "Programming Languages/C++/Basic/2. String Vector Array/5. Exercise.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/4. Array.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/3. Iterator.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/2. Vector.md"
+    "Programming Languages/C++/Basic/2. String Vector Array/4. Array.md"
   ]
 }
