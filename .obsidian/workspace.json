@@ -13,8 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
-                "mode": "preview",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c623c5aa24b7cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Stats/Models/7. Lazy Leaner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04e2b640bb0c1a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695c31c3951d50fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e2419b1d56ed1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md"
+                "file": "Machine Learning/Algorithm/8. Decision Tree.md"
               }
             }
           }
@@ -160,14 +208,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61ccdd09b08ad042",
+  "active": "2e2419b1d56ed1d9",
   "lastOpenFiles": [
+    "Machine Learning/Algorithm/9. Random Forest.md",
+    "Machine Learning/Algorithm/8. Decision Tree.md",
+    "Machine Learning/Stats/Models/8. Eager Learning.md",
+    "Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+    "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Machine Learning/Algorithm/7. Convolutional neural networks.md",
+    "Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "Machine Learning/Algorithm/5. Probability and Distribution.md",
+    "Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+    "Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Machine Learning/Algorithm/1. Linear Regression.md",
     "Z-Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
     "Z-Pictures/Stats-ML/data_2d_to_3d.png",
-    "Machine Learning/Algorithm/6. Support Vector Machine.md",
     "Z-Pictures/Stats-ML/dataset_nonsep.png",
     "Z-Pictures/Stats-ML/lssvm.png",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
     "Machine Learning/Stats/Models/6. Neural Network Learning.md",
     "Wiki.md",
     "Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
@@ -179,10 +237,8 @@
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
-    "Machine Learning/Algorithm/7. Convolutional neural networks.md",
     "Machine Learning/Stats/Models/5.  Logistic Regression.md",
     "Statistics/1. Statistical Inference/3. Neural Network",
-    "Machine Learning/Algorithm/1. Linear Regression.md",
     "Python/Flask/0. Start.md",
     "Python/Flask/1. URL and View Mapping.md",
     "Python/Flask",
@@ -190,16 +246,9 @@
     "Data Science/Data Mining/0. Concepts/6. Classification",
     "conflict-files-obsidian-git.md",
     "Symbolic AI/3. KRR/3. CSP.md",
-    "Computer Vision/0. Image Processing.md",
     "Computer Vision",
-    "Computer Networking/3. Data Link Layer/Untitled.md",
     "Computer Networking/3. Data Link Layer",
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
     "Computer Networking/2. Physical Layer",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
@@ -208,7 +257,6 @@
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/search.png",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
-    "Z-Pictures/AI",
-    "Z-Pictures/Data/cuboids cal.png"
+    "Z-Pictures/AI"
   ]
 }
