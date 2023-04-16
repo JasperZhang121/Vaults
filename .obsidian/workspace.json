@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "Programming Languages/Python/Pytorch/0. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "Programming Languages/Python/Pytorch/0. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "Programming Languages/Python/Pytorch/0. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md"
+                "file": "Programming Languages/Python/Pytorch/0. Introduction.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "69569d62c8c268a9",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Programming Languages/Python/Pytorch",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Machine Learning/Algorithm/6. Support Vector Machine.md",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/OS/Know/Pasted image 20221222154506.png",
@@ -171,7 +175,6 @@
     "Z-Archive/Pictures/AI",
     "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
     "Z-Archive/Debug Vault (Not Notes)/Debug.md",
-    "Z-Archive/Pictures",
     "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "Programming Languages/C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md",
     "Programming Languages/C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
@@ -190,9 +193,6 @@
     "Programming Languages/C++/Basic/2. String Vector Array/5. Exercise.md",
     "Programming Languages/C++/Basic/2. String Vector Array/4. Array.md",
     "Programming Languages/C++/Basic/2. String Vector Array/3. Iterator.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/2. Vector.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/0. Namespace using.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/1. String.md",
-    "Programming Languages/C++/Basic/0. General Concepts/1. STL.md"
+    "Programming Languages/C++/Basic/2. String Vector Array/2. Vector.md"
   ]
 }
