@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Stats/Models/8. Eager Learning.md"
+                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "2e2419b1d56ed1d9",
   "lastOpenFiles": [
+    "Machine Learning/Stats/Models/8. Eager Learning.md",
     "Machine Learning/Algorithm/8. Decision Tree.md",
     "Z-Pictures/Stats-ML/structure-of-a-decision-tree.png",
     "Machine Learning/Algorithm/9. Random Forest.md",
-    "Machine Learning/Stats/Models/8. Eager Learning.md",
     "Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
     "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
