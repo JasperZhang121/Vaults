@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2940f9c852ffdd93",
+        "id": "b5a57b7d8480fbe7",
         "type": "tabs",
         "children": [
           {
-            "id": "1d4aa93c93d7c421",
+            "id": "4038de9ae675a519",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md"
+              }
             }
           }
         ],
@@ -139,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4aa93c93d7c421",
+  "active": "4038de9ae675a519",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Untitled.md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Cloud Computing",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
@@ -151,7 +164,6 @@
     "Commands",
     "Programming Languages",
     "Algorithm/Algo",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Algorithm/Algo/Recursion",
     "Algorithm/Algo/Sliding Window",
@@ -165,8 +177,6 @@
     "Algorithm/Algo/Greedy/Greedy.md",
     "Algorithm/Algo/Search/Dijkstra.md",
     "Algorithm/Algo/Sorting/Binary Search.md",
-    "Artificial Intelligence/Deep Learning/4.Transfer Learning.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
@@ -176,7 +186,6 @@
     "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Probability and Distribution.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
     "Z-Archive/Pictures/Stats-ML/dataset_nonsep.png",
