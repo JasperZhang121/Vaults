@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5a57b7d8480fbe7",
+        "id": "0284efa986844a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "06854c61a418746d",
+            "id": "8dcbd469be843c7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 668.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md"
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
               }
             }
           }
@@ -147,13 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06854c61a418746d",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/3. User Level Thread.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/2. Thread vs Process.md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "LSTM.png",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "Artificial Intelligence/Deep Learning/0. Backpropagation.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Machine Learning/Stats/Models/5.  Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
@@ -171,10 +176,6 @@
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Machine Learning/Math/1. Linear Algebra.md",
     "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
-    "Computer Networking/3. Data Link Layer/Untitled.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/4. Text Mining.md",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
     "Cloud Computing",
@@ -194,7 +195,6 @@
     "Z-Archive/Pictures/Stats-ML/lssvm.png",
     "Z-Archive/Pictures/Stats-ML/neuralnetworks.png",
     "Z-Archive/Pictures/Stats-ML/hidden_unit.png",
-    "Z-Archive/Pictures/Stats-ML/Multi.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
