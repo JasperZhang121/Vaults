@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7954641a8f6e2825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9016a1e7d942397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algorithm/6. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Support Vector Machine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md"
               }
             }
           }
@@ -159,54 +184,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2419b1d56ed1d9",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Algorithm/Two Pointers",
+    "Algorithm/Divide and Conquer",
+    "Algorithm/Backtracking",
+    "Untitled",
+    "Algorithm/Greedy",
+    "Algorithm/Dynamic Programming",
+    "Algorithm/Sorting",
+    "Algorithm/Search",
+    "Data Structures/2. Complex/6. B+ Tree.md",
+    "Algorithm/Search/A star.md",
+    "Algorithm/Alpha-Beta.md",
+    "Algorithm/Two Pointers/Two Pointer.md",
+    "Algorithm/Recursion.md",
+    "Algorithm/Greedy/Greedy.md",
+    "Algorithm/Search/Dijkstra.md",
+    "Algorithm/Sorting/Binary Search.md",
+    "Artificial Intelligence/Deep Learning/4.Transfer Learning.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/7. Decision Tree.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Deep Learning/Untitled",
+    "Artificial Intelligence/Reinforcement Learning",
+    "Artificial Intelligence/Deep Learning",
+    "Stats/Models/7. Lazy Leaner.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Machine Learning/Stats/Models/8. Eager Learning.md",
-    "Machine Learning/Algorithm/8. Decision Tree.md",
+    "Stats/Models/8. Eager Learning.md",
     "Z-Pictures/Stats-ML/structure-of-a-decision-tree.png",
-    "Machine Learning/Algorithm/9. Random Forest.md",
-    "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Machine Learning/Algorithm/7. Convolutional neural networks.md",
-    "Machine Learning/Algorithm/6. Support Vector Machine.md",
-    "Machine Learning/Algorithm/5. Probability and Distribution.md",
-    "Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
-    "Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Machine Learning/Algorithm/1. Linear Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Probability and Distribution.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Z-Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
     "Z-Pictures/Stats-ML/data_2d_to_3d.png",
     "Z-Pictures/Stats-ML/dataset_nonsep.png",
     "Z-Pictures/Stats-ML/lssvm.png",
-    "Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Stats/Models/6. Neural Network Learning.md",
     "Wiki.md",
-    "Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
     "Z-Pictures/Stats-ML/neuralnetworks.png",
     "Z-Pictures/Stats-ML/hidden_unit.png",
     "Z-Pictures/Stats-ML/Multi.png",
-    "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-    "Statistics/1. Statistical Inference/2. Regression/0. Linear Regression.md",
-    "Machine Learning/Stats/Models/5.  Logistic Regression.md",
-    "Statistics/1. Statistical Inference/3. Neural Network",
-    "Python/Flask/0. Start.md",
-    "Python/Flask/1. URL and View Mapping.md",
-    "Python/Flask",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
-    "Data Science/Data Mining/0. Concepts/6. Classification",
-    "conflict-files-obsidian-git.md",
-    "Computer Vision",
-    "Computer Networking/3. Data Link Layer",
-    "Computer Networking/2. Physical Layer",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction",
-    "Symbolic AI/3. KRR/2. Prenex",
-    "Data Science/Data Mining/3. Classification & Prediction",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
-    "Z-Pictures/AI/search.png",
-    "Z-Pictures/AI"
+    "Z-Pictures/AI/search.png"
   ]
 }
