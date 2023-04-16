@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9866cd3b714a0ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -143,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "9866cd3b714a0ed5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Computer Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
@@ -171,7 +185,6 @@
     "Artificial Intelligence/Machine Learning/Math/3. Full Rank Matrix.md",
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Machine Learning/Math/1. Linear Algebra.md",
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
     "Cloud Computing",
