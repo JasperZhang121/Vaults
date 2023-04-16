@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 412.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md"
               }
             }
           }
@@ -149,10 +149,18 @@
   },
   "active": "4038de9ae675a519",
   "lastOpenFiles": [
-    "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Probability and Distribution.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
+    "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Untitled.md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
@@ -178,14 +186,7 @@
     "Algorithm/Algo/Greedy/Greedy.md",
     "Algorithm/Algo/Search/Dijkstra.md",
     "Algorithm/Algo/Sorting/Binary Search.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/8. Random Forest.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Decision Tree.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
     "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
-    "Artificial Intelligence/Machine Learning/Algorithm/6. Support Vector Machine.md",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
     "Z-Archive/Pictures/Stats-ML/dataset_nonsep.png",
@@ -195,7 +196,6 @@
     "Z-Archive/Pictures/Stats-ML/Multi.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Z-Archive/Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
-    "Z-Archive/Pictures/AI/search.png"
+    "Z-Archive/Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png"
   ]
 }
