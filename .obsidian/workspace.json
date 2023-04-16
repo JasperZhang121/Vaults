@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61ccdd09b08ad042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9c623c5aa24b7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Stats/Models/7. Lazy Leaner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04e2b640bb0c1a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695c31c3951d50fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e2419b1d56ed1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
+                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
+                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Algorithm/8. Decision Tree.md",
+                "file": "Machine Learning/Stats/Models/8. Eager Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Algorithm/8. Decision Tree.md"
+                "file": "Machine Learning/Stats/Models/8. Eager Learning.md"
               }
             }
           }
@@ -210,8 +161,9 @@
   },
   "active": "2e2419b1d56ed1d9",
   "lastOpenFiles": [
-    "Machine Learning/Algorithm/9. Random Forest.md",
     "Machine Learning/Algorithm/8. Decision Tree.md",
+    "Z-Pictures/Stats-ML/structure-of-a-decision-tree.png",
+    "Machine Learning/Algorithm/9. Random Forest.md",
     "Machine Learning/Stats/Models/8. Eager Learning.md",
     "Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
@@ -245,7 +197,6 @@
     "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Data Science/Data Mining/0. Concepts/6. Classification",
     "conflict-files-obsidian-git.md",
-    "Symbolic AI/3. KRR/3. CSP.md",
     "Computer Vision",
     "Computer Networking/3. Data Link Layer",
     "Computer Networking/2. Physical Layer",
@@ -256,7 +207,6 @@
     "Data Science/Data Mining/3. Classification & Prediction",
     "Z-Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png",
     "Z-Pictures/AI/search.png",
-    "Z-Pictures/AI/Screen Shot 2023-03-25 at 7.22.47 pm.png",
     "Z-Pictures/AI"
   ]
 }
