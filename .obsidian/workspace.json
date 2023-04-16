@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md"
+                "file": "Machine Learning/Algorithm/3. K-nearest Neighbors.md"
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "2e2419b1d56ed1d9",
   "lastOpenFiles": [
+    "Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
     "Machine Learning/Stats/Models/8. Eager Learning.md",
     "Machine Learning/Algorithm/8. Decision Tree.md",
     "Z-Pictures/Stats-ML/structure-of-a-decision-tree.png",
     "Machine Learning/Algorithm/9. Random Forest.md",
-    "Machine Learning/Stats/Models/7. Lazy Leaner.md",
-    "Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
     "Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Machine Learning/Algorithm/7. Convolutional neural networks.md",
     "Machine Learning/Algorithm/6. Support Vector Machine.md",
