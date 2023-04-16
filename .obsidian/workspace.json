@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4038de9ae675a519",
+            "id": "06854c61a418746d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 307.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md"
+                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md"
               }
             }
           }
@@ -147,45 +147,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "06854c61a418746d",
   "lastOpenFiles": [
-    "Z-Archive/Pictures/Stats-ML/RNNs.png",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Probability and Distribution.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Deep Learning/0. Backpropagation.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/5.  Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/4. Elastic Net.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/2. Polynomial Regression.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/1. Linear Regression stats.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/6. Normal Equation.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/5. Sum of Squares.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/4. Correlation.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/2. Covariance.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/1. Variance.md",
+    "Artificial Intelligence/Machine Learning/Math/3. Full Rank Matrix.md",
+    "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
+    "Artificial Intelligence/Machine Learning/Math/1. Linear Algebra.md",
+    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+    "Computer Networking/2. Physical Layer/2. Symbol.md",
+    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
+    "Computer Networking/3. Data Link Layer/Untitled.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/4. Text Mining.md",
+    "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Untitled.md",
-    "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Cloud Computing",
-    "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
-    "Programming Languages/C/Basic/Syntax.md",
     "Artificial Intelligence/Natural Language Processing",
-    "Algorithm/Algo/Backtracking/Backtracking.md",
     "Z-Archive",
     "Commands",
     "Programming Languages",
     "Algorithm/Algo",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Algorithm/Algo/Recursion",
     "Algorithm/Algo/Sliding Window",
     "Algorithm/Algo/Graph",
     "Algorithm/Algo/Two Pointers",
-    "Data Structures/2. Complex/6. B+ Tree.md",
-    "Algorithm/Algo/Search/A star.md",
-    "Algorithm/Algo/Graph/Alpha-Beta.md",
-    "Algorithm/Algo/Two Pointers/Two Pointer.md",
-    "Algorithm/Algo/Recursion/Recursion.md",
-    "Algorithm/Algo/Greedy/Greedy.md",
-    "Algorithm/Algo/Search/Dijkstra.md",
     "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
@@ -195,7 +196,6 @@
     "Z-Archive/Pictures/Stats-ML/hidden_unit.png",
     "Z-Archive/Pictures/Stats-ML/Multi.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Z-Archive/Pictures/AI/Screen Shot 2023-03-25 at 8.27.49 pm.png"
+    "Untitled.canvas"
   ]
 }
