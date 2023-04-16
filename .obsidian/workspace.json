@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d3360967dd7d800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86303378136bed8d",
+  "active": "9d3360967dd7d800",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "conflict-files-obsidian-git.md",
+    "LSTM.png",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
@@ -159,7 +176,6 @@
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
     "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
     "Z-Archive/Pictures/OS/Write/vm first run for setting check.png",
@@ -169,7 +185,6 @@
     "Z-Archive/Pictures/OS/Know/Pasted image 20221224050102.png",
     "Z-Archive/Pictures/OS/Know/Pasted image 20221222154419.png",
     "Z-Archive/Pictures/OS/Know/Pasted image 20221222154506.png",
-    "Z-Archive/Pictures/Stats-ML/sum of squares form.png",
     "Z-Archive/Pictures/OS/Write",
     "Z-Archive/Pictures/OS/Know",
     "Z-Archive/Pictures/Stats-ML",
@@ -192,8 +207,6 @@
     "Programming Languages/C++/Basic/1. Variable/0. Notes/3. Pointers.md",
     "Programming Languages/C++/Basic/1. Variable/0. Notes/2. Reference.md",
     "Programming Languages/C++/Basic/1. Variable/0. Notes/1. Variables.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/0. Basic Types.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/5. Exercise.md",
-    "Programming Languages/C++/Basic/2. String Vector Array/4. Array.md"
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/0. Basic Types.md"
   ]
 }
