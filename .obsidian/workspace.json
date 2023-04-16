@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md"
               }
             }
           }
@@ -146,9 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b479d51c4371e10a",
+  "active": "69569d62c8c268a9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Reinforced Learning",
+    "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+    "Artificial Intelligence/Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
+    "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+    "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/0. Intro.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Reinforcement Learning",
     "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
@@ -156,8 +167,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch",
@@ -181,18 +190,9 @@
     "Z-Archive/Pictures/Data",
     "Z-Archive/Pictures/COA",
     "Z-Archive/Pictures/CNET",
-    "Z-Archive/Pictures/AI",
     "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
     "Z-Archive/Debug Vault (Not Notes)/Debug.md",
     "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/6. Type Specifier.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/5. Type aliases.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/4. Pointers and const.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/3. Pointers.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/2. Reference.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/1. Variables.md",
-    "Programming Languages/C++/Basic/1. Variable/0. Notes/0. Basic Types.md",
-    "Programming Languages/C++/Basic/4. Statements/1. Exercises.md"
+    "Programming Languages/C++/Basic/1. Variable/0. Notes/7. Custom Data Structure.md"
   ]
 }
