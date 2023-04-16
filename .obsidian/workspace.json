@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc6e114789112fc",
+        "id": "f46995e0edb8bf48",
         "type": "tabs",
         "children": [
           {
-            "id": "356dbc5ad47df085",
+            "id": "86303378136bed8d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Networking/3. Data Link Layer/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Networking/3. Data Link Layer/Untitled.md"
+              }
             }
           }
         ],
@@ -139,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "356dbc5ad47df085",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Computer Networking/2. Physical/2. Symbol.md",
     "Computer Vision/0. Image Processing.md",
