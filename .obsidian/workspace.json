@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f46995e0edb8bf48",
+        "id": "6f23e0a034d82853",
         "type": "tabs",
         "children": [
           {
-            "id": "86303378136bed8d",
+            "id": "554ba04e9f17783c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86303378136bed8d",
+  "active": "554ba04e9f17783c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Statistics/3. Advanced Statistical Techniques/Regression/0. Mean Squared Error.md",
     "Statistics/3. Advanced Statistical Techniques/Regression",
@@ -184,8 +186,6 @@
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
     "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
