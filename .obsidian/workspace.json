@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "798c648c7ce15aef",
+            "id": "e4d3815d88d68a66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+                "file": "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e4d3815d88d68a66",
+            "id": "9b5809baa46ad007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/0. Introduction/1. Probability Theory/5. Maximum Likelihood Estimation.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md"
               }
             }
           }
@@ -159,42 +160,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "798c648c7ce15aef",
+  "active": "9b5809baa46ad007",
   "lastOpenFiles": [
-    "Statistics/0. Introduction/1. Probability Theory/4. Likelihood function.md",
-    "Statistics/0. Introduction/1. Probability Theory/5. Maximum Likelihood Estimation.md",
-    "Statistics/0. Introduction/1. Probability Theory/3. Probability Density Function.md",
-    "Statistics/0. Introduction/1. Probability Theory/2. Central Limit Theorem.md",
-    "Statistics/0. Introduction/1. Probability Theory/1. Probability Distributions.md",
-    "Statistics/0. Introduction/1. Probability Theory/0. Basic Probability Rules.md",
-    "Statistics/1. Statistical Inference/Probability_Density_Function_1.webp",
-    "Statistics/1. Statistical Inference/4. Regression/1. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+    "Statistics/3. Advanced Statistical Techniques/Regression/0. Mean Squared Error.md",
+    "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
+    "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md",
+    "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md",
+    "Statistics/0. Introduction/0. Intro/1. Types of Data.md",
+    "Statistics/0. Introduction/0. Intro/0. Overview.md",
+    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Statistics/1. Probability Theory/4. Likelihood function.md",
+    "Statistics/1. Probability Theory/3. Probability Density Function.md",
+    "Statistics/1. Probability Theory/2. Central Limit Theorem.md",
+    "Statistics/1. Probability Theory/1. Probability Distributions.md",
+    "Statistics/1. Probability Theory/0. Basic Probability Rules.md",
+    "Statistics/2. Statistical Inference/4. Regression/1. Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/5.  Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Statistics/1. Statistical Inference/4. Regression/0. Linear Regression.md",
-    "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
+    "Statistics/2. Statistical Inference/4. Regression/0. Linear Regression.md",
     "Statistics/1. Statistical Inference/2. Parameter Estimation Methods",
     "Statistics/3. Applied Statistics/Untitled",
-    "Statistics/3. Applied Statistics/Data visualization and communication",
-    "Statistics/3. Applied Statistics/Research design and methods",
-    "Statistics/2. Advanced Statistical Techniques/Multivariate statistics",
-    "Statistics/2. Advanced Statistical Techniques/Multinomial logistic regression",
-    "Statistics/2. Advanced Statistical Techniques/Logistic Regression",
-    "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
-    "Statistics/1. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
-    "3. Cost function - Least Square.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
-    "Programming Languages/C++/Keywords/const.md",
-    "Programming Languages/C++/Compiler/Compiling Process.md",
-    "Programming Languages/C/Basic/Syntax.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/2. Prenex Normal form.md",
+    "Statistics/4. Applied Statistics/Data visualization and communication",
+    "Statistics/4. Applied Statistics/Research design and methods",
+    "Statistics/3. Advanced Statistical Techniques/Multivariate statistics",
+    "Statistics/3. Advanced Statistical Techniques/Multinomial logistic regression",
+    "Statistics/3. Advanced Statistical Techniques/Regression",
     "Programming Languages/Python/Pytorch",
     "Machine Learning/Algorithm",
     "Machine Learning",
