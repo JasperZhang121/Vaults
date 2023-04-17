@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6a34fe39a86c99f5",
+    "id": "d6c4637d03c9aba2",
     "type": "split",
     "children": [
       {
-        "id": "86a34147b17e652a",
+        "id": "e52d2f7cd0b65fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "d16d93ec882319a7",
+            "id": "25701a9fd6533e30",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fdda849bd868e7e5",
+    "id": "e842880b3bac6047",
     "type": "split",
     "children": [
       {
-        "id": "ed7baa3a1b567995",
+        "id": "7faa162f138bac53",
         "type": "tabs",
         "children": [
           {
-            "id": "b479d51c4371e10a",
+            "id": "0e3d9c4c550f9ca9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "00cf0bda7c65a28d",
+            "id": "fd15b7c9e49ac477",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "264b7ebb80f897bd",
+            "id": "a16cfca35d6d24dd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 668.5
   },
   "right": {
-    "id": "eb9b5048f48397f5",
+    "id": "7dcb91c75a3768a3",
     "type": "split",
     "children": [
       {
-        "id": "a0834791f219d68a",
+        "id": "b0573f0c77a254ee",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7affea9bfa5c3b",
+            "id": "d8837a168bb7d2e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +92,18 @@
             }
           },
           {
-            "id": "944522d91f6e63e4",
+            "id": "99ec26e8c41d3271",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c01df8636922d9b3",
+            "id": "6fc3d4e5b474eb74",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,20 +114,19 @@
             }
           },
           {
-            "id": "fb12409e2924c77d",
+            "id": "17198e5890d3f845",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,53 +139,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b479d51c4371e10a",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
-    "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
-    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Symbolic AI/2. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
-    "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Artificial Intelligence/Deep Learning/0. Basics.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Reinforcement Learning",
-    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.10 Minkowski Distance.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.9 Normalisation of numeric data.md",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch",
     "Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "Machine Learning/Algorithm",
+    "Machine Learning",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "conflict-files-obsidian-git.md",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221222154506.png",
-    "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
-    "Z-Archive/Pictures/OS/Write/vm first run for setting check.png",
-    "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
-    "Z-Archive/Pictures/OS/Write/vhd.png",
-    "Z-Archive/Pictures/OS/Write/dd.png",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221225104056.png",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221224050102.png",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221222154419.png",
-    "Z-Archive/Pictures/Stats-ML/sum of squares form.png",
-    "Z-Archive/Pictures/OS/Write",
-    "Z-Archive/Pictures/OS/Know",
-    "Z-Archive/Pictures/Stats-ML",
-    "Z-Archive/Pictures/OS",
-    "Z-Archive/Pictures/H-C-J",
-    "Z-Archive/Pictures/Data",
-    "Z-Archive/Pictures/COA",
-    "Z-Archive/Pictures/CNET",
-    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
-    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
-    "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md"
+    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/5.3 Dead Lock.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/5.1 Lock Mechanism.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/3. User Level Thread.md",
+    "Computer Operating System/Knowledge Base/1. Process & Thread/2. Thread vs Process.md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Z-Archive/Pictures/Stats-ML/LSTM.png",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/5.  Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/4. Elastic Net.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/2. Polynomial Regression.md",
+    "Artificial Intelligence/Machine Learning/Stats/Models/1. Linear Regression stats.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/6. Normal Equation.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/5. Sum of Squares.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/4. Correlation.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/2. Covariance.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/1. Variance.md",
+    "Z-Archive/Pictures/Stats-ML/RNNs.png",
+    "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
+    "Cloud Computing",
+    "Artificial Intelligence/Natural Language Processing",
+    "Z-Archive",
+    "Commands",
+    "Programming Languages",
+    "Algorithm/Algo",
+    "Algorithm/Algo/Recursion",
+    "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
+    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
+    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
+    "Z-Archive/Pictures/Stats-ML/dataset_nonsep.png",
+    "Z-Archive/Pictures/Stats-ML/lssvm.png",
+    "Z-Archive/Pictures/Stats-ML/neuralnetworks.png",
+    "Z-Archive/Pictures/Stats-ML/hidden_unit.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
