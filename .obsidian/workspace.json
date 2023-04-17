@@ -11,12 +11,8 @@
             "id": "25701a9fd6533e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,19 +139,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25701a9fd6533e30",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Support Vector Machine.md",
+    "Cloud Computing/AWS/Services/IAM/0. Intro.md",
     "Cloud Computing/AWS/Introduction/Intro.md",
     "Cloud Computing/AWS/Introduction/1. Services.md",
     "Cloud Computing/AWS/Introduction/0. Intro.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises 1.md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch",
-    "Machine Learning/Algorithm/6. Support Vector Machine.md",
     "Machine Learning/Algorithm",
     "Machine Learning",
     "conflict-files-obsidian-git.md",
@@ -178,7 +171,6 @@
     "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/4. Elastic Net.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/2. Polynomial Regression.md",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
     "Cloud Computing",
