@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
+                "file": "Cloud Computing/AWS/Services/IAM/0. Intro.md"
               }
             }
           }
@@ -147,14 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "25701a9fd6533e30",
   "lastOpenFiles": [
+    "Cloud Computing/AWS/Introduction/Intro.md",
+    "Cloud Computing/AWS/Introduction/1. Services.md",
+    "Cloud Computing/AWS/Introduction/0. Intro.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises 1.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch",
     "Machine Learning/Algorithm/6. Support Vector Machine.md",
     "Machine Learning/Algorithm",
     "Machine Learning",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
@@ -172,13 +179,6 @@
     "Artificial Intelligence/Machine Learning/Stats/Models/8. Eager Learning.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/4. Elastic Net.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/2. Polynomial Regression.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/1. Linear Regression stats.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/6. Normal Equation.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/5. Sum of Squares.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/4. Correlation.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/2. Covariance.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/1. Variance.md",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
     "Cloud Computing",
