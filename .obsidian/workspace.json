@@ -11,8 +11,12 @@
             "id": "d16d93ec882319a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b479d51c4371e10a",
+  "active": "d16d93ec882319a7",
   "lastOpenFiles": [
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
