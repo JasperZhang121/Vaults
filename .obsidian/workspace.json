@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d16d93ec882319a7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
@@ -180,7 +181,6 @@
     "Statistics/1. Probability Theory/4. Likelihood function.md",
     "Statistics/1. Probability Theory/3. Probability Density Function.md",
     "Statistics/1. Probability Theory/2. Central Limit Theorem.md",
-    "Statistics/1. Probability Theory/1. Probability Distributions.md",
     "Statistics/1. Probability Theory",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
