@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "554ba04e9f17783c",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/2. Prenex Normal form.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+    "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "conflict-files-obsidian-git.md",
@@ -178,14 +181,11 @@
     "Statistics/1. Probability Theory",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch",
-    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/2. Prenex Normal form.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
     "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
