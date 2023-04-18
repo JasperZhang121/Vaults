@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md"
+                "file": "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md"
               }
             }
           }
@@ -149,13 +149,21 @@
   },
   "active": "554ba04e9f17783c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/2. Prenex Normal form.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/2. Prenex Normal form.md",
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Statistics/3. Advanced Statistical Techniques/Regression/0. Mean Squared Error.md",
     "Statistics/3. Advanced Statistical Techniques/Regression",
@@ -174,17 +182,9 @@
     "Statistics/2. Statistical Inference",
     "Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
     "Statistics/1. Probability Theory/4. Likelihood function.md",
-    "Statistics/1. Probability Theory/3. Probability Density Function.md",
-    "Statistics/1. Probability Theory/2. Central Limit Theorem.md",
-    "Statistics/1. Probability Theory/1. Probability Distributions.md",
-    "Statistics/1. Probability Theory/0. Basic Probability Rules.md",
     "Statistics/1. Probability Theory",
-    "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
