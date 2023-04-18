@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md"
               }
             }
           }
@@ -163,35 +163,35 @@
   },
   "active": "4c1479b62581da72",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/1. Unsupervised learning algorithms.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/2. Association rule mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/3. Time series analysis.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/4. Text Mining.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/0. Intro.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
+    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
+    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/1. Propositional Logic.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Constraint Satisfaction.md",
+    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Statistics/0. Introduction/0. Intro/4. Data Analysis and Visualization.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
-    "Statistics/3. Advanced Statistical Techniques/Regression/0. Mean Squared Error.md",
-    "Statistics/0. Introduction/0. Intro/3. Data Analysis and Visualization.md",
-    "Statistics/0. Introduction/0. Intro/2. Data Collection Methods.md",
-    "Statistics/0. Introduction/0. Intro/1. Types of Data.md",
-    "Statistics/0. Introduction/0. Intro/0. Overview.md",
-    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Statistics/1. Probability Theory/4. Likelihood function.md",
-    "Statistics/1. Probability Theory/3. Probability Density Function.md",
     "Statistics/1. Statistical Inference/2. Parameter Estimation Methods",
     "Statistics/3. Applied Statistics/Untitled",
     "Statistics/4. Applied Statistics/Data visualization and communication",
