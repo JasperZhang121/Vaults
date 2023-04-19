@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b66d868ac3965774",
+        "id": "9591474db1f7b62d",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5809baa46ad007",
+            "id": "bf45d0de40f553ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,23 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b5809baa46ad007",
+  "active": "bf45d0de40f553ac",
   "lastOpenFiles": [
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/1. DPLL.md",
-    "Artificial Intelligence/Symbolic AI/2. Search/1. Exercises/0. Exercises 1.md",
     "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/0. Supervised learning algorithms.md",
     "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/1. Unsupervised learning algorithms.md",
     "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/2. Association rule mining.md",
@@ -174,7 +175,6 @@
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
