@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md"
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning.md"
               }
             }
           }
@@ -162,10 +162,11 @@
   },
   "active": "4c1479b62581da72",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
+    "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
@@ -187,7 +188,6 @@
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
-    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/1. Propositional Logic.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
