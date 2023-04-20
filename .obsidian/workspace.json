@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "bf45d0de40f553ac",
   "lastOpenFiles": [
+    "README.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
@@ -174,7 +175,6 @@
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
