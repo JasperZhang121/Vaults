@@ -13,4 +13,4 @@ _Some images shown in the notes by Obsidian may not appear in the GitHub reposit
 
 ## Last Update
 
-_Readme last updated on 20/04/2023.__
+_Readme last updated on 20/04/2023._
