@@ -9,7 +9,7 @@ _I am currently rearranging files, which may result in a disorganized display of
 
 ## Issues
 
-_Some images shown in the notes by Obsidian may not appear in the GitHub repository due to differences in the reference style used in Obsidian and GitHub. I plan to resolve this issue by May 2023._
+_Some images shown in the notes by Obsidian may not appear in the GitHub repository due to differences in the reference style used in Obsidian and markdown. I plan to resolve this issue by May 2023._
 
 ## Last Update
 
