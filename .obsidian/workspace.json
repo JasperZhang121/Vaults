@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "bf45d0de40f553ac",
   "lastOpenFiles": [
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "README.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
@@ -160,7 +161,6 @@
     "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
