@@ -3,6 +3,8 @@
 
 _Compiled notes covering all aspects of computer science that I am familiar with. These notes are being backed up automatically using Obsidian with git configuration, a note-taking software application._
 
+_If you are an Obsidian user, you can import my notes, where you will find highlighted sentences using HTML tags in each file. Hope this can be beneficial to your learning journey._
+
 ## Status Update
 
 _I am currently rearranging files, which may result in a disorganized display of the repository._
