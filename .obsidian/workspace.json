@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "bf45d0de40f553ac",
   "lastOpenFiles": [
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "README.md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
