@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c8adc5142d762ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md"
               }
             }
           }
@@ -147,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cf0343c589f419e",
+  "active": "3c8adc5142d762ca",
   "lastOpenFiles": [
+    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
     "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md",
     "Computer Organization and Architecture/6. Caches.md",
     "Computer Organization and Architecture/3. Arithmetic Logic Unit.md",
@@ -174,8 +190,6 @@
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
