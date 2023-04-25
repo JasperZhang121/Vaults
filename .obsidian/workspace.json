@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+                "file": "Data Structures/1. Intermediate/1. Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+                "file": "Data Structures/1. Intermediate/1. Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+                "file": "Data Structures/1. Intermediate/1. Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md"
+                "file": "Data Structures/1. Intermediate/1. Heap.md"
               }
             }
           }
@@ -163,8 +162,10 @@
   },
   "active": "3c8adc5142d762ca",
   "lastOpenFiles": [
-    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
     "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md",
     "Computer Organization and Architecture/6. Caches.md",
     "Computer Organization and Architecture/3. Arithmetic Logic Unit.md",
@@ -179,14 +180,12 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/0. Intro.md",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
