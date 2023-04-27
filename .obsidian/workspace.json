@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "330e9b8c42ad9489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,8 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d16d93ec882319a7",
+  "active": "330e9b8c42ad9489",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
+    "conflict-files-obsidian-git.md",
+    "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
+    "Z-Archive/Pictures/AI/Hill_Climbing.png",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/5. Optimal Solving.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
@@ -160,7 +181,6 @@
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Statistics/3. Advanced Statistical Techniques/Regression/0. Mean Squared Error.md",
     "Statistics/3. Advanced Statistical Techniques/Regression",
@@ -172,15 +192,10 @@
     "Statistics/2. Statistical Inference/0. Hypothesis Testing/3. ANOVA.md",
     "Statistics/2. Statistical Inference/0. Hypothesis Testing/2. One-sample and two-sample t-test.md",
     "Statistics/2. Statistical Inference/0. Hypothesis Testing/1. Type I and Type II errors.md",
-    "Statistics/2. Statistical Inference/0. Hypothesis Testing/0. Null and alternative hypotheses.md",
     "Statistics/2. Statistical Inference/4. Regression",
     "Statistics/2. Statistical Inference/3. Neural Network",
     "Statistics/2. Statistical Inference/0. Hypothesis Testing",
     "Statistics/2. Statistical Inference",
-    "Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
-    "Statistics/1. Probability Theory/4. Likelihood function.md",
-    "Statistics/1. Probability Theory/3. Probability Density Function.md",
-    "Statistics/1. Probability Theory/2. Central Limit Theorem.md",
     "Statistics/1. Probability Theory",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
@@ -191,8 +206,6 @@
     "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
     "Z-Archive/Pictures/OS/Write/vhd.png",
     "Z-Archive/Pictures/OS/Write/dd.png",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221225104056.png",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221224050102.png",
-    "Z-Archive/Pictures/OS/Know/Pasted image 20221222154419.png"
+    "Z-Archive/Pictures/OS/Know/Pasted image 20221225104056.png"
   ]
 }
