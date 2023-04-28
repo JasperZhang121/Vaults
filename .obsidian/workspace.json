@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b290e473cd15274b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "957dc2cc057f41f2",
+            "id": "9c6a34797a5ca4b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/R/Rattle/0.  Basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75932d9d4464870e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/R/Rattle/2. Decision Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/R/Rattle/2. Decision Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/R/Rattle/2. Decision Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Programming Languages/R/Rattle/2. Decision Tree.md"
               }
             }
           }
@@ -156,8 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "957dc2cc057f41f2",
+  "active": "75932d9d4464870e",
   "lastOpenFiles": [
+    "Programming Languages/R/Rattle/0.  Basic.md",
+    "Programming Languages/R/Rattle/2. Decision Tree.md",
+    "Programming Languages/R/Rattle/1. Association Mining.md",
+    "Programming Languages/R/Rattle",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
+    "Programming Languages/R",
     "conflict-files-obsidian-git.md",
     "Data Structures/1. Intermediate/1. Heap.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
@@ -178,13 +188,9 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Exercises.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.6 Generating Association rules.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Artificial Intelligence/Symbolic AI/1. Planning and Decision Making/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/0. Intro.md",
-    "Algorithm/Algo/Sliding Window/Sliding Window.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
@@ -195,8 +201,6 @@
     "Statistics/4. Applied Statistics/Research design and methods",
     "Statistics/3. Advanced Statistical Techniques/Multivariate statistics",
     "Statistics/3. Advanced Statistical Techniques/Multinomial logistic regression",
-    "Statistics/3. Advanced Statistical Techniques/Regression",
-    "Programming Languages/Python/Pytorch",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
