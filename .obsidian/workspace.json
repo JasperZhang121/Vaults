@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d5dc0bec1197fc",
+        "id": "e636a7fe4295783b",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf0343c589f419e",
+            "id": "b290e473cd15274b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c8adc5142d762ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/1. Intermediate/1. Heap.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/1. Intermediate/1. Heap.md",
+                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/1. Intermediate/1. Heap.md",
+                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/1. Intermediate/1. Heap.md"
+                "file": "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md"
               }
             }
           }
@@ -160,8 +143,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c8adc5142d762ca",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Data Structures/1. Intermediate/1. Heap.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
@@ -188,7 +172,6 @@
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
