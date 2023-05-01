@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/R/Rattle/1. Association Mining.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/R/Rattle/1. Association Mining.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/R/Rattle/1. Association Mining.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/R/Rattle/1. Association Mining.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "9c6a34797a5ca4b9",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
+    "Programming Languages/R/Rattle/1. Association Mining.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Programming Languages/R/Rattle/2. Decision Tree.md",
-    "Programming Languages/R/Rattle/1. Association Mining.md",
     "README.md",
     "Commands/Git/1. Basic git commands.md",
     "Commands/Git/0. Concepts.md",
@@ -174,9 +177,6 @@
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/5. Optimal Solving.md",
     "Cloud Computing/AWS/Services/IAM/0. Intro.md",
     "Cloud Computing/AWS/Introduction/0. Intro.md",
-    "Cloud Computing/AWS/Introduction/1. Services.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
