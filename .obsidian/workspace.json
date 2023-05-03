@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/7. Compiling n-ary constraints into binary constraints.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/7. Compiling n-ary constraints into binary constraints.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/7. Compiling n-ary constraints into binary constraints.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/7. Compiling n-ary constraints into binary constraints.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md"
               }
             }
           }
@@ -182,7 +181,7 @@
   "active": "c18943f793ac5120",
   "lastOpenFiles": [
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/7. Compiling n-ary constraints into binary constraints.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
