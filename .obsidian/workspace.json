@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "33ae76f535b68b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md"
               }
             }
           }
@@ -160,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ae76f535b68b9a",
+  "active": "554ba04e9f17783c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Programming Languages/R/Rattle/2. Decision Tree.md",
