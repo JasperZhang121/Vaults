@@ -7,7 +7,7 @@ _If you are an Obsidian user, you can import my notes, where you will find highl
 
 ## Status Update
 
-_I am currently rearranging files, which may result in a disorganized display of the repository._
+~~_I am currently rearranging files, which may result in a disorganized display of the repository._~~
 
 ## Issues
 
@@ -16,4 +16,4 @@ _I am currently rearranging files, which may result in a disorganized display of
 
 ## Last Update
 
-_Readme last updated on 29/04/2023._
+_Readme last updated on 05/05/2023._
