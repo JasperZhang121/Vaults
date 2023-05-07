@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd75b1316b049e4",
+        "id": "e636a7fe4295783b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1d3fe8d3aa27b8",
+            "id": "4a4b565c9853ca60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Python/Pip.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,14 +60,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "21ba460aa745ff57",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Pip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Pip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Python/Pip.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,15 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1d3fe8d3aa27b8",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Programming Languages/Python/Pip.md",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "2023-05-04.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
+    "Programming Languages/Python/Pip.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
+    "2023-05-04.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",
@@ -176,7 +157,9 @@
     "Programming Languages/R/Rattle",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Programming Languages/R",
+    "conflict-files-obsidian-git.md",
     "Data Structures/1. Intermediate/1. Heap.md",
+    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
     "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
@@ -185,6 +168,7 @@
     "Computer Organization and Architecture/3. Arithmetic Logic Unit.md",
     "Computer Organization and Architecture/2. Main Memory.md",
     "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
+    "Computer Organization and Architecture/5. Instruction Set Architecture (ISA).md",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
