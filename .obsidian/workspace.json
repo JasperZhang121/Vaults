@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f83e67a2e41c0f8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff8883f5e4aefed1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -147,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "554ba04e9f17783c",
+  "active": "f83e67a2e41c0f8a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
