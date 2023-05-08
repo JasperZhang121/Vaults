@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "554ba04e9f17783c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f83e67a2e41c0f8a",
             "type": "leaf",
             "state": {
@@ -29,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
