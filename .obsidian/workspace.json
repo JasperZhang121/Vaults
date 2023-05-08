@@ -11,9 +11,11 @@
             "id": "f83e67a2e41c0f8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md"
               }
             }
           }
@@ -155,6 +157,8 @@
   },
   "active": "f83e67a2e41c0f8a",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
@@ -164,10 +168,10 @@
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Programming Languages/R/Rattle",
     "Programming Languages/R",
-    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/5. Optimal Solving.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
@@ -183,8 +187,6 @@
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Statistics/3. Advanced Statistical Techniques/Regression",
     "Statistics/3. Advanced Statistical Techniques",
