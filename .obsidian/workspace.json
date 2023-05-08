@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9846b6b38b89fdee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -155,11 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f83e67a2e41c0f8a",
+  "active": "9846b6b38b89fdee",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
     "conflict-files-obsidian-git.md",
+    "Programming Languages/Python/Pip.md",
+    "2023-05-04.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Classical Planning and its Algorithms.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
@@ -185,8 +200,6 @@
     "Artificial Intelligence/Deep Learning/2.1 Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks.md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Statistics/3. Advanced Statistical Techniques/Regression",
     "Statistics/3. Advanced Statistical Techniques",
