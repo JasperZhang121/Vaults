@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd75b1316b049e4",
+        "id": "00543eed6d80cd96",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1d3fe8d3aa27b8",
+            "id": "3edeaff0f3eff33d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1d3fe8d3aa27b8",
+  "active": "3edeaff0f3eff33d",
   "lastOpenFiles": [
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
