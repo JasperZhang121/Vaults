@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c58f091a1b9c95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,47 +160,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a4b565c9853ca60",
+  "active": "9c58f091a1b9c95e",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
+    "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/1. DPLL.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/0. Intro.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts",
+    "Artificial Intelligence/Symbolic AI/2. KRR",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/3. Exercises 4.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/2. Exercises 3.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/1. Exercises 2.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/4. Adversarial Search Problems.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/3. Informed search algorithms.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/0. Agents.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts",
+    "Artificial Intelligence/Symbolic AI/1. Search",
     "2023-05-04.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Programming Languages/Python/Pip.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
-    "Programming Languages/R/Rattle/1. Association Mining.md",
-    "Programming Languages/R/Rattle/0.  Basic.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Programming Languages/R/Rattle/2. Decision Tree.md",
-    "README.md",
-    "Commands/Git/1. Basic git commands.md",
-    "Commands/Git/0. Concepts.md",
     "Programming Languages/R/Rattle",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.1 Motivation.md",
     "Programming Languages/R",
-    "conflict-files-obsidian-git.md",
-    "Data Structures/1. Intermediate/1. Heap.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/4. Constraint Learning.md",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts/6. Temporal Constraint Networks.md",
-    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
-    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/1. Expansion of Memory Space.md",
-    "Computer Organization and Architecture/6. Caches.md",
-    "Computer Organization and Architecture/3. Arithmetic Logic Unit.md",
-    "Computer Organization and Architecture/2. Main Memory.md",
-    "Computer Organization and Architecture/0. High-Level Discription of codes running.md",
-    "Computer Organization and Architecture/5. Instruction Set Architecture (ISA).md",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/3. KRR/0. Concepts",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
-    "Statistics/1. Statistical Inference/2. Parameter Estimation Methods",
-    "Statistics/3. Applied Statistics/Untitled",
-    "Statistics/4. Applied Statistics/Data visualization and communication",
-    "Statistics/4. Applied Statistics/Research design and methods",
-    "Statistics/3. Advanced Statistical Techniques/Multivariate statistics",
-    "Statistics/3. Advanced Statistical Techniques/Multinomial logistic regression",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
