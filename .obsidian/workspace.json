@@ -11,8 +11,12 @@
             "id": "4a4b565c9853ca60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md"
+              }
             }
           }
         ],
@@ -139,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "4a4b565c9853ca60",
   "lastOpenFiles": [
+    "2023-05-04.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.2 Basic Concepts.md",
     "Programming Languages/Python/Pip.md",
     "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises/Some Functions.md",
-    "2023-05-04.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.3 Interesting pattern.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.4 Frequent Itemset Mining.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",
