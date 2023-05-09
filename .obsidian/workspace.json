@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c58f091a1b9c95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md"
               }
             }
           }
@@ -160,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c58f091a1b9c95e",
+  "active": "4a4b565c9853ca60",
   "lastOpenFiles": [
-    "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
-    "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
+    "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
+    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
