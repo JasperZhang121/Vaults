@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00543eed6d80cd96",
+        "id": "6f23e0a034d82853",
         "type": "tabs",
         "children": [
           {
-            "id": "3edeaff0f3eff33d",
+            "id": "f83e67a2e41c0f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "21ba460aa745ff57",
+            "id": "ff8883f5e4aefed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 307.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md"
               }
             }
           }
@@ -155,55 +155,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3edeaff0f3eff33d",
+  "active": "f83e67a2e41c0f8a",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/5. Stream OLAP.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
+    "stream_vs_traditional.png",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
+    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/1. Cross Validation.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
+    "Z-Archive/Pictures/Stats-ML/ensemble.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/1. DPLL.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts",
-    "Artificial Intelligence/Symbolic AI/2. KRR",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/3. Exercises 4.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/2. Exercises 3.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/1. Exercises 2.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/3. Informed search algorithms.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/0. Agents.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts",
-    "Artificial Intelligence/Symbolic AI/1. Search",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
+    "conflict-files-obsidian-git.md",
     "Programming Languages/Python/Pip.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "2023-05-04.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
+    "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
+    "Z-Archive/Pictures/AI/Hill_Climbing.png",
+    "Programming Languages/R/Rattle/2. Decision Tree.md",
+    "Programming Languages/R/Rattle/1. Association Mining.md",
+    "Programming Languages/R/Rattle/0.  Basic.md",
     "Programming Languages/R/Rattle",
     "Programming Languages/R",
-    "Z-Archive/Pictures/AI/Hill_Climbing.png",
-    "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
-    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
+    "Statistics/3. Advanced Statistical Techniques/Regression",
+    "Statistics/3. Advanced Statistical Techniques",
+    "Statistics/2. Statistical Inference/4. Regression",
+    "Statistics/2. Statistical Inference/3. Neural Network",
+    "Statistics/2. Statistical Inference/0. Hypothesis Testing",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
-    "Z-Archive/Pictures/Stats-ML/RNNs.png",
-    "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
-    "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
-    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
-    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
-    "Z-Archive/Pictures/Stats-ML/dataset_nonsep.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
+    "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
+    "Z-Archive/Pictures/OS/Write/vm first run for setting check.png",
+    "Z-Archive/Pictures/OS/Write/vhd.png"
   ]
 }
