@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd70c8fdf7a4d512",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3edeaff0f3eff33d",
+  "active": "fd70c8fdf7a4d512",
   "lastOpenFiles": [
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
