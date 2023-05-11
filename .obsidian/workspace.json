@@ -28,9 +28,21 @@
                 "currentVersion": "1.2.8"
               }
             }
+          },
+          {
+            "id": "1432695eb50be435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -166,13 +178,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd70c8fdf7a4d512",
+  "active": "1432695eb50be435",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "stream_vs_traditional.png",
+    "Z-Archive/Pictures/Stats-ML/ensemble.png",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/5. Stream OLAP.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
@@ -189,31 +212,19 @@
     "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/3. Exercises 4.md",
     "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/2. Exercises 3.md",
     "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/1. Exercises 2.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/3. Informed search algorithms.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/0. Agents.md",
     "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts",
     "Artificial Intelligence/Symbolic AI/1. Search",
-    "Programming Languages/Python/Pip.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "2023-05-04.md",
     "Programming Languages/R/Rattle",
     "Programming Languages/R",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
-    "Artificial Intelligence/Symbolic AI/3. KRR/1. Exercises",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
     "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
     "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
-    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d.png",
-    "Z-Archive/Pictures/Stats-ML/dataset_nonsep.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
