@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00543eed6d80cd96",
+        "id": "7c5c6d16572a188a",
         "type": "tabs",
         "children": [
           {
-            "id": "3edeaff0f3eff33d",
+            "id": "ffac434b3798adbf",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
