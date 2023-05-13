@@ -11,8 +11,12 @@
             "id": "ffac434b3798adbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md"
               }
             }
           }
@@ -151,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "ffac434b3798adbf",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
