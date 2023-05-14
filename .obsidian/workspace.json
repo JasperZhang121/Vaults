@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "594d684458195fd9",
+        "id": "7c5c6d16572a188a",
         "type": "tabs",
         "children": [
           {
-            "id": "878976b0792af127",
+            "id": "ffac434b3798adbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "ff8883f5e4aefed1",
+            "id": "21ba460aa745ff57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md"
               }
             }
           }
@@ -155,53 +156,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "ffac434b3798adbf",
   "lastOpenFiles": [
-    "Computer Operating System/Linux/Basic Linux",
     "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
-    "conflict-files-obsidian-git.md",
+    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
+    "Computer Operating System/Linux/Basic Linux/5. GCC.md",
+    "Computer Operating System/Linux/Basic Linux/4. Extra.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
+    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
+    "Computer Operating System/Linux/Basic Linux",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
+    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
+    "Z-Archive/Pictures/Stats-ML/ensemble.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/5. Stream OLAP.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
-    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/1. Cross Validation.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
-    "Z-Archive/Pictures/Stats-ML/ensemble.png",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/2. Planning Algorithm.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
-    "Programming Languages/Python/Pip.md",
-    "2023-05-04.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-    "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
-    "Z-Archive/Pictures/AI/Hill_Climbing.png",
-    "Programming Languages/R/Rattle/2. Decision Tree.md",
-    "Programming Languages/R/Rattle/1. Association Mining.md",
-    "Programming Languages/R/Rattle/0.  Basic.md",
-    "Programming Languages/R/Rattle",
-    "Programming Languages/R",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Intro.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts",
+    "Artificial Intelligence/Symbolic AI/2. KRR",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts",
+    "Artificial Intelligence/Symbolic AI/1. Search",
+    "Z-Archive/Pictures/AI/Hill_Climbing.png",
+    "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
-    "Statistics/3. Advanced Statistical Techniques/Regression",
-    "Statistics/3. Advanced Statistical Techniques",
-    "Statistics/2. Statistical Inference/4. Regression",
-    "Statistics/2. Statistical Inference/3. Neural Network",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
-    "Z-Archive/Pictures/OS/Write/writeos vm setting.png",
-    "Z-Archive/Pictures/OS/Write/writeOS final  vm setting.png",
-    "Z-Archive/Pictures/OS/Write/vm first run for setting check.png",
-    "Z-Archive/Pictures/OS/Write/vhd.png"
+    "Z-Archive/Pictures/Stats-ML/RNNs.png",
+    "Z-Archive/Pictures/Stats-ML/Random_forest_diagram_complete.png",
+    "Z-Archive/Pictures/Stats-ML/structure-of-a-decision-tree.png",
+    "Z-Archive/Pictures/Stats-ML/data_2d_to_3d_hyperplane.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
