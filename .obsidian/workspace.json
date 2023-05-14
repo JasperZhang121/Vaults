@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca4399d08695c18",
+        "id": "594d684458195fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "3013f45118850912",
+            "id": "878976b0792af127",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3013f45118850912",
+  "active": "878976b0792af127",
   "lastOpenFiles": [
+    "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/5. Stream OLAP.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
-    "stream_vs_traditional.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
     "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/1. Cross Validation.md",
@@ -183,7 +183,6 @@
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Statistics/3. Advanced Statistical Techniques/Regression",
     "Statistics/3. Advanced Statistical Techniques",
