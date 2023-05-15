@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77bf9704e5b99318",
+        "id": "abb4763c2ae0538e",
         "type": "tabs",
         "children": [
           {
-            "id": "2715bcae0b76c567",
+            "id": "518dedd98185effa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2715bcae0b76c567",
+  "active": "518dedd98185effa",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
+    "graph_plan.png",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "plan_partial.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
@@ -194,7 +186,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises",
@@ -203,7 +194,6 @@
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
-    "Z-Archive/Pictures/Stats-ML/LSTM.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
