@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -156,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "dc6503fe9f25a055",
   "lastOpenFiles": [
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/6. Model Deployment.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
