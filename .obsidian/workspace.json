@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15c7bbb8392dd7e7",
+        "id": "77bf9704e5b99318",
         "type": "tabs",
         "children": [
           {
-            "id": "3c083b1a03a5bf33",
+            "id": "2715bcae0b76c567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md"
               }
             }
           }
@@ -155,15 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c083b1a03a5bf33",
+  "active": "2715bcae0b76c567",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
+    "plan_partial.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Z-Archive/Pictures/Stats-ML/Nomoarlized_dot_product.png",
     "Artificial Intelligence/Data Science/Data Mining/2. Algorithm/4. Text Mining.md",
@@ -180,7 +185,6 @@
     "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
     "Z-Archive/Pictures/Stats-ML/ensemble.png",
@@ -191,9 +195,7 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Some Functions.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts",
@@ -202,7 +204,6 @@
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
     "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Z-Archive/Pictures/Stats-ML/LSTM.png",
-    "Z-Archive/Pictures/Stats-ML/RNNs.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
