@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd54ac487c3dfe64",
+        "id": "3f2c463dfc454637",
         "type": "tabs",
         "children": [
           {
-            "id": "dc6503fe9f25a055",
+            "id": "b27350fb9c84d976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md"
               }
             }
           }
@@ -155,8 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc6503fe9f25a055",
+  "active": "b27350fb9c84d976",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
+    "Z-Archive/Pictures/Stats-ML/Categorisation-sys.png",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+    "Algorithm/Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+    "Z-Archive/Pictures/Stats-ML/cosine_90.png",
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/6. Model Deployment.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
@@ -174,7 +184,6 @@
     "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Z-Archive/Pictures/Stats-ML/Nomoarlized_dot_product.png",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
     "Z-Archive/Pictures/Stats-ML/text_indexing.png",
@@ -185,24 +194,15 @@
     "Computer Operating System/Linux/Windows Subsystem for Linux",
     "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
     "Computer Operating System/Linux/Basic Linux/5. GCC.md",
-    "Computer Operating System/Linux/Basic Linux/4. Extra.md",
-    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
-    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
-    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux",
-    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
     "Z-Archive/Pictures/Stats-ML/ensemble.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts",
     "Artificial Intelligence/Symbolic AI/2. KRR",
     "Z-Archive/Pictures/AI/Hill_Climbing.png",
-    "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
-    "Z-Archive/Pictures/Stats-ML/Probability_Density_Function_1.webp",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
