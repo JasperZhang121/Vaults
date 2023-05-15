@@ -11,8 +11,12 @@
             "id": "518dedd98185effa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md"
+              }
             }
           }
         ],
