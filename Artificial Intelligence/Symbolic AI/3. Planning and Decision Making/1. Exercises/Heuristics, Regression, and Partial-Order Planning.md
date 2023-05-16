@@ -105,7 +105,7 @@ Parallel Plan: there are many possibilities, for instance
 | a5     | {r, s} | {q}   | {r}  |
 | a6     | {s}    | {r}   | {s}  |
 
-1. Let g be a goal in regression (backward search) planning, and a be a propositional STRIPS action such that a = hpre(a), eff+(a), eff−(a)i. State the condition under which a is relevant to g and explain how to compute the regression of g through a.
+1. Let g be a goal in regression (backward search) planning, and a be a propositional STRIPS action such that a = <pre(a), eff+(a), eff−(a)>. State the condition under which a is relevant to g and explain how to compute the regression of g through a.
 
 ```
 An action a is relevant for goal g iff: 
