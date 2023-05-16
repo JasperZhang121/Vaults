@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md"
               }
             }
           }
@@ -157,6 +158,9 @@
   },
   "active": "b27350fb9c84d976",
   "lastOpenFiles": [
+    "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
@@ -174,7 +178,6 @@
     "Commands/Git/0. Concepts.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
     "Z-Archive/Pictures/Stats-ML/graph_plan.png",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "Z-Archive/Pictures/Stats-ML/plan_partial.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
@@ -192,8 +195,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
     "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
-    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
-    "Computer Operating System/Linux/Basic Linux/5. GCC.md",
     "Computer Operating System/Linux/Basic Linux",
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
     "Z-Archive/Pictures/Stats-ML/ensemble.png",
