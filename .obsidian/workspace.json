@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "b27350fb9c84d976",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
@@ -193,7 +194,6 @@
     "Z-Archive/Pictures/Stats-ML/text_mining.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
-    "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
     "Computer Operating System/Linux/Basic Linux",
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
