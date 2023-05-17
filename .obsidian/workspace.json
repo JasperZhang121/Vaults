@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-                "mode": "preview",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "b27350fb9c84d976",
   "lastOpenFiles": [
-    "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
