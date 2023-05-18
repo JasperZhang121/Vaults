@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Algo/Search/A star.md",
+                "file": "Algorithm/Algo/Search/Dijkstra.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Algo/Search/A star.md",
+                "file": "Algorithm/Algo/Search/Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Algo/Search/A star.md",
+                "file": "Algorithm/Algo/Search/Dijkstra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Algo/Search/A star.md"
+                "file": "Algorithm/Algo/Search/Dijkstra.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "878976b0792af127",
   "lastOpenFiles": [
+    "Algorithm/Algo/Search/A star.md",
     "Algorithm/Algo/Search/Breadth First Search.md",
     "Algorithm/Algo/Search/Depth First Search.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
@@ -196,7 +197,6 @@
     "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
     "Z-Archive/Pictures/Stats-ML/ensemble.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
