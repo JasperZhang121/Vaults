@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+                "file": "Algorithm/Algo/Search/A star.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+                "file": "Algorithm/Algo/Search/A star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+                "file": "Algorithm/Algo/Search/A star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md"
+                "file": "Algorithm/Algo/Search/A star.md"
               }
             }
           }
@@ -155,8 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "878976b0792af127",
   "lastOpenFiles": [
+    "Algorithm/Algo/Search/Breadth First Search.md",
+    "Algorithm/Algo/Search/Depth First Search.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
+    "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
     "Z-Archive/Pictures/Stats-ML/text_mining.png",
     "Z-Archive/Pictures/Stats-ML/text_indexing.png",
     "Z-Archive/Pictures/Stats-ML/plan_partial.png",
@@ -185,7 +190,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
     "Computer Operating System/Linux/Basic Linux",
-    "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/3. Heuristics.md",
@@ -193,15 +197,11 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/5. Stream OLAP.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
     "Z-Archive/Pictures/Stats-ML/ensemble.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
     "Z-Archive/Pictures/Stats-ML/convolutional_Process.jpg",
-    "Z-Archive/Pictures/AI/Hill_Climbing.png",
     "Programming Languages/R/Rattle"
   ]
 }
