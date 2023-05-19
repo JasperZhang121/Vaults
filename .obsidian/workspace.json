@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Programming Languages/Python/Pip.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Programming Languages/Python/Pip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Programming Languages/Python/Pip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md"
+                "file": "Programming Languages/Python/Pip.md"
               }
             }
           }
@@ -157,12 +157,16 @@
   },
   "active": "3abbe55ef29246ec",
   "lastOpenFiles": [
+    "Commands/Terminal/Commands.md",
+    "Commands/Git/0. Concepts.md",
+    "Commands/Git/1. Basic git commands.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
@@ -180,13 +184,9 @@
     "Z-Archive/Pictures/Stats-ML/cosine_90.png",
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/6. Model Deployment.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
-    "Commands/Git/1. Basic git commands.md",
-    "Commands/Git/0. Concepts.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
     "Z-Archive/Pictures/Stats-ML/graph_plan.png",
     "Z-Archive/Pictures/Stats-ML/plan_partial.png",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
     "Z-Archive/Pictures/Stats-ML/Nomoarlized_dot_product.png",
