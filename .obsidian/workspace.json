@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "b27350fb9c84d976",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "Quant/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
@@ -192,7 +193,6 @@
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
     "Z-Archive/Pictures/Stats-ML/text_indexing.png",
     "Z-Archive/Pictures/Stats-ML/text_mining.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
     "Computer Operating System/Linux/Basic Linux",
