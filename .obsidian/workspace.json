@@ -11,8 +11,12 @@
             "id": "16207d588f598c1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md"
+              }
             }
           }
         ],
@@ -147,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "16207d588f598c1e",
   "lastOpenFiles": [
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Programming Languages/Python/Pip.md",
