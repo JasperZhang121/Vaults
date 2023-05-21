@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md"
               }
             }
           }
@@ -155,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "16207d588f598c1e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
     "Z-Archive/Pictures/Stats-ML/SPARQL.png",
     "Z-Archive/Pictures/Stats-ML/URI_literals.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
@@ -166,7 +169,6 @@
     "Z-Archive/Pictures/Stats-ML/URI.png",
     "Z-Archive/Pictures/Stats-ML/SWlayer.gif",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
@@ -193,7 +195,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
     "Z-Archive/Pictures/Stats-ML/Categorisation-sys.png",
-    "Z-Archive/Pictures/Stats-ML/cosine_90.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
