@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "16207d588f598c1e",
   "lastOpenFiles": [
+    "web_mining.png",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Programming Languages/Python/Pip.md",
     "Commands/Terminal/Commands.md",
@@ -182,10 +185,7 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Algorithm/Leetcode/Array/Two-pointers/142. Linked List Cycle II.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Z-Archive/Pictures/Stats-ML/cosine_90.png",
-    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/6. Model Deployment.md",
     "Z-Archive/Pictures/Stats-ML/graph_plan.png",
     "Z-Archive/Pictures/Stats-ML/plan_partial.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
