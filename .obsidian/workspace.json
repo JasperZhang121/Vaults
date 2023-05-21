@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -158,6 +157,9 @@
   },
   "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Z-Archive/Pictures/Stats-ML/SPARQL.png",
+    "Z-Archive/Pictures/Stats-ML/URI_literals.png",
+    "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/serialisation_turtle.png",
     "Z-Archive/Pictures/Stats-ML/CRC.png",
     "Z-Archive/Pictures/Stats-ML/RDF_example.png",
@@ -192,11 +194,8 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
     "Z-Archive/Pictures/Stats-ML/Categorisation-sys.png",
     "Z-Archive/Pictures/Stats-ML/cosine_90.png",
-    "Z-Archive/Pictures/Stats-ML/graph_plan.png",
-    "Z-Archive/Pictures/Stats-ML/plan_partial.png",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
-    "Z-Archive/Pictures/Stats-ML/Nomoarlized_dot_product.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
     "Computer Operating System/Linux/Basic Linux",
