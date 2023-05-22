@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "384c453e15001ff5",
+        "id": "e636a7fe4295783b",
         "type": "tabs",
         "children": [
           {
-            "id": "03c69ec2214f2a12",
+            "id": "4a4b565c9853ca60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,21 +60,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "21ba460aa745ff57",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,53 +139,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "4a4b565c9853ca60",
   "lastOpenFiles": [
-    "Z-Archive/Pictures/Stats-ML/example_sting.png",
+    "Z-Archive/Pictures/Stats-ML/web_mining.png",
+    "Z-Archive/Pictures/Stats-ML/triples.png",
+    "Z-Archive/Pictures/Stats-ML/text_mining.png",
+    "Z-Archive/Pictures/Stats-ML/text_indexing.png",
+    "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/4. Density-Based Methods.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/3. Hierachical Clustering.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
-    "Z-Archive/Pictures/Stats-ML/dbscan (1).png",
-    "Z-Archive/Pictures/Stats-ML/dendrogram.png",
-    "Z-Archive/Pictures/Stats-ML/hierarchical_clustering.png",
+    "Z-Archive/Pictures/Stats-ML/serialisation_turtle.png",
+    "Z-Archive/Pictures/Stats-ML/plan_partial.png",
     "Z-Archive/Pictures/Stats-ML/k-medoids.png",
-    "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/1. Basics.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
-    "Z-Archive/Pictures/Stats-ML/Basic Search Strategy.png",
-    "Z-Archive/Pictures/Stats-ML/Downward Refinement.png",
-    "Z-Archive/Pictures/Stats-ML/OWL learning 1.png",
-    "Z-Archive/Pictures/Stats-ML/OWL learning.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-    "Programming Languages/Python/Pip.md",
-    "Commands/Terminal/Commands.md",
-    "Commands/Git/0. Concepts.md",
-    "Commands/Git/1. Basic git commands.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Z-Archive/Pictures/Stats-ML/hierarchical_clustering.png",
+    "Z-Archive/Pictures/Stats-ML/graph_plan.png",
+    "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
+    "Computer Operating System/Linux/Windows Subsystem for Linux",
+    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
+    "Computer Operating System/Linux/Basic Linux/5. GCC.md",
+    "Computer Operating System/Linux/Basic Linux/4. Extra.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
+    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
+    "Computer Operating System/Linux/Basic Linux",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/3. Time series analysis.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/0. Supervised learning algorithms.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
-    "Computer Operating System/Linux/Windows Subsystem for Linux",
-    "Computer Operating System/Linux/Basic Linux",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
     "Untitled 1.canvas",
     "Untitled.canvas"
