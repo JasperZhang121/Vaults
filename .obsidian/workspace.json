@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afbe77053d9c790b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Pip.md",
+                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Pip.md",
+                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/Pip.md"
+                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md"
               }
             }
           }
@@ -155,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cdb9511295f34ae",
+  "active": "afbe77053d9c790b",
   "lastOpenFiles": [
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
