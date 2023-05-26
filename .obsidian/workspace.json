@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "21f45a6134d8e5e6",
+        "id": "34aed675ebeb81ec",
         "type": "tabs",
         "children": [
           {
-            "id": "d34359a296847113",
+            "id": "638b4fa41f5241f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md"
+              }
             }
           }
         ],
@@ -147,8 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
@@ -182,11 +194,7 @@
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
     "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
