@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md"
               }
             }
           }
@@ -157,8 +158,12 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercies.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
     "Untitled.md",
@@ -174,7 +179,6 @@
     "Z-Archive/Pictures/Stats-ML/dbscan (1).png",
     "Z-Archive/Pictures/Stats-ML/URI_literals.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/6. Evaluation of Clustering.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/4. Density-Based Methods.md",
@@ -191,9 +195,6 @@
     "Algorithm/Algo/Search/Breadth First Search.md",
     "Algorithm/Algo/Search/Depth First Search.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm",
