@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f992abc1e2f8519a",
+        "id": "0dd169bd073bf548",
         "type": "tabs",
         "children": [
           {
-            "id": "0cdb9511295f34ae",
+            "id": "8c6eed81d85342ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Pip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afbe77053d9c790b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md"
               }
             }
           }
@@ -168,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afbe77053d9c790b",
+  "active": "8c6eed81d85342ec",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
@@ -179,7 +170,6 @@
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/4. Adversarial Search Problems.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/3. Informed search algorithms.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/6. Evaluation of Clustering.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
@@ -207,8 +197,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-    "Programming Languages/Python/Pip.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",

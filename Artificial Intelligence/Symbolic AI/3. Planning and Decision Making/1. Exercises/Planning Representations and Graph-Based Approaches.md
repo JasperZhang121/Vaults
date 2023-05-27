@@ -52,7 +52,9 @@
 
 ```
 The STRIPS rule for a state s and an action a = (pre(a), eff-(a), eff+(a)) is:
-s' = γ(s, a) = {
+
+s' = γ(s, a) = 
+{
     (s - eff-(a)) ∪ eff+(a)   if pre(a) ⊆ s
     undefined                  otherwise (action not executable)
 }
@@ -82,9 +84,21 @@ We want to compute the result s' of applying go(A,C) in s0:
 > 					 (q)) 
 > )
 
-Write down a set of equivalent plain STRIPS actions (i.e., without conditional effects, and without disjunction or negation in the preconditions)
+Write down a set of equivalent plain STRIPS actions (i.e., without conditional effects, and <mark style="background: #ABF7F7A6;">without disjunction or negation</mark> in the preconditions)
 
 ```
+(
+:action A1 
+:precondition (and (p) (q)) 
+:effect (and (not (p)) 
+				(r)) )
+
+(
+:action A2 
+:precondition (and (p) (not (q))) 
+:effect (and (not (p)) 
+				(q)) )
+
 (
 :action A2 
 :precondition (and (p) (not-q)) 
