@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
