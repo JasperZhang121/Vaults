@@ -126,7 +126,7 @@ This assumes of course that the other actions were already STRIPS compliant, oth
 > Consider the following planning problem. You want a sheep and a goat. Using your credit card, you can buy a sheep from the Automatic Sheep Machine (ASM). Waving your magic wand turns a sheep into a goat. The planning operators are as follows, where a box represents an operator whose pre-conditions are on the left-hand side and effects are on the right-hand side of the box.
 
 
-1. Draw the planning graph until the first level leading to a plan. Include all mutex relations.
+1. Draw the planning graph <mark style="background: #D2B3FFA6;">until the first level leading to a plan</mark>. Include all mutex relations.
 
 ![[graph_plan.png]]
 
