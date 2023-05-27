@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ffec10e85bef6b5",
+        "id": "73b933d85603020c",
         "type": "tabs",
         "children": [
           {
-            "id": "4043180a72df404c",
+            "id": "44198ff6de6b9855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md"
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md"
               }
             }
           }
@@ -156,14 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4043180a72df404c",
+  "active": "44198ff6de6b9855",
   "lastOpenFiles": [
+    "full_d_graph.png",
+    "simple_distance_graph.png",
+    "ac-3 constraint.png",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
     "conflict-files-obsidian-git.md",
@@ -183,9 +188,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
     "Z-Archive/Pictures/Stats-ML/example_sting.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/4. Density-Based Methods.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/3. Hierachical Clustering.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
     "Z-Archive/Pictures/Stats-ML/dbscan (1).png",
     "Z-Archive/Pictures/Stats-ML/dendrogram.png",
     "Z-Archive/Pictures/Stats-ML/hierarchical_clustering.png",
@@ -194,8 +196,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
     "Z-Archive/Pictures/Stats-ML/Basic Search Strategy.png",
-    "Z-Archive/Pictures/Stats-ML/Downward Refinement.png",
-    "Z-Archive/Pictures/Stats-ML/OWL learning 1.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
