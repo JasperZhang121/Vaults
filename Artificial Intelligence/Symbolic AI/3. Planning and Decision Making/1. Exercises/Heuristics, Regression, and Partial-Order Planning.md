@@ -69,10 +69,10 @@ Partial Order Plan:
 
 in this case, it corresponds to the two trucks operating asynchronously 
 
-<{ go(T1,A,B), go(T1,B,C), go(T1,C,D), deliver(T1,D), go(T1,D,C), go(T1,C,B), go(T1,B,A), go(T2,A,E), go(T2,E,F), deliver(T2,F), go(T2,F,E), go(T2,E,A)}, 
+<
+{ go(T1,A,B), go(T1,B,C), go(T1,C,D), deliver(T1,D), go(T1,D,C), go(T1,C,B), go(T1,B,A), go(T2,A,E), go(T2,E,F), deliver(T2,F), go(T2,F,E), go(T2,E,A)}, 
 
-{ 
-go(T1,A,B) ≺ go(T1,B,C),
+{go(T1,A,B) ≺ go(T1,B,C),
 go(T1,B,C) ≺ go(T1,C,D),
 go(T1,C,D) ≺ deliver(T1,D), 
 deliver(T1,D) ≺ go(T1,D,C), 
@@ -81,7 +81,8 @@ go(T1,C,B) ≺ go(T1,B,A),
 go(T2,A,E) ≺ go(T2,E,F), 
 go(T2,E,F) ≺ deliver(T2,F), 
 deliver(T2,F) ≺ go(T2,F,E), 
-go(T2,F,E) ≺ go(T2,E,A) }>
+go(T2,F,E) ≺ go(T2,E,A) }
+>
 
 Parallel Plan: there are many possibilities, for instance
 <{ go(T1,A,B), go(T2,A,E)}, 
