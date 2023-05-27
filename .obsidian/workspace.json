@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md"
+                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md"
               }
             }
           }
@@ -158,11 +158,14 @@
   },
   "active": "44198ff6de6b9855",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
+    "Programming Languages/C++/Basic/0. General Concepts/0. Syntax and Rules.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
     "full_d_graph.png",
     "simple_distance_graph.png",
     "ac-3 constraint.png",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
@@ -179,13 +182,11 @@
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/4. Adversarial Search Problems.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
     "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/3. Informed search algorithms.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/6. Evaluation of Clustering.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
     "Z-Archive/Pictures/Stats-ML/example_sting.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
     "Z-Archive/Pictures/Stats-ML/dbscan (1).png",
@@ -195,7 +196,6 @@
     "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
-    "Z-Archive/Pictures/Stats-ML/Basic Search Strategy.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
