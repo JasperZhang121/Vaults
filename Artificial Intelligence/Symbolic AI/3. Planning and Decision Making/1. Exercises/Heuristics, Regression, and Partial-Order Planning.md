@@ -139,6 +139,9 @@ If a is relevant for g then the regression of g through a is defined and is: g 0
 2. List all threats (indicate both the causal link threatened and the threatening action). 
 `The threatening action is Wave and the link threaten is that going from ASM to condition Have(S) of End.`
 
+Tips:
+`In the context of planning, "threats" refer to situations where a causal link between an action and a proposition (effect) is at risk of being invalidated or undone by another action`
+
 3. State how those threats can be resolved.
 `only one possibility: order Wave before ASM.`
 
