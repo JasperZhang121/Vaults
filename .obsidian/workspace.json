@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73b933d85603020c",
+        "id": "78a97ef380a49017",
         "type": "tabs",
         "children": [
           {
-            "id": "44198ff6de6b9855",
+            "id": "6ca01995a2aca476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md"
               }
             }
           }
@@ -156,10 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44198ff6de6b9855",
+  "active": "6ca01995a2aca476",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
+    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/4. Model Evaluation.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
+    "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
     "Programming Languages/C++/Basic/0. General Concepts/0. Syntax and Rules.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
@@ -175,18 +183,9 @@
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
     "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/1. Search.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/4. Adversarial Search Problems.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/2. Uninformed search strategies.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/0. Concepts/3. Informed search algorithms.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/6. Evaluation of Clustering.md",
     "Z-Archive/Pictures/Stats-ML/example_sting.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
     "Z-Archive/Pictures/Stats-ML/dbscan (1).png",
