@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78a97ef380a49017",
+        "id": "15624517c12d7b37",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca01995a2aca476",
+            "id": "2cc4c15cb54ec30f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md"
               }
             }
           }
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "2cc4c15cb54ec30f",
   "lastOpenFiles": [
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
