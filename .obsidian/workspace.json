@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md"
               }
             }
           }
@@ -157,15 +157,17 @@
   },
   "active": "2cc4c15cb54ec30f",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/1. Propositional Logic.md",
     "Artificial Intelligence/Symbolic AI/0. Reasoning and Inference/2. First Order Logic.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/2. Prenex Normal form.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/6. Temporal Constraint Networks.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/5. Optimal Solving.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/4. Constraint Learning.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/3. Constraint Satisfaction Problem.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/1. DPLL.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
@@ -181,8 +183,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
-    "Programming Languages/C++/Basic/0. General Concepts/0. Syntax and Rules.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
