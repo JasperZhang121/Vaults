@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e94bd59c6c6983",
+        "id": "ff8532e488d5eeef",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec1375fffc6e52f",
+            "id": "120e7695bafdc239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md"
               }
             }
           }
@@ -156,35 +156,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ec1375fffc6e52f",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
+    "Programming Languages/R/Rattle/1. Association Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/6. Frequent Pattern Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Ensemble, Time series, Streams.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/5. Stream OLAP.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/4. Data Stream Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/3. Class-imbalanced data.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/6. Evaluation of Clustering.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/5. Grid-Based Approach.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/4. Density-Based Methods.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/3. Hierachical Clustering.md",
+    "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
-    "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/1. Basics.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/7. Linear Regression & Neural Nets.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Exercises.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Other Classification and Prediction Methods.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional neural networks (CNNs).md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
+    "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
@@ -193,7 +194,6 @@
     "Z-Archive/Pictures/Stats-ML/dbscan (1).png",
     "Z-Archive/Pictures/Stats-ML/dendrogram.png",
     "Z-Archive/Pictures/Stats-ML/hierarchical_clustering.png",
-    "Z-Archive/Pictures/Stats-ML/k-medoids.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
