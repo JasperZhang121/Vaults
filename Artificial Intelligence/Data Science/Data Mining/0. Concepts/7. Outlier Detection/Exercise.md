@@ -5,11 +5,23 @@
 
 > There are three kinds of outliers that require targeted techniques for search
 
-[Contextual] outliers can be transformed into a conventional approach by [partitioning some attributes for first and using the others for predication]. This is used, for example, to find outlying people that do not conform to usual patterns of behaviour with their demographic group.
+There are three kinds of outliers that require targeted techniques to search for each. 
 
-[Collective] outliers can be transformed into a conventional approach by [Identifying structual units of related objects and mapping these to single objects]. This is used, for example, for [mining social networks that relationships betweeen people in a graph]. 
+[Contextual] outliers can be transformed into a conventional approach by [partitioning some attributes for grouping first and using the others for prediction within the group]. This is used, for example, to find outlying people that do not conform to usual patterns of behaviour within their demographic group.
 
-For [Global] outliers the conventional approaches are used, including [building a one-class classifier and identifying outliers the class], [fitting a probability distribution and identifying points of a low probability], [using the local outlier factor to detect objects that are even more distant than others] and [using the nested loop method for identifying outliers that are most distant from their nearest neighbours]
+[Collective] outliers can be transformed into a conventional approach by [identifying structural units of related objects and mapping these to single objects represented by conventional features ]. This is used, for example, for [mining social networks that model relations between people in a graph]. 
+
+For [Global] outliers the conventional approaches are used, including [building a one‑class classifier and identifying outliers outside the class ], [fitting a probability distribution and identifying points of low probability], [using the local outlier factor to detect objects that are even more distant than others in their local neighbourhood ] and [using the nested loop method for identifying outliers that are most distant from their nearest neighbours].
+
+>Non-parametric statistical methods do not fit a statistical distribution to the data, but instead fit a user-controllable histogram or smoothing function and look for objects in regions with unusually low frequency.
+
+```
+True
+```
+
+
+> A statistical multivariate outlier detection problem can be solved as a univariate problem by
+
 
 
 

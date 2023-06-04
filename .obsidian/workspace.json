@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md"
               }
             }
           }
@@ -156,12 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "120e7695bafdc239",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",
