@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md"
               }
             }
           }
@@ -155,23 +155,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "120e7695bafdc239",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/3. Proximity-Based Approaches.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
-    "Quant/0. Guide/0. Quantitative Models for Finance.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
+    "Quant/0. Guide/0. Quantitative Models for Finance.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/4. Density-Based Methods.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/3. Proximity-Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
     "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/1. Cross Validation.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
@@ -181,11 +186,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/2. Foundation Technologies.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
-    "Programming Languages/R/Rattle/1. Association Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Ensemble, Time series, Streams.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
     "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
