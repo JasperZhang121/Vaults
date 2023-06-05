@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md"
               }
             }
           }
@@ -155,16 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "120e7695bafdc239",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/3. Proximity-Based Approaches.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
+    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/1. Cross Validation.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
@@ -185,8 +188,6 @@
     "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
