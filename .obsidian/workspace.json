@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/Redis - Introduction.md",
+                "file": "Databases/Redis/Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/Redis - Introduction.md",
+                "file": "Databases/Redis/Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/Redis - Introduction.md",
+                "file": "Databases/Redis/Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/Redis - Introduction.md"
+                "file": "Databases/Redis/Implementation.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Databases/Redis/Redis - Introduction.md",
+    "Databases/Redis/Implementation.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Databases/Redis",
     "Databases/Untitled.md",
     "Databases",
@@ -191,7 +192,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
