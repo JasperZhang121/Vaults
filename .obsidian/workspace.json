@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff8532e488d5eeef",
+        "id": "34aed675ebeb81ec",
         "type": "tabs",
         "children": [
           {
-            "id": "120e7695bafdc239",
+            "id": "638b4fa41f5241f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stratified",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "21ba460aa745ff57",
+            "id": "ff8883f5e4aefed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
+    "width": 306.5,
     "collapsed": true
   },
   "right": {
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md"
+                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md"
               }
             }
           }
@@ -156,55 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120e7695bafdc239",
+  "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/4. Semantic Web Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/5. Semantic Web.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/1. Cross Validation.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/10. Other Classification and Prediction Methods.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
+    "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
+    "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
+    "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
+    "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
+    "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
+    "Z-Archive/Pictures/Stats-ML/dendro.png",
+    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Ensemble, Time series, Streams.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/3. Proximity-Based Approaches.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/7. Lazy Leaner.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/8. SVM, Lazy Learners, & Variants.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/1. Bagging.md",
-    "Quant/0. Guide/0. Quantitative Models for Finance.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/0. Ensemble Methods.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/4. Density-Based Methods.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
-    "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
-    "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
-    "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/1. Semantic Web.md",
-    "Z-Archive/Pictures/Stats-ML/dendro.png",
-    "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
-    "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
-    "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
-    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
-    "Z-Archive/Pictures/Stats-ML/example_sting.png",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
+    "Untitled.md",
+    "Z-Archive/Pictures/Stats-ML/web_mining.png",
+    "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
+    "Z-Archive/Pictures/Stats-ML/serialisation_turtle.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
-    "Computer Operating System/Linux/Windows Subsystem for Linux",
     "Computer Operating System/Linux/Basic Linux",
+    "Computer Operating System/Linux/Windows Subsystem for Linux",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis"
   ]
 }
