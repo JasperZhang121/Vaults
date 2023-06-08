@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/Implementation.md",
+                "file": "Databases/Redis/3. Data Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/Implementation.md",
+                "file": "Databases/Redis/3. Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/Implementation.md",
+                "file": "Databases/Redis/3. Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/Implementation.md"
+                "file": "Databases/Redis/3. Data Type.md"
               }
             }
           }
@@ -157,9 +158,10 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
-    "Databases/Redis/Introduction.md",
-    "Databases/Redis/Implementation.md",
-    "Databases/Redis/Implementation.md",
+    "Databases/Redis/2. Command Server.md",
+    "Databases/Redis/3. Data Type.md",
+    "Databases/Redis/1. Implementation.md",
+    "Databases/Redis/0. Introduction.md",
     "Databases/Redis/Redis - Introduction.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Databases/Redis",
@@ -191,7 +193,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/1. Outliers.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/Exercise.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
