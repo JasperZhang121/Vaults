@@ -6,9 +6,11 @@
 - Initialize on virtual machine
 - Set shared files from Devices in tool bar, and choose Shared folders to set up
 
-#### Download redis
+#### Set up redis
 - Put in the shared file 
-- unzip and `make & make install`, can run `make test` for double checking
+- Unzip and `mak`e and  `sudo make install`
+- Run `redis-server` for double checking
+- Modify the config of redis
 
 
 
