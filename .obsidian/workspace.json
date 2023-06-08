@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
+                "file": "Databases/Redis/Redis - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
+                "file": "Databases/Redis/Redis - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
+                "file": "Databases/Redis/Redis - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md"
+                "file": "Databases/Redis/Redis - Introduction.md"
               }
             }
           }
@@ -158,6 +157,11 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
+    "Databases/Redis/Redis - Introduction.md",
+    "Databases/Redis",
+    "Databases/Untitled.md",
+    "Databases",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
@@ -188,12 +192,9 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Exercise.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/5. Lossy Counting Algorithm.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/7. Time Series.md",
-    "Untitled.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
-    "Z-Archive/Pictures/Stats-ML/serialisation_turtle.png",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
@@ -201,8 +202,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
     "Computer Operating System/Linux/Basic Linux",
     "Computer Operating System/Linux/Windows Subsystem for Linux",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis"
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics"
   ]
 }
