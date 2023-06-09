@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
+                "file": "Databases/Redis/SpringDataRedis/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
+                "file": "Databases/Redis/SpringDataRedis/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
+                "file": "Databases/Redis/SpringDataRedis/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md"
+                "file": "Databases/Redis/SpringDataRedis/Untitled.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
     "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
+    "Databases/Redis/SpringDataRedis/Untitled.md",
     "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
     "Databases/Redis/Jedis/2. Jedis Pool.md",
     "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
@@ -195,7 +196,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/3. Proximity-Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",

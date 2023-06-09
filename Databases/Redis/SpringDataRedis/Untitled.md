@@ -1,0 +1,58 @@
+markdownCopy code
+
+RedisTemplate API in Spring Data Redis  `RedisTemplate` is a central class in Spring Data Redis, which is used to simplify the interaction with Redis through various helpers.  ## Creating RedisTemplate  You need to create a bean of `RedisTemplate` and `JedisConnectionFactory`. This can be done in your configuration file:  
+
+```java 
+@Configuration public class RedisConfig {      @Bean     JedisConnectionFactory jedisConnectionFactory() {         return new JedisConnectionFactory();     }      @Bean     public RedisTemplate<String, Object> redisTemplate() {         RedisTemplate<String, Object> template = new RedisTemplate<>();         template.setConnectionFactory(jedisConnectionFactory());         return template;     } }
+```
+
+## Basic Operations
+
+Here are examples of basic CRUD operations:
+
+1. **Saving data**:
+
+javaCopy code
+
+```java
+redisTemplate.opsForValue().set("key", "value");
+```
+
+2. **Retrieving data**:
+
+javaCopy code
+
+```java
+String value = redisTemplate.opsForValue().get("key");
+```
+
+3. **Deleting data**:
+
+javaCopy code
+
+```java
+redisTemplate.delete("key");```
+
+4. **Checking if a key exists**:
+
+javaCopy code
+
+```java
+boolean exists = redisTemplate.hasKey("key");
+```
+
+
+## Redis Data Types and Operations
+
+- **Value**: The `opsForValue()` operation is used for working with simple key-value pairs.
+    
+- **List**: `opsForList()` can be used to work with lists. It offers methods like `leftPush()`, `rightPop()`, etc.
+    
+- **Set**: For sets, we use `opsForSet()`. It includes operations like `add()`, `remove()`, etc.
+    
+- **Hash**: `opsForHash()` is used to work with hashes. It provides methods like `put()`, `get()`, etc.
+    
+- **ZSet**: For ordered or sorted sets, `opsForZSet()` is used.
+    
+
+Please note: The actual interactions with Redis are performed by calling the `execute()` method on the `RedisTemplate`.
