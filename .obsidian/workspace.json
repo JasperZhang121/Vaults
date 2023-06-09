@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/Untitled.md",
+                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/Untitled.md",
+                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/Untitled.md",
+                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/Untitled.md"
+                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md"
               }
             }
           }
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "638b4fa41f5241f6",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
-    "Databases/Redis/SpringDataRedis/Untitled.md",
+    "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
     "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
     "Databases/Redis/Jedis/2. Jedis Pool.md",
     "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
