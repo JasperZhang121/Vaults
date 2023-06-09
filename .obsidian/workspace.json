@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b87580342a13df12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "638b4fa41f5241f6",
+  "active": "b87580342a13df12",
   "lastOpenFiles": [
     "Databases/Redis/2. Command Server.md",
     "Databases/Redis/3. Data Type.md",
