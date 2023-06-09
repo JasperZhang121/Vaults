@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8428aa8cf0136308",
+        "id": "4d91fd9ab024c43b",
         "type": "tabs",
         "children": [
           {
-            "id": "e9169f2ca5998df1",
+            "id": "7efb021f8821d57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/6. Constraints.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/6. Constraints.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/6. Constraints.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/6. Constraints.md"
+                "file": "Big Data/Hadoop/2. HDFS.md"
               }
             }
           }
@@ -155,10 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9169f2ca5998df1",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Databases/MySQL/5. Join.md",
+    "Cloud Computing/Platform/Docker",
+    "Big Data/Hadoop/1. Hadoop.md",
+    "Big Data/Hadoop/2. HDFS.md",
+    "Cloud Computing/Platform/Azure/1. Intro.md",
+    "Cloud Computing/Platform",
+    "Cloud Computing/Distributed Computing/1. Basic.md",
+    "Cloud Computing/Distributed Computing",
+    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Spark",
+    "Big Data/Hadoop",
+    "Cloud Computing/Platform/Google Cloud/1. Intro.md",
     "Databases/MySQL/6. Constraints.md",
+    "Cloud Computing/Platform/Azure",
+    "Cloud Computing/Platform/Google Cloud",
+    "Big Data",
+    "Databases/MySQL/5. Join.md",
     "Databases/MySQL/4. Queries.md",
     "Databases/MySQL/3. SQL.md",
     "Databases/MySQL/2. Data Type.md",
@@ -175,14 +191,8 @@
     "Databases/Redis/Basic/4. Basic Commands.md",
     "Databases/Redis/Basic/3. Data Type.md",
     "Databases/Redis/Basic/1. Implementation.md",
-    "Databases/MySQL",
     "Databases/Redis/Basic/0. Introduction.md",
     "Databases/Redis/Basic/2. Command Server.md",
-    "Databases/Redis/Redis - Introduction.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
-    "Databases/Redis",
-    "Databases/Untitled.md",
-    "Databases",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
@@ -190,18 +200,8 @@
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/4. Regression.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 2.md",
-    "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Ensemble, Time series, Streams.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
-    "Z-Archive/Pictures/Stats-ML/sting.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm"
+    "Z-Archive/Pictures/Stats-ML/sting.png"
   ]
 }
