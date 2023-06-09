@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/Jedis/2. Jedis Pool.md",
+                "file": "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/Jedis/2. Jedis Pool.md",
+                "file": "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/Jedis/2. Jedis Pool.md",
+                "file": "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/Jedis/2. Jedis Pool.md"
+                "file": "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md"
               }
             }
           }
@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
-    "Databases/Redis/SpringData",
-    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
     "Databases/Redis/Jedis/2. Jedis Pool.md",
+    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
+    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
+    "Databases/Redis/SpringDataRedis",
     "Databases/Redis/Basic/5. Commands Reference.md",
     "Databases/Redis/Jedis",
     "Databases/Redis/Basic",
@@ -201,7 +202,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining"
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm"
   ]
 }
