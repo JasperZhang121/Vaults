@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34aed675ebeb81ec",
+        "id": "8428aa8cf0136308",
         "type": "tabs",
         "children": [
           {
-            "id": "638b4fa41f5241f6",
+            "id": "e9169f2ca5998df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+                "file": "Databases/MySQL/6. Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+                "file": "Databases/MySQL/6. Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+                "file": "Databases/MySQL/6. Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md"
+                "file": "Databases/MySQL/6. Constraints.md"
               }
             }
           }
@@ -155,10 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "e9169f2ca5998df1",
   "lastOpenFiles": [
-    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
+    "Databases/MySQL/5. Join.md",
+    "Databases/MySQL/6. Constraints.md",
+    "Databases/MySQL/4. Queries.md",
+    "Databases/MySQL/3. SQL.md",
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/1. Tables.md",
     "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
     "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
     "Databases/Redis/Jedis/2. Jedis Pool.md",
     "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
@@ -190,12 +196,6 @@
     "Artificial Intelligence/Symbolic AI/2. KRR/1. Exercises/Constraint Satisfaction 1.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/8. Ensemble, Time series, Streams.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/7. Outlier.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/6. Contextual and Collective Outliers.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/4. Classification-Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/3. Proximity-Based Approaches.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
