@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/5. Commands Reference.md",
+                "file": "Databases/Redis/6. Jedis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/5. Commands Reference.md",
+                "file": "Databases/Redis/6. Jedis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/5. Commands Reference.md",
+                "file": "Databases/Redis/6. Jedis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/5. Commands Reference.md"
+                "file": "Databases/Redis/6. Jedis.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
-    "Databases/Redis/4. Basic Commands.md",
     "Databases/Redis/5. Commands Reference.md",
+    "Databases/Redis/6. Jedis.md",
+    "Databases/Redis/4. Basic Commands.md",
     "Databases/Redis/3. Data Type.md",
     "Databases/Redis/1. Implementation.md",
     "Databases/MySQL",
@@ -192,7 +193,6 @@
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/2. Statistical Approach.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/sting.png",
