@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Redis/4. Basic Commands.md",
+                "file": "Databases/Redis/1. Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Redis/4. Basic Commands.md",
+                "file": "Databases/Redis/1. Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Redis/4. Basic Commands.md",
+                "file": "Databases/Redis/1. Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Redis/4. Basic Commands.md"
+                "file": "Databases/Redis/1. Implementation.md"
               }
             }
           }
@@ -158,11 +157,11 @@
   },
   "active": "638b4fa41f5241f6",
   "lastOpenFiles": [
-    "Databases/Redis/2. Command Server.md",
+    "Databases/Redis/0. Introduction.md",
     "Databases/Redis/4. Basic Commands.md",
+    "Databases/Redis/2. Command Server.md",
     "Databases/Redis/3. Data Type.md",
     "Databases/Redis/1. Implementation.md",
-    "Databases/Redis/0. Introduction.md",
     "Databases/Redis/Redis - Introduction.md",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
     "Databases/Redis",
