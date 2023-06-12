@@ -52,7 +52,9 @@
 
 ```
 The STRIPS rule for a state s and an action a = (pre(a), eff-(a), eff+(a)) is:
-s' = γ(s, a) = {
+
+s' = γ(s, a) = 
+{
     (s - eff-(a)) ∪ eff+(a)   if pre(a) ⊆ s
     undefined                  otherwise (action not executable)
 }
@@ -82,9 +84,21 @@ We want to compute the result s' of applying go(A,C) in s0:
 > 					 (q)) 
 > )
 
-Write down a set of equivalent plain STRIPS actions (i.e., without conditional effects, and without disjunction or negation in the preconditions)
+Write down a set of equivalent plain STRIPS actions (i.e., without conditional effects, and <mark style="background: #ABF7F7A6;">without disjunction or negation</mark> in the preconditions)
 
 ```
+(
+:action A1 
+:precondition (and (p) (q)) 
+:effect (and (not (p)) 
+				(r)) )
+
+(
+:action A2 
+:precondition (and (p) (not (q))) 
+:effect (and (not (p)) 
+				(q)) )
+
 (
 :action A2 
 :precondition (and (p) (not-q)) 
@@ -112,7 +126,7 @@ This assumes of course that the other actions were already STRIPS compliant, oth
 > Consider the following planning problem. You want a sheep and a goat. Using your credit card, you can buy a sheep from the Automatic Sheep Machine (ASM). Waving your magic wand turns a sheep into a goat. The planning operators are as follows, where a box represents an operator whose pre-conditions are on the left-hand side and effects are on the right-hand side of the box.
 
 
-1. Draw the planning graph until the first level leading to a plan. Include all mutex relations.
+1. Draw the planning graph <mark style="background: #D2B3FFA6;">until the first level leading to a plan</mark>. Include all mutex relations.
 
 ![[graph_plan.png]]
 

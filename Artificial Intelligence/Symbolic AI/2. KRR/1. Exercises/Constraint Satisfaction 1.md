@@ -83,8 +83,8 @@ Cin-oven1,out-oven1 ≡ 35 ≤ out-oven1 − in-oven1 ≤ 40
 Cin-oven2,out-oven2 ≡ 35 ≤ out-oven2 − in-oven2 ≤ 40 
 Cout-oven1,serve ≡ out-oven1 + 10 ≤ serve 
 Cout-oven2,serve ≡ out-oven2 ≤ serve 
-Cin-oven1,out-oven2 ≡ ¬(0 < out-oven2 − in-oven1 < 70) 
-Cin-oven2,out-oven1 ≡ ¬(0 < out-oven1 − in-oven2 < 70)
+<mark style="background: #ADCCFFA6;">Cin-oven1,out-oven2 ≡ ¬(0 < out-oven2 − in-oven1 < 70) 
+Cin-oven2,out-oven1 ≡ ¬(0 < out-oven1 − in-oven2 < 70)</mark>
 
 
 > 3

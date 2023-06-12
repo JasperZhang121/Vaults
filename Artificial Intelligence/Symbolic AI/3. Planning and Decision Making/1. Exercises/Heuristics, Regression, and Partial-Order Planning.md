@@ -35,14 +35,14 @@ Goal: {delivered(F), delivered(D), at(T1, A), at(T2, A)}
 `The delete relaxation P + of a problem the same problem as P where all actions have been transformed by removing their delete list. A relaxed plan is a (not necessarily optimal) solution to the delete-relaxation P +. As an aside: P + is simple problem than P hence an optimal relaxed plan cost underestimates the true cost and can be used as an admissible heuristic. One issue is that P + is NP-hard to solve optimally. Therefore, many approaches further relax the problem to get an admissible heuristics (e.g. the admissible hmax) or compute non-optimal relaxed plans and non-admissible heuristics (e.g. the FF heuristic).`
 
 #### NP hard
-"NP-hard" stands for nondeterministic polynomial-time hard. It is a complexity class in computer science that represents a set of problems that are at least as hard as the hardest problems in the class NP (nondeterministic polynomial-time).
+"NP-hard" stands for <mark style="background: #FFB8EBA6;">nondeterministic polynomial-time hard</mark>. It is a complexity class in computer science that represents a set of problems that are at least as hard as the hardest problems in the class NP (nondeterministic polynomial-time).
 A problem is classified as NP-hard if it has the property that every problem in the class NP can be reduced to it in polynomial time. In other words, if a problem X is NP-hard, then any problem Y in NP can be transformed into an instance of X in polynomial time, preserving the solution.
 
 For example, consider the following boolean formula:
 $$F = (x1 ∨ ¬x2 ∨ x3) ∧ (¬x1 ∨ x2 ∨ x4) ∧ (¬x1 ∨ ¬x3 ∨ x4)$$
 The problem is to find an assignment of truth values to variables x1, x2, x3, and x4 such that the formula F evaluates to true.
 
-SAT is known to be NP-hard because any problem in the class NP can be reduced to SAT in polynomial time. This means that if we can solve SAT efficiently, we can solve any problem in NP efficiently.
+<mark style="background: #FFB8EBA6;">SAT is known to be NP-hard because any problem in the class NP can be reduced to SAT in polynomial time</mark>. This means that if we can solve SAT efficiently, we can solve any problem in NP efficiently.
 
 
 2. Write the optimal relaxed plan for this problem. What are the values of h + and h ∗ at the initial state?
@@ -69,10 +69,10 @@ Partial Order Plan:
 
 in this case, it corresponds to the two trucks operating asynchronously 
 
-<{ go(T1,A,B), go(T1,B,C), go(T1,C,D), deliver(T1,D), go(T1,D,C), go(T1,C,B), go(T1,B,A), go(T2,A,E), go(T2,E,F), deliver(T2,F), go(T2,F,E), go(T2,E,A)}, 
+<
+{ go(T1,A,B), go(T1,B,C), go(T1,C,D), deliver(T1,D), go(T1,D,C), go(T1,C,B), go(T1,B,A), go(T2,A,E), go(T2,E,F), deliver(T2,F), go(T2,F,E), go(T2,E,A)}, 
 
-{ 
-go(T1,A,B) ≺ go(T1,B,C),
+{go(T1,A,B) ≺ go(T1,B,C),
 go(T1,B,C) ≺ go(T1,C,D),
 go(T1,C,D) ≺ deliver(T1,D), 
 deliver(T1,D) ≺ go(T1,D,C), 
@@ -81,7 +81,8 @@ go(T1,C,B) ≺ go(T1,B,A),
 go(T2,A,E) ≺ go(T2,E,F), 
 go(T2,E,F) ≺ deliver(T2,F), 
 deliver(T2,F) ≺ go(T2,F,E), 
-go(T2,F,E) ≺ go(T2,E,A) }>
+go(T2,F,E) ≺ go(T2,E,A) }
+>
 
 Parallel Plan: there are many possibilities, for instance
 <{ go(T1,A,B), go(T2,A,E)}, 
@@ -137,6 +138,9 @@ If a is relevant for g then the regression of g through a is defined and is: g 0
 
 2. List all threats (indicate both the causal link threatened and the threatening action). 
 `The threatening action is Wave and the link threaten is that going from ASM to condition Have(S) of End.`
+
+Tips:
+`In the context of planning, "threats" refer to situations where a causal link between an action and a proposition (effect) is at risk of being invalidated or undone by another action`
 
 3. State how those threats can be resolved.
 `only one possibility: order Wave before ASM.`

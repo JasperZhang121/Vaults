@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e656618ef9e33926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/Terminal/Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/Terminal/Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands/Terminal/Commands.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,54 +160,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a4b565c9853ca60",
+  "active": "e656618ef9e33926",
   "lastOpenFiles": [
+    "Commands/Terminal/Commands.md",
+    "conflict-files-obsidian-git.md",
+    "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
+    "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
+    "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
+    "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
+    "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
+    "Z-Archive/Pictures/Stats-ML/dendro.png",
+    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
+    "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
+    "Databases/Redis/Jedis/2. Jedis Pool.md",
+    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
+    "Databases/Redis/Basic/5. Commands Reference.md",
+    "Databases/Redis/Basic/4. Basic Commands.md",
+    "Databases/Redis/Basic/3. Data Type.md",
+    "Databases/Redis/Basic/2. Command Server.md",
+    "Databases/Redis/Basic/1. Implementation.md",
+    "Databases/Redis/Basic/0. Introduction.md",
+    "Databases/Redis/SpringDataRedis",
+    "Databases/Redis/Jedis",
+    "Databases/Redis/Basic",
+    "Databases/MySQL/6. Constraints.md",
+    "Databases/MySQL/5. Join.md",
+    "Databases/MySQL/4. Queries.md",
+    "Databases/MySQL/3. SQL.md",
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/1. Tables.md",
+    "Databases/Redis",
+    "Databases/MySQL",
+    "Databases",
+    "Cloud Computing/Platform/AWS/Services/IAM/0. Intro.md",
+    "Cloud Computing/Platform/AWS/Services/IAM",
+    "Cloud Computing/Platform/AWS/Introduction/1. Services.md",
+    "Cloud Computing/Platform/AWS/Introduction/0. Intro.md",
+    "Cloud Computing/Platform/Google Cloud/1. Intro.md",
+    "Cloud Computing/Platform/Azure/1. Intro.md",
+    "Cloud Computing/Platform/AWS/Services",
+    "Cloud Computing/Platform/AWS/Introduction",
+    "Cloud Computing/Platform/Google Cloud",
+    "Cloud Computing/Distributed Computing/1. Basic.md",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
     "Z-Archive/Pictures/Stats-ML/triples.png",
     "Z-Archive/Pictures/Stats-ML/text_mining.png",
-    "Z-Archive/Pictures/Stats-ML/text_indexing.png",
-    "Z-Archive/Pictures/Stats-ML/stream_vs_traditional.png",
-    "Z-Archive/Pictures/Stats-ML/sting.png",
-    "Z-Archive/Pictures/Stats-ML/serialisation_turtle.png",
-    "Z-Archive/Pictures/Stats-ML/plan_partial.png",
-    "Z-Archive/Pictures/Stats-ML/k-medoids.png",
-    "Z-Archive/Pictures/Stats-ML/hierarchical_clustering.png",
-    "Z-Archive/Pictures/Stats-ML/graph_plan.png",
-    "Computer Operating System/Linux/Windows Subsystem for Linux/Key Notes.md",
-    "Computer Operating System/Linux/Windows Subsystem for Linux",
-    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
-    "Computer Operating System/Linux/Basic Linux/5. GCC.md",
-    "Computer Operating System/Linux/Basic Linux/4. Extra.md",
-    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
-    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
-    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
-    "Computer Operating System/Linux/Basic Linux",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Planning Representations and Graph-Based Approaches.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Plans.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/1. Plans.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/3. Time series analysis.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/0. Supervised learning algorithms.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Exercises.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/5. Word meaning by embedding.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/4. Web mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/3. Text mining problems.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/1. Basic Measures for Information Retrieval.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
