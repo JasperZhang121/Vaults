@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md",
+                "file": "Computer Organization and Architecture/1. CPU architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md",
+                "file": "Computer Organization and Architecture/1. CPU architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md",
+                "file": "Computer Organization and Architecture/1. CPU architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md"
+                "file": "Computer Organization and Architecture/1. CPU architecture.md"
               }
             }
           }
@@ -155,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "7efb021f8821d57e",
   "lastOpenFiles": [
+    "Big Data/Hadoop/2. HDFS.md",
     "Cloud Computing/Platform/Docker",
     "Big Data/Hadoop/1. Hadoop.md",
-    "Big Data/Hadoop/2. HDFS.md",
     "Cloud Computing/Platform/Azure/1. Intro.md",
     "Cloud Computing/Platform",
     "Cloud Computing/Distributed Computing/1. Basic.md",
@@ -187,7 +188,6 @@
     "Databases/Redis/SpringDataRedis",
     "Databases/Redis/Basic/5. Commands Reference.md",
     "Databases/Redis/Jedis",
-    "Databases/Redis/Basic",
     "Databases/Redis/Basic/4. Basic Commands.md",
     "Databases/Redis/Basic/3. Data Type.md",
     "Databases/Redis/Basic/1. Implementation.md",
