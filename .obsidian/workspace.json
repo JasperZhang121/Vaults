@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d91fd9ab024c43b",
+        "id": "8dfca90856babe2a",
         "type": "tabs",
         "children": [
           {
-            "id": "7efb021f8821d57e",
+            "id": "217e74d63366c885",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,10 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7efb021f8821d57e",
+  "active": "217e74d63366c885",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/CPU/7. Caches.md",
+    "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
+    "Computer Organization and Architecture/CPU/8. Front Side Bus.md",
+    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
+    "Computer Organization and Architecture/A High-Level Discription",
+    "Computer Organization and Architecture/CPU/6. Register.md",
+    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
+    "Computer Organization and Architecture/Main Memory/2. Random Access Memory.md",
+    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
+    "Computer Organization and Architecture/Main Memory/2. RAM'",
+    "Computer Organization and Architecture/CPU/4. CPU parameters.md",
+    "Computer Organization and Architecture/Main Memory",
+    "Computer Organization and Architecture/CPU/1. CPU architecture.md",
+    "Computer Organization and Architecture/CPU/3. Kernel mode.md",
+    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
+    "Computer Organization and Architecture/CPU",
     "conflict-files-obsidian-git.md",
-    "Computer Organization and Architecture/1. CPU architecture.md",
     "Big Data/Hadoop/2. HDFS.md",
     "Cloud Computing/Platform/Docker",
     "Big Data/Hadoop/1. Hadoop.md",
@@ -175,25 +181,10 @@
     "Cloud Computing/Platform/Google Cloud/1. Intro.md",
     "Databases/MySQL/6. Constraints.md",
     "Cloud Computing/Platform/Azure",
-    "Cloud Computing/Platform/Google Cloud",
-    "Big Data",
     "Databases/MySQL/5. Join.md",
     "Databases/MySQL/4. Queries.md",
     "Databases/MySQL/3. SQL.md",
     "Databases/MySQL/2. Data Type.md",
-    "Databases/MySQL/1. Tables.md",
-    "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
-    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
-    "Databases/Redis/SpringDataRedis/2. RedisTemplate API in Spring Data Redis.md",
-    "Databases/Redis/Jedis/2. Jedis Pool.md",
-    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
-    "Databases/Redis/SpringDataRedis",
-    "Databases/Redis/Basic/5. Commands Reference.md",
-    "Databases/Redis/Jedis",
-    "Databases/Redis/Basic/4. Basic Commands.md",
-    "Databases/Redis/Basic/3. Data Type.md",
-    "Databases/Redis/Basic/1. Implementation.md",
-    "Databases/Redis/Basic/0. Introduction.md",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
