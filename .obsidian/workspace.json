@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17d5c310ceea8530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/1. CPU architecture.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -156,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7efb021f8821d57e",
+  "active": "17d5c310ceea8530",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/1. CPU architecture.md",
+    "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/2. HDFS.md",
     "Cloud Computing/Platform/Docker",
     "Big Data/Hadoop/1. Hadoop.md",
@@ -192,7 +207,6 @@
     "Databases/Redis/Basic/3. Data Type.md",
     "Databases/Redis/Basic/1. Implementation.md",
     "Databases/Redis/Basic/0. Introduction.md",
-    "Databases/Redis/Basic/2. Command Server.md",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
