@@ -11,8 +11,12 @@
             "id": "76277f490554bf80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md"
               }
             }
           }
@@ -151,8 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "76277f490554bf80",
   "lastOpenFiles": [
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/1. Places.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/DOM.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/BOM.md",
     "Big Data/Hadoop/2. HDFS.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Computer Organization and Architecture/CPU/7. Caches.md",
@@ -179,16 +191,8 @@
     "Cloud Computing/Distributed Computing",
     "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
-    "Big Data/Spark/1. Spark.md",
     "Big Data/Spark",
     "Big Data/Hadoop",
-    "Cloud Computing/Platform/Google Cloud/1. Intro.md",
-    "Databases/MySQL/6. Constraints.md",
-    "Cloud Computing/Platform/Azure",
-    "Databases/MySQL/5. Join.md",
-    "Databases/MySQL/4. Queries.md",
-    "Databases/MySQL/3. SQL.md",
-    "Databases/MySQL/2. Data Type.md",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
