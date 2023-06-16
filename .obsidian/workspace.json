@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dfca90856babe2a",
+        "id": "8740be87a21a3673",
         "type": "tabs",
         "children": [
           {
-            "id": "217e74d63366c885",
+            "id": "76277f490554bf80",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -147,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "217e74d63366c885",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Big Data/Hadoop/2. HDFS.md",
+    "Big Data/Hadoop/1. Hadoop.md",
     "Computer Organization and Architecture/CPU/7. Caches.md",
     "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
     "Computer Organization and Architecture/CPU/8. Front Side Bus.md",
@@ -166,9 +172,7 @@
     "Computer Organization and Architecture/CPU/2. CPU Modes.md",
     "Computer Organization and Architecture/CPU",
     "conflict-files-obsidian-git.md",
-    "Big Data/Hadoop/2. HDFS.md",
     "Cloud Computing/Platform/Docker",
-    "Big Data/Hadoop/1. Hadoop.md",
     "Cloud Computing/Platform/Azure/1. Intro.md",
     "Cloud Computing/Platform",
     "Cloud Computing/Distributed Computing/1. Basic.md",
