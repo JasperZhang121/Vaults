@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md"
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md"
               }
             }
           }
@@ -157,8 +157,16 @@
   },
   "active": "76277f490554bf80",
   "lastOpenFiles": [
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/1. Places.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/7. Conditions.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/6. Data Types.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/5. Array.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/5. const.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/4. Variable.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/3. Input & Output.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/2. Comments.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/1. Positions.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
@@ -179,18 +187,10 @@
     "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Computer Organization and Architecture/CPU/4. CPU parameters.md",
     "Computer Organization and Architecture/Main Memory",
-    "Computer Organization and Architecture/CPU/1. CPU architecture.md",
-    "Computer Organization and Architecture/CPU/3. Kernel mode.md",
-    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
     "Computer Organization and Architecture/CPU",
-    "conflict-files-obsidian-git.md",
     "Cloud Computing/Platform/Docker",
-    "Cloud Computing/Platform/Azure/1. Intro.md",
     "Cloud Computing/Platform",
-    "Cloud Computing/Distributed Computing/1. Basic.md",
     "Cloud Computing/Distributed Computing",
-    "Artificial Intelligence/Deep Learning/2.2 Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Big Data/Spark",
     "Big Data/Hadoop",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
