@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8740be87a21a3673",
+        "id": "e12bda6be725218b",
         "type": "tabs",
         "children": [
           {
-            "id": "76277f490554bf80",
+            "id": "0e196ae3b1a01f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md"
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md"
               }
             }
           }
@@ -155,22 +155,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76277f490554bf80",
+  "active": "0e196ae3b1a01f6c",
   "lastOpenFiles": [
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/7. Conditions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/8. Function.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/6. Data Types.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/5. Array.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/5. const.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/4. Variable.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/3. Input & Output.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/2. Comments.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/1. Positions.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/1. Intro.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/8. Function.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/7. Conditions.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/6. Data Types.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. Array.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. const.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/4. Variable.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/3. Input & Output.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/2. Comments.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/1. Positions.md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/DOM.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/BOM.md",
     "Big Data/Hadoop/2. HDFS.md",
@@ -182,17 +187,12 @@
     "Computer Organization and Architecture/A High-Level Discription",
     "Computer Organization and Architecture/CPU/6. Register.md",
     "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
-    "Computer Organization and Architecture/Main Memory/2. Random Access Memory.md",
-    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
     "Computer Organization and Architecture/Main Memory/2. RAM'",
-    "Computer Organization and Architecture/CPU/4. CPU parameters.md",
     "Computer Organization and Architecture/Main Memory",
     "Computer Organization and Architecture/CPU",
     "Cloud Computing/Platform/Docker",
     "Cloud Computing/Platform",
     "Cloud Computing/Distributed Computing",
-    "Big Data/Spark",
-    "Big Data/Hadoop",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
