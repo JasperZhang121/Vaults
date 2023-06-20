@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md"
+                "file": "Big Data/Hadoop/2. HDFS.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "0e196ae3b1a01f6c",
   "lastOpenFiles": [
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
