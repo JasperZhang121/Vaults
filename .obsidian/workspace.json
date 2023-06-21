@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/2. Advanced.md",
+                "file": "Computer Operating System/Write an OS/0. 8086 microprocessor.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/2. Advanced.md",
+                "file": "Computer Operating System/Write an OS/0. 8086 microprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/2. Advanced.md",
+                "file": "Computer Operating System/Write an OS/0. 8086 microprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/2. Advanced.md"
+                "file": "Computer Operating System/Write an OS/0. 8086 microprocessor.md"
               }
             }
           }
@@ -155,10 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "cbbf393757184b25",
   "lastOpenFiles": [
-    "Git/1. Basic.md",
+    "Block-Diagram-of-8086.png",
+    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
+    "Computer Operating System/Write an OS/0. 8086 microprocessor.md",
+    "Computer Operating System/Write an OS/1. Components.md",
+    "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
+    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
+    "Computer Organization and Architecture/CPU/6. Register.md",
     "Git/2. Advanced.md",
+    "Git/1. Basic.md",
     "Statistics/0. Basic/4. Data Analysis and Visualization.md",
     "Statistics/0. Basic/2. Data Collection Methods.md",
     "Statistics/0. Basic/0. Overview.md",
@@ -178,14 +185,7 @@
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/7. Conditions.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/6. Data Types.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. Array.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. const.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/4. Variable.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/3. Input & Output.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/2. Comments.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/1. Positions.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/DOM.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/BOM.md",
     "Computer Organization and Architecture/A High-Level Discription",
     "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Computer Organization and Architecture/Main Memory",
