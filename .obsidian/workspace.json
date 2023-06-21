@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e12bda6be725218b",
+        "id": "d83d71017bd080b5",
         "type": "tabs",
         "children": [
           {
-            "id": "0e196ae3b1a01f6c",
+            "id": "cbbf393757184b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md",
+                "file": "Git/2. Advanced.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md",
+                "file": "Git/2. Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md",
+                "file": "Git/2. Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md"
+                "file": "Git/2. Advanced.md"
               }
             }
           }
@@ -155,8 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e196ae3b1a01f6c",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Git/1. Basic.md",
+    "Git/2. Advanced.md",
+    "Statistics/0. Basic/4. Data Analysis and Visualization.md",
+    "Statistics/0. Basic/2. Data Collection Methods.md",
+    "Statistics/0. Basic/0. Overview.md",
+    "Terminal/Commands.md",
+    "Git/0. Concepts.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
@@ -178,15 +186,7 @@
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/DOM.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/BOM.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Big Data/Hadoop/1. Hadoop.md",
-    "Computer Organization and Architecture/CPU/7. Caches.md",
-    "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
-    "Computer Organization and Architecture/CPU/8. Front Side Bus.md",
-    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
     "Computer Organization and Architecture/A High-Level Discription",
-    "Computer Organization and Architecture/CPU/6. Register.md",
-    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
     "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Computer Organization and Architecture/Main Memory",
     "Computer Organization and Architecture/CPU",
