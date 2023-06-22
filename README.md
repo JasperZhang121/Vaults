@@ -11,7 +11,7 @@ _If you are an Obsidian user, you can import my notes, where you will find highl
 
 ## Issues
 
-- _Some images shown in the notes by Obsidian may not appear in the GitHub repository due to differences in the reference style used in Obsidian and markdown. I plan to resolve this issue by May 2023._
+- ~_Some images shown in the notes by Obsidian may not appear in the GitHub repository due to differences in the reference style used in Obsidian and markdown. I plan to resolve this issue by May 2023._~
 - ~~_As a result of a reorganization, the references to this repository in other repositories have been disrupted. However, I plan to rectify this issue by the end of April 2023._~~
 
 ## Last Update
