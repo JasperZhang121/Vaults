@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/8086/1. Registers.md",
+                "file": "Computer Operating System/8086/4. Protected Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/8086/1. Registers.md",
+                "file": "Computer Operating System/8086/4. Protected Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/8086/1. Registers.md",
+                "file": "Computer Operating System/8086/4. Protected Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/8086/1. Registers.md"
+                "file": "Computer Operating System/8086/4. Protected Mode.md"
               }
             }
           }
@@ -155,18 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbbf393757184b25",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Computer Operating System/Write an OS/1. Components.md",
+    "Computer Operating System/8086/2. Addressing Mode.md",
+    "Computer Operating System/8086/4. Protected Mode.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
+    "Computer Operating System/8086/3. MBR and  Bootloader.md",
+    "Computer Operating System/8086/1. Registers.md",
+    "Computer Operating System/Write an OS/1. Components.md",
     "Computer Organization and Architecture/CPU/1. CPU architecture.md",
     "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
     "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
     "Computer Operating System/8086/0. Microprocessor Architecture.md",
-    "Computer Operating System/8086/2. Addressing mode.md",
-    "Computer Operating System/8086/1. Registers.md",
     "Computer Operating System/8086",
-    "Block-Diagram-of-8086.png",
+    "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
     "Computer Organization and Architecture/CPU/6. Register.md",
     "Git/2. Advanced.md",
@@ -184,9 +186,7 @@
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/1. Intro.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMAScript.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/8. Function.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
     "Computer Organization and Architecture/A High-Level Discription",
     "Computer Organization and Architecture/Main Memory/2. RAM'",
