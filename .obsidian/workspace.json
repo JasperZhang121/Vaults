@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Write an OS/1. Components.md",
+                "file": "Computer Operating System/8086/1. Registers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Write an OS/1. Components.md",
+                "file": "Computer Operating System/8086/1. Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Write an OS/1. Components.md",
+                "file": "Computer Operating System/8086/1. Registers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Write an OS/1. Components.md"
+                "file": "Computer Operating System/8086/1. Registers.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "cbbf393757184b25",
   "lastOpenFiles": [
-    "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/Write an OS/1. Components.md",
+    "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Organization and Architecture/CPU/1. CPU architecture.md",
     "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
     "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
