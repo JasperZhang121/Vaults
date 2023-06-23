@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d83d71017bd080b5",
+        "id": "e32259077406e798",
         "type": "tabs",
         "children": [
           {
-            "id": "cbbf393757184b25",
+            "id": "8728549d51b43abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "8728549d51b43abe",
   "lastOpenFiles": [
-    "Computer Operating System/8086/2. Addressing Mode.md",
+    "README.md",
     "Computer Operating System/8086/4. Protected Mode.md",
+    "Computer Operating System/8086/2. Addressing Mode.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/8086/3. MBR and  Bootloader.md",
     "Computer Operating System/8086/1. Registers.md",
@@ -184,7 +185,6 @@
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/1. Intro.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
