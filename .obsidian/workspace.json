@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e32259077406e798",
+        "id": "4627b9a29dda2f86",
         "type": "tabs",
         "children": [
           {
-            "id": "8728549d51b43abe",
+            "id": "ae7198b11010f649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/8086/4. Protected Mode.md",
+                "file": "Computer Networking/3. Data Link Layer/3. Error Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/8086/4. Protected Mode.md",
+                "file": "Computer Networking/3. Data Link Layer/3. Error Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/8086/4. Protected Mode.md",
+                "file": "Computer Networking/3. Data Link Layer/3. Error Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/8086/4. Protected Mode.md"
+                "file": "Computer Networking/3. Data Link Layer/3. Error Detection.md"
               }
             }
           }
@@ -155,10 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8728549d51b43abe",
+  "active": "ae7198b11010f649",
   "lastOpenFiles": [
-    "README.md",
+    "Computer Networking/3. Data Link Layer/4. Error Control Coding.md",
+    "Computer Networking/3. Data Link Layer/3. Error Detection.md",
+    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
+    "Computer Networking/3. Data Link Layer/2. Framing Methods.md",
+    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
+    "Computer Networking/2. Physical Layer/2. Symbol.md",
     "Computer Operating System/8086/4. Protected Mode.md",
+    "README.md",
     "Computer Operating System/8086/2. Addressing Mode.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/8086/3. MBR and  Bootloader.md",
@@ -179,12 +185,6 @@
     "Statistics/0. Basic/0. Overview.md",
     "Terminal/Commands.md",
     "Git/0. Concepts.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
