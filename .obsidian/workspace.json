@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/7. Damn Vulnerable Web Application.md",
+                "file": "Cyber Security/8. Command Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/7. Damn Vulnerable Web Application.md",
+                "file": "Cyber Security/8. Command Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/7. Damn Vulnerable Web Application.md",
+                "file": "Cyber Security/8. Command Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/7. Damn Vulnerable Web Application.md"
+                "file": "Cyber Security/8. Command Injection.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "c61f1abb5a3c211d",
   "lastOpenFiles": [
-    "Cyber Security/6. msfvenom.md",
     "Cyber Security/7. Damn Vulnerable Web Application.md",
+    "Cyber Security/8. Command Injection.md",
+    "Cyber Security/6. msfvenom.md",
     "README.md",
     "Cyber Security/5. EternalBlue.md",
     "Cyber Security/4. MetaSploit.md",
@@ -184,7 +185,6 @@
     "Computer Operating System/8086/4. Protected Mode.md",
     "Computer Operating System/8086/2. Addressing Mode.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
-    "Computer Operating System/8086/3. MBR and  Bootloader.md",
     "Computer Operating System/8086",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
