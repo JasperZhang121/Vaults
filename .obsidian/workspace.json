@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed8dbfc3feea497",
+        "id": "a88320b6b3734c27",
         "type": "tabs",
         "children": [
           {
-            "id": "f997ca52f65b832b",
+            "id": "c61f1abb5a3c211d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/3. Kali Linux.md",
+                "file": "Cyber Security/7. Damn Vulnerable Web Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/3. Kali Linux.md",
+                "file": "Cyber Security/7. Damn Vulnerable Web Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/3. Kali Linux.md",
+                "file": "Cyber Security/7. Damn Vulnerable Web Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/3. Kali Linux.md"
+                "file": "Cyber Security/7. Damn Vulnerable Web Application.md"
               }
             }
           }
@@ -155,14 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "c61f1abb5a3c211d",
   "lastOpenFiles": [
+    "Cyber Security/6. msfvenom.md",
+    "Cyber Security/7. Damn Vulnerable Web Application.md",
+    "README.md",
+    "Cyber Security/5. EternalBlue.md",
+    "Cyber Security/4. MetaSploit.md",
+    "Cyber Security/3. Kali Linux.md",
     "Computer Operating System/Commands",
     "Cyber Security/2. Basics.md",
-    "Cyber Security/3. Kali Linux.md",
     "Cyber Security/1. Overview.md",
     "Cloud Computing/Distributed Computing/1. Basic.md",
-    "README.md",
     "Cyber Security",
     "Artificial Intelligence/Natural Language Processing/0. Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Natural Language Processing/1. Conditional Random Fields (CRF).md",
@@ -181,9 +185,6 @@
     "Computer Operating System/8086/2. Addressing Mode.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/8086/3. MBR and  Bootloader.md",
-    "Computer Operating System/8086/1. Registers.md",
-    "Computer Operating System/Write an OS/1. Components.md",
-    "Computer Organization and Architecture/CPU/1. CPU architecture.md",
     "Computer Operating System/8086",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
@@ -193,7 +194,6 @@
     "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Computer Organization and Architecture/Main Memory",
     "Computer Organization and Architecture/CPU",
-    "Cloud Computing/Platform/Docker",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
