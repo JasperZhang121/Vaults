@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/8. Command Injection.md",
+                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/8. Command Injection.md",
+                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/8. Command Injection.md",
+                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/8. Command Injection.md"
+                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md"
               }
             }
           }
@@ -157,8 +157,14 @@
   },
   "active": "c61f1abb5a3c211d",
   "lastOpenFiles": [
-    "Cyber Security/7. Damn Vulnerable Web Application.md",
+    "Computer Operating System/8086/2. Addressing Mode.md",
+    "Computer Operating System/8086/4. Protected Mode.md",
+    "Computer Operating System/x86/2. Registers.md",
+    "Computer Operating System/x86/1. BIOS.md",
+    "Computer Operating System/x86/0. Intro.md",
+    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
     "Cyber Security/8. Command Injection.md",
+    "Cyber Security/7. Damn Vulnerable Web Application.md",
     "Cyber Security/6. msfvenom.md",
     "README.md",
     "Cyber Security/5. EternalBlue.md",
@@ -179,12 +185,6 @@
     "Computer Networking/3. Data Link Layer/3. Error Detection.md",
     "Computer Networking/3. Data Link Layer/2. Framing Methods.md",
     "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
-    "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Computer Operating System/8086/4. Protected Mode.md",
-    "Computer Operating System/8086/2. Addressing Mode.md",
-    "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/8086",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
