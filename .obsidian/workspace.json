@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a88320b6b3734c27",
+        "id": "41fbcf8403d2de41",
         "type": "tabs",
         "children": [
           {
-            "id": "c61f1abb5a3c211d",
+            "id": "b3cd592f635c8e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+                "file": "Cyber Security/8. Command Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+                "file": "Cyber Security/8. Command Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+                "file": "Cyber Security/8. Command Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Write an OS/3. Global Descriptor Table.md"
+                "file": "Cyber Security/8. Command Injection.md"
               }
             }
           }
@@ -155,14 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c61f1abb5a3c211d",
+  "active": "b3cd592f635c8e88",
   "lastOpenFiles": [
+    "Commands/Terminal/Commands.md",
+    "Commands/Git/1. Basic.md",
+    "Commands/Git/0. Concepts.md",
+    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
     "Computer Operating System/8086/2. Addressing Mode.md",
     "Computer Operating System/8086/4. Protected Mode.md",
     "Computer Operating System/x86/2. Registers.md",
     "Computer Operating System/x86/1. BIOS.md",
     "Computer Operating System/x86/0. Intro.md",
-    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
     "Cyber Security/8. Command Injection.md",
     "Cyber Security/7. Damn Vulnerable Web Application.md",
     "Cyber Security/6. msfvenom.md",
@@ -170,7 +173,7 @@
     "Cyber Security/5. EternalBlue.md",
     "Cyber Security/4. MetaSploit.md",
     "Cyber Security/3. Kali Linux.md",
-    "Computer Operating System/Commands",
+    "Commands",
     "Cyber Security/2. Basics.md",
     "Cyber Security/1. Overview.md",
     "Cloud Computing/Distributed Computing/1. Basic.md",
@@ -182,9 +185,6 @@
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Computer Networking/3. Data Link Layer/5. Flow Control.md",
     "Computer Networking/3. Data Link Layer/4. Error Control Coding.md",
-    "Computer Networking/3. Data Link Layer/3. Error Detection.md",
-    "Computer Networking/3. Data Link Layer/2. Framing Methods.md",
-    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
     "Computer Operating System/8086",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
