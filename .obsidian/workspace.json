@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md",
+                "file": "Programming Languages/C/Basic/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md",
+                "file": "Programming Languages/C/Basic/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md",
+                "file": "Programming Languages/C/Basic/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md"
+                "file": "Programming Languages/C/Basic/Syntax.md"
               }
             }
           }
