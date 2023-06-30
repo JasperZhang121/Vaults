@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c082bc1d9261a9e0",
+        "id": "a88c64d32e193015",
         "type": "tabs",
         "children": [
           {
-            "id": "2c75b5b36d3750de",
+            "id": "7e4d2248c0114242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/C/Basic/Syntax.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/C/Basic/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/C/Basic/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/C/Basic/Syntax.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c75b5b36d3750de",
+  "active": "7e4d2248c0114242",
   "lastOpenFiles": [
+    "Programming Languages/C/Basic/Syntax.md",
     "Databases/MySQL/0. Precedence.md",
     "Cyber Security/8. Command Injection.md",
     "Commands/Terminal/Commands.md",
@@ -184,7 +177,6 @@
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Computer Networking/3. Data Link Layer/5. Flow Control.md",
     "Computer Operating System/8086",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
