@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e636a7fe4295783b",
+        "id": "36d3e21da31f44d0",
         "type": "tabs",
         "children": [
           {
-            "id": "4a4b565c9853ca60",
+            "id": "bdf6d2867f9790b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands/Terminal/Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd8159a5217c8040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ff8883f5e4aefed1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 306.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md"
               }
             }
           }
@@ -160,44 +155,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd8159a5217c8040",
+  "active": "bdf6d2867f9790b3",
   "lastOpenFiles": [
-    "Commands/Terminal/Commands.md",
-    "conflict-files-obsidian-git.md",
-    "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
-    "Statistics/0. Basic/4. Data Analysis and Visualization.md",
-    "Statistics/0. Basic/3. Data Analysis and Visualization.md",
-    "Statistics/0. Basic/2. Data Collection Methods.md",
-    "Statistics/0. Basic/1. Types of Data.md",
-    "Statistics/0. Basic/0. Overview.md",
-    "Statistics/0. Basic",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/1. Intro.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/8. Function.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/7. Conditions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/6. Data Types.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. const.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. Array.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/4. Variable.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/3. Input & Output.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/2. Comments.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/1. Positions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
+    "Cloud Computing/Distributed Computing/2. Models and Architecture.md",
+    "Cloud Computing/Distributed Computing/1. Basic.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
+    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
+    "Programming Languages/C/Basic/Syntax.md",
     "Databases/MySQL/0. Precedence.md",
     "Cyber Security/8. Command Injection.md",
+    "Commands/Terminal/Commands.md",
+    "Commands/Git/1. Basic.md",
+    "Commands/Git/0. Concepts.md",
+    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+    "Computer Operating System/8086/2. Addressing Mode.md",
+    "Computer Operating System/8086/4. Protected Mode.md",
+    "Computer Operating System/x86/2. Registers.md",
+    "Computer Operating System/x86/1. BIOS.md",
+    "Computer Operating System/x86/0. Intro.md",
     "Cyber Security/7. Damn Vulnerable Web Application.md",
     "Cyber Security/6. msfvenom.md",
+    "README.md",
+    "Cyber Security/5. EternalBlue.md",
+    "Commands",
     "Cyber Security",
+    "Computer Operating System/8086",
+    "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
+    "Computer Organization and Architecture/A High-Level Discription",
+    "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Computer Organization and Architecture/Main Memory",
     "Computer Organization and Architecture/CPU",
-    "Computer Organization and Architecture/A High-Level Discription",
-    "Computer Operating System/8086",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
@@ -205,10 +201,7 @@
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
-    "Databases/Redis/SpringDataRedis",
     "Z-Archive/Pictures/Stats-ML/web_mining.png",
-    "Z-Archive/Pictures/Stats-ML/triples.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Z-Archive/Pictures/Stats-ML/triples.png"
   ]
 }
