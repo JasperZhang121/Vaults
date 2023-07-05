@@ -11,8 +11,12 @@
             "id": "677c16b3146be7b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stratified",
+                "query": "auto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md"
+              }
             }
           }
         ],
