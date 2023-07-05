@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff8532e488d5eeef",
+        "id": "96bedae01ebe9f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "120e7695bafdc239",
+            "id": "cba49294dc985fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md"
+                "file": "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md"
               }
             }
           }
@@ -156,39 +155,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120e7695bafdc239",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Statistics/0. Basic/3. Data Analysis and Visualization.md",
-    "Statistics/0. Basic/4. Data Analysis and Visualization.md",
-    "Statistics/0. Basic/1. Types of Data.md",
-    "Statistics/0. Basic/2. Data Collection Methods.md",
-    "Statistics/0. Basic/0. Overview.md",
+    "Commands/Terminal/Commands.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+    "Untitled.md",
+    "Git/5. LFS.md",
+    "Git/4. Changes.md",
+    "Git/2. Repo.md",
+    "Git/3. Branch.md",
+    "Git/1. Init & Config.md",
+    "Data Structures/1. Intermediate/2. Hash Table.md",
+    "Data Structures/1. Intermediate/1. Heap.md",
+    "Data Structures/0. Simple/3. Queue.md",
+    "Programming Languages/C++/Basic/0. General Concepts/1. STL.md",
+    "Programming Languages/C++/Basic/0. General Concepts/0. Syntax and Rules.md",
+    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
+    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
+    "README.md",
+    "Commands/Git/1. Basic.md",
+    "Git/0. Concepts.md",
+    "Commands/Git/2. Advanced.md",
+    "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
+    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+    "Computer Networking/3. Data Link Layer/2. Framing Methods.md",
+    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
+    "Computer Networking/3. Data Link Layer/3. Error Detection.md",
+    "Computer Networking/3. Data Link Layer/4. Error Control Coding.md",
+    "Computer Networking/3. Data Link Layer/5. Flow Control.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/10. Semantic Web and Knowledge Graphs/3. The Web Ontology Language.md",
     "Statistics/0. Basic",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/1. Intro.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/7. Conditions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/8. Function.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/6. Data Types.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. const.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. Array.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/3. Input & Output.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/4. Variable.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/2. Comments.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/1. Positions.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
-    "Computer Organization and Architecture/Main Memory/2. Random Access Memory.md",
-    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
     "Computer Organization and Architecture/Main Memory",
-    "Computer Organization and Architecture/CPU/8. Front Side Bus.md",
-    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
-    "Computer Organization and Architecture/CPU/7. Caches.md",
-    "Computer Organization and Architecture/CPU/6. Register.md",
     "Computer Organization and Architecture/CPU",
     "Computer Organization and Architecture/A High-Level Discription",
     "Computer Operating System/8086",
@@ -203,7 +203,6 @@
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
     "Z-Archive/Pictures/Stats-ML/example_sting.png",
-    "Z-Archive/Pictures/Stats-ML/sting.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
