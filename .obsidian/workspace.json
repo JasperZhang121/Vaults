@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
+                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
+                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
+                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md"
+                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md"
               }
             }
           }
@@ -156,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "677c16b3146be7b6",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Algorithm/Algo/Sliding Window/Sliding Window.md",
+    "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
@@ -182,8 +184,6 @@
     "Programming Languages/C++/Basic/0. General Concepts/0. Syntax and Rules.md",
     "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
     "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
-    "README.md",
-    "Commands/Git/1. Basic.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Statistics/0. Basic",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
