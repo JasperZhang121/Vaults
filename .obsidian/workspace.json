@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
+                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
+                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
+                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md"
+                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md"
               }
             }
           }
@@ -157,11 +157,12 @@
   },
   "active": "bdf6d2867f9790b3",
   "lastOpenFiles": [
+    "Algorithm/Algo/Sliding Window/Sliding Window.md",
+    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Cloud Computing/Distributed Computing/2. Models and Architecture.md",
     "Cloud Computing/Distributed Computing/1. Basic.md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
@@ -182,7 +183,6 @@
     "Cyber Security/7. Damn Vulnerable Web Application.md",
     "Cyber Security/6. msfvenom.md",
     "README.md",
-    "Cyber Security/5. EternalBlue.md",
     "Commands",
     "Cyber Security",
     "Computer Operating System/8086",
