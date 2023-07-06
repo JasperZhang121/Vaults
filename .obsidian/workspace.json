@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "849f4ba90c1b6714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -155,8 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf6d2867f9790b3",
+  "active": "849f4ba90c1b6714",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
+    "conflict-files-obsidian-git.md",
+    "Git/5. LFS.md",
+    "Git/4. Changes.md",
+    "Git/3. Branch.md",
+    "Git/2. Repo.md",
+    "Git/1. Init & Config.md",
+    "Git/0. Concepts.md",
+    "Git",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
     "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
@@ -175,14 +197,6 @@
     "Commands/Git/1. Basic.md",
     "Commands/Git/0. Concepts.md",
     "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
-    "Computer Operating System/8086/2. Addressing Mode.md",
-    "Computer Operating System/8086/4. Protected Mode.md",
-    "Computer Operating System/x86/2. Registers.md",
-    "Computer Operating System/x86/1. BIOS.md",
-    "Computer Operating System/x86/0. Intro.md",
-    "Cyber Security/7. Damn Vulnerable Web Application.md",
-    "Cyber Security/6. msfvenom.md",
-    "README.md",
     "Commands",
     "Cyber Security",
     "Computer Operating System/8086",
@@ -193,7 +207,6 @@
     "Computer Organization and Architecture/A High-Level Discription",
     "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Computer Organization and Architecture/Main Memory",
-    "Computer Organization and Architecture/CPU",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
