@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36d3e21da31f44d0",
+        "id": "041f75498f016e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf6d2867f9790b3",
+            "id": "47199bd5738e38f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Algo/Sliding Window/Sliding Window.md",
+                "file": "Programming Languages/Rust/2. Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Algo/Sliding Window/Sliding Window.md",
+                "file": "Programming Languages/Rust/2. Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Algo/Sliding Window/Sliding Window.md",
+                "file": "Programming Languages/Rust/2. Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Algo/Sliding Window/Sliding Window.md"
+                "file": "Programming Languages/Rust/2. Syntax.md"
               }
             }
           }
@@ -155,10 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf6d2867f9790b3",
+  "active": "47199bd5738e38f8",
   "lastOpenFiles": [
-    "Algorithm/Leetcode/Array/Two-pointers/1493. Longest Subarray of 1's After Deleting One Element.md",
+    "Programming Languages/Rust/1. Cargo.md",
+    "Programming Languages/Rust/2. Syntax.md",
+    "Programming Languages/Rust/0. Rustc.md",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
+    "Programming Languages/Rust",
+    "Algorithm/Leetcode/Array/Two-pointers/1493. Longest Subarray of 1's After Deleting One Element.md",
     "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
     "conflict-files-obsidian-git.md",
     "Git/5. LFS.md",
@@ -181,9 +185,6 @@
     "Programming Languages/C/Basic/Syntax.md",
     "Databases/MySQL/0. Precedence.md",
     "Cyber Security/8. Command Injection.md",
-    "Commands/Terminal/Commands.md",
-    "Commands/Git/1. Basic.md",
-    "Commands/Git/0. Concepts.md",
     "Commands",
     "Cyber Security",
     "Computer Operating System/8086",
@@ -193,7 +194,6 @@
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
     "Computer Organization and Architecture/A High-Level Discription",
     "Computer Organization and Architecture/Main Memory/2. RAM'",
-    "Computer Organization and Architecture/Main Memory",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
