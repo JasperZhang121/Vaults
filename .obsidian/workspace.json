@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Assembly/2. Basic Syntax.md",
+                "file": "Programming Languages/Rust/5. Borrow.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Assembly/2. Basic Syntax.md",
+                "file": "Programming Languages/Rust/5. Borrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Assembly/2. Basic Syntax.md",
+                "file": "Programming Languages/Rust/5. Borrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Assembly/2. Basic Syntax.md"
+                "file": "Programming Languages/Rust/5. Borrow.md"
               }
             }
           }
@@ -157,16 +157,18 @@
   },
   "active": "3400232e27517691",
   "lastOpenFiles": [
-    "Programming Languages/Assembly/0. Concepts.md",
+    "Programming Languages/Rust/4. Ownership.md",
+    "Programming Languages/Rust/5. Borrow.md",
+    "Programming Languages/Rust/1. Cargo.md",
+    "Programming Languages/Rust/2. Syntax.md",
     "Programming Languages/Assembly/2. Basic Syntax.md",
+    "Programming Languages/Assembly/0. Concepts.md",
     "Computer Operating System/8086/5. Descriptor Privilege Level.md",
     "Programming Languages/Assembly",
     "Computer Operating System/8086/4. Protected Mode.md",
     "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/Write an OS/1. Components.md",
-    "Programming Languages/Rust/2. Syntax.md",
-    "Programming Languages/Rust/1. Cargo.md",
     "Programming Languages/Rust/0. Rustc.md",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
     "Programming Languages/Rust",
@@ -184,8 +186,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Cloud Computing/Distributed Computing/2. Models and Architecture.md",
     "Commands",
     "Cyber Security",
     "Computer Operating System/8086",
