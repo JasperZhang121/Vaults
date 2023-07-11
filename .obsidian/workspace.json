@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "041f75498f016e6a",
+        "id": "eb5f211d90d02d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "47199bd5738e38f8",
+            "id": "3400232e27517691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Rust/2. Syntax.md",
+                "file": "Programming Languages/Assembly/2. Basic Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/2. Syntax.md",
+                "file": "Programming Languages/Assembly/2. Basic Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/2. Syntax.md",
+                "file": "Programming Languages/Assembly/2. Basic Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Rust/2. Syntax.md"
+                "file": "Programming Languages/Assembly/2. Basic Syntax.md"
               }
             }
           }
@@ -155,10 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47199bd5738e38f8",
+  "active": "3400232e27517691",
   "lastOpenFiles": [
-    "Programming Languages/Rust/1. Cargo.md",
+    "Programming Languages/Assembly/0. Concepts.md",
+    "Programming Languages/Assembly/2. Basic Syntax.md",
+    "Computer Operating System/8086/5. Descriptor Privilege Level.md",
+    "Programming Languages/Assembly",
+    "Computer Operating System/8086/4. Protected Mode.md",
+    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+    "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
+    "Computer Operating System/Write an OS/1. Components.md",
     "Programming Languages/Rust/2. Syntax.md",
+    "Programming Languages/Rust/1. Cargo.md",
     "Programming Languages/Rust/0. Rustc.md",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
     "Programming Languages/Rust",
@@ -178,13 +186,6 @@
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Cloud Computing/Distributed Computing/2. Models and Architecture.md",
-    "Cloud Computing/Distributed Computing/1. Basic.md",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
-    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
-    "Programming Languages/C/Basic/Syntax.md",
-    "Databases/MySQL/0. Precedence.md",
-    "Cyber Security/8. Command Injection.md",
     "Commands",
     "Cyber Security",
     "Computer Operating System/8086",
@@ -193,7 +194,6 @@
     "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
     "Computer Organization and Architecture/A High-Level Discription",
-    "Computer Organization and Architecture/Main Memory/2. RAM'",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
