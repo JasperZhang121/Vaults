@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb5f211d90d02d2b",
+        "id": "1fef78486872194e",
         "type": "tabs",
         "children": [
           {
-            "id": "3400232e27517691",
+            "id": "fada62c9be958985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Rust/5. Borrow.md",
+                "file": "Programming Languages/Rust/6. Struct.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/5. Borrow.md",
+                "file": "Programming Languages/Rust/6. Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/5. Borrow.md",
+                "file": "Programming Languages/Rust/6. Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Rust/5. Borrow.md"
+                "file": "Programming Languages/Rust/6. Struct.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3400232e27517691",
+  "active": "fada62c9be958985",
   "lastOpenFiles": [
-    "Programming Languages/Rust/4. Ownership.md",
+    "Programming Languages/Rust/6. Struct.md",
     "Programming Languages/Rust/5. Borrow.md",
+    "Programming Languages/Rust/4. Ownership.md",
     "Programming Languages/Rust/1. Cargo.md",
     "Programming Languages/Rust/2. Syntax.md",
     "Programming Languages/Assembly/2. Basic Syntax.md",
@@ -185,7 +186,6 @@
     "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Commands",
     "Cyber Security",
     "Computer Operating System/8086",
