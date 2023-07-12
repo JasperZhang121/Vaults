@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fef78486872194e",
+        "id": "4d4df911fef39980",
         "type": "tabs",
         "children": [
           {
-            "id": "fada62c9be958985",
+            "id": "25a87f2d863c042c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Rust/6. Struct.md",
+                "file": "Programming Languages/Rust/0. Packages and Crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/6. Struct.md",
+                "file": "Programming Languages/Rust/0. Packages and Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/6. Struct.md",
+                "file": "Programming Languages/Rust/0. Packages and Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Rust/6. Struct.md"
+                "file": "Programming Languages/Rust/0. Packages and Crates.md"
               }
             }
           }
@@ -155,13 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fada62c9be958985",
+  "active": "25a87f2d863c042c",
   "lastOpenFiles": [
-    "Programming Languages/Rust/6. Struct.md",
-    "Programming Languages/Rust/5. Borrow.md",
-    "Programming Languages/Rust/4. Ownership.md",
-    "Programming Languages/Rust/1. Cargo.md",
-    "Programming Languages/Rust/2. Syntax.md",
+    "Programming Languages/Rust/5. Packages-Crates-Modules",
+    "Programming Languages/Rust/0. Packages and Crates.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
+    "Programming Languages/Rust/1. Common Programming Concepts/0. Syntax.md",
+    "Programming Languages/Rust/3. Structs/0. Struct.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching/0. Enum.md",
+    "Programming Languages/Rust/2. Ownership/1. Borrow.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching",
+    "Programming Languages/Rust/3. Structs",
+    "Programming Languages/Rust/2. Ownership/0. Ownership.md",
+    "Programming Languages/Rust/2. Ownership",
+    "Programming Languages/Rust/1. Common Programming Concepts",
+    "Programming Languages/Rust/0. Started",
+    "Programming Languages/Rust/0. Started/1. Cargo.md",
     "Programming Languages/Assembly/2. Basic Syntax.md",
     "Programming Languages/Assembly/0. Concepts.md",
     "Computer Operating System/8086/5. Descriptor Privilege Level.md",
@@ -170,7 +180,7 @@
     "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
     "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
     "Computer Operating System/Write an OS/1. Components.md",
-    "Programming Languages/Rust/0. Rustc.md",
+    "Programming Languages/Rust/0. Started/0. Rustc.md",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
     "Programming Languages/Rust",
     "Algorithm/Leetcode/Array/Two-pointers/1493. Longest Subarray of 1's After Deleting One Element.md",
@@ -180,20 +190,10 @@
     "Git/4. Changes.md",
     "Git/3. Branch.md",
     "Git/2. Repo.md",
-    "Git/1. Init & Config.md",
-    "Git/0. Concepts.md",
     "Git",
-    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Commands",
     "Cyber Security",
-    "Computer Operating System/8086",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
-    "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
