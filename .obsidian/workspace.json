@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d4df911fef39980",
+        "id": "0ffded0177c97a34",
         "type": "tabs",
         "children": [
           {
-            "id": "25a87f2d863c042c",
+            "id": "ecd7060e08267850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a87f2d863c042c",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Programming Languages/Rust/5. Packages-Crates-Modules",
     "Programming Languages/Rust/0. Packages and Crates.md",
