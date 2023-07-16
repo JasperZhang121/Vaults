@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "19b0931d3aaca3dc",
+        "id": "95aeea2d6bc0de60",
         "type": "tabs",
         "children": [
           {
-            "id": "677c16b3146be7b6",
+            "id": "3a0f9da19b6e725a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
