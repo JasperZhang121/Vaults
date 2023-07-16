@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -90,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "3a0f9da19b6e725a",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/Array/Two-pointers/15. 3Sum.md",
     "Algorithm/Algo/Sliding Window/Sliding Window.md",
     "Programming Languages/C++/Basic/1. Variable/1. Exercises in CPP Primer/0. Cpp Primer practices.md",
     "Computer Operating System/Linux/Basic Linux/3. Shell.md",
@@ -179,7 +175,6 @@
     "Programming Languages/C++/Basic/0. General Concepts/1. STL.md",
     "Programming Languages/C++/Basic/0. General Concepts/0. Syntax and Rules.md",
     "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/7. Paging Storage Management.md",
-    "Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/2. Address Translation.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Statistics/0. Basic",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
