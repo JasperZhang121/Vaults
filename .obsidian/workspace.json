@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md",
+                "file": "Programming Languages/Rust/0. Started/3. Documnet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md",
+                "file": "Programming Languages/Rust/0. Started/3. Documnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md",
+                "file": "Programming Languages/Rust/0. Started/3. Documnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md"
+                "file": "Programming Languages/Rust/0. Started/3. Documnet.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "7b1389cae2087381",
   "lastOpenFiles": [
-    "Programming Languages/Rust/5. Packages-Crates-Modules",
     "Programming Languages/Rust/0. Packages and Crates.md",
+    "Programming Languages/Rust/0. Started/3. Documnet.md",
+    "Programming Languages/Rust/5. Packages-Crates-Modules",
     "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
     "Programming Languages/Rust/1. Common Programming Concepts/0. Syntax.md",
     "Programming Languages/Rust/3. Structs/0. Struct.md",
@@ -192,7 +193,6 @@
     "Git/2. Repo.md",
     "Git",
     "Commands",
-    "Cyber Security",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
