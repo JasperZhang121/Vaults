@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "398016040376b9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Rust/0. Packages and Crates.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -155,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a0f9da19b6e725a",
+  "active": "398016040376b9d5",
   "lastOpenFiles": [
+    "Programming Languages/Rust/0. Packages and Crates.md",
     "conflict-files-obsidian-git.md",
+    "Programming Languages/Rust/0. Started/3. Documnet.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching/0. Enum.md",
@@ -172,7 +187,6 @@
     "Programming Languages/Rust/1. Common Programming Concepts",
     "Programming Languages/Rust/2. Ownership",
     "Programming Languages/Rust/0. Started",
-    "Programming Languages/Rust/0. Packages and Crates.md",
     "Programming Languages/Rust",
     "Programming Languages/Assembly/2. Basic Syntax.md",
     "Programming Languages/Assembly/0. Concepts.md",
@@ -189,7 +203,6 @@
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks (GANs).md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning.md",
     "Big Data/Hadoop/2. HDFS.md",
-    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Statistics/0. Basic",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
