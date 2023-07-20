@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "17cdcbaf028bd151",
+        "id": "ae4097605d6c9d74",
         "type": "tabs",
         "children": [
           {
-            "id": "450365c03a6b06c5",
+            "id": "0a86aee3cac6a90f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,15 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "450365c03a6b06c5",
+  "active": "0a86aee3cac6a90f",
   "lastOpenFiles": [
+    "Computer Networking/6. Application Layer/5. RESTful Web APIs.md",
+    "Computer Networking/6. Application Layer/4. Security Considerations in the Application Layer.md",
+    "Computer Networking/6. Application Layer/3. SMTP (Simple Mail Transfer Protocol) and Email Protocols.md",
+    "Computer Networking/6. Application Layer/2. DNS (Domain Name System).md",
+    "Computer Networking/6. Application Layer/1. HTTP (Hypertext Transfer Protocol).md",
+    "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
+    "Computer Networking/6. Application Layer",
+    "Computer Networking/5. Transport Layer/3. Port Numbers and Multiplexing.md",
+    "Computer Networking/5. Transport Layer/2. User Datagram Protocol (UDP).md",
+    "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
+    "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
+    "260px-TCP_CLOSE.svg.png",
+    "Computer Networking/4. Network Layer/5. Virtual Private Networks (VPNs).md",
+    "Computer Networking/5. Transport Layer",
+    "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md",
     "Computer Networking/4. Network Layer/3. IPv6.md",
     "Computer Networking/4. Network Layer/2. Internet Protocol (IP).md",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Computer Networking/4. Network Layer/1. Routing.md",
     "Computer Networking/4. Network Layer/0. IP Addressing.md",
     "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md",
     "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
     "Computer Networking/4. Network Layer",
     "Computer Networking/2. Physical Layer/2. Symbol.md",
@@ -175,33 +181,20 @@
     "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching/0. Enum.md",
-    "Programming Languages/Rust/3. Structs/0. Struct.md",
-    "Programming Languages/Rust/1. Common Programming Concepts/0. Syntax.md",
-    "Programming Languages/Rust/2. Ownership/1. Borrow.md",
-    "Programming Languages/Rust/2. Ownership/0. Ownership.md",
-    "Programming Languages/Rust/0. Started/1. Cargo.md",
-    "Programming Languages/Rust/0. Started/0. Rustc.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching",
     "Programming Languages/Rust/3. Structs",
     "Programming Languages/Rust/1. Common Programming Concepts",
     "Programming Languages/Rust/2. Ownership",
     "Programming Languages/Rust/0. Started",
     "Programming Languages/Rust",
-    "Programming Languages/Assembly/2. Basic Syntax.md",
-    "Programming Languages/Assembly/0. Concepts.md",
     "Programming Languages/Assembly",
-    "Computer Operating System/8086/5. Descriptor Privilege Level.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
-    "Statistics/0. Basic",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
-    "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
-    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
