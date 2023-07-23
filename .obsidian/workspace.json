@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "474004610f8c1498",
+        "id": "b6fb75a0a1657a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "9c5e863a589c0169",
+            "id": "e82660556b4e139e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md"
+                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c5e863a589c0169",
+  "active": "e82660556b4e139e",
   "lastOpenFiles": [
-    "Artificial Intelligence/Natural Language Processing/PipeLine.md",
+    "Programming Languages/Rust/0. Started/3. Documnet.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+    "Artificial Intelligence/Natural Language Processing/PipeLine.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing",
     "Artificial Intelligence/Natural Language Processing/Components.md",
@@ -190,7 +191,6 @@
     "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
-    "Computer Networking/4. Network Layer/5. Virtual Private Networks (VPNs).md",
     "Computer Networking/5. Transport Layer",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Computer Networking/4. Network Layer",
