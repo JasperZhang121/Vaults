@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ece2f0264440f4a0",
+        "id": "046d397f5d0b1f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "7b1389cae2087381",
+            "id": "0594e213c7c3b9a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Rust/0. Started/3. Documnet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b1389cae2087381",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Programming Languages/Rust/0. Packages and Crates.md",
     "Programming Languages/Rust/0. Started/3. Documnet.md",
