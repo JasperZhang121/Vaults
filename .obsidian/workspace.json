@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/0. Started/3. Documnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/0. Started/3. Documnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Rust/0. Started/3. Documnet.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,44 +147,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "0594e213c7c3b9a2",
   "lastOpenFiles": [
-    "Programming Languages/Rust/0. Packages and Crates.md",
-    "Programming Languages/Rust/0. Started/3. Documnet.md",
+    "conflict-files-obsidian-git.md",
+    "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
+    "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
+    "Computer Networking/6. Application Layer/5. RESTful Web APIs.md",
+    "Computer Networking/6. Application Layer/4. Security Considerations in the Application Layer.md",
+    "Computer Networking/6. Application Layer/3. SMTP (Simple Mail Transfer Protocol) and Email Protocols.md",
+    "Computer Networking/6. Application Layer/2. DNS (Domain Name System).md",
+    "Computer Networking/6. Application Layer/1. HTTP (Hypertext Transfer Protocol).md",
+    "Computer Networking/6. Application Layer",
+    "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
+    "Computer Networking/5. Transport Layer/3. Port Numbers and Multiplexing.md",
+    "Computer Networking/5. Transport Layer/2. User Datagram Protocol (UDP).md",
+    "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
+    "Computer Networking/5. Transport Layer",
+    "Computer Networking/4. Network Layer/5. Virtual Private Networks (VPNs).md",
+    "Computer Networking/4. Network Layer/4. Network Address Translation (NAT).md",
+    "Computer Networking/4. Network Layer/3. IPv6.md",
+    "Computer Networking/4. Network Layer/2. Internet Protocol (IP).md",
+    "Computer Networking/4. Network Layer/1. Routing.md",
+    "Computer Networking/4. Network Layer/0. IP Addressing.md",
+    "Computer Networking/4. Network Layer",
+    "Artificial Intelligence/Natural Language Processing/PipeLine.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm",
+    "Artificial Intelligence/Natural Language Processing/Machine Translation/1. Statistical Machine Translation (SMT).md",
+    "Artificial Intelligence/Natural Language Processing/Machine Translation/0. Basics.md",
+    "Artificial Intelligence/Natural Language Processing/Machine Translation",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing",
+    "Artificial Intelligence/Natural Language Processing/Components.md",
+    "Algorithm/Complexity.md",
     "Programming Languages/Rust/5. Packages-Crates-Modules",
-    "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
-    "Programming Languages/Rust/1. Common Programming Concepts/0. Syntax.md",
-    "Programming Languages/Rust/3. Structs/0. Struct.md",
-    "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
-    "Programming Languages/Rust/4. Enum and Pattern Matching/0. Enum.md",
-    "Programming Languages/Rust/2. Ownership/1. Borrow.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching",
     "Programming Languages/Rust/3. Structs",
-    "Programming Languages/Rust/2. Ownership/0. Ownership.md",
     "Programming Languages/Rust/2. Ownership",
-    "Programming Languages/Rust/1. Common Programming Concepts",
-    "Programming Languages/Rust/0. Started",
-    "Programming Languages/Rust/0. Started/1. Cargo.md",
-    "Programming Languages/Assembly/2. Basic Syntax.md",
-    "Programming Languages/Assembly/0. Concepts.md",
-    "Computer Operating System/8086/5. Descriptor Privilege Level.md",
-    "Programming Languages/Assembly",
-    "Computer Operating System/8086/4. Protected Mode.md",
-    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
-    "Computer Operating System/Write an OS/2. Load Data From Sector to RAM.md",
-    "Computer Operating System/Write an OS/1. Components.md",
-    "Programming Languages/Rust/0. Started/0. Rustc.md",
-    "Algorithm/Algo/Sliding Window/Sliding Window.md",
-    "Programming Languages/Rust",
-    "Algorithm/Leetcode/Array/Two-pointers/1493. Longest Subarray of 1's After Deleting One Element.md",
-    "Algorithm/Leetcode/Array/Two-pointers/209. Minimum Size Subarray Sum.md",
-    "conflict-files-obsidian-git.md",
-    "Git/5. LFS.md",
-    "Git/4. Changes.md",
-    "Git/3. Branch.md",
-    "Git/2. Repo.md",
-    "Git",
-    "Commands",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
@@ -196,8 +194,6 @@
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Z-Archive/Pictures/Stats-ML/dendro.png",
-    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
-    "Z-Archive/Pictures/Stats-ML/web_mining.png",
-    "Z-Archive/Pictures/Stats-ML/triples.png"
+    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png"
   ]
 }
