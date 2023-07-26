@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6fb75a0a1657a2b",
+        "id": "8b71768af344cc81",
         "type": "tabs",
         "children": [
           {
-            "id": "e82660556b4e139e",
+            "id": "49853d1d5665827f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Rust/2. Ownership/0. Ownership.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82660556b4e139e",
+  "active": "49853d1d5665827f",
   "lastOpenFiles": [
+    "Programming Languages/Rust/2. Ownership/0. Ownership.md",
     "Programming Languages/Rust/0. Started/3. Documnet.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
     "Artificial Intelligence/Natural Language Processing/PipeLine.md",
@@ -188,7 +181,6 @@
     "Computer Networking/6. Application Layer",
     "Computer Networking/5. Transport Layer/3. Port Numbers and Multiplexing.md",
     "Computer Networking/5. Transport Layer/2. User Datagram Protocol (UDP).md",
-    "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Computer Networking/5. Transport Layer",
