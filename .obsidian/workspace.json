@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
+                "file": "Git/1. Init & Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
+                "file": "Git/1. Init & Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
+                "file": "Git/1. Init & Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md"
+                "file": "Git/1. Init & Config.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   },
   "active": "3b8735913993efa3",
   "lastOpenFiles": [
+    "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
     "Statistics/1. Probability Theory/1. Probability Distributions.md",
     "Statistics/1. Probability Theory/0. Basic Probability Rules.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/2. Max Matching.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
