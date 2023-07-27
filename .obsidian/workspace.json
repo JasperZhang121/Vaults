@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b71768af344cc81",
+        "id": "e5a45b69125b1cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "49853d1d5665827f",
+            "id": "3b8735913993efa3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md"
+              }
             }
           }
         ],
@@ -147,23 +155,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49853d1d5665827f",
+  "active": "3b8735913993efa3",
   "lastOpenFiles": [
+    "Statistics/1. Probability Theory/1. Probability Distributions.md",
+    "Statistics/1. Probability Theory/0. Basic Probability Rules.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/2. Max Matching.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+    "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
+    "Artificial Intelligence/Natural Language Processing/Machine Translation/0. Basics.md",
+    "Artificial Intelligence/Natural Language Processing/Machine Translation/1. Statistical Machine Translation (SMT).md",
+    "Artificial Intelligence/Natural Language Processing/Basics/1. Components.md",
+    "Artificial Intelligence/Natural Language Processing/Basics/1. Pipeline.md",
+    "Artificial Intelligence/Natural Language Processing/Basics/0. Components.md",
+    "Artificial Intelligence/Natural Language Processing/Basics",
+    "Algorithm/Complexity.md",
     "Programming Languages/Rust/2. Ownership/0. Ownership.md",
     "Programming Languages/Rust/0. Started/3. Documnet.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
-    "Artificial Intelligence/Natural Language Processing/PipeLine.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing",
-    "Artificial Intelligence/Natural Language Processing/Components.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/Data Mining Links.md",
-    "Algorithm/Complexity.md",
-    "Artificial Intelligence/Natural Language Processing/Machine Translation/1. Statistical Machine Translation (SMT).md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
-    "Artificial Intelligence/Natural Language Processing/Machine Translation/0. Basics.md",
     "Artificial Intelligence/Natural Language Processing/Machine Translation",
     "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/0. Intro.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
@@ -174,20 +189,13 @@
     "Computer Organization and Architecture/Main Memory/2. Random Access Memory.md",
     "Computer Networking/6. Application Layer/5. RESTful Web APIs.md",
     "Computer Networking/6. Application Layer/4. Security Considerations in the Application Layer.md",
-    "Computer Networking/6. Application Layer/3. SMTP (Simple Mail Transfer Protocol) and Email Protocols.md",
-    "Computer Networking/6. Application Layer/2. DNS (Domain Name System).md",
-    "Computer Networking/6. Application Layer/1. HTTP (Hypertext Transfer Protocol).md",
-    "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
     "Computer Networking/6. Application Layer",
-    "Computer Networking/5. Transport Layer/3. Port Numbers and Multiplexing.md",
-    "Computer Networking/5. Transport Layer/2. User Datagram Protocol (UDP).md",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Computer Networking/5. Transport Layer",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Computer Networking/4. Network Layer",
     "Programming Languages/Rust/4. Enum and Pattern Matching",
-    "Programming Languages/Rust/3. Structs",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
