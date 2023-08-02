@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "702f140129c99319",
+        "id": "a419017a258e2950",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f18d982c1776f1",
+            "id": "7431b103a5053697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md"
               }
             }
           }
@@ -155,14 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1f18d982c1776f1",
+  "active": "7431b103a5053697",
   "lastOpenFiles": [
-    "Z-Archive/RM/header.png.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
     "README.md",
+    "Z-Archive/RM/header.png.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/2. Setting Functions.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/1. Setup().md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib",
@@ -186,14 +191,9 @@
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks",
     "Human-Computer Interaction/0. Intro HCI.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
     "Human-Computer Interaction",
     "Artificial Intelligence/Natural Language Processing/Basics/1. Pipeline.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
