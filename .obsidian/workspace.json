@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "47d3940ee29b91f0",
+        "id": "702f140129c99319",
         "type": "tabs",
         "children": [
           {
-            "id": "c55d5cc29a74994e",
+            "id": "c1f18d982c1776f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -148,12 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c55d5cc29a74994e",
+  "active": "c1f18d982c1776f1",
   "lastOpenFiles": [
+    "Z-Archive/RM/header.png.md",
+    "README.md",
+    "Z-Archive/RM",
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/RM",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/2. Setting Functions.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/1. Setup().md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib",
     "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Basics/3. Word Embeddings.md",
-    "README.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
@@ -179,14 +194,7 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
-    "Git/1. Init & Config.md",
-    "Artificial Intelligence/Natural Language Processing/Basics",
-    "Artificial Intelligence/Natural Language Processing/Language Processing",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
@@ -195,7 +203,6 @@
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/dendro.png",
-    "Z-Archive/Pictures/Stats-ML/K-MEANS.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
