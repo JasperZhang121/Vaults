@@ -16,4 +16,4 @@ _If you are an Obsidian user, you can import my notes, where you will find highl
 
 ## Last Update
 
-_Readme last updated on 02/08/2023._
+_Readme last updated on 2023.08.02._
