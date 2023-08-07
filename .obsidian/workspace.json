@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human-Computer Interaction/3. User Research.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human-Computer Interaction/3. User Research.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human-Computer Interaction/3. User Research.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human-Computer Interaction/3. User Research.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md"
               }
             }
           }
@@ -156,8 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bebf8624750937e",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/2. Source of Data.md",
     "Human-Computer Interaction/3. User Research.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
     "conflict-files-obsidian-git.md",
@@ -170,9 +175,7 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md",
     "Artificial Intelligence/Data Science/Data Wrangling/3. Types and Measurements of Data.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/2. Source of Data.md",
     "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
     "README.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
@@ -185,9 +188,6 @@
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/2. Setting Functions.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/1. Setup().md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/3. Word Embeddings.md",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Artificial Intelligence/Deep Learning/5. Transformer Model",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning",
