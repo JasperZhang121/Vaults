@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "38330c93a54e28a5",
+        "id": "0926c350f1274913",
         "type": "tabs",
         "children": [
           {
-            "id": "141bca0485863d8a",
+            "id": "4bebf8624750937e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3fbeb6aef1777aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Human-Computer Interaction/3. User Research.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Human-Computer Interaction/3. User Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Human-Computer Interaction/3. User Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Human-Computer Interaction/3. User Research.md"
               }
             }
           }
@@ -168,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3fbeb6aef1777aa",
+  "active": "4bebf8624750937e",
   "lastOpenFiles": [
+    "Human-Computer Interaction/3. User Research.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
     "conflict-files-obsidian-git.md",
     "Human-Computer Interaction/2. Double Diamond.md",
@@ -199,7 +188,6 @@
     "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Basics/3. Word Embeddings.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Artificial Intelligence/Deep Learning/5. Transformer Model",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning",
