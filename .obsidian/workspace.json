@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "046d397f5d0b1f1c",
+        "id": "c045e142777401eb",
         "type": "tabs",
         "children": [
           {
-            "id": "0594e213c7c3b9a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a74892397660c383",
+            "id": "550fc6e3da6c3579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md"
               }
             }
           }
@@ -164,8 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a74892397660c383",
+  "active": "550fc6e3da6c3579",
   "lastOpenFiles": [
+    "Big Data/Hadoop/2. HDFS.md",
+    "Human-Computer Interaction/2. Double Diamond.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
     "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
@@ -200,10 +195,6 @@
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
