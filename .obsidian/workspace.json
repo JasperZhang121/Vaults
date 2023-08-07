@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3fbeb6aef1777aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -155,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141bca0485863d8a",
+  "active": "c3fbeb6aef1777aa",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
+    "conflict-files-obsidian-git.md",
+    "Human-Computer Interaction/2. Double Diamond.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
@@ -183,11 +200,7 @@
     "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Basics/3. Word Embeddings.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
-    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning/Transfer Learning.md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks",
