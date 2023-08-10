@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0926c350f1274913",
+        "id": "71e52125692e1334",
         "type": "tabs",
         "children": [
           {
-            "id": "4bebf8624750937e",
+            "id": "f80a0e337489ff04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md"
               }
             }
           }
@@ -157,8 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bebf8624750937e",
+  "active": "f80a0e337489ff04",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/13. HITS Algorithm.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
+    "Git/4. Changes.md",
+    "Git/3. Branch.md",
+    "Git/2. Repo.md",
+    "Git/1. Init & Config.md",
+    "Git/0. Concepts.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
+    "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
+    "Artificial Intelligence/Machine Learning/Data/Modify Data/4. Regular Expression (Regex).md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
@@ -174,20 +184,9 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Vector Space Model.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/3. Types and Measurements of Data.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
-    "README.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
-    "Z-Archive/RM/header.png.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/2. Setting Functions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/1. Setup().md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Artificial Intelligence/Deep Learning/5. Transformer Model",
