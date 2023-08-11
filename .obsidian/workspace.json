@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71e52125692e1334",
+        "id": "340e84ec01382bf5",
         "type": "tabs",
         "children": [
           {
-            "id": "f80a0e337489ff04",
+            "id": "568e38dbf9f33107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md"
               }
             }
           }
@@ -156,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f80a0e337489ff04",
+  "active": "568e38dbf9f33107",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/13. HITS Algorithm.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/13. HITS Algorithm.md",
     "Git/4. Changes.md",
     "Git/3. Branch.md",
     "Git/2. Repo.md",
@@ -182,7 +183,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
