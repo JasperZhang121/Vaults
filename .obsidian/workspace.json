@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md"
               }
             }
           }
@@ -158,6 +158,11 @@
   },
   "active": "568e38dbf9f33107",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/13. HITS Algorithm.md",
@@ -170,7 +175,6 @@
     "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
     "Artificial Intelligence/Machine Learning/Data/Modify Data/4. Regular Expression (Regex).md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
@@ -180,10 +184,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
     "conflict-files-obsidian-git.md",
     "Human-Computer Interaction/2. Double Diamond.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
