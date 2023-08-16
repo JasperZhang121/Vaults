@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "340e84ec01382bf5",
+        "id": "f671ca6247627fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "568e38dbf9f33107",
+            "id": "71a30261a487e860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md"
               }
             }
           }
@@ -156,34 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "568e38dbf9f33107",
+  "active": "71a30261a487e860",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
+    "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Quant/0. Guide/0. Quantitative Models for Finance.md",
+    "Git/0. Concepts.md",
+    "Git/1. Init & Config.md",
+    "Git/3. Branch.md",
+    "Git/4. Changes.md",
+    "Git/5. LFS.md",
+    "Human-Computer Interaction/3. User Research.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/13. HITS Algorithm.md",
-    "Git/4. Changes.md",
-    "Git/3. Branch.md",
     "Git/2. Repo.md",
-    "Git/1. Init & Config.md",
-    "Git/0. Concepts.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
-    "Artificial Intelligence/Machine Learning/Data/Modify Data/4. Regular Expression (Regex).md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/1. Multi-dimensional Data Cubes.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/1. Introduction/1.4 What kind of patterns can be mined.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/2. Source of Data.md",
-    "Human-Computer Interaction/3. User Research.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
-    "conflict-files-obsidian-git.md",
-    "Human-Computer Interaction/2. Double Diamond.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
@@ -195,7 +195,6 @@
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks",
     "Human-Computer Interaction",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
