@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "data quality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md"
               }
             }
           }
@@ -157,10 +159,11 @@
   },
   "active": "71a30261a487e860",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
@@ -183,7 +186,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. Web Search.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/13. HITS Algorithm.md",
-    "Git/2. Repo.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
