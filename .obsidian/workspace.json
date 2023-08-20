@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/R/Rattle/0.  Basic.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/R/Rattle/0.  Basic.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/R/Rattle/0.  Basic.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/R/Rattle/0.  Basic.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md"
               }
             }
           }
@@ -158,9 +158,10 @@
   },
   "active": "71a30261a487e860",
   "lastOpenFiles": [
+    "Programming Languages/R/Rattle/0.  Basic.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Programming Languages/R/Rattle/2. Decision Tree.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",
-    "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
     "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
@@ -184,7 +185,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Bag-of-Words (BoW) model.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
