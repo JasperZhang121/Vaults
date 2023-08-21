@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "71a30261a487e860",
   "lastOpenFiles": [
-    "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
+    "Programming Languages/R/Rattle/0.  Basic.md",
     "Programming Languages/R/Rattle/2. Decision Tree.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",
     "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
@@ -184,7 +185,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/0. Classification.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
