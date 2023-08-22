@@ -11,8 +11,12 @@
             "id": "baf29843d73505ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md"
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md"
               }
             }
           }
@@ -153,6 +157,7 @@
   },
   "active": "baf29843d73505ee",
   "lastOpenFiles": [
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Big Data/Hadoop/2. HDFS.md",
     "Human-Computer Interaction/2. Double Diamond.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
@@ -190,7 +195,6 @@
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. TF & IDF.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
