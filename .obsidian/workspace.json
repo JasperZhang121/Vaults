@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
+                "file": "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
+                "file": "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
+                "file": "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md"
+                "file": "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "71a30261a487e860",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Programming Languages/R/Rattle/2. Decision Tree.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",

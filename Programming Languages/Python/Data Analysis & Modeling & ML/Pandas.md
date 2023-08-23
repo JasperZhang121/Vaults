@@ -108,5 +108,33 @@ df.index-=1
 ```
 
 
+Missingness:
+
+```python
+missingness = df[['col1', 'col2', 'col3']].notnull().astype('int')
+pattern_counts = missingness.groupby(['col1', 'col2', 'col3']).size().reset_index(name='Counts')
+
+# Completeness for col1 
+col1_completeness = (df['col1'].notna().sum() / len(df)) * 100
+```
+
+Correlation:
+
+```python
+correlation_value = df['col1'].corr(df['col2'])
+```
+
+Cross Tabulae:
+
+```python
+pd.crosstab(df['col1'], df['col2'])
+```
+
+Date Format:
+
+```python
+df['birth_date'] = pd.to_datetime(df['birth_date'], format='%d/%m/%Y')
+df['birth_year'] = df['birth_date'].dt.year # extract
+```
 
 
