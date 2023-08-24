@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8b6da22669291a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "&n",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md"
               }
             }
           }
@@ -168,8 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b6da22669291a7",
+  "active": "71a30261a487e860",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
@@ -192,10 +183,6 @@
     "Quant/0. Guide/0. Quantitative Models for Finance.md",
     "Git/0. Concepts.md",
     "Git/1. Init & Config.md",
-    "Git/3. Branch.md",
-    "Git/4. Changes.md",
-    "Git/5. LFS.md",
-    "Human-Computer Interaction/3. User Research.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
