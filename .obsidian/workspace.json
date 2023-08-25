@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&n",
+                "query": "K-means",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
               }
             }
           }
@@ -157,13 +157,19 @@
   },
   "active": "71a30261a487e860",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/1. Basics.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Word2Vec.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
     "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
     "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
@@ -177,12 +183,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/3.2 Cost Function - Logistic Regression.md",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/3.1 Cost function - Least Square.md",
-    "Artificial Intelligence/Deep Learning/0. Basics.md",
-    "Quant/0. Guide/0. Quantitative Models for Finance.md",
-    "Git/0. Concepts.md",
-    "Git/1. Init & Config.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
