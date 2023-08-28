@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f671ca6247627fcc",
+        "id": "c031ab905703b07a",
         "type": "tabs",
         "children": [
           {
-            "id": "71a30261a487e860",
+            "id": "2db860ddd564a7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md"
+                "file": "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md"
               }
             }
           }
@@ -156,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71a30261a487e860",
+  "active": "2db860ddd564a7ee",
   "lastOpenFiles": [
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
@@ -173,7 +174,6 @@
     "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Programming Languages/R/Rattle/2. Decision Tree.md",
     "Programming Languages/R/Rattle/1. Association Mining.md",
@@ -183,7 +183,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. Ranked Retrieval.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
-    "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
