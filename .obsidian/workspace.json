@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md"
               }
             }
           }
@@ -157,6 +158,7 @@
   },
   "active": "71a30261a487e860",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
@@ -182,7 +184,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
     "Artificial Intelligence/Machine Learning/Math/2. Gradient descent.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
