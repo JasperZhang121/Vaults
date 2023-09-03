@@ -11,15 +11,24 @@
             "id": "4a4b565c9853ca60",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1dddac3f1eccb7fe",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands/Terminal/Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/Terminal/Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/Terminal/Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands/Terminal/Commands.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,54 +156,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a4b565c9853ca60",
+  "active": "1dddac3f1eccb7fe",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Commands/Terminal/Commands.md",
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/RM",
+    "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
+    "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
+    "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching/0. Enum.md",
+    "Programming Languages/Rust/3. Structs/0. Struct.md",
+    "Programming Languages/Rust/2. Ownership/1. Borrow.md",
+    "Programming Languages/Rust/2. Ownership/0. Ownership.md",
+    "Programming Languages/Rust/1. Common Programming Concepts/0. Syntax.md",
+    "Programming Languages/Rust/0. Started/3. Documnet.md",
+    "Programming Languages/Rust/0. Started/1. Cargo.md",
+    "Programming Languages/Rust/0. Started/0. Rustc.md",
+    "Programming Languages/Rust/4. Enum and Pattern Matching",
+    "Programming Languages/Rust/3. Structs",
+    "Programming Languages/Rust/2. Ownership",
+    "Programming Languages/Rust/1. Common Programming Concepts",
+    "Programming Languages/Rust/0. Started",
+    "Programming Languages/Rust/0. Packages and Crates.md",
+    "Programming Languages/Rust",
+    "Programming Languages/Python/Pytorch/1. Quick Look.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/2. Setting Functions.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/1. Setup().md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib",
+    "Programming Languages/Assembly/2. Basic Syntax.md",
+    "Programming Languages/Assembly/0. Concepts.md",
+    "Programming Languages/Assembly",
+    "Human-Computer Interaction/3. User Research.md",
+    "Human-Computer Interaction/2. Double Diamond.md",
+    "Human-Computer Interaction/1. HCI & HCD.md",
+    "Human-Computer Interaction/0. Intro HCI.md",
+    "Human-Computer Interaction",
+    "Git/5. LFS.md",
+    "Git/4. Changes.md",
+    "Git/3. Branch.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
-    "Statistics/0. Basic/4. Data Analysis and Visualization.md",
-    "Statistics/0. Basic/3. Data Analysis and Visualization.md",
-    "Statistics/0. Basic/2. Data Collection Methods.md",
-    "Statistics/0. Basic/1. Types of Data.md",
-    "Statistics/0. Basic/0. Overview.md",
-    "Statistics/0. Basic",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/3. Detailed Notes for BOM.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/2. Document Object Model.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API/1. Intro.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/Web API",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/8. Function.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/7. Conditions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/6. Data Types.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. const.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/5. Array.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/4. Variable.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/3. Input & Output.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/2. Comments.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA/1. Positions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/ECMA",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS",
-    "Databases/MySQL/0. Precedence.md",
-    "Cyber Security/8. Command Injection.md",
-    "Cyber Security/7. Damn Vulnerable Web Application.md",
-    "Cyber Security/6. msfvenom.md",
-    "Cyber Security",
-    "Computer Organization and Architecture/Main Memory",
-    "Computer Organization and Architecture/CPU",
-    "Computer Organization and Architecture/A High-Level Discription",
-    "Computer Operating System/8086",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
-    "Z-Archive/Pictures/Stats-ML/dendro.png",
-    "Z-Archive/Pictures/Stats-ML/ac-3 constraint.png",
-    "Databases/Redis/SpringDataRedis",
-    "Z-Archive/Pictures/Stats-ML/web_mining.png",
-    "Z-Archive/Pictures/Stats-ML/triples.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -1,0 +1,8 @@
+
+1. P (Polynomial Time): P stands for "Polynomial Time" and refers to the set of decision problems that can be solved by a deterministic Turing machine in polynomial time. In simpler terms, these are problems for which an algorithm exists that can find a solution in a time that is a polynomial function of the problem size. For example, if a problem has a solution and can be solved in O(n^2) or O(n^3) time, where 'n' is the size of the input, then it belongs to P.
+    
+2. NP (Nondeterministic Polynomial Time): NP stands for "Nondeterministic Polynomial Time" and refers to the set of decision problems for which a <mark style="background: #D2B3FFA6;">proposed solution can be verified in polynomial time by a deterministic Turing machine</mark>. In other words, if a solution is given, it can be checked for correctness in polynomial time. However, NP does not necessarily imply that a polynomial-time algorithm exists to find the solution.
+    
+3. NP-hard (Nondeterministic Polynomial Hard): A problem is said to be NP-hard if every problem in NP can be reduced to it in polynomial time. In simpler terms, if there is a polynomial-time algorithm to solve an NP-hard problem, then it implies P = NP. In other words, NP-hard problems are at least as hard as the hardest problems in NP but may not be in NP themselves.
+    
+4. NP-complete (Nondeterministic Polynomial Complete): A problem is said to be NP-complete if it is both in NP and NP-hard. This means that an NP-complete problem is at least as hard as any problem in NP and can be used to test the difficulty of all other problems in NP. If a polynomial-time algorithm exists for any NP-complete problem, then it can be used to solve all problems in NP in polynomial time, which implies P = NP.
