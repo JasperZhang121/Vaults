@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "827d3b633e1b26c9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "827d3b633e1b26c9",
+  "active": "e826f3ecfb29c6df",
   "lastOpenFiles": [
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
