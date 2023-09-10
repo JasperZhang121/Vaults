@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bayes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md"
               }
             }
           }
@@ -157,6 +158,10 @@
   },
   "active": "49d4486eb9151f64",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
     "Programming Languages/Python/Data Analysis & Modeling & ML/Numpy.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
@@ -173,7 +178,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/1. Basics.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Word2Vec.md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
@@ -181,9 +185,6 @@
     "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
-    "Programming Languages/R/Rattle/0.  Basic.md",
-    "Programming Languages/R/Rattle/2. Decision Tree.md",
-    "Programming Languages/R/Rattle/1. Association Mining.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
