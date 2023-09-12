@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precision",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md"
               }
             }
           }
@@ -158,6 +157,8 @@
   },
   "active": "c22f84c4ce377d20",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
@@ -180,11 +181,9 @@
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
     "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/7. Clustering.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/7. Outlier Detection/5. Clustering Based Approaches.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/2. Partitioning method.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/6. Cluster Analysis/1. Basics.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
