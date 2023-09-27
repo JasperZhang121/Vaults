@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md"
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "d79f398c2a103315",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
+    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
@@ -188,7 +189,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
     "Programming Languages/Python/Data Analysis & Modeling & ML/Numpy.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Natural Language Processing/Techniques",
     "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
