@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b9f64ca0c89b8946",
+        "id": "ca6c27bf55e9c5f5",
         "type": "tabs",
         "children": [
           {
-            "id": "d79f398c2a103315",
+            "id": "20721459173a5f7e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Quant/A practical Guide to quantitative finance interviews.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/A practical Guide to quantitative finance interviews.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/A practical Guide to quantitative finance interviews.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quant/A practical Guide to quantitative finance interviews.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d79f398c2a103315",
+  "active": "20721459173a5f7e",
   "lastOpenFiles": [
-    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
+    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
@@ -191,7 +186,6 @@
     "Artificial Intelligence/Natural Language Processing/Techniques",
     "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
-    "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
