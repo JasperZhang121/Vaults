@@ -11,11 +11,9 @@
             "id": "d79f398c2a103315",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
-                "mode": "source",
-                "source": false
+                "file": "Quant/A practical Guide to quantitative finance interviews.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
+                "file": "Quant/A practical Guide to quantitative finance interviews.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
+                "file": "Quant/A practical Guide to quantitative finance interviews.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md"
+                "file": "Quant/A practical Guide to quantitative finance interviews.pdf"
               }
             }
           },
@@ -167,12 +165,13 @@
   },
   "active": "d79f398c2a103315",
   "lastOpenFiles": [
+    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
+    "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
@@ -193,7 +192,6 @@
     "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
@@ -204,7 +202,6 @@
     "Artificial Intelligence/Deep Learning/4. Transfer Learning",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks",
-    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
