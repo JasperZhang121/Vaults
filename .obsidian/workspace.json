@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c01becdcb9e373f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md"
               }
             }
           }
@@ -168,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c01becdcb9e373f",
+  "active": "baf29843d73505ee",
   "lastOpenFiles": [
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Human-Computer Interaction/3. User Research.md",
     "Artificial Intelligence/Machine Learning/Data/Modify Data/4. Regular Expression (Regex).md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
