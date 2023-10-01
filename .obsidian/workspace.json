@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "868cff243487ed48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -155,10 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf29843d73505ee",
+  "active": "868cff243487ed48",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+    "conflict-files-obsidian-git.md",
+    "Quant/A practical Guide to quantitative finance interviews.pdf",
+    "Programming Languages/Python/Pytorch/1. Quick Look.md",
+    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
+    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
+    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
+    "Artificial Intelligence/Natural Language Processing/Techniques",
+    "Artificial Intelligence/Machine Learning/Stats/Formula/7. Cosine Distance.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
+    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Word2Vec.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Human-Computer Interaction/3. User Research.md",
     "Artificial Intelligence/Machine Learning/Data/Modify Data/4. Regular Expression (Regex).md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/14. Review.md",
@@ -172,29 +198,15 @@
     "Human-Computer Interaction/2. Double Diamond.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Evaluation.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
     "Artificial Intelligence/Data Science/Data Wrangling",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/RM",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/2. Setting Functions.md",
-    "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/1. Setup().md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib",
-    "Human-Computer Interaction/1. HCI & HCD.md",
-    "Human-Computer Interaction/0. Intro HCI.md",
     "Human-Computer Interaction",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3. Incorporate Semantic.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/2. Max Matching.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/1. Pipeline.md",
     "Artificial Intelligence/Natural Language Processing/Basics",
     "Artificial Intelligence/Deep Learning/5. Transformer Model",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning",
-    "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks",
-    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",

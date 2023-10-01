@@ -145,9 +145,9 @@ tips: press CTRL and /
 
 12.Special Characters
 ```HTML
-&nbsp
-&lt
-&gt
+&nbsp;
+&lt;
+&gt;
 ```
 
 13.Table
