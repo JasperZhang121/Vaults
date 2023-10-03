@@ -11,8 +11,12 @@
             "id": "20721459173a5f7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/0. Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/0. Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/0. Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/0. Basics.md"
+              }
             }
           },
           {
@@ -159,6 +167,8 @@
   },
   "active": "20721459173a5f7e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
@@ -172,7 +182,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Artificial Intelligence/Machine Learning/Stats/Formula/7. Cosine Distance.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
