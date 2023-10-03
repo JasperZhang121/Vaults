@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/0. Basics.md",
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/0. Basics.md",
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/0. Basics.md",
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/0. Basics.md"
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md"
               }
             }
           },
@@ -167,14 +167,15 @@
   },
   "active": "20721459173a5f7e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
@@ -194,7 +195,6 @@
     "Programming Languages/Python/Data Analysis & Modeling & ML/Numpy.md",
     "Artificial Intelligence/Natural Language Processing/Techniques",
     "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
-    "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
