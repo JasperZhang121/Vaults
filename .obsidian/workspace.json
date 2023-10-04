@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "preprocessing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md"
+                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md"
               }
             }
           },
@@ -167,10 +168,10 @@
   },
   "active": "20721459173a5f7e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
