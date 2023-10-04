@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7b88ba5a323887e6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b88ba5a323887e6",
+  "active": "eb86a018095842d7",
   "lastOpenFiles": [
     "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Long Short-Term Memory.md",
