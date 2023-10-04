@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85348da33bf05fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -166,8 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20721459173a5f7e",
+  "active": "85348da33bf05fb5",
   "lastOpenFiles": [
+    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
+    "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/2. Decorder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer Model/1. Encoder.md",
@@ -177,7 +195,6 @@
     "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
@@ -191,11 +208,7 @@
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/2. Informaiton Retrieval Techniques.md",
-    "Programming Languages/Python/Data Analysis & Modeling & ML/Numpy.md",
     "Artificial Intelligence/Natural Language Processing/Techniques",
-    "Artificial Intelligence/Natural Language Processing/Basics/2. Tasks.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
     "Z-Archive/Pictures/RM/header.png",
