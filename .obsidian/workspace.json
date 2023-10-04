@@ -11,8 +11,12 @@
             "id": "eb86a018095842d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md"
+              }
             }
           },
           {
@@ -159,6 +167,9 @@
   },
   "active": "eb86a018095842d7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Long Short-Term Memory.md",
     "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
@@ -185,9 +196,6 @@
     "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
     "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
     "Artificial Intelligence/Data Science/Data Wrangling/3. Types and Measurements of Data.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/2. Source of Data.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Human-Computer Interaction/2. Double Diamond.md",
     "Artificial Intelligence/Data Science/Data Wrangling",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
