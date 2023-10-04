@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c671269be992d228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,16 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb86a018095842d7",
+  "active": "c671269be992d228",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+    "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Long Short-Term Memory.md",
     "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
-    "conflict-files-obsidian-git.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Html-CSS-JavaScript/JavaScript/P5 Lib/3. Mouse Interactions.md",
