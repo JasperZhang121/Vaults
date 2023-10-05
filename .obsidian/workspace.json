@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85348da33bf05fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "preprocessing",
+                "query": "missing values",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md"
               }
             }
           },
@@ -179,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85348da33bf05fb5",
+  "active": "20721459173a5f7e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/1. Data Preprocessing.md",
+    "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
@@ -206,8 +195,6 @@
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/5. Bayes Classifiers.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/9. Web Mining/6. Text & Web Mining.md",
     "Artificial Intelligence/Natural Language Processing/Techniques",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
