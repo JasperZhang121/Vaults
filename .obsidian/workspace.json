@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca6c27bf55e9c5f5",
+        "id": "d879fcbebc46d83e",
         "type": "tabs",
         "children": [
           {
-            "id": "20721459173a5f7e",
+            "id": "956be7597c58523d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "missing values",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +69,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20721459173a5f7e",
+  "active": "956be7597c58523d",
   "lastOpenFiles": [
+    "Algorithm/Kaggle/Binary Prediction Templete.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
+    "Algorithm/Kaggle",
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/1. Data Preprocessing.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
@@ -193,8 +188,6 @@
     "Artificial Intelligence/Machine Learning/Stats/Formula/7. Cosine Distance.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Natural Language Processing/Techniques",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP",
     "Z-Archive/RM",
@@ -205,7 +198,6 @@
     "Artificial Intelligence/Deep Learning/5. Transformer Model",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning",
     "Artificial Intelligence/Deep Learning/3. Generative Adversarial Networks",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
