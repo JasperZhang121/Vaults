@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e636a7fe4295783b",
+        "id": "cb364be3844e09a3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a4b565c9853ca60",
+            "id": "2c5699ffa99169b7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "11023f1cf0fcb5c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11023f1cf0fcb5c8",
+  "active": "2c5699ffa99169b7",
   "lastOpenFiles": [
+    "Quant/0. Guide/0. Quantitative Models for Finance.md",
     "conflict-files-obsidian-git.md",
     "Commands/Terminal/Commands.md",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
@@ -209,7 +199,6 @@
     "Human-Computer Interaction",
     "Git/5. LFS.md",
     "Git/4. Changes.md",
-    "Git/3. Branch.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
