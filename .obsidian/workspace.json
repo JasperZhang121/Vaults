@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "11023f1cf0fcb5c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,6 +69,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7095d05959c0a371",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -120,6 +139,16 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "6461de1442b14953",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -139,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a4b565c9853ca60",
+  "active": "11023f1cf0fcb5c8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Commands/Terminal/Commands.md",
