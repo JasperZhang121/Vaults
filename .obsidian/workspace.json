@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc591f2e9d7a40f",
+        "id": "d9b3c1ddbd525581",
         "type": "tabs",
         "children": [
           {
-            "id": "39cf332cd4a0b1be",
+            "id": "ec3c9543d6657935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/1. Probability Theory/Questions sheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/1. Probability Theory/Questions sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/1. Probability Theory/Questions sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statistics/1. Probability Theory/Questions sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +157,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39cf332cd4a0b1be",
+  "active": "ec3c9543d6657935",
   "lastOpenFiles": [
     "README.md",
+    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
+    "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
+    "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
+    "Quant/FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
+    "Quant/FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
+    "Quant/FIN & Econ Theory/Capital Market/3. Securities.md",
+    "Quant/FIN & Econ Theory/Capital Market/2. Main Components.md",
+    "Quant/FIN & Econ Theory/Capital Market/1. Overview.md",
+    "Quant/FIN & Econ Theory/Capital Market",
+    "Quant/Models",
+    "Quant/Models/0. Guide/0. Quantitative Models for Finance.md",
     "Statistics/1. Probability Theory/Questions sheet.md",
+    "Quant/FIN & Econ Theory",
     "Big Data/Spark/2. Spark SQL.md",
     "Big Data/Spark/1. Spark.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
@@ -184,7 +188,6 @@
     "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Algorithm/Kaggle/Binary Prediction Templete.md",
     "Algorithm/Kaggle",
-    "Quant/0. Guide/0. Quantitative Models for Finance.md",
     "Commands/Terminal/Commands.md",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
@@ -193,20 +196,9 @@
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
-    "Programming Languages/Rust/4. Enum and Pattern Matching/0. Enum.md",
-    "Programming Languages/Rust/3. Structs/0. Struct.md",
-    "Programming Languages/Rust/2. Ownership/1. Borrow.md",
-    "Programming Languages/Rust/2. Ownership/0. Ownership.md",
-    "Programming Languages/Rust/1. Common Programming Concepts/0. Syntax.md",
-    "Programming Languages/Rust/0. Started/3. Documnet.md",
-    "Programming Languages/Rust/0. Started/1. Cargo.md",
-    "Programming Languages/Rust/0. Started/0. Rustc.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching",
     "Programming Languages/Rust/3. Structs",
     "Programming Languages/Rust/2. Ownership",
-    "Programming Languages/Rust/1. Common Programming Concepts",
-    "Programming Languages/Rust/0. Started",
-    "Programming Languages/Rust",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
