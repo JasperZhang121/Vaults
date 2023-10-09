@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Statistics/1. Probability Theory/Questions sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Statistics/1. Probability Theory/Questions sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Statistics/1. Probability Theory/Questions sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Statistics/1. Probability Theory/Questions sheet.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "39cf332cd4a0b1be",
   "lastOpenFiles": [
+    "README.md",
+    "Statistics/1. Probability Theory/Questions sheet.md",
     "Big Data/Spark/2. Spark SQL.md",
     "Big Data/Spark/1. Spark.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
@@ -204,9 +206,7 @@
     "Programming Languages/Rust/2. Ownership",
     "Programming Languages/Rust/1. Common Programming Concepts",
     "Programming Languages/Rust/0. Started",
-    "Programming Languages/Rust/0. Packages and Crates.md",
     "Programming Languages/Rust",
-    "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
