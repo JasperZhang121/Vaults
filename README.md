@@ -1,19 +1,23 @@
 ![header](Z-Archive/Pictures/RM/header.png)
+
 # Computer Science Vaults
 
-_Compiled notes covering all aspects of computer science that I am familiar with. These notes are being backed up automatically using Obsidian with git configuration, a note-taking software application._
+Welcome to my compiled notes on various aspects of computer science. My expertise spans a range of topics and you'll find them detailed here. These notes are diligently backed up using Obsidian in conjunction with git configuration – a testament to the power and versatility of the Obsidian note-taking application.
 
-_If you are an Obsidian user, you can import my notes, where you will find highlighted sentences, and view all referenced images or jump to other links within notes more easily. Hope this can be beneficial to your learning journey._
+**For Obsidian Users:** 
+If you're already acquainted with Obsidian, importing my notes should be a breeze. They come enriched with highlighted passages and ensure easy navigation to referenced images and interlinked content. I'd also recommend downloading the mindmap plugins to further elevate your studying experience. Here's hoping these resources enrich your learning journey!
 
 ## Status Update
 
-~~_I am currently rearranging files, which may result in a disorganized display of the repository._~~
+- _**Ongoing Process**:_ ~~I am in the midst of rearranging files, which could temporarily disrupt the repository's organization.~~
+- _**Focus Areas**:_ Recently, my attention has been primarily directed towards NLP, LLM, Deep Learning, and Big Data.
+- _**Coming Soon**:_ Leveraging my dual background in Finance and Computer Science, coupled with my insights into Capital Markets and AI, I'm looking to expand on the Quant and Fintech realms.
 
-## Issues
+## Known Issues
 
-- _Some Images shown/referenced in the notes by Obsidian may not appear in the GitHub repository due to differences in the reference style used in Obsidian and markdown._
-- ~~_As a result of a reorganization, the references to this repository in other repositories have been disrupted. However, I plan to rectify this issue by the end of April 2023._~~
+- **Image Display:** Some images, as presented or referenced by Obsidian, might not be visible in the GitHub repository. This discrepancy arises due to the difference in reference styles between Obsidian and standard markdown.
+- **Reference Disruption:** ~~Due to recent reorganization efforts, some references from this repository to others might be broken. Rest assured, I'm on track to resolve this by April 2023.~~
 
 ## Last Update
 
-_Readme last updated on 2023.08.02._
+_Readme last updated on 2023.10.09._
