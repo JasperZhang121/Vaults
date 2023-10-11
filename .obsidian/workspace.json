@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9b3c1ddbd525581",
+        "id": "ba971a86e6349f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3c9543d6657935",
+            "id": "25c593d58ddd7133",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec3c9543d6657935",
+  "active": "25c593d58ddd7133",
   "lastOpenFiles": [
+    "Programming Languages/C/Basic/Syntax.md",
+    "Cloud Computing/Distributed Computing/1. Basic.md",
     "README.md",
     "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
     "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
@@ -194,8 +196,6 @@
     "Z-Archive/Pictures/RM",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
-    "Programming Languages/Rust/4. Enum and Pattern Matching/2. Match.md",
-    "Programming Languages/Rust/4. Enum and Pattern Matching/1. Option.md",
     "Programming Languages/Rust/4. Enum and Pattern Matching",
     "Programming Languages/Rust/3. Structs",
     "Programming Languages/Rust/2. Ownership",
