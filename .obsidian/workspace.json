@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d879fcbebc46d83e",
+        "id": "cda11292bb9ce4d5",
         "type": "tabs",
         "children": [
           {
-            "id": "956be7597c58523d",
+            "id": "42d00dea0e43c45e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md"
+              }
             }
           },
           {
@@ -158,8 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "956be7597c58523d",
+  "active": "42d00dea0e43c45e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+    "Statistics/1. Probability Theory/Questions sheet.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
     "Quant/Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
     "Quant/Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
@@ -192,10 +204,6 @@
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/1. Data Preprocessing.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
