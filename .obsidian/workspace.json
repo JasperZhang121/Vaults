@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba971a86e6349f7e",
+        "id": "d879fcbebc46d83e",
         "type": "tabs",
         "children": [
           {
-            "id": "25c593d58ddd7133",
+            "id": "956be7597c58523d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "7095d05959c0a371",
+            "id": "21ba460aa745ff57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -130,7 +131,7 @@
             }
           },
           {
-            "id": "6461de1442b14953",
+            "id": "dea00adaa0bd7b1a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -157,54 +158,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25c593d58ddd7133",
+  "active": "956be7597c58523d",
   "lastOpenFiles": [
-    "Programming Languages/C/Basic/Syntax.md",
-    "Cloud Computing/Distributed Computing/1. Basic.md",
-    "README.md",
+    "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
+    "Quant/Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
+    "Quant/Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
+    "Quant/Models/2. Stochastic Calculus/Black Scholes/0. Definition.md",
+    "Quant/Models/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
+    "Quant/Models/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+    "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
+    "Quant/Models/2. Stochastic Calculus/Black Scholes",
+    "Quant/Models/1. Time Series Analysis/ARIMA",
+    "Quant/Models/0. Guide/1. Brownian motion.md",
+    "Quant/Models/0. Guide/0. Quantitative Models for Finance.md",
+    "Quant/Models/2. Stochastic Calculus",
+    "Quant/Models/1. Time Series Analysis",
+    "Quant/Models/0. Guide",
+    "Quant/Models",
     "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
     "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
     "Quant/FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
+    "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
     "Quant/FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
     "Quant/FIN & Econ Theory/Capital Market/3. Securities.md",
     "Quant/FIN & Econ Theory/Capital Market/2. Main Components.md",
     "Quant/FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/FIN & Econ Theory/Capital Market",
-    "Quant/Models",
-    "Quant/Models/0. Guide/0. Quantitative Models for Finance.md",
-    "Statistics/1. Probability Theory/Questions sheet.md",
     "Quant/FIN & Econ Theory",
     "Big Data/Spark/2. Spark SQL.md",
-    "Big Data/Spark/1. Spark.md",
-    "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
+    "Algorithm/Kaggle/Binary Prediction Templete.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
+    "Algorithm/Kaggle",
+    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/1. Data Preprocessing.md",
+    "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/7. Cosine Distance.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
+    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
-    "Algorithm/Kaggle/Binary Prediction Templete.md",
-    "Algorithm/Kaggle",
-    "Commands/Terminal/Commands.md",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/RM",
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
+    "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
-    "Programming Languages/Rust/4. Enum and Pattern Matching",
-    "Programming Languages/Rust/3. Structs",
-    "Programming Languages/Rust/2. Ownership",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
-    "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
-    "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
-    "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
     "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
+    "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
+    "Z-Archive/Pictures/Stats-ML/dendro.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
