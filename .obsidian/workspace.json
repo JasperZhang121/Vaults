@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "42d00dea0e43c45e",
   "lastOpenFiles": [
     "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Statistics/1. Probability Theory/Questions sheet.md",
     "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
@@ -203,7 +204,6 @@
     "Algorithm/Kaggle",
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/1. Data Preprocessing.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
