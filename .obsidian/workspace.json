@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "confusion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "42d00dea0e43c45e",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Statistics/1. Probability Theory/Questions sheet.md",
     "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
@@ -203,7 +204,6 @@
     "Artificial Intelligence/Data Science/Data Wrangling/1. Data Wrangling Process.md",
     "Algorithm/Kaggle",
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/1. Data Preprocessing.md",
-    "Programming Languages/R/Rattle/0.  Basic.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
