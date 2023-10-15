@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba971a86e6349f7e",
+        "id": "7905b38a437943a2",
         "type": "tabs",
         "children": [
           {
-            "id": "25c593d58ddd7133",
+            "id": "b514486fa575f4cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/Question Sheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Networking/Question Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Networking/Question Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Networking/Question Sheet.md"
+              }
             }
           },
           {
@@ -157,8 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25c593d58ddd7133",
+  "active": "b514486fa575f4cf",
   "lastOpenFiles": [
+    "Computer Networking/1. Overview/6. TCP IP.md",
+    "Computer Networking/Question Sheet.md",
+    "Computer Networking/1. Overview/5. OSI.md",
+    "Computer Networking/1. Overview/4. Layered Architecture.md",
+    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
+    "Computer Networking/1. Overview/2. Data Rate.md",
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Statistics/1. Probability Theory/Questions sheet.md",
+    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
     "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
@@ -176,20 +193,11 @@
     "Quant/FIN & Econ Theory/Capital Market",
     "Quant/Models",
     "Quant/Models/0. Guide/0. Quantitative Models for Finance.md",
-    "Statistics/1. Probability Theory/Questions sheet.md",
     "Quant/FIN & Econ Theory",
     "Big Data/Spark/2. Spark SQL.md",
     "Big Data/Spark/1. Spark.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Artificial Intelligence/Natural Language Processing/Techniques",
-    "Artificial Intelligence/Machine Learning/Stats/Formula/7. Cosine Distance.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/3. BERT.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer Model/0. Self-Attention.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Algorithm/Kaggle",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
