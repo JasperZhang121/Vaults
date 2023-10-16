@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "5006544fa61411b2",
         "type": "tabs",
         "children": [
           {
             "id": "eb86a018095842d7",
-=======
-        "id": "7905b38a437943a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b514486fa575f4cf",
->>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-=======
-                "file": "Computer Networking/Question Sheet.md",
->>>>>>> origin/main
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8fe62313edfe2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,11 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-=======
-                "file": "Computer Networking/Question Sheet.md",
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-=======
-                "file": "Computer Networking/Question Sheet.md",
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,11 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md"
-=======
-                "file": "Computer Networking/Question Sheet.md"
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -189,11 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "eb86a018095842d7",
+  "active": "db8fe62313edfe2c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
     "conflict-files-obsidian-git.md",
+    "Computer Networking/Question Sheet.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
     "Quant/Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
     "Quant/Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
@@ -210,29 +203,7 @@
     "Quant/Models/0. Guide",
     "Quant/Models",
     "Statistics/1. Probability Theory/Questions sheet.md",
-=======
-  "active": "b514486fa575f4cf",
-  "lastOpenFiles": [
-    "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/Question Sheet.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Networking/1. Overview/4. Layered Architecture.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Computer Networking/1. Overview/2. Data Rate.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Statistics/1. Probability Theory/Questions sheet.md",
-    "Artificial Intelligence/Symbolic AI/1. Search/1. Exercises/0. Exercises 1.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
-    "Programming Languages/C/Basic/Syntax.md",
-    "Cloud Computing/Distributed Computing/1. Basic.md",
-    "README.md",
-    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
->>>>>>> origin/main
     "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
     "Quant/FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
     "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
     "Quant/FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
@@ -240,36 +211,15 @@
     "Quant/FIN & Econ Theory/Capital Market/3. Securities.md",
     "Quant/FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/FIN & Econ Theory/Capital Market",
-<<<<<<< HEAD
     "Quant/FIN & Econ Theory",
     "Big Data/Spark/2. Spark SQL.md",
     "Algorithm/Kaggle/Binary Prediction Templete.md",
     "Algorithm/Kaggle",
     "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
-    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Long Short-Term Memory.md",
-    "Quant/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
-=======
-    "Quant/Models",
-    "Quant/Models/0. Guide/0. Quantitative Models for Finance.md",
-    "Quant/FIN & Econ Theory",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Big Data/Spark/1. Spark.md",
-    "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "Artificial Intelligence/Natural Language Processing/Techniques",
-    "Algorithm/Kaggle",
->>>>>>> origin/main
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
-<<<<<<< HEAD
-=======
-    "Programming Languages/Rust/4. Enum and Pattern Matching",
-    "Programming Languages/Rust/3. Structs",
-    "Programming Languages/Rust/2. Ownership",
->>>>>>> origin/main
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
