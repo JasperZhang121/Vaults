@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a94801cc60d1cd09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b514486fa575f4cf",
+  "active": "a94801cc60d1cd09",
   "lastOpenFiles": [
     "Computer Networking/1. Overview/6. TCP IP.md",
     "Computer Networking/Question Sheet.md",
