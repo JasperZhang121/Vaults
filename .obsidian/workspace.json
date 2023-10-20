@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83991957c698dfa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,13 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5a48bafc424ad3",
+  "active": "83991957c698dfa8",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Statistics/1. Probability Theory/Questions sheet.md",
     "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
@@ -203,7 +217,6 @@
     "Quant/FIN & Econ Theory/Capital Market",
     "Quant/FIN & Econ Theory",
     "Big Data/Spark/2. Spark SQL.md",
-    "Algorithm/Kaggle/Binary Prediction Templete.md",
     "Algorithm/Kaggle",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
