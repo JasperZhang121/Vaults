@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83991957c698dfa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reduction ratio",
+                "query": "Dice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md"
               }
             }
           },
@@ -180,9 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83991957c698dfa8",
+  "active": "af5a48bafc424ad3",
   "lastOpenFiles": [
     "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
+    "Computer Networking/Question Sheet.md",
+    "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Semantic.md",
+    "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
+    "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
+    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/1. Encoder.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/2. Decorder.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1. Transformer.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
@@ -206,18 +204,7 @@
     "Quant/Models/1. Time Series Analysis",
     "Quant/Models/0. Guide",
     "Quant/Models",
-    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Quant/FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
-    "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
-    "Quant/FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
-    "Quant/FIN & Econ Theory/Capital Market/3. Securities.md",
-    "Quant/FIN & Econ Theory/Capital Market/2. Main Components.md",
-    "Quant/FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/FIN & Econ Theory/Capital Market",
-    "Quant/FIN & Econ Theory",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Algorithm/Kaggle",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
