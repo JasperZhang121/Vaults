@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7905b38a437943a2",
+        "id": "7436abcef3273f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "b514486fa575f4cf",
+            "id": "08e92da77de46251",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a94801cc60d1cd09",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a94801cc60d1cd09",
+  "active": "08e92da77de46251",
   "lastOpenFiles": [
-    "Computer Networking/1. Overview/6. TCP IP.md",
+    "Programming Languages/Python/Pytorch/2. Neural Network.md",
+    "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Computer Networking/Question Sheet.md",
+    "Computer Networking/1. Overview/6. TCP IP.md",
     "Computer Networking/1. Overview/5. OSI.md",
     "Computer Networking/1. Overview/4. Layered Architecture.md",
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
@@ -205,8 +196,6 @@
     "Quant/Models",
     "Quant/Models/0. Guide/0. Quantitative Models for Finance.md",
     "Quant/FIN & Econ Theory",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Big Data/Spark/1. Spark.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Artificial Intelligence/Natural Language Processing/Techniques",
     "Algorithm/Kaggle",

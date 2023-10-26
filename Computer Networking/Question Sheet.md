@@ -161,3 +161,61 @@ So, the sequence of track access determined using SCAN scheduling is: 105 (start
 > D. Being preempted by a higher priority process
 
 -> Requesting memory is the process of preparing the running space for a process. Starting I/O might also be preparing storage space for the process, for instance, a hard drive is a typical I/O device. Executing the P operation is a basic judgment for process resource access. All these operations are part of the process creation and resource allocation process and do not represent characteristics of transitioning from the running state back to the ready state.
+
+
+> The classic OSI model defines a seven-layer network protocol. Among the following protocols, which one belongs to the network layer? ( ) 
+> A. IP 
+> B. TCP 
+> C. UDP 
+> D. HTTP
+
+-> A
+
+Physical Layer: EIA/TIA-232, EIA/TIA-499, V.35, V.24, RJ45, Ethernet, 802.3, 802.5, FDDI, NRZI, NRZ, B8ZS
+
+Data Link Layer: Frame Relay, HDLC, PPP, IEEE 802.3/802.2, FDDI, ATM, IEEE 802.5/802.2
+
+Network Layer: IP, IPX, AppleTalk DDP
+
+Transport Layer: TCP, UDP, SPX
+
+Session Layer: RPC, SQL, NFS, NetBIOS, names, AppleTalk ASP, DECnet, SCP
+
+Presentation Layer: TIFF, GIF, JPEG, PICT, ASCII, EBCDIC, encryption, MPEG, MIDI, HTML
+
+Application Layer: FTP, WWW, Telnet, NFS, SMTP, Gateway, SNMP
+
+> If router R drops an IP packet due to congestion, the type of ICMP message that R can send to the source host of that IP packet is ()
+> A. Route Redirection 
+> B. Destination Unreachable 
+> C. Source Quench 
+> D. Time Exceeded
+
+-> C. Source Quench
+
+A. Route Redirection - This message is used to notify a host to update its routing information (usually to send its packets through another router).
+
+B. Destination Unreachable - This message indicates that the destination is unreachable for some reason other than congestion.
+
+C. Source Quench - This message is used to request the sender to reduce the rate at which it is sending traffic to the internet destination. It is essentially a congestion control mechanism.
+
+D. Time Exceeded - This message indicates that a packet has been discarded because it was in the network for too long (either due to its TTL expiring or due to reassembly time for a fragmented packet expiring).
+
+> The following descriptions about the router are correct (switch refers to a Layer 2 switch) ( ) A. Compared to switches and bridges, routers have more complex functions. 
+> B. Compared to switches and bridges, routers have a lower latency. 
+> C. Compared to switches and bridges, routers can provide greater bandwidth and data forwarding capabilities. 
+> D. Routers can facilitate communication between different subnets, whereas switches and bridges cannot. 
+> E. Routers can facilitate communication between different VLANs, whereas switches and bridges cannot.
+
+-> ADE
+
+A. Routers operate at the network layer, while switches operate at the link layer. Routers have all the functionalities of switches and are more complex.
+
+B. Incorrect. The more complex the device, the greater the latency. This is because routers need to maintain a routing table.
+
+C. Incorrect. Switches can provide greater bandwidth and data forwarding capabilities.
+
+D. Correct. Routers can establish a local area network, while switches connect hosts within the same local area network.
+
+E. Correct. Routers can establish VLANs, but Layer 2 switches cannot.
+
