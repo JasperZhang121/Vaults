@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58fbed66f245112f",
+            "id": "34d256623bdd1743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "34d256623bdd1743",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md"
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md"
               }
             }
           },
@@ -178,6 +168,7 @@
   },
   "active": "34d256623bdd1743",
   "lastOpenFiles": [
+    "Quant/FIN & Econ Theory/Capital Market/1. Overview.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
@@ -211,7 +202,6 @@
     "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
     "Quant/FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
     "Quant/FIN & Econ Theory/Capital Market/5. Key Players.md",
-    "Quant/FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
     "Quant/FIN & Econ Theory/Capital Market",
     "Quant/FIN & Econ Theory",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
