@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md"
               }
             }
           },
@@ -168,10 +168,12 @@
   },
   "active": "5c2b8d7663e1fcfc",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Word2Vec.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
     "Computer Networking/Question Sheet.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1. Transformer.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
@@ -192,8 +194,6 @@
     "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
-    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/Models/2. Stochastic Calculus/Black Scholes",

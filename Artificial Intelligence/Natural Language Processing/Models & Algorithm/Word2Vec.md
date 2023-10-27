@@ -4,6 +4,8 @@ Word2Vec is a popular technique in natural language processing (NLP) that is use
 
 **Two Variants of Word2Vec:**
 
+Both are neural networks, ffter training, we extract the weights from the hidden layer corresponding to each word. These weights form the dense vectors or embeddings for each word.
+
 1. **Skip-gram:**
     
     - The skip-gram model aims to <mark style="background: #BBFABBA6;">predict</mark> the <mark style="background: #FFF3A3A6;">context words</mark> (surrounding words) given a target word.
@@ -11,7 +13,7 @@ Word2Vec is a popular technique in natural language processing (NLP) that is use
     - Good for capturing meaning in less frequent words.
 2. **Continuous Bag of Words (CBOW):**
     
-    - The CBOW model aims to predict the target word given a context of surrounding words.
+    - The CBOW model aims to <mark style="background: #FFB8EBA6;">predict the target word given a context of surrounding words</mark>.
     - The context words are used as input, and the model tries to predict the target word.
     - Good for capturing meaning of more frequent words.
 
