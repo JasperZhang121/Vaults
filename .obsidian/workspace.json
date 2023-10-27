@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e079219e9df0b5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -166,8 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34d256623bdd1743",
+  "active": "e079219e9df0b5f0",
   "lastOpenFiles": [
+    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
+    "conflict-files-obsidian-git.md",
     "Quant/FIN & Econ Theory/Capital Market/1. Overview.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
@@ -176,8 +191,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1. Transformer.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/1. Encoder.md",
     "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
-    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-    "conflict-files-obsidian-git.md",
     "Computer Networking/Question Sheet.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
