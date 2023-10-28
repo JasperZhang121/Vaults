@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
+                "file": "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "activation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
+                "file": "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
+                "file": "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md"
+                "file": "Artificial Intelligence/Deep Learning/0.1. Neural Network.md"
               }
             }
           },
@@ -166,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c2b8d7663e1fcfc",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
+    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Word2Vec.md",
     "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
@@ -192,8 +194,6 @@
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/4. Model Evaluation.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/Models/2. Stochastic Calculus/Black Scholes",
