@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0792df8101bfbb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,10 +178,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa66a4ea544573a",
+  "active": "0792df8101bfbb7a",
   "lastOpenFiles": [
-    "Computer Networking/Question Sheet.md",
+    "Computer Networking/1. Overview/1. Concept.md",
     "conflict-files-obsidian-git.md",
+    "Z-Archive/Pictures/Stats-ML/GRU.png",
+    "Artificial Intelligence/Deep Learning/5. Transformer/4. XLNet.md",
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/3. Long Short-Term Memory.md",
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Gated Recurrent Unit (GRU).md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.3 Others.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/3. Neural Network Language Models.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1.  Word2Vec.md",
+    "Computer Networking/Question Sheet.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Semantic.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
@@ -183,18 +209,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. Vector Space Model.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. TF & IDF.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Ranked Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Evaluation.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
-    "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Programming Languages/Python/Pytorch/1. Quick Look.md",
-    "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Networking/1. Overview/4. Layered Architecture.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
     "Quant/FIN & Econ Theory/Capital Market",
     "Quant/Models",
     "Quant/FIN & Econ Theory",
@@ -212,7 +226,6 @@
     "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png",
     "Z-Archive/Pictures/Stats-ML/outlier_nested_loop.png",
     "Z-Archive/Pictures/Stats-ML/full_d_graph.png",
-    "Z-Archive/Pictures/Stats-ML/distance_outlier_k_nearest.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
