@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -166,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef566e673643b52",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
