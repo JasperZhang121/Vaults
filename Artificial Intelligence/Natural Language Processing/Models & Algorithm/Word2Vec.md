@@ -1,8 +1,10 @@
-Word2Vec is a popular technique in natural language processing (NLP) that is used to convert words or phrases into vectors of numerical values. These vectors capture the semantic meaning of words in a continuous vector space, allowing mathematical operations to be performed on them. Word2Vec models are trained on large text corpora to learn word embeddings that represent words in a way that similar words are closer to each other in the vector space.
+Word2Vec is a popular technique in natural language processing (NLP) that is used to convert words or phrases into vectors of numerical values. These vectors capture the semantic meaning of words in a continuous vector space, allowing mathematical operations to be performed on them. Word2Vec models are trained <mark style="background: #ABF7F7A6;">on large text corpora to learn word embeddings</mark> that represent words in a way that similar words are closer to each other in the vector space.
 
 **Motivation:** Word2Vec addresses the limitations of traditional text representation methods like one-hot encoding, which cannot capture semantic relationships between words. Word2Vec aims to create dense, continuous-valued vectors that encode semantic similarities between words.
 
 **Two Variants of Word2Vec:**
+
+Both are neural networks, ffter training, we extract the weights from the hidden layer corresponding to each word. These weights form the dense vectors or embeddings for each word.
 
 1. **Skip-gram:**
     
@@ -11,7 +13,7 @@ Word2Vec is a popular technique in natural language processing (NLP) that is use
     - Good for capturing meaning in less frequent words.
 2. **Continuous Bag of Words (CBOW):**
     
-    - The CBOW model aims to predict the target word given a context of surrounding words.
+    - The CBOW model aims to <mark style="background: #FFB8EBA6;">predict the target word given a context of surrounding words</mark>.
     - The context words are used as input, and the model tries to predict the target word.
     - Good for capturing meaning of more frequent words.
 
