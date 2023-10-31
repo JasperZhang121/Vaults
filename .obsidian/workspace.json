@@ -11,8 +11,12 @@
             "id": "d3b39aff00d5b786",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md"
               }
             }
           },
@@ -161,15 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "d3b39aff00d5b786",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
+    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
@@ -192,8 +199,6 @@
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/3. Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Gated Recurrent Unit (GRU).md",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/3. Neural Network Language Models.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/Models/2. Stochastic Calculus/Black Scholes",
