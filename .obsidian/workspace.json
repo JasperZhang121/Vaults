@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "afc0349c37037e18",
+        "id": "b9b7a3d077c7ac9b",
         "type": "tabs",
         "children": [
           {
-            "id": "766a8c4a5707b692",
+            "id": "cef566e673643b52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Bert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "7095d05959c0a371",
+            "id": "ff8883f5e4aefed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +133,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md"
+              }
             }
           },
           {
-            "id": "6461de1442b14953",
+            "id": "7af8dabdac40ff7e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -157,54 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "766a8c4a5707b692",
+  "active": "cef566e673643b52",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
-    "Screen Shot 2023-10-31 at 7.46.50 pm.png",
-    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
-    "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Semantic.md",
-    "Artificial Intelligence/Natural Language Processing/Parsing & Semantic/Parsing.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/6. Evaluation of Classifiers.md",
-    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/4. Model Evaluation.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "conflict-files-obsidian-git.md",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
+    "Screen Shot 2023-10-31 at 7.46.50 pm.png",
+    "Programming Languages/Python/Pytorch/2. Neural Network.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/2. Syntactic Parsing.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
+    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1. Language Modelling and Smoothing.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.3 Others.md",
+    "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP",
-    "Z-Archive/Pictures/Stats-ML/GRU.png",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/4. XLNet.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/0. Information Retrieval.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/1. DPLL.md",
+    "Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/0. Intro.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+    "README.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/3. Long Short-Term Memory.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Gated Recurrent Unit (GRU).md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.3 Others.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
+    "Z-Archive/Pictures/Stats-ML/GRU.png",
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/3. Neural Network Language Models.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1.  Word2Vec.md",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
-    "Artificial Intelligence/Deep Learning/5. Transformer",
-    "Quant/FIN & Econ Theory/Capital Market",
+    "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
+    "Quant/Models/2. Stochastic Calculus/Black Scholes",
+    "Quant/Models/1. Time Series Analysis/ARIMA",
+    "Quant/Models/2. Stochastic Calculus",
+    "Quant/Models/1. Time Series Analysis",
+    "Quant/Models/0. Guide",
     "Quant/Models",
-    "Quant/FIN & Econ Theory",
-    "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "Artificial Intelligence/Natural Language Processing/Techniques",
-    "Algorithm/Kaggle",
+    "Quant/FIN & Econ Theory/Capital Market",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/RM",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Z-Archive/Pictures/Stats-ML/simple_distance_graph.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Z-Archive/Pictures/Stats-ML/parametric_mixture_distributions.png"
   ]
 }
