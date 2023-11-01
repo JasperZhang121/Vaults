@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
+                "file": "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
+                "file": "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
+                "file": "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md"
+                "file": "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md"
               }
             }
           },
@@ -166,8 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "46200d85953444d8",
   "lastOpenFiles": [
+    "Computer Networking/6. Application Layer/1. HTTP (Hypertext Transfer Protocol).md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/2. Planning Algorithm.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/3. Heuristics.md",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/0. Concepts/5. Plan space search.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.3 Others.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
@@ -185,15 +193,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1.  Word2Vec.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. Vector Space Model.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/10. Evaluation.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. TF & IDF.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Ranked Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
