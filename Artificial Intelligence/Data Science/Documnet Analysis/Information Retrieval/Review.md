@@ -44,6 +44,10 @@ Res:
 
 $$cosine_similarity(A, B) = \frac{A \cdot B}{\|A\| \cdot \|B\|}
 $$
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 - sim(query,Doc1) = sim([log 3, 0, 0], [3 log 3, 0, 0]) = $\text{sim}(query, Doc1) = \frac{3 \cdot (\log 3)^2}{\log 3 \cdot 3 \cdot \log 3} = 1$
 - sim(query, Doc2) = sim([log 3, 0, 0], [0, log 3/2 , 0]) = 0
 - sim(query, Doc3) = sim([log 3, 0, 0], [0, 3 log 3 2 , 0]) = 0
