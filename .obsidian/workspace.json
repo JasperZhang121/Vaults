@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "8496f308a78ea79c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/2. Syntactic Parsing.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.3 Evaluation of Language Models.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.2 Smoothing.md",
@@ -184,7 +185,6 @@
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
     "Artificial Intelligence/Machine Learning/Data/Modify Data/0. Spliting.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. TF & IDF.md",
