@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "8496f308a78ea79c",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
@@ -196,7 +197,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.3 Others.md",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Artificial Intelligence/Deep Learning/5. Transformer",
