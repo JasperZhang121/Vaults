@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2d0c533dbd3ad3",
+        "id": "e3624969c8f1b5fa",
         "type": "tabs",
         "children": [
           {
-            "id": "76fd07abcf298d1f",
+            "id": "ddeb2b0d0cab4541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21fd6f6d2860bf64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md"
               }
             }
           },
@@ -178,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21fd6f6d2860bf64",
+  "active": "ddeb2b0d0cab4541",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
@@ -204,8 +193,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/3. Neural Network Language Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
