@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa14332e619fe09",
+        "id": "ac2d0c533dbd3ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "f269fc5071486013",
+            "id": "76fd07abcf298d1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md"
+                "file": "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md"
               }
             }
           },
@@ -166,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f269fc5071486013",
+  "active": "76fd07abcf298d1f",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.3 Evaluation of Language Models.md",
