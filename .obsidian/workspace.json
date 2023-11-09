@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md"
+                "file": "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md"
               }
             }
           },
@@ -165,10 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddeb2b0d0cab4541",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
@@ -189,10 +193,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.3 Others.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.1 ELMO.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
