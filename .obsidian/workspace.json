@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+                "file": "Programming Languages/C/Basic/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+                "file": "Programming Languages/C/Basic/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+                "file": "Programming Languages/C/Basic/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md"
+                "file": "Programming Languages/C/Basic/Syntax.md"
               }
             }
           },
@@ -168,6 +168,10 @@
   },
   "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Algorithm/Kaggle/Understanding.md",
+    "Algorithm/Kaggle/Binary Prediction Templete.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
     "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
@@ -190,10 +194,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.2 Smoothing.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.1 Language Modelling.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/Review.md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/2. Gated Recurrent Unit (GRU).md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/3. Long Short-Term Memory.md",
-    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
