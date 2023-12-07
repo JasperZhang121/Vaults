@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e62cc0ed7164d1d",
+        "id": "41887cb250cd8b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "34d7029985ee5de4",
+            "id": "275a4c6853b5d2e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "711797ac7e4d92ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,7 @@
             }
           },
           {
-            "id": "7095d05959c0a371",
+            "id": "21ba460aa745ff57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Databases/MySQL/3. SQL.md"
               }
             }
           },
           {
-            "id": "6461de1442b14953",
+            "id": "dea00adaa0bd7b1a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -178,52 +166,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "711797ac7e4d92ad",
+  "active": "275a4c6853b5d2e1",
   "lastOpenFiles": [
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/5. Multilingual and Low Resource NLP.md",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Process.md",
-    "Algorithm/Kaggle/Understanding.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/4. Evaluation In NLP.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/3. Semantics & Coreference Resolution.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/2. Syntactic Parsing.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.2 Smoothing.md",
-    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
-    "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
-    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer/1. Encoder.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.3 Evaluation of Language Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.1 Language Modelling.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/Review.md",
-    "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Networking/1. Overview/4. Layered Architecture.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Computer Networking/1. Overview/2. Data Rate.md",
+    "Databases/MySQL/6. Constraints.md",
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/3. SQL.md",
+    "Databases/MySQL/4. Queries.md",
+    "Databases/MySQL/1. Tables.md",
+    "Databases/MySQL/0. Precedence.md",
+    "Databases/MySQL/5. Join.md",
+    "Databases/Redis/Jedis/2. Jedis Pool.md",
+    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
+    "Programming Languages/C/Basic/Syntax.md",
     "Computer Networking/1. Overview/1. Concept.md",
+    "Algorithm/Kaggle/Understanding.md",
+    "Algorithm/Kaggle/Binary Prediction Templete.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
+    "conflict-files-obsidian-git.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/3. Types and Measurements of Data.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/2. Source of Data.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/1. Process.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Screen Shot 2023-10-31 at 7.46.50 pm.png",
-    "Artificial Intelligence/Natural Language Processing/Techniques/1. Feature Extraction & Model.md",
-    "Artificial Intelligence/Natural Language Processing/Techniques/0. Prepare Data.md",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
+    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Artificial Intelligence/Deep Learning/5. Transformer",
-    "Quant/FIN & Econ Theory/Capital Market",
+    "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
+    "Quant/Models/2. Stochastic Calculus/Black Scholes",
+    "Quant/Models/1. Time Series Analysis/ARIMA",
+    "Quant/Models/2. Stochastic Calculus",
+    "Quant/Models/1. Time Series Analysis",
+    "Quant/Models/0. Guide",
     "Quant/Models",
-    "Quant/FIN & Econ Theory",
-    "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "Artificial Intelligence/Natural Language Processing/Techniques",
-    "Algorithm/Kaggle",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/RM",
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
+    "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
     "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Untitled 1.canvas",
