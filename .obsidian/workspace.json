@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b548568f7ae1638",
+        "id": "37d07bbd1e18a9eb",
         "type": "tabs",
         "children": [
           {
-            "id": "91074a6398d9a0f4",
+            "id": "54baeddb00899508",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/0. Basic/1. Understand.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/0. Basic/1. Understand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/0. Basic/1. Understand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/0. Basic/1. Understand.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91074a6398d9a0f4",
+  "active": "54baeddb00899508",
   "lastOpenFiles": [
+    "Programming Languages/Java/1. OOP/1. Encapsulation.md",
+    "Programming Languages/Java/1. OOP/0. Intro.md",
     "Programming Languages/Java/0. Basic/2. Syntax.md",
     "Programming Languages/Java/0. Basic/0. Intro.md",
     "Programming Languages/Java/0. Basic/1. Understand.md",
@@ -199,8 +193,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/Review.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. TF & IDF.md",
     "Computer Networking/5. Transport Layer/4. Transport Layer Security (TLS).md",
-    "Computer Networking/6. Application Layer/1. HTTP (Hypertext Transfer Protocol).md",
-    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
