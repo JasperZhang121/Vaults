@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/7. Package.md",
+                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/7. Package.md",
+                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/7. Package.md",
+                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/7. Package.md"
+                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "54baeddb00899508",
   "lastOpenFiles": [
-    "Programming Languages/Java/1. OOP/6. Static.md",
+    "Programming Languages/Java/1. OOP/8. Modifiers.md",
+    "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
     "Programming Languages/Java/1. OOP/7. Package.md",
+    "Programming Languages/Java/1. OOP/6. Static.md",
     "Programming Languages/Java/1. OOP/5. Interface.md",
     "Programming Languages/Java/1. OOP/0. Intro.md",
     "Programming Languages/Java/1. OOP/1. Encapsulation.md",
@@ -199,8 +201,6 @@
     "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
     "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/11. Web Search.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/12. HITS Algorithm.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
