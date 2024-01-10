@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
+                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
+                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
+                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md"
+                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md"
               }
             }
           },
@@ -170,15 +169,22 @@
   },
   "active": "54baeddb00899508",
   "lastOpenFiles": [
-    "Programming Languages/Java/1. OOP/1. Core Classes/4. Enum.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
+    "Programming Languages/Java/3. Exception/1. Catch Exceptions.md",
+    "Programming Languages/Java/3. Exception/1. Exceptions Handling.md",
+    "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
+    "Programming Languages/Java/3. Exception/0. Introduction to Exception Handling.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/8. Ready-made classes.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/7. BigDecimal.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/6. BigInteger.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/5. Record.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/4. Enum.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/3. JavaBean.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/2. Wrapper Class.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/1. Strings & Bytes.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes",
+    "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/2. Wrapper Class.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
@@ -191,19 +197,12 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
     "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Programming",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
     "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Process.md",
-    "Algorithm/Kaggle/Understanding.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
