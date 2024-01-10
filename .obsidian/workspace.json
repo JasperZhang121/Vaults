@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
+                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
+                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
+                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/9. Classes within the same package.md"
+                "file": "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md"
               }
             }
           },
@@ -169,16 +170,26 @@
   },
   "active": "54baeddb00899508",
   "lastOpenFiles": [
-    "Programming Languages/Java/1. OOP/8. Modifiers.md",
-    "Programming Languages/Java/1. OOP/9. Classes within the same package.md",
-    "Programming Languages/Java/1. OOP/7. Package.md",
-    "Programming Languages/Java/1. OOP/6. Static.md",
-    "Programming Languages/Java/1. OOP/5. Interface.md",
-    "Programming Languages/Java/1. OOP/0. Intro.md",
-    "Programming Languages/Java/1. OOP/1. Encapsulation.md",
-    "Programming Languages/Java/1. OOP/2. Inheritance.md",
-    "Programming Languages/Java/1. OOP/4. Abstract.md",
-    "Programming Languages/Java/1. OOP/3. Polymorphism.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/4. Enum.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/3. JavaBean.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/2. Wrapper Class.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/1. Strings & Bytes.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes",
+    "Programming Languages/Java/1. OOP/0. OOP Basic",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
     "Programming Languages/Java/0. Basic/3. Control Flow.md",
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/0. Basic/1. Understand.md",
@@ -193,14 +204,6 @@
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Data Science/Data Wrangling/1. Process.md",
     "Algorithm/Kaggle/Understanding.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/7. Record classification.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
@@ -212,8 +215,6 @@
     "Quant/Models/1. Time Series Analysis/ARIMA",
     "Quant/Models/2. Stochastic Calculus",
     "Quant/Models/1. Time Series Analysis",
-    "Quant/Models/0. Guide",
-    "Quant/Models",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
   ]
 }
