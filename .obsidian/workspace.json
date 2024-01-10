@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b93c1a1141474956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/3. Exception/2. Throw Exceptions.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54baeddb00899508",
+  "active": "b93c1a1141474956",
   "lastOpenFiles": [
+    "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
+    "conflict-files-obsidian-git.md",
     "Programming Languages/Java/3. Exception/1. Catch Exceptions.md",
     "Programming Languages/Java/3. Exception/1. Exceptions Handling.md",
-    "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
     "Programming Languages/Java/3. Exception/0. Introduction to Exception Handling.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/8. Ready-made classes.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/7. BigDecimal.md",
@@ -196,7 +210,6 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Programming",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
