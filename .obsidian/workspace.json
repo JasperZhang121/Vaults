@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "41887cb250cd8b3b",
+        "id": "45d21856ac10c591",
         "type": "tabs",
         "children": [
           {
-            "id": "275a4c6853b5d2e1",
+            "id": "9a84f893aa0aa5d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/MySQL/3. SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad5225682b0d3299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad5225682b0d3299",
+  "active": "9a84f893aa0aa5d0",
   "lastOpenFiles": [
     "Databases/MySQL/3. SQL.md",
     "conflict-files-obsidian-git.md",
