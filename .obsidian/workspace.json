@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad5225682b0d3299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,34 +178,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "275a4c6853b5d2e1",
+  "active": "ad5225682b0d3299",
   "lastOpenFiles": [
+    "Databases/MySQL/3. SQL.md",
+    "conflict-files-obsidian-git.md",
+    "Z-Archive/Pictures/Programming/Java relationship.png",
+    "Z-Archive/Pictures/Programming",
+    "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/4. Enum.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/3. JavaBean.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/2. Wrapper Class.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/1. Strings & Bytes.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic",
+    "Programming Languages/Java/0. Basic/3. Control Flow.md",
+    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
+    "Programming Languages/Java/0. Basic/1. Understand.md",
+    "Programming Languages/Java/0. Basic/0. Intro.md",
+    "Programming Languages/Java/0. Basic",
     "Databases/MySQL/6. Constraints.md",
     "Databases/MySQL/2. Data Type.md",
-    "Databases/MySQL/3. SQL.md",
-    "Databases/MySQL/4. Queries.md",
-    "Databases/MySQL/1. Tables.md",
-    "Databases/MySQL/0. Precedence.md",
-    "Databases/MySQL/5. Join.md",
-    "Databases/Redis/Jedis/2. Jedis Pool.md",
-    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
-    "Programming Languages/C/Basic/Syntax.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Algorithm/Kaggle/Understanding.md",
-    "Algorithm/Kaggle/Binary Prediction Templete.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/9. Blocking Process Evaluation Metrics.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/9.1 Blocking Methods.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/10. Classification Techniques.md",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/5. Bins.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/4. Record Linkage Process.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/3. Types and Measurements of Data.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/2. Source of Data.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/3. Data Warehousing/0. Basic concepts.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/1. Process.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/Review.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
@@ -203,16 +221,11 @@
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/Models/2. Stochastic Calculus/Black Scholes",
     "Quant/Models/1. Time Series Analysis/ARIMA",
-    "Quant/Models/2. Stochastic Calculus",
-    "Quant/Models/1. Time Series Analysis",
-    "Quant/Models/0. Guide",
-    "Quant/Models",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
     "260px-TCP_CLOSE.svg.png",
     "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
-    "Z-Archive/Pictures/OS/Block-Diagram-of-8086.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
