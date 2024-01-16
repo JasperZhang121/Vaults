@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d499d14d6f61489a",
+        "id": "28fe35388b9c0ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "415d33437452e37b",
+            "id": "b80fac20c7cb977e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/1. Overview/1. Concept.md"
+                "file": "Databases/MySQL/3. SQL.md"
               }
             }
           },
@@ -168,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "415d33437452e37b",
+  "active": "b80fac20c7cb977e",
   "lastOpenFiles": [
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/1. Tables.md",
+    "Databases/MySQL/0. Precedence.md",
+    "Computer Networking/1. Overview/1. Concept.md",
     "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/3. Exception/1. Catch Exceptions.md",
@@ -194,10 +197,6 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Programming",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
