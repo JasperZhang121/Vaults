@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/5. Join.md",
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/5. Join.md",
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/5. Join.md",
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/5. Join.md"
+                "file": "Quant/FIN & Econ Theory/Capital Market/8. Formula.md"
               }
             }
           },
@@ -169,6 +170,14 @@
   },
   "active": "18f071f039a64928",
   "lastOpenFiles": [
+    "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
+    "Quant/FIN & Econ Theory/Capital Market/3. Securities.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
+    "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Databases/MySQL/5. Join.md",
     "Databases/MySQL/6. Constraints.md",
     "Databases/MySQL/Quick check.md",
     "Databases/MySQL/1. Tables.md",
@@ -187,16 +196,8 @@
     "Programming Languages/Java/1. OOP/1. Data Classes/5. Record.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/4. Enum.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/2. Wrapper Class.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Programming",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
