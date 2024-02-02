@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64f9b1c3f298bc26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,8 +180,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec4ea8dd8289b9d",
+  "active": "64f9b1c3f298bc26",
   "lastOpenFiles": [
+    "Databases/MySQL/3. SQL.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
+    "Programming Languages/Java/3. Exception/1. Catch Exceptions.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/8. Ready-made classes.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/6. BigInteger.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/7. BigDecimal.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/4. Enum.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/5. Record.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/2. Wrapper Class.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes",
+    "Databases/MySQL/Quick check.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
@@ -183,22 +210,9 @@
     "Programming Languages/Java/3. Exception/4. NullPointerException.md",
     "Programming Languages/Java/3. Exception/3. Common Exceptions.md",
     "Programming Languages/Java/3. Exception/0. Introduction to Exception Handling.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
-    "Databases/MySQL/3. SQL.md",
-    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Programming",
-    "Programming Languages/Java/1. OOP/1. Core Classes/4. Enum.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/3. JavaBean.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/2. Wrapper Class.md",
-    "Programming Languages/Java/1. OOP/1. Core Classes/1. Strings & Bytes.md",
     "Programming Languages/Java/1. OOP/1. Core Classes",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Programming Languages/Java/0. Basic",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
@@ -209,7 +223,6 @@
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Artificial Intelligence/Deep Learning/5. Transformer",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
-    "Quant/Models/2. Stochastic Calculus/Black Scholes",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
