@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md"
               }
             }
           },
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "e24590a9ead11a3a",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
@@ -194,8 +196,6 @@
     "Programming Languages/Java/3. Exception/1. Exceptions Handling.md",
     "Programming Languages/Java/3. Exception/0. Introduction to Exception Handling.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/8. Ready-made classes.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/7. BigDecimal.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/6. BigInteger.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
