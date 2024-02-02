@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39d099e4b3f5790e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +154,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -165,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1fec85bccf17041",
+  "active": "39d099e4b3f5790e",
   "lastOpenFiles": [
     "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/4. Reflection/2. Field Information.md",
