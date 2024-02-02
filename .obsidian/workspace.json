@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "45d21856ac10c591",
+        "id": "36284b6c93d83248",
         "type": "tabs",
         "children": [
           {
-            "id": "9a84f893aa0aa5d0",
+            "id": "c1fec85bccf17041",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md"
+              }
             }
           },
           {
@@ -157,13 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a84f893aa0aa5d0",
+  "active": "c1fec85bccf17041",
   "lastOpenFiles": [
+    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
+    "Programming Languages/Java/4. Reflection/2. Field Information.md",
+    "Programming Languages/Java/4. Reflection",
+    "Programming Languages/Java/3. Exception/Commons Logging.md",
+    "Programming Languages/Java/3. Exception/6. Logging.md",
+    "Programming Languages/Java/3. Exception/5. Assertions.md",
+    "Programming Languages/Java/3. Exception/4. NullPointerException.md",
+    "Programming Languages/Java/3. Exception/3. Common Exceptions.md",
+    "Programming Languages/Java/3. Exception/0. Introduction to Exception Handling.md",
+    "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
     "Databases/MySQL/3. SQL.md",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Programming",
-    "Programming Languages/Java/1. OOP/1. Core Classes/5. Record.md",
     "Programming Languages/Java/1. OOP/1. Core Classes/4. Enum.md",
     "Programming Languages/Java/1. OOP/1. Core Classes/3. JavaBean.md",
     "Programming Languages/Java/1. OOP/1. Core Classes/2. Wrapper Class.md",
@@ -180,16 +197,8 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
     "Programming Languages/Java/0. Basic",
-    "Databases/MySQL/6. Constraints.md",
-    "Databases/MySQL/2. Data Type.md",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
@@ -199,7 +208,6 @@
     "Artificial Intelligence/Deep Learning/5. Transformer",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/Models/2. Stochastic Calculus/Black Scholes",
-    "Quant/Models/1. Time Series Analysis/ARIMA",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
