@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36284b6c93d83248",
+        "id": "8170521cd5cf2b34",
         "type": "tabs",
         "children": [
           {
-            "id": "c1fec85bccf17041",
+            "id": "4ec4ea8dd8289b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "39d099e4b3f5790e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/4. Reflection/2. Field Information.md"
+                "file": "Databases/MySQL/3. SQL.md"
               }
             }
           },
@@ -178,10 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39d099e4b3f5790e",
+  "active": "4ec4ea8dd8289b9d",
   "lastOpenFiles": [
-    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
     "Programming Languages/Java/4. Reflection/2. Field Information.md",
+    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/4. Reflection",
     "Programming Languages/Java/3. Exception/Commons Logging.md",
     "Programming Languages/Java/3. Exception/6. Logging.md",
@@ -205,11 +199,6 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Programming Languages/Java/0. Basic",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
