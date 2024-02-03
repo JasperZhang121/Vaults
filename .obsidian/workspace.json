@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8170521cd5cf2b34",
+        "id": "561f3efabf26e165",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec4ea8dd8289b9d",
+            "id": "e7ffe1c1bec2cd37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/MySQL/Quick check.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Databases/MySQL/Quick check.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec4ea8dd8289b9d",
+  "active": "e7ffe1c1bec2cd37",
   "lastOpenFiles": [
+    "Databases/MySQL/Quick check.md",
     "Databases/MySQL/3. SQL.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
@@ -182,7 +175,6 @@
     "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
-    "Databases/MySQL/Quick check.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
