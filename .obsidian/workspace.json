@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+                "file": "Big Data/Hadoop/2. HDFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md"
+                "file": "Big Data/Hadoop/2. HDFS.md"
               }
             }
           },
@@ -169,6 +169,21 @@
   },
   "active": "9e1d4847f45ad41e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1.  Word2Vec.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/9. Vector Space Model.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/8. TF & IDF.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/7. Ranked Retrieval.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/6. Text Preprocessing.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Artificial Intelligence/Machine Learning/Data/Preprocessing.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
@@ -180,21 +195,6 @@
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Quant/FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Quant/FIN & Econ Theory/Capital Market/3. Securities.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/0. Concepts.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/6. Record Comparison.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/8. Measure Linkage.md",
-    "Artificial Intelligence/Data Science/Data Wrangling/11. Ontology Matching.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
-    "Databases/MySQL/5. Join.md",
-    "Databases/MySQL/6. Constraints.md",
-    "Databases/MySQL/Quick check.md",
-    "Databases/MySQL/1. Tables.md",
-    "Databases/MySQL/0. Precedence.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
