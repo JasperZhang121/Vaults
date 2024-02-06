@@ -4,7 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "d9dca613fbef7afe",
         "type": "tabs",
         "children": [
@@ -18,20 +17,22 @@
                 "mode": "source",
                 "source": false
               }
-=======
-        "id": "561f3efabf26e165",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "e7ffe1c1bec2cd37",
+            "id": "5cbbb5d0793516a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> origin/main
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,7 @@
             }
           },
           {
-            "id": "21ba460aa745ff57",
+            "id": "ff8883f5e4aefed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -105,10 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Big Data/Hadoop/2. HDFS.md",
-=======
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Big Data/Hadoop/2. HDFS.md",
-=======
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +145,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {
-                "file": "Big Data/Hadoop/2. HDFS.md"
+                "file": "conflict-files-obsidian-git.md"
               }
-=======
-              "state": {}
->>>>>>> origin/main
             }
           },
           {
-            "id": "dea00adaa0bd7b1a",
+            "id": "7af8dabdac40ff7e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,9 +180,22 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "9e1d4847f45ad41e",
+  "active": "5cbbb5d0793516a2",
   "lastOpenFiles": [
+    "Big Data/Hadoop/2. HDFS.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
+    "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
+    "Programming Languages/Java/9. Multithreading/0. Intro.md",
+    "Programming Languages/Java/9. Multithreading",
+    "Programming Languages/Java/4. Reflection/2. Field Information.md",
+    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
+    "Programming Languages/Java/4. Reflection",
+    "Programming Languages/Java/3. Exception/Commons Logging.md",
+    "Programming Languages/Java/3. Exception/6. Logging.md",
+    "Programming Languages/Java/3. Exception/5. Assertions.md",
+    "Programming Languages/Java/3. Exception/4. NullPointerException.md",
+    "Programming Languages/Java/3. Exception/3. Common Exceptions.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
@@ -206,69 +210,23 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
-    "Artificial Intelligence/Machine Learning/Data/Preprocessing.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/2. Syntactic Parsing.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.3 Evaluation of Language Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.2 Smoothing.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.1 Language Modelling.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/1. Components.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/4. Association Mining/4.5 Apriori algorithm.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/2. Association rule mining.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-=======
-  "active": "e7ffe1c1bec2cd37",
-  "lastOpenFiles": [
-    "Databases/MySQL/Quick check.md",
-    "Databases/MySQL/3. SQL.md",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/3. Exception/2. Throw Exceptions.md",
-    "Programming Languages/Java/3. Exception/1. Catch Exceptions.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/8. Ready-made classes.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/6. BigInteger.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/7. BigDecimal.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/4. Enum.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/5. Record.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/2. Wrapper Class.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
->>>>>>> origin/main
     "Programming Languages/Java/1. OOP/1. Data Classes",
-    "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/2. Transformer.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5.2 GPT Models.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/5. Pre-trained LM.md",
-    "Programming Languages/Java/4. Reflection/2. Field Information.md",
-    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
-    "Programming Languages/Java/4. Reflection",
-    "Programming Languages/Java/3. Exception/Commons Logging.md",
-    "Programming Languages/Java/3. Exception/6. Logging.md",
-    "Programming Languages/Java/3. Exception/5. Assertions.md",
-    "Programming Languages/Java/3. Exception/4. NullPointerException.md",
-    "Programming Languages/Java/3. Exception/3. Common Exceptions.md",
-    "Programming Languages/Java/3. Exception/0. Introduction to Exception Handling.md",
-    "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Z-Archive/Pictures/Programming",
-    "Programming Languages/Java/1. OOP/1. Core Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
-    "Programming Languages/Java/0. Basic",
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/Programming",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
+    "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
+    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
-    "Artificial Intelligence/Deep Learning/5. Transformer",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
-    "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
-    "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
-    "260px-TCP_CLOSE.svg.png",
-    "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Quant/Models/2. Stochastic Calculus/Black Scholes",
+    "Quant/Models/1. Time Series Analysis/ARIMA",
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
   ]
 }
