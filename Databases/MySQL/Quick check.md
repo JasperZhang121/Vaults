@@ -39,3 +39,42 @@
 | `Stored Procedures` | A set of SQL queries thatcan be stored and executed in the database. |
 | `Comments` | Allows adding comments in SQL code for readability. |
 | `Operators` | Used to perform operations on data (like arithmetic, logical, etc.). |
+
+## String Functions
+
+| Function | Description |
+|----------|-------------|
+| `CONCAT(string1, string2, ...)` | Concatenates two or more strings into one string. |
+| `LENGTH(string)` | Returns the length of a string. |
+| `LOWER(string)` | Converts all characters in a string to lowercase. |
+| `UPPER(string)` | Converts all characters in a string to uppercase. |
+| `TRIM(string)` | Removes whitespace from both ends of a string. |
+| `LTRIM(string)` | Removes leading whitespace from a string. |
+| `RTRIM(string)` | Removes trailing whitespace from a string. |
+| `SUBSTRING(string, start, length)` | Extracts a substring from a string (starting at `start`, `length` characters long). |
+| `REPLACE(string, from_string, to_string)` | Replaces all occurrences of a specified string with another string. |
+| `CHAR_LENGTH(string)` | Returns the number of characters in a string. |
+| `CHARINDEX(substring, string)` | Returns the position of a substring within a string. |
+| `POSITION(substring IN string)` | Similar to `CHARINDEX`, it returns the position of a substring within a string. |
+| `LEFT(string, number_of_chars)` | Returns the left part of a string with the specified number of characters. |
+| `RIGHT(string, number_of_chars)` | Returns the right part of a string with the specified number of characters. |
+| `REVERSE(string)` | Reverses a string. |
+
+## Date Functions
+
+| Function | Description |
+|----------|-------------|
+| `CURRENT_DATE` | Returns the current date. |
+| `CURRENT_TIMESTAMP` | Returns the current date and time. |
+| `DATEADD(datepart, number, date)` | Adds a specified number of units to a date. |
+| `DATEDIFF(datepart, startdate, enddate)` | Calculates the difference between two dates. |
+| `DAY(date)` | Returns the day of the month for a specified date. |
+| `MONTH(date)` | Returns the month from a specified date. |
+| `YEAR(date)` | Returns the year from a specified date. |
+| `DATE_FORMAT(date, format)` | Formats a date as specified. |
+| `GETDATE()` | Returns the current date and time (SQL Server). |
+| `SYSDATE` | Returns the current date and time (Oracle). |
+| `TO_DATE(string, format)` | Converts a string to a date, using the specified format. |
+| `EXTRACT(part FROM date)` | Extracts and returns the value of a specified part of a date (e.g., year, month, day). |
+| `LAST_DAY(date)` | Returns the last day of the month for a specified date. |
+| `NOW()` | Returns the current date and time (MySQL). |
