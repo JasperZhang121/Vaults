@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea630f11d910aa2",
+        "id": "0bd7a95132cb1c93",
         "type": "tabs",
         "children": [
           {
-            "id": "47d9a93fd9693855",
+            "id": "02ea64c9b4a4bd95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md"
+              }
             }
           },
           {
@@ -159,9 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d9a93fd9693855",
+  "active": "02ea64c9b4a4bd95",
   "lastOpenFiles": [
+    "Data Structures/1. Intermediate/1. Heap.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. K means.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/8. AdaBoost.md",
     "Big Data/Hadoop/2. HDFS.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
@@ -187,8 +197,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/5. Merge Intersection Algorithm (p1, p2).md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/4. Inverted Index.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/3. Term-Document Incidence Matrix.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/2. Boolean Retrieval.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/Information Retrieval/1. Classic Search Model.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
