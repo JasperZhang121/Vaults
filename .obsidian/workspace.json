@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4320df565f0b2b",
+        "id": "6c3c8bec53e1b085",
         "type": "tabs",
         "children": [
           {
-            "id": "9e398f89b613867b",
+            "id": "5a13a58415a57a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/3. Shell.md",
+                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/3. Shell.md",
+                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/3. Shell.md",
+                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/3. Shell.md"
+                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md"
               }
             }
           },
@@ -167,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e398f89b613867b",
+  "active": "5a13a58415a57a47",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+    "Programming Languages/Python/Pytorch/0. Introduction.md",
+    "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Big Data/Hadoop/3. Shell.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. Ensemble Learning.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
@@ -195,8 +198,6 @@
     "Programming Languages/Java/3. Exception/6. Logging.md",
     "Programming Languages/Java/3. Exception/5. Assertions.md",
     "Programming Languages/Java/3. Exception/4. NullPointerException.md",
-    "Programming Languages/Java/3. Exception/3. Common Exceptions.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
