@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md",
+                "file": "Computer Networking/1. Overview/5. OSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md",
+                "file": "Computer Networking/1. Overview/5. OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md",
+                "file": "Computer Networking/1. Overview/5. OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/Pytorch/1. Quick Look.md"
+                "file": "Computer Networking/1. Overview/5. OSI.md"
               }
             }
           },
@@ -170,6 +169,7 @@
   },
   "active": "5a13a58415a57a47",
   "lastOpenFiles": [
+    "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Big Data/Hadoop/3. Shell.md",
@@ -197,7 +197,6 @@
     "Programming Languages/Java/3. Exception/Commons Logging.md",
     "Programming Languages/Java/3. Exception/6. Logging.md",
     "Programming Languages/Java/3. Exception/5. Assertions.md",
-    "Programming Languages/Java/3. Exception/4. NullPointerException.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
