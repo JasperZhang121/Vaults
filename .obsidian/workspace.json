@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+                "file": "Big Data/Hadoop/3. Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+                "file": "Big Data/Hadoop/3. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+                "file": "Big Data/Hadoop/3. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md"
+                "file": "Big Data/Hadoop/3. Shell.md"
               }
             }
           },
@@ -170,8 +169,9 @@
   },
   "active": "9e398f89b613867b",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+    "Big Data/Hadoop/3. Shell.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. Ensemble Learning.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/0. Supervised learning algorithms.md",
@@ -197,7 +197,6 @@
     "Programming Languages/Java/3. Exception/4. NullPointerException.md",
     "Programming Languages/Java/3. Exception/3. Common Exceptions.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/0. Representation.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
