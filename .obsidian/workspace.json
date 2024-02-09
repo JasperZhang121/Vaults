@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3c8bec53e1b085",
+        "id": "5df3e237e7fd1e21",
         "type": "tabs",
         "children": [
           {
-            "id": "5a13a58415a57a47",
+            "id": "6f79535a19a14f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/1. Overview/5. OSI.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md"
               }
             }
           },
@@ -167,14 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a13a58415a57a47",
+  "active": "6f79535a19a14f44",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
+    "Big Data/Kafka/2. Architecture.md",
+    "Big Data/Kafka/1. Kafka.md",
+    "README.md",
+    "Big Data/Kafka",
+    "Big Data/Hadoop/4. Java API.md",
+    "Big Data/Hadoop/3. Shell.md",
+    "Big Data/Hadoop/2. HDFS.md",
+    "Computer Networking/1. Overview/5. OSI.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Big Data/Hadoop/3. Shell.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. Ensemble Learning.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/0. Supervised learning algorithms.md",
@@ -185,18 +192,12 @@
     "Databases/MySQL/3. SQL.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
     "Data Structures/1. Intermediate/1. Heap.md",
-    "Big Data/Hadoop/2. HDFS.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
     "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
     "Programming Languages/Java/9. Multithreading/0. Intro.md",
     "Programming Languages/Java/9. Multithreading",
-    "Programming Languages/Java/4. Reflection/2. Field Information.md",
-    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/4. Reflection",
-    "Programming Languages/Java/3. Exception/Commons Logging.md",
-    "Programming Languages/Java/3. Exception/6. Logging.md",
-    "Programming Languages/Java/3. Exception/5. Assertions.md",
     "Programming Languages/Java/1. OOP/1. Data Classes",
     "Programming Languages/Java/1. OOP/0. OOP Basic",
     "Z-Archive/Pictures/RM/header.png",
@@ -213,7 +214,6 @@
     "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
     "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/Models/2. Stochastic Calculus/Black Scholes",
-    "Quant/Models/1. Time Series Analysis/ARIMA",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
   ]
 }
