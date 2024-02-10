@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "6f79535a19a14f44",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
     "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
     "Big Data/Kafka/2. Architecture.md",
     "Big Data/Kafka/1. Kafka.md",
@@ -181,7 +183,6 @@
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. Ensemble Learning.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/0. Supervised learning algorithms.md",
@@ -195,7 +196,6 @@
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
     "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
-    "Programming Languages/Java/9. Multithreading/0. Intro.md",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/4. Reflection",
     "Programming Languages/Java/1. OOP/1. Data Classes",
