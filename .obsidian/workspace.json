@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5df3e237e7fd1e21",
+        "id": "d8f65f68e36e5427",
         "type": "tabs",
         "children": [
           {
-            "id": "6f79535a19a14f44",
+            "id": "a2afbd3f245dfb98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
+                "file": "Quant/Financial Derivatives/1. Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
+                "file": "Quant/Financial Derivatives/1. Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
+                "file": "Quant/Financial Derivatives/1. Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/Quick check.md"
+                "file": "Quant/Financial Derivatives/1. Options.md"
               }
             }
           },
@@ -167,12 +167,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f79535a19a14f44",
+  "active": "a2afbd3f245dfb98",
   "lastOpenFiles": [
+    "Quant/Financial Derivatives/5. Credit Derivatives.md",
+    "Quant/Financial Derivatives/4. Swaps.md",
+    "Quant/Financial Derivatives/3. Forwards.md",
+    "Quant/Financial Derivatives/1.1 Options Types & Styles.md",
+    "Quant/Financial Derivatives/2. Futures.md",
+    "Quant/Financial Derivatives/1. Options.md",
+    "Quant/Assets/4. Currencies.md",
+    "Quant/Assets/3. Commodities.md",
+    "Quant/Assets/2. Bonds.md",
+    "Quant/Assets/1. Stocks.md",
+    "Quant/Assets/0. Overview.md",
+    "Quant/A practical Guide to quantitative finance interviews.pdf",
+    "Quant/Assets",
+    "Quant/Financial Derivatives",
+    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
+    "Programming Languages/Design Patterns.md",
+    "Databases/MySQL/Quick check.md",
     "Databases/MySQL/6. Constraints.md",
     "Databases/MySQL/7. Exists.md",
     "Databases/MySQL/8. Window Functions.md",
-    "Databases/MySQL/Quick check.md",
     "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. XGBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/10. AdaBoost.md",
@@ -183,19 +199,6 @@
     "Big Data/Hadoop/4. Java API.md",
     "Big Data/Hadoop/3. Shell.md",
     "Big Data/Hadoop/2. HDFS.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Programming Languages/Python/Pytorch/1. Quick Look.md",
-    "Programming Languages/Python/Pytorch/0. Introduction.md",
-    "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/9. Ensemble Learning.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/0. Supervised learning algorithms.md",
-    "Databases/MySQL/5. Join.md",
-    "Databases/MySQL/3. SQL.md",
-    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/8. Specialist topics/2. Boosting with AdaBoost.md",
-    "Data Structures/1. Intermediate/1. Heap.md",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/4. Reflection",
     "Programming Languages/Java/1. OOP/1. Data Classes",
@@ -211,9 +214,6 @@
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Artificial Intelligence/Natural Language Processing/Parsing & Semantic",
-    "Quant/Models/2. Stochastic Calculus/Stochastic Differential Equations",
-    "Quant/Models/2. Stochastic Calculus/Black Scholes",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
   ]
 }
