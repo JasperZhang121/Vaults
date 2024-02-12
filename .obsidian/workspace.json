@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/Financial Derivatives/1. Options.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/Financial Derivatives/1. Options.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/Financial Derivatives/1. Options.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/Financial Derivatives/1. Options.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/12. LightGBM.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "a2afbd3f245dfb98",
   "lastOpenFiles": [
+    "Quant/Financial Derivatives/1. Options.md",
     "Quant/Financial Derivatives/5. Credit Derivatives.md",
     "Quant/Financial Derivatives/4. Swaps.md",
     "Quant/Financial Derivatives/3. Forwards.md",
     "Quant/Financial Derivatives/1.1 Options Types & Styles.md",
     "Quant/Financial Derivatives/2. Futures.md",
-    "Quant/Financial Derivatives/1. Options.md",
     "Quant/Assets/4. Currencies.md",
     "Quant/Assets/3. Commodities.md",
     "Quant/Assets/2. Bonds.md",
