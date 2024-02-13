@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f64a99c9a0676cb9",
+        "id": "68d317e790477de7",
         "type": "tabs",
         "children": [
           {
-            "id": "4faa5bed04c4a5c0",
+            "id": "8a20c25a3b05436e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md"
               }
             }
           },
@@ -167,16 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4faa5bed04c4a5c0",
+  "active": "8a20c25a3b05436e",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.1 Language Modelling.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
+    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
+    "Programming Languages/Java/0. Basic/3. Control Flow.md",
+    "Programming Languages/Java/0. Basic/1. Understand.md",
+    "Programming Languages/Java/0. Basic/0. Intro.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
     "Artificial Intelligence/Machine Learning/Algorithm/10. GBDT.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
     "Artificial Intelligence/Machine Learning/Algorithm/9. Ensemble Learning.md",
     "Quant/Financial Derivatives/1. Options.md",
     "Quant/Financial Derivatives/5. Credit Derivatives.md",
@@ -188,16 +196,9 @@
     "Quant/Assets/3. Commodities.md",
     "Quant/Assets/2. Bonds.md",
     "Quant/Assets/1. Stocks.md",
-    "Quant/Assets/0. Overview.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
     "Quant/Financial Derivatives",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
-    "Programming Languages/Design Patterns.md",
-    "Databases/MySQL/Quick check.md",
-    "Databases/MySQL/6. Constraints.md",
-    "Databases/MySQL/7. Exists.md",
-    "Databases/MySQL/8. Window Functions.md",
     "Big Data/Kafka",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/4. Reflection",
