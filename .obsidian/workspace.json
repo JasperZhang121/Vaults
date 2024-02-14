@@ -11,8 +11,12 @@
             "id": "fe62c4bdf47265e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Warehouse/4. Hive.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Warehouse/4. Hive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Warehouse/4. Hive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Warehouse/4. Hive.md"
+              }
             }
           },
           {
@@ -161,6 +170,11 @@
   },
   "active": "fe62c4bdf47265e8",
   "lastOpenFiles": [
+    "Data Warehouse/2. Layering and Architecture.md",
+    "Data Warehouse/4. Hive.md",
+    "Data Warehouse/1. ETL & ELT.md",
+    "Data Warehouse/0. Key Features.md",
+    "Data Warehouse",
     "Cyber Security/8. Command Injection.md",
     "Cyber Security/5. EternalBlue.md",
     "Cyber Security/4. MetaSploit.md",
@@ -183,10 +197,6 @@
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/0. Basic/3. Control Flow.md",
     "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
     "Quant/Financial Derivatives",
@@ -204,7 +214,6 @@
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
-    "Artificial Intelligence/Data Science/Documnet Analysis/NLP",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
     "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
   ]
