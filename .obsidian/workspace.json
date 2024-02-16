@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/5. Yarn.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/5. Yarn.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/5. Yarn.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/5. Yarn.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md"
               }
             }
           },
@@ -170,6 +170,10 @@
   },
   "active": "7442717d39be1476",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "Big Data/Hadoop/3. HDFS Shell.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Big Data/Hadoop/5. Yarn.md",
     "Data Warehouse/2. Layering and Architecture.md",
     "Data Warehouse/4. Hive.md",
@@ -191,12 +195,8 @@
     "Databases/Redis/Basic/1. Implementation.md",
     "Databases/Redis/Basic/0. Introduction.md",
     "Databases/MySQL/Quick check.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.1 Language Modelling.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
     "Quant/Financial Derivatives",
