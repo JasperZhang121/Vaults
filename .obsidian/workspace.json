@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b291d5350249a043",
+        "id": "2b98b3b8ae98d8d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e3b24b3577784d86",
+            "id": "7442717d39be1476",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Big Data/Hadoop/5. Yarn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Big Data/Hadoop/5. Yarn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Big Data/Hadoop/5. Yarn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Big Data/Hadoop/5. Yarn.md"
+              }
             }
           },
           {
@@ -159,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3b24b3577784d86",
+  "active": "7442717d39be1476",
   "lastOpenFiles": [
-    "Data Warehouse/4. Hive.md",
+    "Big Data/Hadoop/5. Yarn.md",
     "Data Warehouse/2. Layering and Architecture.md",
+    "Data Warehouse/4. Hive.md",
+    "Big Data/Hadoop/4. Java API.md",
     "Data Warehouse/1. ETL & ELT.md",
     "Data Warehouse/0. Key Features.md",
     "Data Warehouse",
@@ -186,8 +197,6 @@
     "Artificial Intelligence/Data Science/Documnet Analysis/NLP/1.1 Language Modelling.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
     "Quant/Financial Derivatives",
