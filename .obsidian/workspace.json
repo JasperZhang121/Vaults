@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0d57388bc2e295",
+        "id": "494c919c219d3b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3df7b65609a2bc8d",
+            "id": "574d4482ae65cd13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md"
+                "file": "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md"
               }
             }
           },
@@ -168,8 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3df7b65609a2bc8d",
+  "active": "574d4482ae65cd13",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/3. Long Short-Term Memory.md",
+    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/4. RNN LM.md",
+    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
     "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
     "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
@@ -192,11 +196,6 @@
     "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
     "Databases/Redis/Basic/5. Commands Reference.md",
     "Databases/Redis/Basic/4. Basic Commands.md",
-    "Databases/Redis/Basic/3. Data Type.md",
-    "Databases/Redis/Basic/2. Command Server.md",
-    "Databases/Redis/Basic/1. Implementation.md",
-    "Databases/Redis/Basic/0. Introduction.md",
-    "Databases/MySQL/Quick check.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
     "Quant/Financial Derivatives",
