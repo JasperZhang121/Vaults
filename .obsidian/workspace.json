@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23007731d476d8f8",
+        "id": "05f960cca67a4063",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad5e784d4cf5f21",
+            "id": "b0df6c97a1ef8c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md"
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md"
               }
             }
           },
@@ -167,10 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ad5e784d4cf5f21",
+  "active": "b0df6c97a1ef8c03",
   "lastOpenFiles": [
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
+    "Big Data/Hadoop/3. HDFS Shell.md",
+    "Big Data/Hadoop/4. Java API.md",
+    "Big Data/Hadoop/5. Yarn.md",
+    "Big Data/Spark/2. Spark SQL.md",
+    "Big Data/Kafka/2. Architecture.md",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/0. Basic/1. Understand.md",
     "Programming Languages/Java/0. Basic/0. Intro.md",
@@ -188,13 +195,6 @@
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0.1. Neural Network.md",
     "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/4. Naive Bayesian Classifier.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/2. Logistic Regression.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "Big Data/Hadoop/3. HDFS Shell.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Big Data/Hadoop/5. Yarn.md",
     "Data Warehouse",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
