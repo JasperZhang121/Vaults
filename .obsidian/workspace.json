@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f09459d945dc9185",
+        "id": "e19982333b5af2fa",
         "type": "tabs",
         "children": [
           {
-            "id": "085abe9c45534ab5",
+            "id": "4119ff06b5e543dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md",
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md"
+                "file": "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md"
               }
             }
           },
@@ -170,8 +170,18 @@
   },
   "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
     "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/1. Decision Tree Induction.md",
+    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/5. Feature Selection.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/4. Rule-Based Classification.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/5. Classification & Prediction/9. Classification, Decision Trees, Bayes, Evaluation.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/1. Encoder.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/2. Decorder.md",
     "Quant/Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
@@ -186,16 +196,6 @@
     "Git/0. Concepts.md",
     "Programming Languages/R/Rattle/0.  Basic.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Big Data/Hadoop/3. HDFS Shell.md",
-    "Big Data/Hadoop/4. Java API.md",
-    "Big Data/Hadoop/5. Yarn.md",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Big Data/Kafka/2. Architecture.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Data Warehouse",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
