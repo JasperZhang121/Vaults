@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lasso",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md"
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md"
               }
             }
           },
@@ -170,6 +169,11 @@
   },
   "active": "1280442c028e1f6e",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/5. Transformer/1. Encoder.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/2. Decorder.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
+    "Artificial Intelligence/Machine Learning/Data/Special Evaluation Method/2. Regularization.md",
     "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/10. GBDT.md",
@@ -191,11 +195,6 @@
     "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/5. Feature Selection.md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
     "Artificial Intelligence/Machine Learning/Algorithm/3. K-nearest Neighbors.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
-    "Artificial Intelligence/Deep Learning/0. Basics.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer/3. BERT.md",
     "Data Warehouse",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
