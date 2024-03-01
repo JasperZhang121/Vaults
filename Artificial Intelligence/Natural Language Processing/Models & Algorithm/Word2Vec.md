@@ -41,32 +41,32 @@ Both are neural networks, ffter training, we extract the weights from the hidden
 
 ----
 
-# Word2Vec Training using Skip-Gram Model
+### Word2Vec Training using Skip-Gram Model
 
-## Data Preparation
+#### Data Preparation
 1. Tokenize the text data into words.
 2. Create a vocabulary of unique words.
 
-## One-Hot Encoding
+#### One-Hot Encoding
 1. Represent each word in the vocabulary as a one-hot encoded vector.
 2. If vocabulary size is $V$, each word's one-hot vector has length $V$, with '1' at the word's index and '0' elsewhere.
 
-## Neural Network Architecture
+#### Neural Network Architecture
 1. The neural network consists of:
    - Input layer: Equal to vocabulary size ($V$).
    - Hidden layer: The embedding layer with size $N$, where $N$ is the desired size of word embeddings.
    - Output layer: Equal to vocabulary size ($V$).
 
-## Objective Function (Loss Function)
+#### Objective Function (Loss Function)
 1. The loss function is the negative log likelihood.
 2. For a single training pair (target word, context word):
    - Loss: $J(\theta) = -\log P(\text{context word}|\text{target word})$
 
-## Softmax Function
+#### Softmax Function
 1. Calculate predicted probabilities using the softmax function:
    - $P(\text{context word}|\text{target word}) = \frac{e^{\text{context embedding} \cdot \text{target embedding}}}{\sum_{w \in \text{vocabulary}} e^{\text{context embedding} \cdot \text{embedding}_w}}$
 
-## Training
+#### Training
 1. Initialize the embedding layer weights randomly.
 2. For each training pair (target word, context word):
    - Forward pass to calculate predicted probabilities.
@@ -74,14 +74,11 @@ Both are neural networks, ffter training, we extract the weights from the hidden
    - Backpropagation to calculate gradients.
    - Update embedding layer weights using gradient descent.
 
-## Learning Word Embeddings
+#### Learning Word Embeddings
 1. After training, the weights of the embedding layer represent word embeddings.
 2. These embeddings capture semantic relationships between words based on co-occurrence patterns.
 
-## Word Similarity
+#### Word Similarity
 1. Use cosine similarity or other distance metrics to measure semantic similarity between word embeddings.
 2. Similar words will have similar vector representations.
-
-## Note
-This guide provides a simplified explanation of Word2Vec training. In practice, Word2Vec involves complex mathematics, optimizations, and training considerations. Libraries like Gensim in Python offer efficient Word2Vec implementations.
 
