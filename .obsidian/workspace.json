@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "320035f244c38e8e",
+        "id": "ee112dada24c8dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "f6aa92f84bc0f663",
+            "id": "f04c670b54a8b0f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Kaggle/Binary Prediction Templete.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Kaggle/Binary Prediction Templete.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Kaggle/Binary Prediction Templete.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Kaggle/Binary Prediction Templete.md"
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md"
               }
             }
           },
@@ -168,8 +167,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6aa92f84bc0f663",
+  "active": "f04c670b54a8b0f8",
   "lastOpenFiles": [
+    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
+    "Programming Languages/Java/0. Basic/1. Understand.md",
+    "Programming Languages/Java/0. Basic/0. Intro.md",
+    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
+    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
+    "Computer Operating System/Linux/Basic Linux/5. GCC.md",
+    "Computer Operating System/Linux/Basic Linux/4. Extra.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
+    "Algorithm/Kaggle/Binary Prediction Templete.md",
     "Artificial Intelligence/Machine Learning/Data/Modify Data/5. Principal Component Analysis.md",
     "README.md",
     "Artificial Intelligence/Machine Learning/Data/Preprocessing.md",
@@ -181,21 +195,6 @@
     "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Deep Learning/6. Multimodal/4. Key Multimodal Models.md",
-    "Artificial Intelligence/Deep Learning/6. Multimodal/3. Representation Learning.md",
-    "Artificial Intelligence/Deep Learning/6. Multimodal/1. Alignment.md",
-    "Artificial Intelligence/Deep Learning/6. Multimodal/0 Multimodal Learning.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/1. Components.md",
-    "Artificial Intelligence/Natural Language Processing/Basics/1. Pipeline.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
-    "Artificial Intelligence/Data Science/Documnet Analysis/ML in NLP/1.  Word2Vec.md",
-    "Big Data/Spark/1. Spark.md",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Algorithm/Complexity.md",
-    "Artificial Intelligence/Symbolic AI/3. Planning and Decision Making/1. Exercises/Heuristics, Regression, and Partial-Order Planning.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
     "Artificial Intelligence/Deep Learning/0. Basic",
     "Artificial Intelligence/Deep Learning/6. Multimodal",
     "Data Warehouse",
