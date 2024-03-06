@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46e2afb0a2587282",
+        "id": "320035f244c38e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc72f843e153df07",
+            "id": "f6aa92f84bc0f663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Kaggle/Binary Prediction Templete.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PCA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Kaggle/Binary Prediction Templete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Kaggle/Binary Prediction Templete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithm/Kaggle/Binary Prediction Templete.md"
               }
             }
           },
@@ -167,15 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc72f843e153df07",
+  "active": "f6aa92f84bc0f663",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Data/Modify Data/5. Principal Component Analysis.md",
+    "README.md",
+    "Artificial Intelligence/Machine Learning/Data/Preprocessing.md",
+    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/2. Exploratory Data Analysis.md",
+    "Artificial Intelligence/Deep Learning/6. Multimodal/2. Fusion.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
+    "Computer Networking/Question Sheet.md",
     "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
     "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
     "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Deep Learning/6. Multimodal/4. Key Multimodal Models.md",
     "Artificial Intelligence/Deep Learning/6. Multimodal/3. Representation Learning.md",
-    "Artificial Intelligence/Deep Learning/6. Multimodal/2. Fusion.md",
     "Artificial Intelligence/Deep Learning/6. Multimodal/1. Alignment.md",
     "Artificial Intelligence/Deep Learning/6. Multimodal/0 Multimodal Learning.md",
     "Artificial Intelligence/Natural Language Processing/Basics/1. Components.md",
@@ -189,12 +196,6 @@
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Deep Learning/2. Recurrent Neural Networks/1. Recurrent Neural Networks (RNNs).md",
-    "Statistics/2. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
-    "Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning/Transfer Learning.md",
-    "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
-    "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
-    "Artificial Intelligence/Deep Learning/0. Basic/0. Backpropagation.md",
     "Artificial Intelligence/Deep Learning/0. Basic",
     "Artificial Intelligence/Deep Learning/6. Multimodal",
     "Data Warehouse",
