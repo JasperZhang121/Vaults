@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee112dada24c8dd8",
+        "id": "3ed3bdb9270c7e87",
         "type": "tabs",
         "children": [
           {
-            "id": "f04c670b54a8b0f8",
+            "id": "fceeccf9c2c5b4ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,34 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f04c670b54a8b0f8",
+  "active": "fceeccf9c2c5b4ec",
   "lastOpenFiles": [
+    "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/9. IO/2. Network based.md",
+    "Programming Languages/Java/9. IO/0. Intro.md",
+    "Programming Languages/Java/5. Annotation/3. Processing Annotations.md",
+    "Programming Languages/Java/5. Annotation/2. Defining Annotations.md",
+    "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
+    "Programming Languages/Java/5. Annotation",
+    "Programming Languages/Java/0. Basic/Untitled.md",
+    "Programming Languages/Java/4. Reflection/6. Dynamic Proxy.md",
+    "Programming Languages/Java/4. Reflection/5. Inheritance Relationships.md",
+    "Programming Languages/Java/4. Reflection/4. Invoke Constructor Methods.md",
+    "Programming Languages/Java/4. Reflection/3. Invoke Method.md",
+    "Programming Languages/Java/4. Reflection/2. Field Information.md",
+    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
+    "Programming Languages/Java/3. Exception/Commons Logging.md",
+    "Programming Languages/Java/2. Collections Framework/0. List.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/7. BigDecimal.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/6. BigInteger.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/5. Record.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/4. Enum.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/2. Wrapper Class.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
-    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
-    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
-    "Computer Operating System/Linux/Basic Linux/5. GCC.md",
-    "Computer Operating System/Linux/Basic Linux/4. Extra.md",
-    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
-    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
-    "Algorithm/Kaggle/Binary Prediction Templete.md",
-    "Artificial Intelligence/Machine Learning/Data/Modify Data/5. Principal Component Analysis.md",
-    "README.md",
-    "Artificial Intelligence/Machine Learning/Data/Preprocessing.md",
-    "Artificial Intelligence/Data Science/Data Mining/1. Fundamentals/2. Exploratory Data Analysis.md",
-    "Artificial Intelligence/Deep Learning/6. Multimodal/2. Fusion.md",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/1. Unsupervised learning algorithms.md",
-    "Computer Networking/Question Sheet.md",
     "Artificial Intelligence/Deep Learning/0. Basic",
     "Artificial Intelligence/Deep Learning/6. Multimodal",
     "Data Warehouse",
@@ -204,7 +197,6 @@
     "Big Data/Kafka",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/4. Reflection",
-    "Programming Languages/Java/1. OOP/1. Data Classes",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
