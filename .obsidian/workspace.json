@@ -11,8 +11,12 @@
             "id": "fceeccf9c2c5b4ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/6. Generics/4. The extends Wildcard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Java/6. Generics/4. The extends Wildcard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Java/6. Generics/4. The extends Wildcard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Java/6. Generics/4. The extends Wildcard.md"
+              }
             }
           },
           {
@@ -161,9 +169,15 @@
   },
   "active": "fceeccf9c2c5b4ec",
   "lastOpenFiles": [
+    "Programming Languages/Java/6. Generics/3. Type Erasure.md",
+    "Programming Languages/Java/6. Generics/4. The extends Wildcard.md",
+    "Programming Languages/Java/6. Generics/2. Writing Generics.md",
+    "Programming Languages/Java/6. Generics/1. Using Generics.md",
+    "Programming Languages/Java/6. Generics/0. Intro.md",
+    "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
-    "Programming Languages/Java/9. IO/2. Network based.md",
-    "Programming Languages/Java/9. IO/0. Intro.md",
+    "Programming Languages/Java/8. IO/2. Network based.md",
+    "Programming Languages/Java/8. IO/0. Intro.md",
     "Programming Languages/Java/5. Annotation/3. Processing Annotations.md",
     "Programming Languages/Java/5. Annotation/2. Defining Annotations.md",
     "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
@@ -183,11 +197,6 @@
     "Programming Languages/Java/1. OOP/1. Data Classes/4. Enum.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/3. JavaBean.md",
     "Programming Languages/Java/1. OOP/1. Data Classes/2. Wrapper Class.md",
-    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
     "Artificial Intelligence/Deep Learning/0. Basic",
     "Artificial Intelligence/Deep Learning/6. Multimodal",
     "Data Warehouse",
@@ -196,7 +205,6 @@
     "Quant/Financial Derivatives",
     "Big Data/Kafka",
     "Programming Languages/Java/9. Multithreading",
-    "Programming Languages/Java/4. Reflection",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
