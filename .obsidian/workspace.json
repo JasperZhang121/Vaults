@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef85220deb1b8bc6",
+        "id": "8460ccada45d6c78",
         "type": "tabs",
         "children": [
           {
-            "id": "61cf1a5f0c400c28",
+            "id": "42da30538088d6e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/7. IO/2. InputStream.md",
+                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/7. IO/2. InputStream.md",
+                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/7. IO/2. InputStream.md",
+                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/7. IO/2. InputStream.md"
+                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md"
               }
             }
           },
@@ -167,34 +167,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61cf1a5f0c400c28",
+  "active": "42da30538088d6e5",
   "lastOpenFiles": [
-    "Programming Languages/Java/7. IO/Untitled.md",
-    "Programming Languages/Java/7. IO/2. InputStream.md",
-    "Programming Languages/Java/7. IO/1. File Object.md",
+    "Programming Languages/Java/10. Multithreading/3. Interrupting Threads.md",
+    "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
+    "Programming Languages/Java/10. Multithreading/2. Thread States.md",
+    "Programming Languages/Java/10. Multithreading/1. Creating a New Thread.md",
+    "Programming Languages/Java/10. Multithreading/0. Basics.md",
     "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
-    "Programming Languages/Java/2. Collections/13. Collections.md",
-    "Programming Languages/Java/7. IO/0. Intro.md",
-    "Programming Languages/Java/7. IO/1. Advanced.md",
-    "Programming Languages/Java/7. IO/2. Network based.md",
-    "Programming Languages/Java/2. Collections/12. Iterator.md",
-    "Programming Languages/Java/2. Collections/11. Stack.md",
-    "Programming Languages/Java/2. Collections/10. Using Deque.md",
-    "Programming Languages/Java/2. Collections/9. PriorityQueue.md",
-    "Programming Languages/Java/2. Collections/8. Queue.md",
-    "Programming Languages/Java/2. Collections/7. Set.md",
-    "Programming Languages/Java/2. Collections/6. Properties.md",
-    "Programming Languages/Java/2. Collections/5. TreeMap.md",
-    "Programming Languages/Java/2. Collections/4. EnumMap.md",
-    "Programming Languages/Java/2. Collections/3. equals and hashCode.md",
-    "Programming Languages/Java/2. Collections/1. equals.md",
-    "Programming Languages/Java/2. Collections/0. List.md",
-    "Programming Languages/Java/2. Collections/2. Map.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/Untitled.md",
+    "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/8. Test/5. Parameterized Testing.md",
+    "Programming Languages/Java/8. Test/4. Conditional Testing.md",
+    "Programming Languages/Java/8. Test/3. Testing Exceptions.md",
+    "Programming Languages/Java/8. Test/2. Fixtures.md",
+    "Programming Languages/Java/8. Test/1. JUnit Tests.md",
+    "Programming Languages/Java/7. IO/11. Using Files.md",
+    "Programming Languages/Java/8. Test",
+    "Programming Languages/Java/7. IO/10. PrintStream and PrintWriter.md",
+    "Programming Languages/Java/7. IO/9. Writer.md",
+    "Programming Languages/Java/7. IO/8. Reader.md",
+    "Programming Languages/Java/7. IO/7. Serialization.md",
+    "Programming Languages/Java/7. IO/6. Classpath Resources.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
     "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
+    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
@@ -204,7 +205,6 @@
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/Assets",
     "Quant/Financial Derivatives",
-    "Big Data/Kafka",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
