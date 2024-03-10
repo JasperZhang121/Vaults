@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8460ccada45d6c78",
+        "id": "d06230849c2a5350",
         "type": "tabs",
         "children": [
           {
-            "id": "42da30538088d6e5",
+            "id": "c532abf5e52b1011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,14 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42da30538088d6e5",
+  "active": "c532abf5e52b1011",
   "lastOpenFiles": [
-    "Programming Languages/Java/10. Multithreading/3. Interrupting Threads.md",
+    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
+    "Programming Languages/Java/10. Multithreading/10. ReadWriteLock.md",
+    "Programming Languages/Java/10. Multithreading/9. ReentrantLock.md",
+    "Programming Languages/Java/10. Multithreading/8. wait and notify.md",
+    "Programming Languages/Java/10. Multithreading/7. Deadlock.md",
+    "Programming Languages/Java/10. Multithreading/6. Synchronized Methods.md",
+    "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
     "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
+    "Programming Languages/Java/10. Multithreading/3. Interrupting Threads.md",
     "Programming Languages/Java/10. Multithreading/2. Thread States.md",
     "Programming Languages/Java/10. Multithreading/1. Creating a New Thread.md",
     "Programming Languages/Java/10. Multithreading/0. Basics.md",
-    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
     "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/8. Test/5. Parameterized Testing.md",
@@ -190,12 +188,6 @@
     "Programming Languages/Java/7. IO/7. Serialization.md",
     "Programming Languages/Java/7. IO/6. Classpath Resources.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/3. Polymorphism.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/0. Intro.md",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
