@@ -11,8 +11,12 @@
             "id": "c532abf5e52b1011",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md"
+              }
             }
           },
           {
@@ -161,6 +169,8 @@
   },
   "active": "c532abf5e52b1011",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/5. Transformer/4. XLNet.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
     "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/10. Multithreading/10. ReadWriteLock.md",
     "Programming Languages/Java/10. Multithreading/9. ReentrantLock.md",
@@ -186,8 +196,6 @@
     "Programming Languages/Java/7. IO/9. Writer.md",
     "Programming Languages/Java/7. IO/8. Reader.md",
     "Programming Languages/Java/7. IO/7. Serialization.md",
-    "Programming Languages/Java/7. IO/6. Classpath Resources.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
