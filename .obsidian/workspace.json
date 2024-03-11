@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d06230849c2a5350",
+        "id": "447b7e519440539f",
         "type": "tabs",
         "children": [
           {
-            "id": "c532abf5e52b1011",
+            "id": "6f27c984a7f62b42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c532abf5e52b1011",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/5. Transformer/4. XLNet.md",
+    "Programming Languages/Python/Pip.md",
+    "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
+    "Artificial Intelligence/Deep Learning/5. Transformer/4. XLNet.md",
     "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/10. Multithreading/10. ReadWriteLock.md",
     "Programming Languages/Java/10. Multithreading/9. ReentrantLock.md",
@@ -194,8 +188,6 @@
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. IO/10. PrintStream and PrintWriter.md",
     "Programming Languages/Java/7. IO/9. Writer.md",
-    "Programming Languages/Java/7. IO/8. Reader.md",
-    "Programming Languages/Java/7. IO/7. Serialization.md",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
