@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+                "file": "Programming Languages/Python/3. OOP/11. Metaclasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+                "file": "Programming Languages/Python/3. OOP/11. Metaclasses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+                "file": "Programming Languages/Python/3. OOP/11. Metaclasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md"
+                "file": "Programming Languages/Python/3. OOP/11. Metaclasses.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "2b2c30ac5b1999aa",
   "lastOpenFiles": [
-    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
+    "Programming Languages/Python/3. OOP/10. Enum Classes.md",
+    "Programming Languages/Python/3. OOP/11. Metaclasses.md",
     "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
     "Programming Languages/Python/3. OOP/7. @property.md",
     "Programming Languages/Python/3. OOP/6. __slots__.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/0. Numpy.md",
@@ -193,8 +195,6 @@
     "Computer Networking/1. Overview/4. Layered Architecture.md",
     "Computer Networking/1. Overview/3. Network Latency and Performance.md",
     "Computer Networking/1. Overview/2. Data Rate.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Programming Languages/Python/1. Pytorch/0. Introduction.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
