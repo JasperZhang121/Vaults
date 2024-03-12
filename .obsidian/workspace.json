@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd742e1020d5122",
+        "id": "1ff767161041354c",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a8f5eddf10e849",
+            "id": "2b2c30ac5b1999aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Python/3. OOP/9. Customizing Classes.md"
+              }
             }
           },
           {
@@ -159,11 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "2b2c30ac5b1999aa",
   "lastOpenFiles": [
+    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
+    "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+    "Programming Languages/Python/3. OOP/7. @property.md",
+    "Programming Languages/Python/3. OOP/6. __slots__.md",
+    "Programming Languages/Python/0. Data Analysis & Modeling & ML/0. Numpy.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/2. PySpark.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/0. Numpy.md",
+    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
+    "Programming Languages/Python/3. OOP/4. Object Information.md",
+    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
+    "Programming Languages/Python/3. OOP/3. Polymorphism.md",
+    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
+    "Programming Languages/Python/3. OOP/2. Access Control.md",
+    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
     "Programming Languages/Python/Pip.md",
     "Programming Languages/Python/2. Flask/1. URL and View Mapping.md",
     "Programming Languages/Python/2. Flask/0. Start.md",
@@ -176,17 +195,6 @@
     "Computer Networking/1. Overview/2. Data Rate.md",
     "Computer Networking/1. Overview/1. Concept.md",
     "Programming Languages/Python/1. Pytorch/0. Introduction.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer/5. GPT.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer/4. XLNet.md",
-    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
-    "Programming Languages/Java/10. Multithreading/10. ReadWriteLock.md",
-    "Programming Languages/Java/10. Multithreading/9. ReentrantLock.md",
-    "Programming Languages/Java/10. Multithreading/8. wait and notify.md",
-    "Programming Languages/Java/10. Multithreading/7. Deadlock.md",
-    "Programming Languages/Java/10. Multithreading/6. Synchronized Methods.md",
-    "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
-    "Programming Languages/Java/10. Multithreading/4. Daemon Threads.md",
-    "Programming Languages/Java/10. Multithreading/3. Interrupting Threads.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
