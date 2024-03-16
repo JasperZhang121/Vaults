@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cee331fd17674084",
+        "id": "9aa7a8c3ef78abd6",
         "type": "tabs",
         "children": [
           {
-            "id": "6cfe3187d543a913",
+            "id": "89d3cc31129ed6f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Databases/MySQL/3. SQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Databases/MySQL/3. SQL.md"
+              }
             }
           },
           {
@@ -159,8 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cfe3187d543a913",
+  "active": "89d3cc31129ed6f3",
   "lastOpenFiles": [
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/1. Tables.md",
+    "Databases/MySQL/0. Precedence.md",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Spark/2. Spark SQL.md",
+    "Data Warehouse/1. ETL & ELT.md",
+    "Data Warehouse/0. Key Features.md",
     "Programming Languages/Python/3. OOP/11. Metaclasses.md",
     "Programming Languages/Python/3. OOP/10. Enum Classes.md",
     "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
@@ -180,13 +195,6 @@
     "Programming Languages/Python/Pip.md",
     "Programming Languages/Python/2. Flask/1. URL and View Mapping.md",
     "Programming Languages/Python/2. Flask/0. Start.md",
-    "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Networking/1. Overview/4. Layered Architecture.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Computer Networking/1. Overview/2. Data Rate.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
