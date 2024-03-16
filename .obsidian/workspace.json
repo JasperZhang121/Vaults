@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa7a8c3ef78abd6",
+        "id": "1b807b2dea05cde2",
         "type": "tabs",
         "children": [
           {
-            "id": "89d3cc31129ed6f3",
+            "id": "460e060f71273223",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/MySQL/3. SQL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Databases/MySQL/3. SQL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89d3cc31129ed6f3",
+  "active": "460e060f71273223",
   "lastOpenFiles": [
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
+    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
+    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
+    "Databases/MySQL/Quick check.md",
+    "Databases/MySQL/3. SQL.md",
+    "Databases/MySQL/4. Queries.md",
+    "Databases/MySQL/7. Exists.md",
+    "Databases/MySQL/6. Constraints.md",
+    "Databases/MySQL/8. Window Functions.md",
+    "Databases/MySQL/5. Join.md",
     "Databases/MySQL/2. Data Type.md",
     "Databases/MySQL/1. Tables.md",
     "Databases/MySQL/0. Precedence.md",
@@ -182,19 +187,6 @@
     "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
     "Programming Languages/Python/3. OOP/7. @property.md",
     "Programming Languages/Python/3. OOP/6. __slots__.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/0. Numpy.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/2. PySpark.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
-    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
-    "Programming Languages/Python/3. OOP/4. Object Information.md",
-    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
-    "Programming Languages/Python/3. OOP/3. Polymorphism.md",
-    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
-    "Programming Languages/Python/3. OOP/2. Access Control.md",
-    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
-    "Programming Languages/Python/Pip.md",
-    "Programming Languages/Python/2. Flask/1. URL and View Mapping.md",
-    "Programming Languages/Python/2. Flask/0. Start.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
