@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b807b2dea05cde2",
+        "id": "67ad80188d6502ea",
         "type": "tabs",
         "children": [
           {
-            "id": "460e060f71273223",
+            "id": "d179b43d2de39a8a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Databases/MySQL/8. Window Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Databases/MySQL/8. Window Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Databases/MySQL/8. Window Functions.md"
+              }
             }
           },
           {
@@ -159,15 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "460e060f71273223",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Databases/MySQL/Quick check.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
-    "Databases/MySQL/Quick check.md",
     "Databases/MySQL/3. SQL.md",
     "Databases/MySQL/4. Queries.md",
     "Databases/MySQL/7. Exists.md",
