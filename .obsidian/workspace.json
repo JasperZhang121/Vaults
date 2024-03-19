@@ -11,8 +11,12 @@
             "id": "d179b43d2de39a8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Databases/MySQL/8. Window Functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -163,9 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "d179b43d2de39a8a",
   "lastOpenFiles": [
     "Databases/MySQL/Quick check.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/11. AdaBoost.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/10. GBDT.md",
+    "Computer Operating System/Knowledge Base/0. Abstraction/2. The Abstraction-Address Spaces.md",
+    "Computer Operating System/Knowledge Base/0. Abstraction/1. Structure.md",
+    "Computer Operating System/Knowledge Base/0. Abstraction/0. Introduction.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
@@ -184,13 +195,6 @@
     "Big Data/Spark/1. Spark.md",
     "Big Data/Spark/2. Spark SQL.md",
     "Data Warehouse/1. ETL & ELT.md",
-    "Data Warehouse/0. Key Features.md",
-    "Programming Languages/Python/3. OOP/11. Metaclasses.md",
-    "Programming Languages/Python/3. OOP/10. Enum Classes.md",
-    "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
-    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
-    "Programming Languages/Python/3. OOP/7. @property.md",
-    "Programming Languages/Python/3. OOP/6. __slots__.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
