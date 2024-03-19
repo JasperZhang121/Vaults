@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md",
+                "file": "Databases/MySQL/0. Precedence.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md",
+                "file": "Databases/MySQL/0. Precedence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md",
+                "file": "Databases/MySQL/0. Precedence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md"
+                "file": "Databases/MySQL/0. Precedence.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "d179b43d2de39a8a",
   "lastOpenFiles": [
     "Databases/MySQL/Quick check.md",
+    "Databases/MySQL/8. Window Functions.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. AdaBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
     "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
@@ -187,7 +188,6 @@
     "Databases/MySQL/4. Queries.md",
     "Databases/MySQL/7. Exists.md",
     "Databases/MySQL/6. Constraints.md",
-    "Databases/MySQL/8. Window Functions.md",
     "Databases/MySQL/5. Join.md",
     "Databases/MySQL/2. Data Type.md",
     "Databases/MySQL/1. Tables.md",
