@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "67ad80188d6502ea",
+        "id": "3d699a96d67f17ab",
         "type": "tabs",
         "children": [
           {
-            "id": "d179b43d2de39a8a",
+            "id": "fe1a0af8249ea483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md",
+                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d1a0af8ff7cd2a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md",
+                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md",
+                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/0. Precedence.md"
+                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md"
               }
             }
           },
@@ -167,8 +178,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d179b43d2de39a8a",
+  "active": "6d1a0af8ff7cd2a8",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
+    "Computer Organization and Architecture/CPU/1. CPU architecture.md",
+    "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
+    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
+    "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
+    "Computer Operating System/Knowledge Base/0. Abstraction/1. Structure.md",
+    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
+    "Data Structures/1. Intermediate/2. Hash Table.md",
+    "Data Structures/1. Intermediate/1. Heap.md",
+    "Data Structures/0. Simple/2. Stack.md",
+    "Data Structures/0. Simple/3. Queue.md",
+    "Data Structures/2. Complex/6. B+ Tree.md",
+    "Data Structures/2. Complex/5. B-Tree.md",
+    "Databases/MySQL/0. Precedence.md",
     "Databases/MySQL/Quick check.md",
     "Databases/MySQL/8. Window Functions.md",
     "Artificial Intelligence/Machine Learning/Algorithm/11. AdaBoost.md",
@@ -176,25 +201,11 @@
     "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
     "Artificial Intelligence/Machine Learning/Algorithm/10. GBDT.md",
     "Computer Operating System/Knowledge Base/0. Abstraction/2. The Abstraction-Address Spaces.md",
-    "Computer Operating System/Knowledge Base/0. Abstraction/1. Structure.md",
     "Computer Operating System/Knowledge Base/0. Abstraction/0. Introduction.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
     "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
-    "Databases/MySQL/3. SQL.md",
-    "Databases/MySQL/4. Queries.md",
-    "Databases/MySQL/7. Exists.md",
-    "Databases/MySQL/6. Constraints.md",
-    "Databases/MySQL/5. Join.md",
-    "Databases/MySQL/2. Data Type.md",
-    "Databases/MySQL/1. Tables.md",
-    "Databases/MySQL/0. Precedence.md",
-    "Big Data/Spark/1. Spark.md",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Data Warehouse/1. ETL & ELT.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
