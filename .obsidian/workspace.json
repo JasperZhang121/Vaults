@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3d699a96d67f17ab",
+        "id": "c155df2918c7fce3",
         "type": "tabs",
         "children": [
           {
-            "id": "fe1a0af8249ea483",
+            "id": "618d0eb56ec25d41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md",
+                "file": "Programming Languages/Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d1a0af8ff7cd2a8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md",
+                "file": "Programming Languages/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md",
+                "file": "Programming Languages/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/CPU/1. CPU architecture.md"
+                "file": "Programming Languages/Design Patterns.md"
               }
             }
           },
@@ -178,10 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d1a0af8ff7cd2a8",
+  "active": "618d0eb56ec25d41",
   "lastOpenFiles": [
-    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
+    "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
+    "Computer Networking/4. Network Layer/3. IPv6.md",
+    "Computer Networking/4. Network Layer/2. Internet Protocol (IP).md",
+    "Computer Networking/4. Network Layer/0. IP Addressing.md",
+    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
+    "Computer Networking/3. Data Link Layer/2. Framing Methods.md",
+    "Computer Networking/2. Physical Layer/2. Symbol.md",
+    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Computer Networking/1. Overview/5. OSI.md",
     "Computer Organization and Architecture/CPU/1. CPU architecture.md",
+    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
     "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
     "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
     "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
@@ -195,17 +195,6 @@
     "Data Structures/2. Complex/5. B-Tree.md",
     "Databases/MySQL/0. Precedence.md",
     "Databases/MySQL/Quick check.md",
-    "Databases/MySQL/8. Window Functions.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/11. AdaBoost.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/13. LightGBM.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/12. XGBoost.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/10. GBDT.md",
-    "Computer Operating System/Knowledge Base/0. Abstraction/2. The Abstraction-Address Spaces.md",
-    "Computer Operating System/Knowledge Base/0. Abstraction/0. Introduction.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
