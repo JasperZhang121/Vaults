@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c155df2918c7fce3",
+        "id": "29d4a04a765e253d",
         "type": "tabs",
         "children": [
           {
-            "id": "618d0eb56ec25d41",
+            "id": "44da257159f91c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Design Patterns.md"
+                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md"
               }
             }
           },
@@ -167,8 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "618d0eb56ec25d41",
+  "active": "44da257159f91c7d",
   "lastOpenFiles": [
+    "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
+    "Blockchain/1. Basics and Fundamentals",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/5. Yarn.md",
+    "Big Data/Hadoop/4. Java API.md",
+    "Big Data/Hadoop/3. HDFS Shell.md",
+    "Big Data/Hadoop/2. HDFS.md",
+    "Programming Languages/Rust/0. Started/0. Rustc.md",
+    "Blockchain",
+    "Programming Languages/Design Patterns.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
     "Computer Networking/4. Network Layer/3. IPv6.md",
@@ -187,14 +198,6 @@
     "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
     "Computer Operating System/Knowledge Base/0. Abstraction/1. Structure.md",
     "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
-    "Data Structures/1. Intermediate/2. Hash Table.md",
-    "Data Structures/1. Intermediate/1. Heap.md",
-    "Data Structures/0. Simple/2. Stack.md",
-    "Data Structures/0. Simple/3. Queue.md",
-    "Data Structures/2. Complex/6. B+ Tree.md",
-    "Data Structures/2. Complex/5. B-Tree.md",
-    "Databases/MySQL/0. Precedence.md",
-    "Databases/MySQL/Quick check.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
@@ -203,8 +206,6 @@
     "Artificial Intelligence/Deep Learning/6. Multimodal",
     "Data Warehouse",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "Quant/Assets",
-    "Quant/Financial Derivatives",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
