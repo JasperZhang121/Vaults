@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29d4a04a765e253d",
+        "id": "2bb3db4c7c2056b6",
         "type": "tabs",
         "children": [
           {
-            "id": "44da257159f91c7d",
+            "id": "5f0e7e5921e011ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
+                "file": "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
+                "file": "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md"
+                "file": "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md"
               }
             }
           },
@@ -168,9 +163,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44da257159f91c7d",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Blockchain/1. Basics and Fundamentals/Overview of Blockchain Technology.md",
+    "Blockchain/5. Use Cases and Applications",
+    "Blockchain/4. Smart Contracts and DApps/1. Testing and Deployment.md",
+    "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
+    "Blockchain/4. Smart Contracts and DApps/0. Development of Smart Contracts.md",
+    "Blockchain/3. Blockchain Platforms/3. Hyperledger.md",
+    "Blockchain/4. Smart Contracts and DApps",
+    "Blockchain/3. Blockchain Platforms/1. Bitcoin.md",
+    "Blockchain/3. Blockchain Platforms/0. Ethereum.md",
+    "Blockchain/3. Blockchain Platforms/2. Mining.md",
+    "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+    "Blockchain/3. Blockchain Platforms",
+    "Blockchain/2. Technical Aspects/1. Cryptography.md",
+    "Blockchain/2. Technical Aspects/0. How Blockchain Works.md",
+    "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
+    "Blockchain/2. Technical Aspects",
+    "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
+    "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
+    "Blockchain/1. Basics and Fundamentals/1. History and Evolution of Blockchain.md",
+    "Blockchain/1. Basics and Fundamentals/0. Overview of Blockchain Technology.md",
     "Blockchain/1. Basics and Fundamentals",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Big Data/Hadoop/5. Yarn.md",
@@ -183,29 +196,11 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
     "Computer Networking/4. Network Layer/3. IPv6.md",
-    "Computer Networking/4. Network Layer/2. Internet Protocol (IP).md",
-    "Computer Networking/4. Network Layer/0. IP Addressing.md",
-    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
-    "Computer Networking/3. Data Link Layer/2. Framing Methods.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Organization and Architecture/CPU/1. CPU architecture.md",
-    "Computer Organization and Architecture/CPU/2. CPU Modes.md",
-    "Computer Organization and Architecture/CPU/0. Instruction Set Architecture (ISA).md",
-    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
-    "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
-    "Computer Operating System/Knowledge Base/0. Abstraction/1. Structure.md",
-    "Computer Operating System/Write an OS/3. Global Descriptor Table.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
     "Artificial Intelligence/Deep Learning/0. Basic",
-    "Artificial Intelligence/Deep Learning/6. Multimodal",
-    "Data Warehouse",
-    "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
