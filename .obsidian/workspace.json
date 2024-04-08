@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/0. Concepts.md",
+                "file": "Git/7. Common Issues.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b69351e5acb38505",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/0. Concepts.md",
+                "file": "Git/7. Common Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/0. Concepts.md",
+                "file": "Git/7. Common Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/0. Concepts.md"
+                "file": "Git/7. Common Issues.md"
               }
             }
           },
@@ -178,8 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b69351e5acb38505",
+  "active": "5f0e7e5921e011ff",
   "lastOpenFiles": [
+    "Git/6. Advanced Git Features.md",
+    "Git/5. Remote Repositories.md",
+    "Git/4.  Branching and Merging.md",
+    "Git/3. Basic Commands.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
+    "Git/7. Common Issues.md",
     "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps/1. Testing and Deployment.md",
@@ -203,14 +200,7 @@
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Big Data/Hadoop/5. Yarn.md",
     "Big Data/Hadoop/4. Java API.md",
-    "Big Data/Hadoop/3. HDFS Shell.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Programming Languages/Rust/0. Started/0. Rustc.md",
     "Blockchain",
-    "Programming Languages/Design Patterns.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Computer Networking/5. Transport Layer/1. Transmission Control Protocol (TCP).md",
-    "Computer Networking/4. Network Layer/3. IPv6.md",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
