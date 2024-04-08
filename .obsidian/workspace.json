@@ -11,11 +11,26 @@
             "id": "5f0e7e5921e011ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git/0. Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b69351e5acb38505",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
+                "file": "Git/0. Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
+                "file": "Git/0. Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md"
+                "file": "Git/0. Concepts.md"
               }
             }
           },
@@ -163,11 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "b69351e5acb38505",
   "lastOpenFiles": [
+    "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps/1. Testing and Deployment.md",
-    "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
     "Blockchain/4. Smart Contracts and DApps/0. Development of Smart Contracts.md",
     "Blockchain/3. Blockchain Platforms/3. Hyperledger.md",
     "Blockchain/4. Smart Contracts and DApps",
@@ -200,7 +215,6 @@
     "Programming Languages/Java/7. Collections",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
-    "Artificial Intelligence/Deep Learning/0. Basic",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
