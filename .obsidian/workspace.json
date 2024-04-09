@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb3db4c7c2056b6",
+        "id": "0b7fd2ca03f8719d",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0e7e5921e011ff",
+            "id": "0aba1d21a4e597fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/7. Common Issues.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/7. Common Issues.md",
+                "file": "Data Warehouse/2. Layering and Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/7. Common Issues.md",
+                "file": "Data Warehouse/2. Layering and Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/7. Common Issues.md"
+                "file": "Data Warehouse/2. Layering and Architecture.md"
               }
             }
           },
@@ -167,8 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f0e7e5921e011ff",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Data Warehouse/1. ETL & ELT.md",
+    "Data Warehouse/0. Key Features.md",
+    "Data Warehouse/4.1 Hive Cheat Sheet.md",
+    "Git/7. Common Issues.md",
     "Git/6. Advanced Git Features.md",
     "Git/5. Remote Repositories.md",
     "Git/4.  Branching and Merging.md",
@@ -176,7 +176,6 @@
     "Git/2. Repository.md",
     "Git/1. Initialization and Configuration.md",
     "Git/0. Concepts.md",
-    "Git/7. Common Issues.md",
     "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps/1. Testing and Deployment.md",
@@ -197,9 +196,6 @@
     "Blockchain/1. Basics and Fundamentals/1. History and Evolution of Blockchain.md",
     "Blockchain/1. Basics and Fundamentals/0. Overview of Blockchain Technology.md",
     "Blockchain/1. Basics and Fundamentals",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Big Data/Hadoop/5. Yarn.md",
-    "Big Data/Hadoop/4. Java API.md",
     "Blockchain",
     "Programming Languages/Java/8. Test",
     "Programming Languages/Java/7. Collections",
