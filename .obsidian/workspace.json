@@ -11,8 +11,12 @@
             "id": "0aba1d21a4e597fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Databases/MySQL/8. Window Functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Warehouse/2. Layering and Architecture.md",
+                "file": "Databases/MySQL/8. Window Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Warehouse/2. Layering and Architecture.md",
+                "file": "Databases/MySQL/8. Window Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Warehouse/2. Layering and Architecture.md"
+                "file": "Databases/MySQL/8. Window Functions.md"
               }
             }
           },
@@ -163,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "0aba1d21a4e597fa",
   "lastOpenFiles": [
+    "Databases/MySQL/Quick check.md",
     "Data Warehouse/1. ETL & ELT.md",
     "Data Warehouse/0. Key Features.md",
     "Data Warehouse/4.1 Hive Cheat Sheet.md",
@@ -194,7 +199,6 @@
     "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
     "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
     "Blockchain/1. Basics and Fundamentals/1. History and Evolution of Blockchain.md",
-    "Blockchain/1. Basics and Fundamentals/0. Overview of Blockchain Technology.md",
     "Blockchain/1. Basics and Fundamentals",
     "Blockchain",
     "Programming Languages/Java/8. Test",
