@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md",
+                "file": "Databases/MySQL/Quick check.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md",
+                "file": "Databases/MySQL/Quick check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md",
+                "file": "Databases/MySQL/Quick check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/8. Window Functions.md"
+                "file": "Databases/MySQL/Quick check.md"
               }
             }
           },
@@ -169,6 +169,10 @@
   },
   "active": "0aba1d21a4e597fa",
   "lastOpenFiles": [
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/1. Tables.md",
+    "Databases/MySQL/0. Precedence.md",
+    "Databases/MySQL/8. Window Functions.md",
     "Databases/MySQL/Quick check.md",
     "Data Warehouse/1. ETL & ELT.md",
     "Data Warehouse/0. Key Features.md",
@@ -194,11 +198,7 @@
     "Blockchain/3. Blockchain Platforms",
     "Blockchain/2. Technical Aspects/1. Cryptography.md",
     "Blockchain/2. Technical Aspects/0. How Blockchain Works.md",
-    "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
     "Blockchain/2. Technical Aspects",
-    "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
-    "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
-    "Blockchain/1. Basics and Fundamentals/1. History and Evolution of Blockchain.md",
     "Blockchain/1. Basics and Fundamentals",
     "Blockchain",
     "Programming Languages/Java/8. Test",
