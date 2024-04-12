@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab24ec4b4a9676d8",
+        "id": "f73aec082d7df24a",
         "type": "tabs",
         "children": [
           {
-            "id": "071101d0248b054c",
+            "id": "007a54c3291bc4d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
+                "file": "Programming Languages/Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
+                "file": "Programming Languages/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
+                "file": "Programming Languages/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md"
+                "file": "Programming Languages/Design Patterns.md"
               }
             }
           },
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071101d0248b054c",
+  "active": "007a54c3291bc4d7",
   "lastOpenFiles": [
-    "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
     "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
+    "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
     "Programming Languages/Java/12. Network Programming/3. Sending Email.md",
     "Programming Languages/Java/12. Network Programming/2. UDP Programming.md",
     "Programming Languages/Java/12. Network Programming/1. TCP Programming.md",
