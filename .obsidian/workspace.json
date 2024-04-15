@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f73aec082d7df24a",
+        "id": "c0a2ce0d0189293c",
         "type": "tabs",
         "children": [
           {
-            "id": "007a54c3291bc4d7",
+            "id": "7f128650179a4058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Algorithm/Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Algorithm/Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Algorithm/Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Design Patterns.md"
+                "file": "Algorithm/Complexity.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "007a54c3291bc4d7",
+  "active": "7f128650179a4058",
   "lastOpenFiles": [
+    "Programming Languages/Design Patterns.md",
     "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
     "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
     "Programming Languages/Java/12. Network Programming/3. Sending Email.md",
@@ -197,7 +198,6 @@
     "Cyber Security/7. Damn Vulnerable Web Application.md",
     "Cyber Security/6. msfvenom.md",
     "Cyber Security/5. EternalBlue.md",
-    "Cyber Security/4. MetaSploit.md",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps",
     "Blockchain/3. Blockchain Platforms",
