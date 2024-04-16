@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a2ce0d0189293c",
+        "id": "fd004f3d667b064f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f128650179a4058",
+            "id": "8f2c99fa46ce505b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Complexity.md",
+                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Complexity.md",
+                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Complexity.md",
+                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Complexity.md"
+                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md"
               }
             }
           },
@@ -167,8 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f128650179a4058",
+  "active": "8f2c99fa46ce505b",
   "lastOpenFiles": [
+    "Artificial Intelligence/Knowledge Graph/Foundations/1. Graph Theory Essentials.md",
+    "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
+    "Artificial Intelligence/Knowledge Graph/Foundations/0. Introduction.md",
+    "Artificial Intelligence/Knowledge Graph/Foundations",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Artificial Intelligence/Knowledge Graph",
+    "Algorithm/Complexity.md",
     "Programming Languages/Design Patterns.md",
     "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
     "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
@@ -191,20 +200,11 @@
     "Programming Languages/Assembly/2. Basic Syntax.md",
     "Programming Languages/Assembly/0. Concepts.md",
     "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
-    "Cyber Security/8. Command Injection.md",
-    "Cyber Security/7. Damn Vulnerable Web Application.md",
-    "Cyber Security/6. msfvenom.md",
-    "Cyber Security/5. EternalBlue.md",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps",
     "Blockchain/3. Blockchain Platforms",
     "Blockchain/2. Technical Aspects",
     "Blockchain/1. Basics and Fundamentals",
-    "Blockchain",
-    "Programming Languages/Java/8. Test",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
