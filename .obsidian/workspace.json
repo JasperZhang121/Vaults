@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd004f3d667b064f",
+        "id": "523b4c73b952ec0f",
         "type": "tabs",
         "children": [
           {
-            "id": "8f2c99fa46ce505b",
+            "id": "58715c4b5b0e66eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
+                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
+                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
+                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md"
+                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md"
               }
             }
           },
@@ -167,12 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f2c99fa46ce505b",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Knowledge Graph/Foundations/1. Graph Theory Essentials.md",
-    "Artificial Intelligence/Knowledge Graph/Foundations/2. Semantic Web Technologies.md",
-    "Artificial Intelligence/Knowledge Graph/Foundations/0. Introduction.md",
-    "Artificial Intelligence/Knowledge Graph/Foundations",
+    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/1. Querying and Integration.md",
+    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
+    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/0. Building and Modeling.md",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations/2. Semantic Web Technologies.md",
+    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations/1. Graph Theory Essentials.md",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations/0. Introduction.md",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations",
     "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
     "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
@@ -197,14 +202,10 @@
     "Programming Languages/Java/11. Maven/1. Dependency Management.md",
     "Programming Languages/Java/11. Maven/0. Basic.md",
     "Programming Languages/Java/11. Maven",
-    "Programming Languages/Assembly/2. Basic Syntax.md",
-    "Programming Languages/Assembly/0. Concepts.md",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps",
     "Blockchain/3. Blockchain Platforms",
     "Blockchain/2. Technical Aspects",
-    "Blockchain/1. Basics and Fundamentals",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
