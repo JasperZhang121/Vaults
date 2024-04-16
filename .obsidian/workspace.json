@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
+                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
+                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
+                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md"
+                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md"
               }
             }
           },
@@ -168,10 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "58715c4b5b0e66eb",
   "lastOpenFiles": [
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/1. Querying and Integration.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced/1. Knowledge Graph Embeddings.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced",
+    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/1. Querying and Integration.md",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/0. Building and Modeling.md",
     "Artificial Intelligence/Knowledge Graph/0. Foundations/2. Semantic Web Technologies.md",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
@@ -199,13 +201,10 @@
     "Programming Languages/Java/11. Maven/3. Using Plugins.md",
     "Programming Languages/Java/11. Maven/Untitled",
     "Programming Languages/Java/11. Maven/2. Build Process.md",
-    "Programming Languages/Java/11. Maven/1. Dependency Management.md",
-    "Programming Languages/Java/11. Maven/0. Basic.md",
     "Programming Languages/Java/11. Maven",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps",
     "Blockchain/3. Blockchain Platforms",
-    "Blockchain/2. Technical Aspects",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
