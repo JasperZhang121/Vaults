@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "523b4c73b952ec0f",
+        "id": "c3ecfe009c436143",
         "type": "tabs",
         "children": [
           {
-            "id": "58715c4b5b0e66eb",
+            "id": "55481a493ccf46b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58715c4b5b0e66eb",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/1. Knowledge Graph Embeddings.md",
+    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
+    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced/0. AI Enhancement.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced/1. Knowledge Graph Embeddings.md",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/1. Querying and Integration.md",
@@ -180,9 +179,6 @@
     "Artificial Intelligence/Knowledge Graph/0. Foundations/1. Graph Theory Essentials.md",
     "Artificial Intelligence/Knowledge Graph/0. Foundations/0. Introduction.md",
     "Artificial Intelligence/Knowledge Graph/0. Foundations",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Artificial Intelligence/Knowledge Graph",
     "Algorithm/Complexity.md",
     "Programming Languages/Design Patterns.md",
@@ -196,11 +192,7 @@
     "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
     "Programming Languages/Java/12. Network Programming",
     "Programming Languages/Java/11. Maven/Untitled.md",
-    "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
-    "Programming Languages/Java/11. Maven/4. Module Management.md",
-    "Programming Languages/Java/11. Maven/3. Using Plugins.md",
     "Programming Languages/Java/11. Maven/Untitled",
-    "Programming Languages/Java/11. Maven/2. Build Process.md",
     "Programming Languages/Java/11. Maven",
     "Blockchain/5. Use Cases and Applications",
     "Blockchain/4. Smart Contracts and DApps",
