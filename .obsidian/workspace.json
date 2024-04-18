@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a35f2e9833bc81c",
+        "id": "379e0ed7c39dd0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "18ed0a73bb995eec",
+            "id": "d94f580566d5e678",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +161,22 @@
   },
   "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Data Warehouse/0. Key Features.md",
+    "Data Warehouse/1. ETL & ELT.md",
+    "Data Warehouse/4. Hive.md",
+    "Big Data/Kafka/2. Architecture.md",
+    "Big Data/Kafka/1. Kafka.md",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/5. Yarn.md",
+    "Big Data/Hadoop/4. Java API.md",
+    "Big Data/Hadoop/3. HDFS Shell.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Programming Languages/Java/13. Web Development/4. MVC Development.md",
+    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
     "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
     "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
     "Programming Languages/Java/13. Web Development/0. Web Basics.md",
@@ -175,28 +185,14 @@
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced/0. AI Enhancement.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced/1. Knowledge Graph Embeddings.md",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/1. Querying and Integration.md",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/0. Building and Modeling.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/2. Semantic Web Technologies.md",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/1. Graph Theory Essentials.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/0. Introduction.md",
     "Artificial Intelligence/Knowledge Graph/0. Foundations",
     "Artificial Intelligence/Knowledge Graph",
-    "Algorithm/Complexity.md",
-    "Programming Languages/Design Patterns.md",
-    "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
-    "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
-    "Programming Languages/Java/12. Network Programming/3. Sending Email.md",
     "Programming Languages/Java/12. Network Programming",
     "Programming Languages/Java/11. Maven/Untitled",
     "Programming Languages/Java/11. Maven",
