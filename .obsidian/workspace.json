@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c3ecfe009c436143",
+        "id": "0a35f2e9833bc81c",
         "type": "tabs",
         "children": [
           {
-            "id": "55481a493ccf46b3",
+            "id": "18ed0a73bb995eec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/13. Web Development/0. Web Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/0. Web Basics.md",
+                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/0. Web Basics.md",
+                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/0. Web Basics.md"
+                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md"
               }
             }
           },
@@ -168,9 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55481a493ccf46b3",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
+    "Programming Languages/Java/13. Web Development/4. MVC Development.md",
+    "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
+    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
     "Programming Languages/Java/13. Web Development/0. Web Basics.md",
+    "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
+    "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
     "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
@@ -196,16 +197,10 @@
     "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
     "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
     "Programming Languages/Java/12. Network Programming/3. Sending Email.md",
-    "Programming Languages/Java/12. Network Programming/2. UDP Programming.md",
-    "Programming Languages/Java/12. Network Programming/1. TCP Programming.md",
-    "Programming Languages/Java/12. Network Programming/0. Basic.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
     "Programming Languages/Java/12. Network Programming",
     "Programming Languages/Java/11. Maven/Untitled",
     "Programming Languages/Java/11. Maven",
     "Blockchain/5. Use Cases and Applications",
-    "Blockchain/4. Smart Contracts and DApps",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
