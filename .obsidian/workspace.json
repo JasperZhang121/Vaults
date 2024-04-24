@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "379e0ed7c39dd0f0",
+        "id": "b3ee9d37d258cbd2",
         "type": "tabs",
         "children": [
           {
-            "id": "d94f580566d5e678",
+            "id": "7d3ca467b358a21d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PCA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "ff8883f5e4aefed1",
+            "id": "21ba460aa745ff57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +128,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md"
+              }
             }
           },
           {
-            "id": "7af8dabdac40ff7e",
+            "id": "dea00adaa0bd7b1a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,51 +165,53 @@
   },
   "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Data Warehouse/0. Key Features.md",
-    "Data Warehouse/1. ETL & ELT.md",
-    "Data Warehouse/4. Hive.md",
-    "Big Data/Kafka/2. Architecture.md",
-    "Big Data/Kafka/1. Kafka.md",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Big Data/Hadoop/5. Yarn.md",
-    "Big Data/Hadoop/4. Java API.md",
-    "Big Data/Hadoop/3. HDFS Shell.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Programming Languages/Java/13. Web Development/4. MVC Development.md",
-    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
-    "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
-    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
-    "Programming Languages/Java/13. Web Development/0. Web Basics.md",
-    "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
-    "Programming Languages/Java/14. Spring",
-    "Programming Languages/Java/13. Web Development",
-    "Artificial Intelligence/Data Science/Data Mining/2. General Algorithm/4. Text Mining.md",
-    "Artificial Intelligence/Reinforcement Learning/0. Q-Learning.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/0. AI Enhancement.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/1. Knowledge Graph Embeddings.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations",
-    "Artificial Intelligence/Knowledge Graph",
+    "Quant/Financial Derivatives/5. Credit Derivatives.md",
+    "Quant/Financial Derivatives/4. Swaps.md",
+    "Quant/Financial Derivatives/2. Futures.md",
+    "Quant/Financial Derivatives/3. Forwards.md",
+    "Quant/Financial Derivatives/1.1 Options Types & Styles.md",
+    "Quant/Financial Derivatives/1. Options.md",
+    "Quant/Financial Derivatives",
+    "Quant/Assets/4. Currencies.md",
+    "Quant/Assets/3. Commodities.md",
+    "Quant/Assets/2. Bonds.md",
+    "Quant/Assets/1. Stocks.md",
+    "Quant/Assets/0. Overview.md",
+    "Quant/Assets",
+    "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
+    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
+    "Programming Languages/Python/3. OOP/7. @property.md",
+    "Programming Languages/Python/3. OOP/6. __slots__.md",
+    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
+    "Programming Languages/Python/3. OOP/4. Object Information.md",
+    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
+    "Programming Languages/Python/3. OOP/11. Metaclasses.md",
+    "Programming Languages/Python/3. OOP/2. Access Control.md",
+    "Programming Languages/Python/3. OOP/10. Enum Classes.md",
+    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
+    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
+    "Programming Languages/Python/3. OOP",
+    "Programming Languages/Java/7. IO/9. Writer.md",
+    "Programming Languages/Java/7. IO/8. Reader.md",
+    "Programming Languages/Java/7. IO/6. Classpath Resources.md",
+    "Programming Languages/Java/7. IO",
+    "Programming Languages/Java/6. Generics",
+    "Programming Languages/Java/5. Annotation",
     "Programming Languages/Java/12. Network Programming",
-    "Programming Languages/Java/11. Maven/Untitled",
     "Programming Languages/Java/11. Maven",
-    "Blockchain/5. Use Cases and Applications",
-    "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
+    "Data Warehouse",
+    "Artificial Intelligence/Deep Learning/6. Multimodal",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
+    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
+    "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
+    "260px-TCP_CLOSE.svg.png",
+    "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
