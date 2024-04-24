@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ee9d37d258cbd2",
+        "id": "4f31b2af08329c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "7d3ca467b358a21d",
+            "id": "c4745bc54dcd5539",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/13. Web Development/4. MVC Development.md"
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md"
               }
             }
           },
@@ -163,8 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "c4745bc54dcd5539",
   "lastOpenFiles": [
+    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
+    "Programming Languages/Java/3. Exception/5. Assertions.md",
+    "Programming Languages/Java/13. Web Development/4. MVC Development.md",
+    "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
+    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
     "Quant/Financial Derivatives/5. Credit Derivatives.md",
     "Quant/Financial Derivatives/4. Swaps.md",
     "Quant/Financial Derivatives/2. Futures.md",
@@ -179,21 +198,7 @@
     "Quant/Assets/0. Overview.md",
     "Quant/Assets",
     "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
-    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
-    "Programming Languages/Python/3. OOP/7. @property.md",
-    "Programming Languages/Python/3. OOP/6. __slots__.md",
-    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
-    "Programming Languages/Python/3. OOP/4. Object Information.md",
-    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
-    "Programming Languages/Python/3. OOP/11. Metaclasses.md",
-    "Programming Languages/Python/3. OOP/2. Access Control.md",
-    "Programming Languages/Python/3. OOP/10. Enum Classes.md",
-    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
-    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
     "Programming Languages/Python/3. OOP",
-    "Programming Languages/Java/7. IO/9. Writer.md",
-    "Programming Languages/Java/7. IO/8. Reader.md",
-    "Programming Languages/Java/7. IO/6. Classpath Resources.md",
     "Programming Languages/Java/7. IO",
     "Programming Languages/Java/6. Generics",
     "Programming Languages/Java/5. Annotation",
