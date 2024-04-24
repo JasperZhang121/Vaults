@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f31b2af08329c0b",
+        "id": "c853926647127771",
         "type": "tabs",
         "children": [
           {
-            "id": "c4745bc54dcd5539",
+            "id": "68736b066fceed2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md"
+                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md"
               }
             }
           },
@@ -168,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4745bc54dcd5539",
+  "active": "68736b066fceed2f",
   "lastOpenFiles": [
+    "README.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
     "Programming Languages/Java/3. Exception/5. Assertions.md",
@@ -179,8 +181,6 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
@@ -197,7 +197,6 @@
     "Quant/Assets/1. Stocks.md",
     "Quant/Assets/0. Overview.md",
     "Quant/Assets",
-    "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
     "Programming Languages/Python/3. OOP",
     "Programming Languages/Java/7. IO",
     "Programming Languages/Java/6. Generics",
