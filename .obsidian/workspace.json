@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c853926647127771",
+        "id": "8780b16f1245fccd",
         "type": "tabs",
         "children": [
           {
-            "id": "68736b066fceed2f",
+            "id": "801b9a93b40870f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68736b066fceed2f",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
-    "README.md",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/2. HDFS.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
+    "README.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
@@ -180,7 +176,6 @@
     "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
@@ -193,9 +188,6 @@
     "Quant/Financial Derivatives",
     "Quant/Assets/4. Currencies.md",
     "Quant/Assets/3. Commodities.md",
-    "Quant/Assets/2. Bonds.md",
-    "Quant/Assets/1. Stocks.md",
-    "Quant/Assets/0. Overview.md",
     "Quant/Assets",
     "Programming Languages/Python/3. OOP",
     "Programming Languages/Java/7. IO",
