@@ -11,8 +11,12 @@
             "id": "801b9a93b40870f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md"
+              }
             }
           },
           {
@@ -159,8 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "801b9a93b40870f5",
   "lastOpenFiles": [
+    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
+    "Git/3. Basic Commands.md",
+    "Git/5. Remote Repositories.md",
+    "Git/6. Advanced Git Features.md",
+    "Git/7. Common Issues.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
     "Big Data/Spark/1. Spark.md",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Big Data/Hadoop/2. HDFS.md",
@@ -179,15 +195,7 @@
     "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Quant/Financial Derivatives/5. Credit Derivatives.md",
-    "Quant/Financial Derivatives/4. Swaps.md",
-    "Quant/Financial Derivatives/2. Futures.md",
-    "Quant/Financial Derivatives/3. Forwards.md",
-    "Quant/Financial Derivatives/1.1 Options Types & Styles.md",
-    "Quant/Financial Derivatives/1. Options.md",
     "Quant/Financial Derivatives",
-    "Quant/Assets/4. Currencies.md",
-    "Quant/Assets/3. Commodities.md",
     "Quant/Assets",
     "Programming Languages/Python/3. OOP",
     "Programming Languages/Java/7. IO",
