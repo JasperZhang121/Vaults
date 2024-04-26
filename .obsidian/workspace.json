@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8780b16f1245fccd",
+        "id": "c6cf3d51afb153b0",
         "type": "tabs",
         "children": [
           {
-            "id": "801b9a93b40870f5",
+            "id": "ad649e6e1960fb2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
+                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PCA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "21ba460aa745ff57",
+            "id": "ff8883f5e4aefed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
+                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
+                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md"
+                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md"
               }
             }
           },
           {
-            "id": "dea00adaa0bd7b1a",
+            "id": "7af8dabdac40ff7e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,55 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801b9a93b40870f5",
+  "active": "ad649e6e1960fb2f",
   "lastOpenFiles": [
+    "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
+    "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
+    "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
     "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
-    "Git/3. Basic Commands.md",
-    "Git/5. Remote Repositories.md",
-    "Git/6. Advanced Git Features.md",
-    "Git/7. Common Issues.md",
-    "Git/2. Repository.md",
-    "Git/1. Initialization and Configuration.md",
-    "Git/0. Concepts.md",
-    "Big Data/Spark/1. Spark.md",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/9. Classes within the same package.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
-    "README.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/7. Package.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/12. Module.md",
-    "Programming Languages/Java/3. Exception/5. Assertions.md",
+    "Big Data/Spark/2. Spark SQL.md",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Spark",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
+    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
+    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
+    "Data Warehouse/0. Key Features.md",
+    "Data Warehouse/1. ETL & ELT.md",
+    "Data Warehouse/4. Hive.md",
+    "Big Data/Kafka/2. Architecture.md",
+    "Big Data/Kafka/1. Kafka.md",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/5. Yarn.md",
+    "Big Data/Hadoop/4. Java API.md",
+    "Big Data/Hadoop/3. HDFS Shell.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Programming Languages/Java/13. Web Development/4. MVC Development.md",
+    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
     "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
     "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/11. Class Version.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/4. Abstract.md",
-    "Quant/Financial Derivatives",
-    "Quant/Assets",
-    "Programming Languages/Python/3. OOP",
-    "Programming Languages/Java/7. IO",
-    "Programming Languages/Java/6. Generics",
-    "Programming Languages/Java/5. Annotation",
+    "Programming Languages/Java/13. Web Development/0. Web Basics.md",
+    "Programming Languages/Java/14. Spring",
+    "Programming Languages/Java/13. Web Development",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced",
+    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations",
+    "Artificial Intelligence/Knowledge Graph",
     "Programming Languages/Java/12. Network Programming",
+    "Programming Languages/Java/11. Maven/Untitled",
     "Programming Languages/Java/11. Maven",
-    "Data Warehouse",
-    "Artificial Intelligence/Deep Learning/6. Multimodal",
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
+    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
-    "Z-Archive/Pictures/CNET/tcp_ladder_states.png",
-    "260px-TCP_CLOSE.svg.png",
-    "Z-Archive/Pictures/CNET/Sample-IP-Packet-structure.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
   ]
 }
