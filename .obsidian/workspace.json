@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
+                "file": "Blockchain/3. Blockchain Platforms/1. Bitcoin.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
+                "file": "Blockchain/3. Blockchain Platforms/1. Bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
+                "file": "Blockchain/3. Blockchain Platforms/1. Bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md"
+                "file": "Blockchain/3. Blockchain Platforms/1. Bitcoin.md"
               }
             }
           },
@@ -170,10 +169,10 @@
   },
   "active": "ad649e6e1960fb2f",
   "lastOpenFiles": [
-    "README.md",
-    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
     "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
+    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
+    "README.md",
+    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
     "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
     "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
     "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
