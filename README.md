@@ -18,6 +18,12 @@ If you're already acquainted with Obsidian, importing my notes should be a breez
 - **Image Display:** Some images, as presented or referenced by Obsidian, might not be visible in the GitHub repository. This discrepancy arises due to the difference in reference styles between Obsidian and standard markdown.
 - **Reference Disruption:** ~~Due to recent reorganization efforts, some references from this repository to others might be broken. Rest assured, I'm on track to resolve this by April 2023.~~
 
+## Disclaimer
+
+- This notebook is a personal educational tool used to document my learning process in various areas of computer science. It includes my own notes as well as summaries, interpretations, and excerpts from external sources such as textbooks, research papers, online tutorials, and collaborative platforms like GitHub.
+- All external sources are attributed to their respective authors and creators. This notebook is not intended for commercial use and is designed purely for personal study and reference.
+- While I strive to ensure the accuracy and relevancy of the content presented in this notebook, it may reflect my understanding at the time of writing and may be subject to revisions as my knowledge and the fields of study evolve.
+
 ## Last Update
 
-_Readme last updated on 2023.10.09._
+_Readme last updated on 2024.04.27._

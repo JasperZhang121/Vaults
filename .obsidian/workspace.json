@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
+                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
+                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
+                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md"
+                "file": "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md"
               }
             }
           },
@@ -170,10 +170,13 @@
   },
   "active": "ad649e6e1960fb2f",
   "lastOpenFiles": [
+    "README.md",
+    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
+    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
+    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
+    "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
     "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
     "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
-    "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
     "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
     "Big Data/Spark/2. Spark SQL.md",
     "Big Data/Spark/1. Spark.md",
@@ -194,9 +197,6 @@
     "Big Data/Hadoop/2. HDFS.md",
     "Programming Languages/Java/13. Web Development/4. MVC Development.md",
     "Programming Languages/Java/13. Web Development/3. JSP Development.md",
-    "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
-    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
-    "Programming Languages/Java/13. Web Development/0. Web Basics.md",
     "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
