@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ebcba9a4bb8b99d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -157,44 +174,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c461b5502936f3e",
+  "active": "ebcba9a4bb8b99d8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Programming Languages/Python/3. OOP/9. Customizing Classes.md",
-    "Programming Languages/Python/3. OOP/8. Multiple Inheritance.md",
-    "Programming Languages/Python/3. OOP/7. @property.md",
-    "Programming Languages/Python/3. OOP/6. __slots__.md",
-    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
-    "Programming Languages/Python/3. OOP/4. Object Information.md",
-    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
-    "Programming Languages/Python/3. OOP/2. Access Control.md",
-    "Programming Languages/Python/3. OOP/11. Metaclasses.md",
-    "Programming Languages/Python/3. OOP/10. Enum Classes.md",
-    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
-    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
+    "Programming Languages/Java/12. Network Programming/5. HTTP Programming.md",
+    "Programming Languages/Java/12. Network Programming/4. Receiving Email.md",
+    "Programming Languages/Java/12. Network Programming/3. Sending Email.md",
+    "Programming Languages/Java/12. Network Programming/2. UDP Programming.md",
+    "Programming Languages/Java/12. Network Programming/1. TCP Programming.md",
+    "Programming Languages/Java/12. Network Programming/0. Basic.md",
+    "Programming Languages/Java/12. Network Programming",
+    "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
+    "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
+    "Programming Languages/Java/11. Maven/4. Module Management.md",
+    "Programming Languages/Java/11. Maven/3. Using Plugins.md",
+    "Programming Languages/Java/11. Maven/2. Build Process.md",
+    "Programming Languages/Java/11. Maven/1. Dependency Management.md",
+    "Programming Languages/Java/11. Maven/0. Basic.md",
+    "Programming Languages/Java/11. Maven",
+    "Git/7. Common Issues.md",
+    "Git/6. Advanced Git Features.md",
+    "Git/5. Remote Repositories.md",
+    "Git/4.  Branching and Merging.md",
+    "Git/3. Basic Commands.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Blockchain/4. Smart Contracts and DApps/2. Decentralized Applications (DApps).md",
+    "Blockchain/4. Smart Contracts and DApps/1. Testing and Deployment.md",
+    "Blockchain/4. Smart Contracts and DApps/0. Development of Smart Contracts.md",
+    "Blockchain/3. Blockchain Platforms/3. Hyperledger.md",
+    "Blockchain/3. Blockchain Platforms/1. Bitcoin.md",
+    "Blockchain/4. Smart Contracts and DApps",
+    "Blockchain/3. Blockchain Platforms",
+    "Blockchain/2. Technical Aspects",
+    "Blockchain/1. Basics and Fundamentals",
+    "Blockchain",
     "Programming Languages/Python/3. OOP",
-    "Programming Languages/Python/2. Flask/1. URL and View Mapping.md",
-    "Programming Languages/Python/2. Flask/0. Start.md",
     "Programming Languages/Python/2. Flask",
-    "Programming Languages/Python/1. Pytorch/2. Neural Network.md",
-    "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
-    "Programming Languages/Python/1. Pytorch/0. Introduction.md",
     "Programming Languages/Python/1. Pytorch",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/2. PySpark.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML/0. Numpy.md",
-    "Programming Languages/Python/0. Data Analysis & Modeling & ML",
-    "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
-    "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
-    "Programming Languages/Java/9. Networking",
-    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
-    "Programming Languages/Java/9. JDBC",
-    "Programming Languages/Java/8. Test/5. Parameterized Testing.md",
-    "Programming Languages/Java/8. Test/4. Conditional Testing.md",
-    "Programming Languages/Java/8. Test",
-    "Programming Languages/Java/7. IO",
-    "Programming Languages/Java/6. Generics",
-    "Programming Languages/Java/5. Annotation",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Screen Shot 2023-10-31 at 7.46.50 pm.png",
