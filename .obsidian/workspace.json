@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
+                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
+                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
+                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md"
+                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md"
               }
             }
           },
@@ -170,9 +169,17 @@
   },
   "active": "82ee0c30bf9ea771",
   "lastOpenFiles": [
+    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
+    "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
+    "Cryptography/3. Data encryption standards and replacement algorithms",
+    "Z-Archive/Pictures/Crypto/Trivium.png",
+    "Z-Archive/Pictures/Crypto",
+    "Z-Archive/Pictures/Crypto/LSFR2.png",
+    "Z-Archive/Pictures/Crypto/LSFR1.png",
+    "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
+    "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
     "Cryptography/2. Sequence ciphers",
     "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
-    "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
     "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
     "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
     "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
@@ -197,24 +204,16 @@
     "Data Warehouse/0. Key Features.md",
     "Data Warehouse/1. ETL & ELT.md",
     "Data Warehouse/4. Hive.md",
-    "Big Data/Kafka/2. Architecture.md",
-    "Big Data/Kafka/1. Kafka.md",
     "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
     "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations",
-    "Artificial Intelligence/Knowledge Graph",
-    "Programming Languages/Java/12. Network Programming",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
-    "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp"
+    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png"
   ]
 }
