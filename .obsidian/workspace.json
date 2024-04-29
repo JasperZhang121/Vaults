@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b89b68a3e58d8cf9",
+        "id": "33f7dae7e8fe84cb",
         "type": "tabs",
         "children": [
           {
-            "id": "82ee0c30bf9ea771",
+            "id": "a8bc124fee0fee63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
+                "file": "Cloud Computing/Distributed Computing/1. Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
+                "file": "Cloud Computing/Distributed Computing/1. Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
+                "file": "Cloud Computing/Distributed Computing/1. Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md"
+                "file": "Cloud Computing/Distributed Computing/1. Basic.md"
               }
             }
           },
@@ -167,10 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82ee0c30bf9ea771",
+  "active": "a8bc124fee0fee63",
   "lastOpenFiles": [
-    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
+    "Human-Computer Interaction/0. Intro HCI.md",
+    "Human-Computer Interaction/1. HCI & HCD.md",
+    "Human-Computer Interaction/2. Double Diamond.md",
+    "Human-Computer Interaction/3. User Research.md",
+    "Algorithm/Kaggle/Understanding.md",
+    "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
     "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
+    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
     "Cryptography/3. Data encryption standards and replacement algorithms",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto",
@@ -198,12 +204,6 @@
     "Big Data/Spark/1. Spark.md",
     "Big Data/Spark",
     "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Deep Learning/1. Convolutional Neural Networks/Convolutional neural networks (CNNs).md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Data Warehouse/0. Key Features.md",
-    "Data Warehouse/1. ETL & ELT.md",
-    "Data Warehouse/4. Hive.md",
     "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
