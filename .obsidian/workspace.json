@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33f7dae7e8fe84cb",
+        "id": "e9bb98fa6c9b6ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "a8bc124fee0fee63",
+            "id": "0dec75169eaff8f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/1. Basic.md",
+                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/1. Basic.md",
+                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/1. Basic.md",
+                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Distributed Computing/1. Basic.md"
+                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md"
               }
             }
           },
@@ -167,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8bc124fee0fee63",
+  "active": "0dec75169eaff8f9",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/A High-Level Discription/0.  Codes running.md",
+    "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
+    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
+    "Programming Languages/Assembly/2. Basic Syntax.md",
+    "Programming Languages/Assembly/0. Concepts.md",
+    "Programming Languages/C/Basic/Syntax.md",
+    "Cloud Computing/Distributed Computing/1. Basic.md",
     "Human-Computer Interaction/0. Intro HCI.md",
     "Human-Computer Interaction/1. HCI & HCD.md",
     "Human-Computer Interaction/2. Double Diamond.md",
@@ -196,14 +204,7 @@
     "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
     "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
     "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
-    "Blockchain/3. Blockchain Platforms/1. Bitcoin.md",
-    "README.md",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
-    "Big Data/Spark/2. Spark SQL.md",
-    "Big Data/Spark/1. Spark.md",
     "Big Data/Spark",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
