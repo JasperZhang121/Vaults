@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
+                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
+                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
+                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md"
+                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md"
               }
             }
           },
@@ -170,8 +170,14 @@
   },
   "active": "0dec75169eaff8f9",
   "lastOpenFiles": [
-    "Computer Organization and Architecture/A High-Level Discription/0.  Codes running.md",
-    "Computer Organization and Architecture/A High-Level Discription/1. Computer Performance Indicators.md",
+    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
+    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
+    "Z-Archive/Pictures/COA/full_adder.png",
+    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
+    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
+    "Computer Organization and Architecture/1. Representation and Operations",
+    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
+    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
     "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
     "Programming Languages/Assembly/2. Basic Syntax.md",
     "Programming Languages/Assembly/0. Concepts.md",
@@ -200,21 +206,15 @@
     "Cryptography/1. Cryptography and Data Security",
     "Cryptography",
     "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
-    "Blockchain/1. Basics and Fundamentals/2.1 Proof of Work (PoW).md",
-    "Blockchain/1. Basics and Fundamentals/2. Key Concepts.md",
-    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
-    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
     "Big Data/Spark",
     "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
     "Artificial Intelligence/Knowledge Graph/2. Advanced",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
     "Z-Archive/Pictures/RM/header.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
     "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
     "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png"
+    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png"
   ]
 }
