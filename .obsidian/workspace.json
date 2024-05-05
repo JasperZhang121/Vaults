@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9bb98fa6c9b6ba8",
+        "id": "6991973d9487e258",
         "type": "tabs",
         "children": [
           {
-            "id": "0dec75169eaff8f9",
+            "id": "a1691904fcfa4235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,10 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dec75169eaff8f9",
+  "active": "a1691904fcfa4235",
   "lastOpenFiles": [
-    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations/2. Semantic Web Technologies.md",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations/1. Graph Theory Essentials.md",
+    "Artificial Intelligence/Knowledge Graph/0. Foundations/0. Introduction.md",
     "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
+    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
     "Z-Archive/Pictures/COA/full_adder.png",
     "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
     "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
@@ -201,11 +204,8 @@
     "Cryptography/2. Sequence ciphers",
     "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
     "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
-    "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
-    "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
     "Cryptography/1. Cryptography and Data Security",
     "Cryptography",
-    "Blockchain/1. Basics and Fundamentals/2.2 Proof of Stake (PoS).md",
     "Big Data/Spark",
     "Programming Languages/Java/14. Spring",
     "Programming Languages/Java/13. Web Development",
