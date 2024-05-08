@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6991973d9487e258",
+        "id": "8780b16f1245fccd",
         "type": "tabs",
         "children": [
           {
-            "id": "a1691904fcfa4235",
+            "id": "801b9a93b40870f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PCA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "ff8883f5e4aefed1",
+            "id": "21ba460aa745ff57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,13 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "7af8dabdac40ff7e",
+            "id": "dea00adaa0bd7b1a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,53 +159,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1691904fcfa4235",
+  "active": "801b9a93b40870f5",
   "lastOpenFiles": [
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/2. Semantic Web Technologies.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/1. Graph Theory Essentials.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/0. Introduction.md",
-    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
-    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
-    "Z-Archive/Pictures/COA/full_adder.png",
-    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
-    "Computer Organization and Architecture/1. Representation and Operations",
-    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
-    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
-    "Programming Languages/Assembly/2. Basic Syntax.md",
-    "Programming Languages/Assembly/0. Concepts.md",
-    "Programming Languages/C/Basic/Syntax.md",
-    "Cloud Computing/Distributed Computing/1. Basic.md",
-    "Human-Computer Interaction/0. Intro HCI.md",
-    "Human-Computer Interaction/1. HCI & HCD.md",
-    "Human-Computer Interaction/2. Double Diamond.md",
-    "Human-Computer Interaction/3. User Research.md",
-    "Algorithm/Kaggle/Understanding.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
     "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
     "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
-    "Cryptography/3. Data encryption standards and replacement algorithms",
-    "Z-Archive/Pictures/Crypto/Trivium.png",
-    "Z-Archive/Pictures/Crypto",
-    "Z-Archive/Pictures/Crypto/LSFR2.png",
-    "Z-Archive/Pictures/Crypto/LSFR1.png",
     "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
     "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
-    "Cryptography/2. Sequence ciphers",
-    "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
     "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
+    "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
+    "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
+    "Cryptography/3. Data encryption standards and replacement algorithms",
+    "Cryptography/2. Sequence ciphers",
     "Cryptography/1. Cryptography and Data Security",
     "Cryptography",
-    "Big Data/Spark",
-    "Programming Languages/Java/14. Spring",
-    "Programming Languages/Java/13. Web Development",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced",
-    "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223141.png",
+    "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
+    "Z-Archive/Pictures/Crypto/Trivium.png",
+    "Z-Archive/Pictures/Crypto/LSFR2.png",
+    "Z-Archive/Pictures/Crypto/LSFR1.png",
+    "Z-Archive/Pictures/Crypto",
+    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
+    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
+    "Computer Organization and Architecture/1. Representation and Operations",
+    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
+    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
+    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
+    "Computer Organization and Architecture/0. A High-Level Discription",
+    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
+    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
+    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
+    "Git/3. Basic Commands.md",
+    "Git/5. Remote Repositories.md",
+    "Git/6. Advanced Git Features.md",
+    "Git/7. Common Issues.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/2. HDFS.md",
+    "Quant/Financial Derivatives",
+    "Quant/Assets",
+    "Programming Languages/Python/3. OOP",
     "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png"
+    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
+    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
+    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
+    "Z-Archive/Pictures/Stats-ML/GRU.png",
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
