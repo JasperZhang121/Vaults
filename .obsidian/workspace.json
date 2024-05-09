@@ -11,8 +11,12 @@
             "id": "801b9a93b40870f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md"
+              }
             }
           },
           {
@@ -161,6 +169,10 @@
   },
   "active": "801b9a93b40870f5",
   "lastOpenFiles": [
+    "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
     "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
     "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
     "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
@@ -193,12 +205,8 @@
     "Git/7. Common Issues.md",
     "Git/2. Repository.md",
     "Git/1. Initialization and Configuration.md",
-    "Git/0. Concepts.md",
-    "Big Data/Spark/1. Spark.md",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Big Data/Hadoop/2. HDFS.md",
-    "Quant/Financial Derivatives",
-    "Quant/Assets",
+    "Quant/2. Financial Derivatives",
+    "Quant/1. Assets",
     "Programming Languages/Python/3. OOP",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
