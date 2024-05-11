@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md"
+                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md"
               }
             }
           },
@@ -169,6 +170,11 @@
   },
   "active": "801b9a93b40870f5",
   "lastOpenFiles": [
+    "bull spread.png",
+    "protective put.png",
+    "Z-Archive/Pictures/FIN",
+    "Z-Archive/Pictures/FIN/covered call.png",
+    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
     "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
     "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
@@ -203,18 +209,13 @@
     "Git/5. Remote Repositories.md",
     "Git/6. Advanced Git Features.md",
     "Git/7. Common Issues.md",
-    "Git/2. Repository.md",
-    "Git/1. Initialization and Configuration.md",
     "Quant/2. Financial Derivatives",
     "Quant/1. Assets",
-    "Programming Languages/Python/3. OOP",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
