@@ -4,7 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "c843cfb4ab8781ab",
         "type": "tabs",
         "children": [
@@ -12,23 +11,12 @@
             "id": "53e902b2906c4b1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-=======
-        "id": "8780b16f1245fccd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "801b9a93b40870f5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
->>>>>>> origin/main
             }
           }
         ]
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PCA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +66,7 @@
             }
           },
           {
-            "id": "21ba460aa745ff57",
+            "id": "ff8883f5e4aefed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,12 +77,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 292.5
-=======
-    "width": 289.5,
-    "collapsed": true
->>>>>>> origin/main
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -110,10 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,10 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +132,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md"
+                "file": "conflict-files-obsidian-git.md"
               }
->>>>>>> origin/main
             }
           },
           {
-            "id": "dea00adaa0bd7b1a",
+            "id": "7af8dabdac40ff7e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -194,93 +167,53 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
   "active": "53e902b2906c4b1c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Word2Vec.md",
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "README.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/2. Semantic Web Technologies.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/1. Graph Theory Essentials.md",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations/0. Introduction.md",
-    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
-    "Computer Organization and Architecture/CPU/5. Arithmetic Logic Unit.md",
-    "Z-Archive/Pictures/COA/full_adder.png",
-    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
-    "Computer Organization and Architecture/1. Representation and Operations",
-    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
-    "Computer Organization and Architecture/Main Memory/1. Main Memory.md",
-    "Programming Languages/Assembly/2. Basic Syntax.md",
-    "Programming Languages/Assembly/0. Concepts.md",
-    "Programming Languages/C/Basic/Syntax.md",
-    "Cloud Computing/Distributed Computing/1. Basic.md",
-    "Human-Computer Interaction/0. Intro HCI.md",
-    "Human-Computer Interaction/1. HCI & HCD.md",
-    "Human-Computer Interaction/2. Double Diamond.md",
-    "Human-Computer Interaction/3. User Research.md",
-    "Algorithm/Kaggle/Understanding.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
-    "Cryptography/3. Data encryption standards and replacement algorithms",
-    "Z-Archive/Pictures/Crypto/Trivium.png",
-    "Z-Archive/Pictures/Crypto",
-    "Z-Archive/Pictures/Crypto/LSFR2.png",
-    "Z-Archive/Pictures/Crypto/LSFR1.png",
-=======
-  "active": "801b9a93b40870f5",
-  "lastOpenFiles": [
-    "Z-Archive/Pictures/FIN/bull spread.png",
+    "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/FIN/protective put.png",
-    "Z-Archive/Pictures/FIN",
     "Z-Archive/Pictures/FIN/covered call.png",
-    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
+    "Z-Archive/Pictures/FIN/bull spread.png",
+    "Z-Archive/Pictures/FIN",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/0. Definition.md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA",
+    "Quant/4. Statistical  Models/0. Guide/1. Brownian motion.md",
+    "Quant/4. Statistical  Models/0. Guide/0. Quantitative Models for Finance.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus",
+    "Quant/4. Statistical  Models/1. Time Series Analysis",
+    "Quant/4. Statistical  Models/0. Guide",
+    "Quant/4. Statistical  Models",
+    "Quant/2. Financial Derivatives/5. Credit Derivatives.md",
+    "Quant/2. Financial Derivatives/3. Forwards.md",
+    "Quant/2. Financial Derivatives/4. Swaps.md",
+    "Quant/2. Financial Derivatives/2. Futures.md",
+    "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
+    "Quant/2. Financial Derivatives/1. Options.md",
+    "Quant/2. Financial Derivatives",
+    "Quant/1. Assets/4. Currencies.md",
+    "Quant/1. Assets/3. Commodities.md",
+    "Quant/1. Assets/2. Bonds.md",
+    "Quant/1. Assets/1. Stocks.md",
+    "Quant/1. Assets/0. Overview.md",
+    "Quant/1. Assets",
     "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
     "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
-    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
-    "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
-    "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
-    "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
-    "Cryptography/3. Data encryption standards and replacement algorithms",
->>>>>>> origin/main
-    "Cryptography/2. Sequence ciphers",
-    "Cryptography/1. Cryptography and Data Security",
-    "Cryptography",
-    "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/5. Key Players.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+    "Z-Archive/Pictures/COA/full_adder.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
-    "Z-Archive/Pictures/Crypto",
-    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
-    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
-    "Computer Organization and Architecture/1. Representation and Operations",
-    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
-    "Computer Organization and Architecture/0. A High-Level Discription",
-    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
-    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
-    "Git/3. Basic Commands.md",
-    "Git/5. Remote Repositories.md",
-    "Git/6. Advanced Git Features.md",
-    "Git/7. Common Issues.md",
-    "Quant/2. Financial Derivatives",
-    "Quant/1. Assets",
-    "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Z-Archive/Pictures/RM/header.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
+    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png"
   ]
 }
