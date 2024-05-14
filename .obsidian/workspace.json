@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fc33f34e5530da13",
+        "id": "94ba931304713c31",
         "type": "tabs",
         "children": [
           {
-            "id": "9f18b504f4360917",
+            "id": "a95497385bc05d6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Go/1. Syntax/1. Variables.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Go/1. Syntax/1. Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Go/1. Syntax/1. Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Go/1. Syntax/1. Variables.md"
+              }
             }
           },
           {
@@ -159,8 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f18b504f4360917",
+  "active": "a95497385bc05d6b",
   "lastOpenFiles": [
+    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
+    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
+    "Programming Languages/Go/1. Syntax/1. Variables.md",
+    "Programming Languages/Go/1. Syntax/0. Basic.md",
+    "Programming Languages/Go/0. Intro/1. Features of Go.md",
+    "Programming Languages/Go/1. Syntax",
+    "Programming Languages/Go/0. Intro/0. Overview of Go.md",
+    "Programming Languages/Go/0. Intro",
+    "Programming Languages/Go",
     "conflict-files-obsidian-git.md",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN/covered call.png",
@@ -180,26 +198,17 @@
     "Quant/4. Statistical  Models/2. Stochastic Calculus",
     "Quant/4. Statistical  Models/1. Time Series Analysis",
     "Quant/4. Statistical  Models/0. Guide",
-    "Quant/4. Statistical  Models",
     "Quant/2. Financial Derivatives/5. Credit Derivatives.md",
     "Quant/2. Financial Derivatives/3. Forwards.md",
     "Quant/2. Financial Derivatives/4. Swaps.md",
     "Quant/2. Financial Derivatives/2. Futures.md",
     "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
     "Quant/2. Financial Derivatives/1. Options.md",
-    "Quant/2. Financial Derivatives",
     "Quant/1. Assets/4. Currencies.md",
     "Quant/1. Assets/3. Commodities.md",
     "Quant/1. Assets/2. Bonds.md",
     "Quant/1. Assets/1. Stocks.md",
     "Quant/1. Assets/0. Overview.md",
-    "Quant/1. Assets",
-    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/5. Key Players.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
     "Z-Archive/Pictures/COA/full_adder.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
