@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94ba931304713c31",
+        "id": "805439674aa026ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a95497385bc05d6b",
+            "id": "cc73ea229e364e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Go/1. Syntax/1. Variables.md",
+                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Go/1. Syntax/1. Variables.md",
+                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Go/1. Syntax/1. Variables.md",
+                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Go/1. Syntax/1. Variables.md"
+                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md"
               }
             }
           },
@@ -167,12 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a95497385bc05d6b",
+  "active": "cc73ea229e364e9b",
   "lastOpenFiles": [
-    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
-    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
+    "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
+    "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
+    "Programming Languages/Go/2. Functions",
+    "Programming Languages/Go/1. Syntax/3. Constants.md.md",
+    "Programming Languages/Go/1. Syntax/2. Data Types.md",
     "Programming Languages/Go/1. Syntax/1. Variables.md",
     "Programming Languages/Go/1. Syntax/0. Basic.md",
+    "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
+    "Z-Archive/Debug Vault (Not Notes)/Debug.md",
     "Programming Languages/Go/0. Intro/1. Features of Go.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/0. Intro/0. Overview of Go.md",
@@ -196,7 +201,6 @@
     "Quant/4. Statistical  Models/0. Guide/0. Quantitative Models for Finance.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus",
     "Quant/4. Statistical  Models/1. Time Series Analysis",
-    "Quant/4. Statistical  Models/0. Guide",
     "Quant/2. Financial Derivatives/5. Credit Derivatives.md",
     "Quant/2. Financial Derivatives/3. Forwards.md",
     "Quant/2. Financial Derivatives/4. Swaps.md",
@@ -204,10 +208,6 @@
     "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
     "Quant/2. Financial Derivatives/1. Options.md",
     "Quant/1. Assets/4. Currencies.md",
-    "Quant/1. Assets/3. Commodities.md",
-    "Quant/1. Assets/2. Bonds.md",
-    "Quant/1. Assets/1. Stocks.md",
-    "Quant/1. Assets/0. Overview.md",
     "Z-Archive/Pictures/COA/full_adder.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
