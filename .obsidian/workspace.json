@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
+                "file": "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
+                "file": "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
+                "file": "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md"
+                "file": "Programming Languages/Go/2. Functions/2. Anonymous Functions.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "cc73ea229e364e9b",
   "lastOpenFiles": [
-    "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
+    "Programming Languages/Go/2. Functions/1. Multiple Returns.md",
+    "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
     "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
+    "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
     "Programming Languages/Go/2. Functions",
     "Programming Languages/Go/1. Syntax/3. Constants.md.md",
     "Programming Languages/Go/1. Syntax/2. Data Types.md",
@@ -206,8 +208,6 @@
     "Quant/2. Financial Derivatives/4. Swaps.md",
     "Quant/2. Financial Derivatives/2. Futures.md",
     "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
-    "Quant/2. Financial Derivatives/1. Options.md",
-    "Quant/1. Assets/4. Currencies.md",
     "Z-Archive/Pictures/COA/full_adder.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
