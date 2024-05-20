@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "2f8e3dc2422dc2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -157,54 +174,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "2f8e3dc2422dc2a2",
   "lastOpenFiles": [
-    "Artificial Intelligence/Computer Vision/2. Neural Networks.md",
-    "Artificial Intelligence/Computer Vision/1. Loss Function & Optimization.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "conflict-files-obsidian-git.md",
+    "Z-Archive/Pictures/FIN/protective put.png",
+    "Z-Archive/Pictures/FIN/covered call.png",
+    "Z-Archive/Pictures/FIN/bull spread.png",
+    "Z-Archive/Pictures/FIN",
+    "Z-Archive/Pictures/COA/full_adder.png",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/0. Definition.md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes",
+    "Quant/4. Statistical  Models/0. Guide/1. Brownian motion.md",
+    "Quant/4. Statistical  Models/0. Guide/0. Quantitative Models for Finance.md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus",
+    "Quant/4. Statistical  Models/1. Time Series Analysis",
+    "Quant/4. Statistical  Models/0. Guide",
+    "Quant/4. Statistical  Models",
+    "Quant/2. Financial Derivatives/5. Credit Derivatives.md",
+    "Quant/2. Financial Derivatives/4. Swaps.md",
+    "Quant/2. Financial Derivatives/3. Forwards.md",
+    "Quant/2. Financial Derivatives/2. Futures.md",
+    "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
+    "Quant/2. Financial Derivatives/1. Options.md",
+    "Quant/2. Financial Derivatives",
+    "Quant/1. Assets/4. Currencies.md",
+    "Quant/1. Assets/3. Commodities.md",
+    "Quant/1. Assets/2. Bonds.md",
+    "Quant/1. Assets/1. Stocks.md",
+    "Quant/1. Assets/0. Overview.md",
+    "Quant/1. Assets",
+    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/5. Key Players.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
-    "Z-Archive/Pictures/Crypto",
-    "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
-    "Cryptography/3. Data encryption standards and replacement algorithms",
-    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
-    "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
-    "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
-    "Programming Languages/Java/14. Spring",
-    "Programming Languages/Java/13. Web Development/4. MVC Development.md",
-    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
-    "Programming Languages/Java/13. Web Development/2. Servlet Development.md",
-    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
-    "Programming Languages/Java/13. Web Development/0. Web Basics.md",
-    "Programming Languages/Java/13. Web Development",
-    "Programming Languages/Java/1. OOP/0. OOP Basic/8. Modifiers & Scope.md",
-    "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
-    "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
-    "Cryptography/2. Sequence ciphers",
-    "Cryptography/1. Cryptography and Data Security",
-    "Cryptography",
-    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
-    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/3. Scalability and Real-Time Updates.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/2. Dynamic and Temporal Knowledge Graphs.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/1. Knowledge Graph Embeddings.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced/0. AI Enhancement.md",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying/2. Visualizing.md",
-    "Artificial Intelligence/Knowledge Graph/2. Advanced",
-    "Artificial Intelligence/Knowledge Graph/1. Constructing and Querying",
-    "Artificial Intelligence/Knowledge Graph/0. Foundations",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Screen Shot 2023-10-31 at 7.46.50 pm.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
-    "Z-Archive/Pictures/Stats-ML/GRU.png",
-    "Z-Archive/Pictures/Stats-ML/attention_research_1.webp",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
