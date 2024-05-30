@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Go/0. Intro/1. Features of Go.md",
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Go/0. Intro/1. Features of Go.md",
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Go/0. Intro/1. Features of Go.md",
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Go/0. Intro/1. Features of Go.md"
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "9e29065e146d454c",
   "lastOpenFiles": [
+    "Programming Languages/Go/0. Intro/1. Features of Go.md",
     "Programming Languages/Go/0. Intro/0. Overview of Go.md",
     "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/0. Self-Attention.md",
@@ -206,7 +207,6 @@
     "Quant/1. Assets",
     "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
     "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
