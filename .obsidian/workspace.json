@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/1. Pytorch/2. Neural Network.md",
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/1. Pytorch/2. Neural Network.md",
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/1. Pytorch/2. Neural Network.md",
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/1. Pytorch/2. Neural Network.md"
+                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "9e29065e146d454c",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
+    "Programming Languages/Python/1. Pytorch/2. Neural Network.md",
     "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
     "Programming Languages/Python/1. Pytorch/0. Introduction.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/2. PySpark.md",
@@ -202,10 +205,7 @@
     "Quant/2. Financial Derivatives/3. Forwards.md",
     "Quant/2. Financial Derivatives/2. Futures.md",
     "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
-    "Quant/2. Financial Derivatives/1. Options.md",
     "Quant/2. Financial Derivatives",
-    "Quant/1. Assets/4. Currencies.md",
-    "Quant/1. Assets/3. Commodities.md",
     "Quant/1. Assets",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
