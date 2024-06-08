@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md"
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md"
               }
             }
           },
@@ -168,8 +167,10 @@
   },
   "active": "9e29065e146d454c",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
     "Programming Languages/Python/1. Pytorch/2. Neural Network.md",
     "Programming Languages/Python/1. Pytorch/1. Quick Look.md",
     "Programming Languages/Python/1. Pytorch/0. Introduction.md",
@@ -205,9 +206,7 @@
     "Quant/2. Financial Derivatives/4. Swaps.md",
     "Quant/2. Financial Derivatives/3. Forwards.md",
     "Quant/2. Financial Derivatives/2. Futures.md",
-    "Quant/2. Financial Derivatives/1.1 Options Types & Styles.md",
     "Quant/2. Financial Derivatives",
-    "Quant/1. Assets",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
