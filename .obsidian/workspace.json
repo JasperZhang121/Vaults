@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "514dea3eef19f8de",
+        "id": "4aaa545938a581db",
         "type": "tabs",
         "children": [
           {
-            "id": "5b26383ddd62e75d",
+            "id": "a66b40a3f6033e14",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b26383ddd62e75d",
+  "active": "a66b40a3f6033e14",
   "lastOpenFiles": [
+    "Git/5. Remote Repositories.md",
+    "Git/4.  Branching and Merging.md",
+    "Git/3. Basic Commands.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/3.1 DeBERTa.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
@@ -189,17 +195,11 @@
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/0. Definition.md",
-    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
-    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations",
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes",
     "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA",
-    "Quant/4. Statistical  Models/0. Guide/1. Brownian motion.md",
-    "Quant/4. Statistical  Models/0. Guide/0. Quantitative Models for Finance.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus",
     "Quant/4. Statistical  Models/1. Time Series Analysis",
-    "Quant/2. Financial Derivatives/5. Credit Derivatives.md",
-    "Quant/2. Financial Derivatives/3. Forwards.md",
     "Z-Archive/Pictures/COA/full_adder.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
