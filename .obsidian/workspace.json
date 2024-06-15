@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4aaa545938a581db",
+        "id": "7a5581d8879cada9",
         "type": "tabs",
         "children": [
           {
-            "id": "a66b40a3f6033e14",
+            "id": "c8bfe22d385bd8ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.3"
               }
             }
           }
@@ -93,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a66b40a3f6033e14",
+  "active": "c8bfe22d385bd8ae",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
