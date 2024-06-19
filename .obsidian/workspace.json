@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a5581d8879cada9",
+        "id": "02d1145f12742049",
         "type": "tabs",
         "children": [
           {
-            "id": "c8bfe22d385bd8ae",
+            "id": "eb2c0c1952f64da4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -161,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8bfe22d385bd8ae",
+  "active": "eb2c0c1952f64da4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
