@@ -11,8 +11,12 @@
             "id": "eb2c0c1952f64da4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md"
+              }
             }
           },
           {
@@ -161,11 +169,12 @@
   },
   "active": "eb2c0c1952f64da4",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/2. Extended Kalman Filter.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
-    "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
     "Artificial Intelligence/Deep Learning/7. SLAM",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
@@ -189,7 +198,6 @@
     "Programming Languages/Go/1. Syntax/0. Basic.md",
     "Z-Archive/Debug Vault (Not Notes)/Git-testing.md",
     "Z-Archive/Debug Vault (Not Notes)/Debug.md",
-    "Programming Languages/Go/0. Intro/1. Features of Go.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/0. Intro",
     "Programming Languages/Go",
