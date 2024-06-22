@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8780b16f1245fccd",
+        "id": "46246b9caae20f25",
         "type": "tabs",
         "children": [
           {
-            "id": "801b9a93b40870f5",
+            "id": "df35dfa8540a5765",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801b9a93b40870f5",
+  "active": "df35dfa8540a5765",
   "lastOpenFiles": [
+    "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN",
@@ -215,7 +207,6 @@
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
     "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Z-Archive/Pictures/Stats-ML/GRU.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
