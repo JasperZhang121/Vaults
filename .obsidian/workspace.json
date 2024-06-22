@@ -11,8 +11,12 @@
             "id": "df35dfa8540a5765",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -161,6 +169,32 @@
   },
   "active": "df35dfa8540a5765",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
+    "Programming Languages/Go/1. Syntax/3. Constants.md.md",
+    "Programming Languages/Go/1. Syntax/2. Data Types.md",
+    "Programming Languages/Go/1. Syntax/1. Variables.md",
+    "Programming Languages/Go/1. Syntax/0. Basic.md",
+    "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
+    "Programming Languages/Go/2. Functions/1. Multiple Returns.md",
+    "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
+    "Programming Languages/Go/0. Intro/1. Features of Go.md",
+    "Programming Languages/Go/0. Intro/0. Overview of Go.md",
+    "Programming Languages/Go/1. Syntax",
+    "Programming Languages/Go/2. Functions",
+    "Programming Languages/Go/0. Intro",
+    "Programming Languages/Go",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/3. Extended Kalman Filter.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/2. Kalman Filter.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
+    "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM",
+    "Artificial Intelligence/Deep Learning/5. Transformer/3.1 DeBERTa.md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
+    "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
     "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
@@ -171,38 +205,12 @@
     "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
     "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
-    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
-    "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
-    "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
-    "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
     "Cryptography/3. Data encryption standards and replacement algorithms",
     "Cryptography/2. Sequence ciphers",
     "Cryptography/1. Cryptography and Data Security",
-    "Cryptography",
-    "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
-    "Z-Archive/Pictures/Crypto",
-    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
-    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
-    "Computer Organization and Architecture/1. Representation and Operations",
-    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
-    "Computer Organization and Architecture/0. A High-Level Discription",
-    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
-    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
-    "Git/3. Basic Commands.md",
-    "Git/5. Remote Repositories.md",
-    "Git/6. Advanced Git Features.md",
-    "Git/7. Common Issues.md",
-    "Quant/2. Financial Derivatives",
-    "Quant/1. Assets",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
