@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
+                "file": "Git/3. Basic Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
+                "file": "Git/3. Basic Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
+                "file": "Git/3. Basic Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md"
+                "file": "Git/3. Basic Commands.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "eb2c0c1952f64da4",
   "lastOpenFiles": [
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/3. Extended Kalman Filter.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/3. Extended Kalman Filter.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/2. Kalman Filter.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
@@ -183,9 +186,6 @@
     "Git/5. Remote Repositories.md",
     "Git/4.  Branching and Merging.md",
     "Git/3. Basic Commands.md",
-    "Git/2. Repository.md",
-    "Git/1. Initialization and Configuration.md",
-    "Git/0. Concepts.md",
     "Artificial Intelligence/Deep Learning/5. Transformer/3.1 DeBERTa.md",
     "Artificial Intelligence/Machine Learning/Algorithm/7. Random Forest.md",
     "Artificial Intelligence/Machine Learning/Algorithm/6. Decision Tree.md",
