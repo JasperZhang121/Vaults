@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18a53ebc654253b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb2c0c1952f64da4",
+  "active": "18a53ebc654253b4",
   "lastOpenFiles": [
     "Git/2. Repository.md",
     "Git/3. Basic Commands.md",
