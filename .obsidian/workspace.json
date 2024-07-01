@@ -11,8 +11,12 @@
             "id": "a588db1f07de1370",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/1. Overview/3. Network Latency and Performance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Networking/1. Overview/3. Network Latency and Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Networking/1. Overview/3. Network Latency and Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Networking/1. Overview/3. Network Latency and Performance.md"
+              }
             }
           },
           {
@@ -161,6 +169,8 @@
   },
   "active": "a588db1f07de1370",
   "lastOpenFiles": [
+    "Computer Networking/1. Overview/2. Data Rate.md",
+    "Computer Networking/1. Overview/1. Concept.md",
     "Git/7. Common Issues.md",
     "Git/6. Advanced Git Features.md",
     "Git/5. Remote Repositories.md",
@@ -188,8 +198,6 @@
     "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
     "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
     "Programming Languages/Go/2. Functions",
-    "Programming Languages/Go/1. Syntax/3. Constants.md.md",
-    "Programming Languages/Go/1. Syntax/2. Data Types.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/0. Intro",
     "Programming Languages/Go",
