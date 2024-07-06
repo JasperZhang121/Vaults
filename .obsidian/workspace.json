@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46246b9caae20f25",
+        "id": "62386e59cbfe1fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "df35dfa8540a5765",
+            "id": "35cb0d5c8b497c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md"
               }
             }
           },
@@ -167,8 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df35dfa8540a5765",
+  "active": "35cb0d5c8b497c85",
   "lastOpenFiles": [
+    "Big Data/Hadoop/1. Hadoop.md",
+    "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
+    "Artificial Intelligence/Deep Learning/0. Basic/0. Backpropagation.md",
+    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
+    "Artificial Intelligence/Deep Learning/0. Basics.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
     "Programming Languages/Go/1. Syntax/3. Constants.md.md",
@@ -195,16 +201,10 @@
     "Artificial Intelligence/Deep Learning/5. Transformer/3.1 DeBERTa.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN",
     "Z-Archive/Pictures/FIN/covered call.png",
-    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
     "Cryptography/3. Data encryption standards and replacement algorithms",
     "Cryptography/2. Sequence ciphers",
     "Cryptography/1. Cryptography and Data Security",
