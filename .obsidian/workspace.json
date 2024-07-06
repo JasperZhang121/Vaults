@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abcf28912385a0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,15 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35cb0d5c8b497c85",
+  "active": "abcf28912385a0bb",
   "lastOpenFiles": [
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
     "Artificial Intelligence/Deep Learning/0. Basic/0. Backpropagation.md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0. Basics.md",
-    "conflict-files-obsidian-git.md",
     "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
     "Programming Languages/Go/1. Syntax/3. Constants.md.md",
     "Programming Languages/Go/1. Syntax/2. Data Types.md",
@@ -200,7 +214,6 @@
     "Artificial Intelligence/Deep Learning/7. SLAM",
     "Artificial Intelligence/Deep Learning/5. Transformer/3.1 DeBERTa.md",
     "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning/0. Transfer Learning.md",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN",
