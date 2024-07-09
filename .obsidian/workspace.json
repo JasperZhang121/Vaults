@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a05003de03ab870",
+        "id": "34c2d84360b4f676",
         "type": "tabs",
         "children": [
           {
-            "id": "c52f975b45aa8352",
+            "id": "f716082f28e69bce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Networking/3. Data Link Layer/1. Data Link Layer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c52f975b45aa8352",
+  "active": "f716082f28e69bce",
   "lastOpenFiles": [
+    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
     "Computer Networking/Question Sheet.md",
     "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
     "Computer Networking/2. Physical Layer/2. Symbol.md",
@@ -196,7 +189,6 @@
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
     "Artificial Intelligence/Deep Learning/7. SLAM",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
     "Programming Languages/Go/2. Functions",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/0. Intro",
