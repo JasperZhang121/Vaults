@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "294e461a3f631a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,47 +180,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f716082f28e69bce",
+  "active": "294e461a3f631a7e",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md",
-    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
-    "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
-    "Computer Networking/Question Sheet.md",
-    "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
-    "Computer Networking/2. Physical Layer/2. Symbol.md",
-    "Computer Networking/2. Physical Layer/1. The Physical Layer.md",
-    "Computer Networking/1. Overview/6. TCP IP.md",
-    "Computer Networking/1. Overview/5. OSI.md",
-    "Computer Networking/1. Overview/4. Layered Architecture.md",
-    "Computer Networking/1. Overview/3. Network Latency and Performance.md",
-    "Computer Networking/1. Overview/2. Data Rate.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Git/7. Common Issues.md",
-    "Git/6. Advanced Git Features.md",
-    "Git/5. Remote Repositories.md",
-    "Git/4.  Branching and Merging.md",
-    "Git/3. Basic Commands.md",
-    "Git/2. Repository.md",
-    "Git/1. Initialization and Configuration.md",
-    "Git/0. Concepts.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/3. Extended Kalman Filter.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/2. Kalman Filter.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
-    "Artificial Intelligence/Deep Learning/7. SLAM",
-    "Programming Languages/Go/2. Functions",
-    "Programming Languages/Go/1. Syntax",
-    "Programming Languages/Go/0. Intro",
-    "Programming Languages/Go",
+    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
+    "Programming Languages/Java/7. JDBC",
+    "Programming Languages/Java/6. IO/2. Network based.md",
+    "Programming Languages/Java/6. IO/1. Advanced.md",
+    "Programming Languages/Java/6. IO/0. Intro.md",
+    "Programming Languages/Java/6. IO",
+    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/5. Networking",
+    "Programming Languages/Java/2. Collections Framework/3. Map.md",
+    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
+    "Programming Languages/Java/2. Collections Framework/1. Set.md",
+    "Programming Languages/Java/2. Collections Framework/0. List.md",
+    "Programming Languages/Java/2. Collections Framework",
+    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
+    "Computer Organization and Architecture/A High-Level Discription",
+    "Programming Languages/Python/Pytorch/2. Neural Network.md",
+    "Programming Languages/Python/Pytorch/1. Quick Look.md",
+    "Programming Languages/Python/Pytorch/0. Introduction.md",
+    "Programming Languages/Python/Pytorch",
+    "Programming Languages/Python/OOP/3. Polymorphism.md",
+    "Programming Languages/Python/OOP/2. Inheritance.md",
+    "Programming Languages/Python/OOP/1. Encapsulation.md",
+    "Programming Languages/Python/OOP/0. Class.md",
+    "Programming Languages/Python/OOP",
+    "Programming Languages/Python/Flask/1. URL and View Mapping.md",
+    "Programming Languages/Python/Flask/0. Start.md",
+    "Programming Languages/Python/Flask",
+    "Programming Languages/Python/Data Analysis & Modeling & ML/PySpark.md",
+    "Programming Languages/Python/Data Analysis & Modeling & ML/Pandas.md",
+    "Programming Languages/Python/Data Analysis & Modeling & ML/Numpy.md",
+    "Programming Languages/Python/Data Analysis & Modeling & ML",
+    "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
+    "Programming Languages/Java/9. Multithreading",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN/covered call.png",
     "Z-Archive/Pictures/FIN/bull spread.png",
-    "Z-Archive/Pictures/FIN",
-    "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations",
-    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes",
-    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA",
     "Z-Archive/Pictures/COA/full_adder.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
