@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Computer Vision/0. Image Processing.md",
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Computer Vision/0. Image Processing.md"
+                "file": "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md"
               }
             }
           },
@@ -170,6 +169,8 @@
   },
   "active": "f716082f28e69bce",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/0. Feature Selection.md",
+    "Artificial Intelligence/Computer Vision/0. Image Processing.md",
     "Computer Networking/3. Data Link Layer/1. Data Link Layer.md",
     "Computer Networking/Question Sheet.md",
     "Computer Networking/2. Physical Layer/3. Nyquist Theorem.md",
@@ -194,8 +195,6 @@
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/2. Kalman Filter.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
-    "conflict-files-obsidian-git.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
     "Artificial Intelligence/Deep Learning/7. SLAM",
     "Programming Languages/Go/2. Functions",
