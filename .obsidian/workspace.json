@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "883bc9266104c140",
+        "id": "91d55f0b0bd058cb",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad6742a1cf95884",
+            "id": "58341fd5bb989743",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PCA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "ff8883f5e4aefed1",
+            "id": "7095d05959c0a371",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "7af8dabdac40ff7e",
+            "id": "6461de1442b14953",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,26 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ad6742a1cf95884",
+  "active": "58341fd5bb989743",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
-    "Programming Languages/Java/7. JDBC",
-    "Programming Languages/Java/6. IO/2. Network based.md",
-    "Programming Languages/Java/6. IO/1. Advanced.md",
-    "Programming Languages/Java/6. IO/0. Intro.md",
-    "Programming Languages/Java/6. IO",
-    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
-    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
-    "Programming Languages/Java/5. Networking",
-    "Programming Languages/Java/2. Collections Framework/3. Map.md",
-    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
-    "Programming Languages/Java/2. Collections Framework/1. Set.md",
-    "Programming Languages/Java/2. Collections Framework/0. List.md",
-    "Programming Languages/Java/2. Collections Framework",
-    "Computer Organization and Architecture/A High-Level Discription/0. High-Level Discription of codes running.md",
-    "Computer Organization and Architecture/A High-Level Discription",
+    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
@@ -196,7 +179,24 @@
     "Programming Languages/Python/Data Analysis & Modeling & ML/Numpy.md",
     "Programming Languages/Python/Data Analysis & Modeling & ML",
     "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
+    "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
+    "Programming Languages/Java/9. Multithreading/0. Intro.md",
     "Programming Languages/Java/9. Multithreading",
+    "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
+    "Programming Languages/Java/7. JDBC",
+    "Programming Languages/Java/6. IO/2. Network based.md",
+    "Programming Languages/Java/6. IO/1. Advanced.md",
+    "Programming Languages/Java/6. IO/0. Intro.md",
+    "Programming Languages/Java/6. IO",
+    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/5. Networking",
+    "Programming Languages/Java/2. Collections Framework/3. Map.md",
+    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
+    "Programming Languages/Java/2. Collections Framework/1. Set.md",
+    "Programming Languages/Java/2. Collections Framework/0. List.md",
+    "Programming Languages/Java/2. Collections Framework",
+    "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN/covered call.png",
     "Z-Archive/Pictures/FIN/bull spread.png",
@@ -204,8 +204,10 @@
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
-    "Z-Archive/Pictures/RM/header.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223951.png",
-    "Z-Archive/Pictures/H-C-J/Pasted image 20230108223730.png"
+    "Z-Archive/Pictures/Programming/Java relationship.png",
+    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
+    "Screen Shot 2023-10-31 at 7.46.50 pm.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
