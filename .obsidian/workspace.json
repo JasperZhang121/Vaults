@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58341fd5bb989743",
+            "id": "e6289edf0bc5ffac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
             }
           }
         ]
@@ -159,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58341fd5bb989743",
+  "active": "e6289edf0bc5ffac",
   "lastOpenFiles": [
+    "Big Data/Hadoop/1. Hadoop.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
@@ -194,7 +197,6 @@
     "Programming Languages/Java/2. Collections Framework/3. Map.md",
     "Programming Languages/Java/2. Collections Framework/2. Queue.md",
     "Programming Languages/Java/2. Collections Framework/1. Set.md",
-    "Programming Languages/Java/2. Collections Framework/0. List.md",
     "Programming Languages/Java/2. Collections Framework",
     "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/FIN/protective put.png",
