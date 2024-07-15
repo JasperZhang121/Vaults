@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91d55f0b0bd058cb",
+        "id": "3ef281bddf66fdb9",
         "type": "tabs",
         "children": [
           {
-            "id": "e6289edf0bc5ffac",
+            "id": "a877c86a6853a4c4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md"
+              }
             }
           },
           {
@@ -161,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6289edf0bc5ffac",
+  "active": "a877c86a6853a4c4",
   "lastOpenFiles": [
+    "Big Data/Hadoop/3. HDFS Shell.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
@@ -196,7 +203,6 @@
     "Programming Languages/Java/5. Networking",
     "Programming Languages/Java/2. Collections Framework/3. Map.md",
     "Programming Languages/Java/2. Collections Framework/2. Queue.md",
-    "Programming Languages/Java/2. Collections Framework/1. Set.md",
     "Programming Languages/Java/2. Collections Framework",
     "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/FIN/protective put.png",
