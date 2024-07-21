@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4464d64ef8f479a7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a877c86a6853a4c4",
+  "active": "4464d64ef8f479a7",
   "lastOpenFiles": [
     "Big Data/Hadoop/3. HDFS Shell.md",
     "Big Data/Hadoop/1. Hadoop.md",
