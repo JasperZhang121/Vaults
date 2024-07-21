@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md"
+                "file": "Big Data/Hadoop/1. Hadoop.md"
               }
             }
           },
@@ -178,10 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4464d64ef8f479a7",
+  "active": "a877c86a6853a4c4",
   "lastOpenFiles": [
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/Hadoop/2. HDFS.md",
     "Big Data/Hadoop/3. HDFS Shell.md",
+    "Big Data/Hadoop/5. Yarn.md",
+    "Big Data/Hadoop/4. Java API.md",
     "Big Data/Hadoop/1. Hadoop.md",
+    "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
@@ -207,13 +212,8 @@
     "Programming Languages/Java/7. JDBC",
     "Programming Languages/Java/6. IO/2. Network based.md",
     "Programming Languages/Java/6. IO/1. Advanced.md",
-    "Programming Languages/Java/6. IO/0. Intro.md",
     "Programming Languages/Java/6. IO",
-    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
-    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/5. Networking",
-    "Programming Languages/Java/2. Collections Framework/3. Map.md",
-    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
     "Programming Languages/Java/2. Collections Framework",
     "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/FIN/protective put.png",
