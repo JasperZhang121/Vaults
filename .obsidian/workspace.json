@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4464d64ef8f479a7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ]
       }
@@ -180,12 +170,12 @@
   },
   "active": "a877c86a6853a4c4",
   "lastOpenFiles": [
+    "Big Data/Hadoop/1. Hadoop.md",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Big Data/Hadoop/2. HDFS.md",
     "Big Data/Hadoop/3. HDFS Shell.md",
     "Big Data/Hadoop/5. Yarn.md",
     "Big Data/Hadoop/4. Java API.md",
-    "Big Data/Hadoop/1. Hadoop.md",
     "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
