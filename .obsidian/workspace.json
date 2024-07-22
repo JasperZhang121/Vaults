@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62386e59cbfe1fa6",
+        "id": "08ef630f563d0106",
         "type": "tabs",
         "children": [
           {
-            "id": "35cb0d5c8b497c85",
+            "id": "54a3b53acfcd3b58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e6d842252b1e02f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md"
+                "file": "Programming Languages/Java/0. Basic/2. Syntax & Property.md"
               }
             }
           },
@@ -178,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e6d842252b1e02f",
+  "active": "54a3b53acfcd3b58",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/0. Basic/1. Understand.md",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
@@ -211,7 +201,6 @@
     "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
     "Artificial Intelligence/Deep Learning/7. SLAM",
     "Artificial Intelligence/Deep Learning/5. Transformer/3.1 DeBERTa.md",
-    "Artificial Intelligence/Deep Learning/4. Transfer Learning/1. Low-Rank Adaptation.md",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN",
