@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop & Ecosystem.md"
+                "file": "Big Data/Hadoop/1. Hadoop.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "23a45a0d0c8239dd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
+    "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/0. Basic/1. Understand.md",
