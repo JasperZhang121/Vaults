@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef281bddf66fdb9",
+        "id": "9c5c1ce0bd2455e9",
         "type": "tabs",
         "children": [
           {
-            "id": "a877c86a6853a4c4",
+            "id": "54a5472401248553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md",
+                "file": "Big Data/Data Lake/1. Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md",
+                "file": "Big Data/Data Lake/1. Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md",
+                "file": "Big Data/Data Lake/1. Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md"
+                "file": "Big Data/Data Lake/1. Architecture.md"
               }
             }
           },
@@ -168,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a877c86a6853a4c4",
+  "active": "54a5472401248553",
   "lastOpenFiles": [
+    "Big Data/Data Lake/0. Introduction.md",
+    "Big Data/Data Lake/1. Architecture.md",
+    "Big Data/Data Lake",
     "Big Data/Hadoop/1. Hadoop.md",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Big Data/Hadoop/2. HDFS.md",
@@ -200,12 +203,9 @@
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/7. JDBC",
-    "Programming Languages/Java/6. IO/2. Network based.md",
-    "Programming Languages/Java/6. IO/1. Advanced.md",
     "Programming Languages/Java/6. IO",
     "Programming Languages/Java/5. Networking",
     "Programming Languages/Java/2. Collections Framework",
-    "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN/covered call.png",
     "Z-Archive/Pictures/FIN/bull spread.png",
