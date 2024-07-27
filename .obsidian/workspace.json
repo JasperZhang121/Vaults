@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef281bddf66fdb9",
+        "id": "1fca897a31826723",
         "type": "tabs",
         "children": [
           {
-            "id": "a877c86a6853a4c4",
+            "id": "f7fd4ae9b830324a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
+                "file": "Big Data/Hadoop/1. Hadoop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md"
+                "file": "Big Data/Hadoop/1. Hadoop.md"
               }
             }
           },
@@ -167,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a877c86a6853a4c4",
+  "active": "f7fd4ae9b830324a",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
+    "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
+    "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
     "Big Data/Hadoop/3. HDFS Shell.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
@@ -199,10 +202,7 @@
     "Programming Languages/Java/6. IO/0. Intro.md",
     "Programming Languages/Java/6. IO",
     "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
-    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/5. Networking",
-    "Programming Languages/Java/2. Collections Framework/3. Map.md",
-    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
     "Programming Languages/Java/2. Collections Framework",
     "Computer Organization and Architecture/A High-Level Discription",
     "Z-Archive/Pictures/FIN/protective put.png",
