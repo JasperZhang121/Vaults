@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9c5c1ce0bd2455e9",
+        "id": "33ce22dbc920caf4",
         "type": "tabs",
         "children": [
           {
-            "id": "54a5472401248553",
+            "id": "c77805cb0296cdab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Data/Data Lake/1. Architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -167,6 +163,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
+  },
+  "floating": {
+    "id": "0946551d1838999b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a4c42e8636383bd4",
+        "type": "window",
+        "children": [
+          {
+            "id": "45b1cec1afd537c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54a5472401248553",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Big Data/Data Lake/1. Architecture.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1474,
+        "y": 14,
+        "width": 1236,
+        "height": 1360,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "54a5472401248553",
   "lastOpenFiles": [
