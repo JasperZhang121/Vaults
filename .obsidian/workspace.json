@@ -11,8 +11,12 @@
             "id": "04c956343582af01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -161,8 +169,9 @@
   },
   "active": "04c956343582af01",
   "lastOpenFiles": [
-    "Big Data/Hadoop/1. Hadoop.md",
     "conflict-files-obsidian-git.md",
+    "Big Data/Data Lake/2. Workflow.md",
+    "Big Data/Hadoop/1. Hadoop.md",
     "Big Data/Data Lake/1. Architecture.md",
     "Big Data/Data Lake/0. Introduction.md",
     "Big Data/Data Lake",
@@ -193,7 +202,6 @@
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/7. JDBC",
-    "Programming Languages/Java/6. IO/2. Network based.md",
     "Programming Languages/Java/6. IO",
     "Programming Languages/Java/5. Networking",
     "Programming Languages/Java/2. Collections Framework",
