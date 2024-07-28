@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/4. Data Lake/3. DataX.md",
+                "file": "Databases/MySQL/0. Precedence.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/4. Data Lake/3. DataX.md",
+                "file": "Databases/MySQL/0. Precedence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/4. Data Lake/3. DataX.md",
+                "file": "Databases/MySQL/0. Precedence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/4. Data Lake/3. DataX.md"
+                "file": "Databases/MySQL/0. Precedence.md"
               }
             }
           },
@@ -169,8 +170,8 @@
   },
   "active": "9ceae1a7317dc2ed",
   "lastOpenFiles": [
-    "Big Data/4. Data Lake/2. Workflow.md",
     "Big Data/4. Data Lake/3. DataX.md",
+    "Big Data/4. Data Lake/2. Workflow.md",
     "Big Data/1. Hadoop/3. HDFS Shell.md",
     "Big Data/1. Hadoop/2. HDFS.md",
     "Big Data/1. Hadoop/1. Hadoop & Ecosystem.md",
