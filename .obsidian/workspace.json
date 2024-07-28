@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/4. Data Lake/1. Architecture.md",
+                "file": "Big Data/4. Data Lake/2. Workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/4. Data Lake/1. Architecture.md",
+                "file": "Big Data/4. Data Lake/2. Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/4. Data Lake/1. Architecture.md",
+                "file": "Big Data/4. Data Lake/2. Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/4. Data Lake/1. Architecture.md"
+                "file": "Big Data/4. Data Lake/2. Workflow.md"
               }
             }
           },
@@ -167,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "9ceae1a7317dc2ed",
   "lastOpenFiles": [
+    "Big Data/1. Hadoop/3. HDFS Shell.md",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
     "Big Data/4. Data Lake/2. Workflow.md",
     "Big Data/4. Data Lake/1. Architecture.md",
     "Big Data/4. Data Lake/0. Introduction.md",
@@ -191,10 +195,6 @@
     "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
     "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/12. Network Programming/3. Sending Email.md",
-    "Programming Languages/Java/12. Network Programming/1. TCP Programming.md",
-    "Programming Languages/Java/12. Network Programming/0. Basic.md",
-    "Programming Languages/Java/6. IO/2. Network based.md",
-    "Programming Languages/Java/6. IO/1. Advanced.md",
     "Big Data/4. Data Lake",
     "Programming Languages/Python/Pytorch",
     "Programming Languages/Python/OOP",
