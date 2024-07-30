@@ -11,8 +11,12 @@
             "id": "8a4390a5f82fd8bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md"
+              }
             }
           },
           {
@@ -159,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "8a4390a5f82fd8bf",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Big Data/Data Lake/2. Workflow.md",
