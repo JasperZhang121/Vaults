@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Hadoop/1. Hadoop.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,45 +169,45 @@
   },
   "active": "23a45a0d0c8239dd",
   "lastOpenFiles": [
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
+    "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
+    "Big Data/5. Hive/1. Data Definition Language (DDL).md",
+    "Big Data/5. Hive/0. Hive.md",
+    "Big Data/5. Hive",
+    "Big Data/4. Data Lake/3. DataX.md",
+    "Big Data/4. Data Lake/2. Workflow.md",
+    "Big Data/4. Data Lake/1. Architecture.md",
+    "Big Data/4. Data Lake/0. Introduction.md",
+    "Big Data/4. Data Lake",
+    "Big Data/3. Spark/2. Spark SQL.md",
+    "Big Data/3. Spark/1. Spark.md",
+    "Big Data/3. Spark",
+    "Big Data/2. Kafka/2. Architecture.md",
+    "Big Data/2. Kafka/1. Kafka.md",
+    "Big Data/2. Kafka",
+    "Big Data/1. Hadoop/5. Yarn.md",
+    "Big Data/1. Hadoop/4. Java API.md",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/3. HDFS Shell.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/1. Hadoop/1. Hadoop & Ecosystem.md",
+    "Big Data/1. Hadoop",
+    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
     "Programming Languages/Java/0. Basic/1. Understand.md",
     "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
     "Artificial Intelligence/Deep Learning/0. Basic/0. Backpropagation.md",
     "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
-    "Artificial Intelligence/Deep Learning/0. Basics.md",
-    "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
-    "Programming Languages/Go/1. Syntax/3. Constants.md.md",
-    "Programming Languages/Go/1. Syntax/2. Data Types.md",
-    "Programming Languages/Go/1. Syntax/1. Variables.md",
-    "Programming Languages/Go/1. Syntax/0. Basic.md",
-    "Programming Languages/Go/2. Functions/2. Anonymous Functions.md",
-    "Programming Languages/Go/2. Functions/1. Multiple Returns.md",
-    "Programming Languages/Go/2. Functions/0. Defining Functions in Go.md",
-    "Programming Languages/Go/0. Intro/1. Features of Go.md",
-    "Programming Languages/Go/0. Intro/0. Overview of Go.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/2. Functions",
     "Programming Languages/Go/0. Intro",
     "Programming Languages/Go",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/4. Particle Filter.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/3. Extended Kalman Filter.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/2. Kalman Filter.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Mathematical Expressions.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/0. Overview.md",
     "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
-    "Artificial Intelligence/Deep Learning/7. SLAM/0. Introduction to SLAM.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
-    "Z-Archive/Pictures/FIN",
     "Z-Archive/Pictures/FIN/covered call.png",
-    "Cryptography/3. Data encryption standards and replacement algorithms",
-    "Cryptography/2. Sequence ciphers",
-    "Cryptography/1. Cryptography and Data Security",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
