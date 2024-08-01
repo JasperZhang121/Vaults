@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3619e2f736f3c71f",
+        "id": "814b3cdc13cbe10b",
         "type": "tabs",
         "children": [
           {
-            "id": "23a45a0d0c8239dd",
+            "id": "3006cc62b402bf5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/3. Spark/2. Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/3. Spark/2. Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/3. Spark/2. Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Big Data/3. Spark/2. Concepts.md"
               }
             }
           },
@@ -167,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a45a0d0c8239dd",
+  "active": "3006cc62b402bf5a",
   "lastOpenFiles": [
+    "Big Data/3. Spark/1. Spark.md",
+    "Big Data/3. Spark/2. Concepts.md",
     "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
@@ -181,7 +184,6 @@
     "Big Data/4. Data Lake/0. Introduction.md",
     "Big Data/4. Data Lake",
     "Big Data/3. Spark/2. Spark SQL.md",
-    "Big Data/3. Spark/1. Spark.md",
     "Big Data/3. Spark",
     "Big Data/2. Kafka/2. Architecture.md",
     "Big Data/2. Kafka/1. Kafka.md",
@@ -199,7 +201,6 @@
     "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
     "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
     "Artificial Intelligence/Deep Learning/0. Basic/0. Backpropagation.md",
-    "Artificial Intelligence/Deep Learning/0.2. ResNet.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/2. Functions",
     "Programming Languages/Go/0. Intro",
