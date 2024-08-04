@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/3. Spark/2. Concepts.md",
+                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/2. Concepts.md",
+                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/2. Concepts.md",
+                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/3. Spark/2. Concepts.md"
+                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md"
               }
             }
           },
@@ -170,8 +169,15 @@
   },
   "active": "3006cc62b402bf5a",
   "lastOpenFiles": [
+    "Big Data/1. Hadoop/4. HDFS Shell.md",
+    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/1. Hadoop/5. Java API.md",
+    "Big Data/1. Hadoop/5. Yarn.md",
     "Big Data/3. Spark/1. Spark.md",
     "Big Data/3. Spark/2. Concepts.md",
+    "Big Data/3. Spark/2. Spark SQL.md",
     "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
@@ -183,17 +189,10 @@
     "Big Data/4. Data Lake/1. Architecture.md",
     "Big Data/4. Data Lake/0. Introduction.md",
     "Big Data/4. Data Lake",
-    "Big Data/3. Spark/2. Spark SQL.md",
     "Big Data/3. Spark",
     "Big Data/2. Kafka/2. Architecture.md",
     "Big Data/2. Kafka/1. Kafka.md",
     "Big Data/2. Kafka",
-    "Big Data/1. Hadoop/5. Yarn.md",
-    "Big Data/1. Hadoop/4. Java API.md",
-    "Big Data/1. Hadoop/2. HDFS.md",
-    "Big Data/1. Hadoop/3. HDFS Shell.md",
-    "Big Data/1. Hadoop/1. Hadoop.md",
-    "Big Data/1. Hadoop/1. Hadoop & Ecosystem.md",
     "Big Data/1. Hadoop",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
