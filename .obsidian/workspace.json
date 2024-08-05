@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 393.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md"
+                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md"
               }
             }
           },
@@ -169,15 +169,24 @@
   },
   "active": "3006cc62b402bf5a",
   "lastOpenFiles": [
-    "Big Data/1. Hadoop/4. HDFS Shell.md",
+    "Big Data/3. Spark/5. RDD Transformations.md",
+    "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
+    "Big Data/3. Spark/6. RDD Actions.md",
+    "Big Data/3. Spark/4. RDD.md",
+    "Big Data/3. Spark/10. Spark SQL.md",
+    "Big Data/3. Spark/2. Concepts.md",
+    "Big Data/3. Spark/3. Architecture and Execution.md",
+    "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
+    "Z-Archive/Pictures/Big Data/sparkContext.jpg",
+    "Z-Archive/Pictures/Big Data/sparkSubmit.jpg",
+    "Z-Archive/Pictures/Big Data",
+    "Big Data/3. Spark/1. Spark.md",
     "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+    "Big Data/1. Hadoop/4. HDFS Shell.md",
     "Big Data/1. Hadoop/2. HDFS.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
     "Big Data/1. Hadoop/5. Java API.md",
     "Big Data/1. Hadoop/5. Yarn.md",
-    "Big Data/3. Spark/1. Spark.md",
-    "Big Data/3. Spark/2. Concepts.md",
-    "Big Data/3. Spark/2. Spark SQL.md",
     "conflict-files-obsidian-git.md",
     "Big Data/Hadoop/1. Hadoop.md",
     "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
@@ -195,16 +204,10 @@
     "Big Data/2. Kafka",
     "Big Data/1. Hadoop",
     "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Artificial Intelligence/Deep Learning/0. Basic/2. ResNet.md",
-    "Artificial Intelligence/Deep Learning/0. Basic/1. Neural Network.md",
-    "Artificial Intelligence/Deep Learning/0. Basic/0. Backpropagation.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/2. Functions",
     "Programming Languages/Go/0. Intro",
     "Programming Languages/Go",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN/covered call.png",
@@ -212,9 +215,6 @@
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
     "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
