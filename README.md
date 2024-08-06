@@ -10,7 +10,7 @@ If you're already acquainted with Obsidian, importing my notes should be a breez
 ## Status Update
 
 - _**Ongoing Process**:_ ~~I am in the midst of rearranging files, which could temporarily disrupt the repository's organization.~~
-- _**Focus Areas**:_ Recently, my attention has been primarily directed towards NLP, LLM, Deep Learning, and Big Data.
+- _**Focus Areas**:_ My main interests are NLP, LLM, Deep Learning, and Big Data. Given my current work, I predominantly engage with Big Data, so my recent writings focus on this area.
 - _**Coming Soon**:_ Leveraging my dual background in Finance and Computer Science, coupled with my insights into Capital Markets and AI, I'm looking to expand on the Quant and Fintech realms.
 
 ## Known Issues
@@ -26,4 +26,4 @@ If you're already acquainted with Obsidian, importing my notes should be a breez
 
 ## Last Update
 
-_Readme last updated on 2024.04.27._
+_Readme last updated on 2024.08.07._
