@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/4. Collaboration.md",
+                "file": "Big Data/3. Spark/2. Spark SQL/1. DataFrame & DataSet.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 304.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/4. Collaboration.md",
+                "file": "Big Data/3. Spark/2. Spark SQL/1. DataFrame & DataSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/4. Collaboration.md",
+                "file": "Big Data/3. Spark/2. Spark SQL/1. DataFrame & DataSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/4. Collaboration.md"
+                "file": "Big Data/3. Spark/2. Spark SQL/1. DataFrame & DataSet.md"
               }
             }
           },
@@ -169,6 +169,14 @@
   },
   "active": "3006cc62b402bf5a",
   "lastOpenFiles": [
+    "Big Data/3. Spark/2. Spark SQL/0. SparkSQL.md",
+    "Z-Archive/Pictures/Big Data/shark.png",
+    "Big Data/3. Spark/2. Spark SQL/1. DataFrame & DataSet.md",
+    "Big Data/3. Spark/1. RDD/6. Accumulators & Broadcast Variables.md",
+    "Big Data/3. Spark/10. Spark SQL.md",
+    "Big Data/3. Spark/2. Spark SQL",
+    "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
+    "Big Data/3. Spark/1. RDD/4. Collaboration.md",
     "Big Data/3. Spark/1. RDD/3. Serialization & Dependencies & Persistence.md",
     "Big Data/3. Spark/1. RDD/2. Actions.md",
     "Big Data/3. Spark/1. RDD/1. Transformations.md",
@@ -177,9 +185,7 @@
     "Big Data/3. Spark/0. Concept & Architecture/1. Concepts.md",
     "Big Data/3. Spark/0. Concept & Architecture/0. Spark.md",
     "Big Data/3. Spark/1. RDD",
-    "Big Data/3. Spark/1. RDD/4. Collaboration.md",
     "Big Data/3. Spark/0. Concept & Architecture",
-    "Big Data/3. Spark/10. Spark SQL.md",
     "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
     "Z-Archive/Pictures/Big Data/sparkContext.jpg",
     "Z-Archive/Pictures/Big Data/sparkSubmit.jpg",
@@ -197,23 +203,17 @@
     "Big Data/5. Hive/0. Hive.md",
     "Big Data/5. Hive",
     "Big Data/4. Data Lake/3. DataX.md",
-    "Big Data/4. Data Lake/2. Workflow.md",
-    "Big Data/4. Data Lake/1. Architecture.md",
-    "Big Data/4. Data Lake/0. Introduction.md",
     "Big Data/4. Data Lake",
     "Big Data/3. Spark",
-    "Big Data/2. Kafka/2. Architecture.md",
     "Big Data/2. Kafka",
     "Big Data/1. Hadoop",
     "Programming Languages/Go/1. Syntax",
-    "Programming Languages/Go/2. Functions",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN/covered call.png",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
-    "Z-Archive/Pictures/Programming/Java relationship.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
