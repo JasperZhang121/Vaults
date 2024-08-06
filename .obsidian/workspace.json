@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
+                "file": "Big Data/3. Spark/8. Driver, Worker, RDD Collaboration.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
+                "file": "Big Data/3. Spark/8. Driver, Worker, RDD Collaboration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
+                "file": "Big Data/3. Spark/8. Driver, Worker, RDD Collaboration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md"
+                "file": "Big Data/3. Spark/8. Driver, Worker, RDD Collaboration.md"
               }
             }
           },
@@ -169,18 +170,19 @@
   },
   "active": "3006cc62b402bf5a",
   "lastOpenFiles": [
-    "Big Data/3. Spark/5. RDD Transformations.md",
-    "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
-    "Big Data/3. Spark/6. RDD Actions.md",
+    "Big Data/3. Spark/1. Spark.md",
+    "Big Data/3. Spark/8. Driver, Worker, RDD Collaboration.md",
     "Big Data/3. Spark/4. RDD.md",
+    "Big Data/3. Spark/3. Architecture and Execution.md",
+    "Big Data/3. Spark/7. RDD Serialization & Dependencies & Persistence.md",
+    "Big Data/3. Spark/5. RDD Transformations.md",
+    "Big Data/3. Spark/6. RDD Actions.md",
     "Big Data/3. Spark/10. Spark SQL.md",
     "Big Data/3. Spark/2. Concepts.md",
-    "Big Data/3. Spark/3. Architecture and Execution.md",
     "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
     "Z-Archive/Pictures/Big Data/sparkContext.jpg",
     "Z-Archive/Pictures/Big Data/sparkSubmit.jpg",
     "Z-Archive/Pictures/Big Data",
-    "Big Data/3. Spark/1. Spark.md",
     "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
     "Big Data/1. Hadoop/4. HDFS Shell.md",
     "Big Data/1. Hadoop/2. HDFS.md",
@@ -203,7 +205,6 @@
     "Big Data/2. Kafka/1. Kafka.md",
     "Big Data/2. Kafka",
     "Big Data/1. Hadoop",
-    "Big Data/Hadoop/1. Hadoop & Ecosystem.md",
     "Programming Languages/Go/1. Syntax",
     "Programming Languages/Go/2. Functions",
     "Programming Languages/Go/0. Intro",
