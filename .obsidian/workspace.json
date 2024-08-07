@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+                "file": "Big Data/2. Scala/10. Sbt.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+                "file": "Big Data/2. Scala/10. Sbt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+                "file": "Big Data/2. Scala/10. Sbt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/1. Hadoop/3. MapReduce & Yarn.md"
+                "file": "Big Data/2. Scala/10. Sbt.md"
               }
             }
           },
@@ -169,6 +169,20 @@
   },
   "active": "703e0fe5a32cd8ed",
   "lastOpenFiles": [
+    "Big Data/2. Scala/9. Exception Handling.md",
+    "Big Data/2. Scala/8. Pattern Matching.md",
+    "Big Data/2. Scala/7. Collections.md",
+    "Big Data/2. Scala/6. Object-Oriented Programming.md",
+    "Big Data/2. Scala/5. Package Management.md",
+    "Big Data/2. Scala/4. Functional Programming.md",
+    "Big Data/2. Scala/3. Control Flow.md",
+    "Big Data/2. Scala/2. Operators.md",
+    "Big Data/2. Scala/1. Variables and Data Types.md",
+    "Big Data/2. Scala/0. Comprehensive Guide.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Z-Archive/Pictures/Big Data/Scala_mutable_collections_tree.jpg",
+    "Z-Archive/Pictures/Big Data/Scala_immutable_collections_tree.jpg",
+    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
     "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
     "Big Data/5. Hive/1. Data Definition Language (DDL).md",
     "Big Data/5. Hive/0. Hive.md",
@@ -190,31 +204,17 @@
     "Big Data/3. Spark/2. Spark SQL/0. SparkSQL.md",
     "Z-Archive/Pictures/Big Data/shark.png",
     "Big Data/3. Spark/1. RDD/6. Accumulators & Broadcast Variables.md",
-    "Big Data/3. Spark/10. Spark SQL.md",
     "Big Data/3. Spark/2. Spark SQL",
-    "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
-    "Big Data/3. Spark/1. RDD/4. Collaboration.md",
-    "Big Data/3. Spark/1. RDD/3. Serialization & Dependencies & Persistence.md",
-    "Big Data/3. Spark/1. RDD/2. Actions.md",
-    "Big Data/3. Spark/1. RDD/1. Transformations.md",
-    "Big Data/3. Spark/1. RDD/0. RDD.md",
-    "Big Data/3. Spark/0. Concept & Architecture/2. Architecture and Execution.md",
-    "Big Data/3. Spark/0. Concept & Architecture/1. Concepts.md",
-    "Big Data/3. Spark/0. Concept & Architecture/0. Spark.md",
     "Big Data/3. Spark/1. RDD",
     "Big Data/3. Spark/0. Concept & Architecture",
     "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
     "Z-Archive/Pictures/Big Data/sparkContext.jpg",
-    "Z-Archive/Pictures/Big Data/sparkSubmit.jpg",
     "Z-Archive/Pictures/Big Data",
-    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
-    "Big Data/1. Hadoop/4. HDFS Shell.md",
     "Big Data/5. Hive",
     "Big Data/4. Data Lake",
     "Big Data/3. Spark",
     "Big Data/2. Kafka",
     "Big Data/1. Hadoop",
-    "Z-Archive/Pictures/FIN/bull spread.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
