@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/2. Scala/10. Sbt.md",
+                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/2. Scala/10. Sbt.md",
+                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/2. Scala/10. Sbt.md",
+                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/2. Scala/10. Sbt.md"
+                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md"
               }
             }
           },
@@ -167,8 +168,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "703e0fe5a32cd8ed",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Z-Archive/Pictures/Big Data/bypassShuffle.png",
+    "hashShuffle 1.png",
+    "Z-Archive/Pictures/Big Data/sortShuffle.png",
+    "Z-Archive/Pictures/Big Data/optimizedHashShuffle.png",
+    "Z-Archive/Pictures/Big Data/hashShuffle.png",
+    "Big Data/3. Spark/4. Core/3. Task Scheduling.md",
+    "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
+    "Z-Archive/Pictures/Big Data/fair.png",
+    "Z-Archive/Pictures/Big Data/taskManager.png",
+    "Z-Archive/Pictures/Big Data/shuffleMap.png",
+    "Big Data/3. Spark/4. Core/2. Spark Communication Architecture.md",
+    "Z-Archive/Pictures/Big Data/SparkCommunicationArchitecture.png",
+    "Z-Archive/Pictures/Big Data/sparkMessage.png",
+    "Z-Archive/Pictures/Big Data/actor.png",
+    "Big Data/3. Spark/4. Core/1. Deployment.md",
+    "Big Data/3. Spark/4. Core/0. Spark Kernel.md",
+    "Big Data/3. Spark/3. Streaming/3. DStream Output.md",
+    "Big Data/3. Spark/4. Core",
+    "Big Data/3. Spark/3. Streaming/2. DStream Transformations.md",
+    "Big Data/2. Scala/0. Comprehensive Guide.md",
+    "Big Data/2. Scala/10. Sbt.md",
     "Big Data/2. Scala/9. Exception Handling.md",
     "Big Data/2. Scala/8. Pattern Matching.md",
     "Big Data/2. Scala/7. Collections.md",
@@ -178,43 +200,22 @@
     "Big Data/2. Scala/3. Control Flow.md",
     "Big Data/2. Scala/2. Operators.md",
     "Big Data/2. Scala/1. Variables and Data Types.md",
-    "Big Data/2. Scala/0. Comprehensive Guide.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
-    "Z-Archive/Pictures/Big Data/Scala_mutable_collections_tree.jpg",
-    "Z-Archive/Pictures/Big Data/Scala_immutable_collections_tree.jpg",
     "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
     "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
     "Big Data/5. Hive/1. Data Definition Language (DDL).md",
     "Big Data/5. Hive/0. Hive.md",
-    "Big Data/3. Spark/3. Streaming/2. DStream Transformations.md",
     "Big Data/3. Spark/3. Streaming/0. Spark Streaming.md",
     "Big Data/3. Spark/3. Streaming/1. Kafka Data Source.md",
-    "README.md",
-    "Z-Archive/Pictures/Big Data/SparkStreamEngine.png",
-    "Z-Archive/Pictures/Big Data/DStream.png",
-    "Z-Archive/Pictures/Big Data/netcat1.png",
-    "Z-Archive/Pictures/Big Data/SparkStreaming.png",
-    "Big Data/3. Spark/2. Spark SQL/5. Data Loading and Saving.md",
     "Big Data/3. Spark/3. Streaming",
-    "Big Data/3. Spark/2. Spark SQL/4. User-Defined Functions.md",
-    "Big Data/3. Spark/2. Spark SQL/3. RDD & DataFrame & DataSet.md",
-    "Z-Archive/Pictures/Big Data/rddCompare.png",
-    "Big Data/3. Spark/2. Spark SQL/2. Coding.md",
-    "Big Data/3. Spark/2. Spark SQL/1. DataFrame & DataSet.md",
-    "Big Data/3. Spark/2. Spark SQL/0. SparkSQL.md",
-    "Z-Archive/Pictures/Big Data/shark.png",
-    "Big Data/3. Spark/1. RDD/6. Accumulators & Broadcast Variables.md",
     "Big Data/3. Spark/2. Spark SQL",
     "Big Data/3. Spark/1. RDD",
     "Big Data/3. Spark/0. Concept & Architecture",
-    "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
-    "Z-Archive/Pictures/Big Data/sparkContext.jpg",
     "Z-Archive/Pictures/Big Data",
     "Big Data/5. Hive",
     "Big Data/4. Data Lake",
     "Big Data/3. Spark",
     "Big Data/2. Kafka",
-    "Big Data/1. Hadoop",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
