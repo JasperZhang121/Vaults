@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "528d244b0a64170a",
+        "id": "43c65b3b985f65e4",
         "type": "tabs",
         "children": [
           {
-            "id": "703e0fe5a32cd8ed",
+            "id": "f918d8c96df7cdaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
+                "file": "Big Data/5. Hbase/2. Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
+                "file": "Big Data/5. Hbase/2. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
+                "file": "Big Data/5. Hbase/2. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md"
+                "file": "Big Data/5. Hbase/2. Shell.md"
               }
             }
           },
@@ -168,54 +167,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "f918d8c96df7cdaf",
   "lastOpenFiles": [
+    "Big Data/5. Hbase/1. Deployment .md",
+    "Big Data/5. Hbase/0. Hbase.md",
+    "Big Data/2. Scala/1. Variables and Data Types.md",
+    "Big Data/2. Scala/0. Comprehensive Guide.md",
+    "README.md",
+    "Big Data/1. Hadoop/4. HDFS Shell.md",
+    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Programming Languages/Java/11. Maven/0. Basic.md",
+    "Big Data/5. Hbase/3. Processes.md",
+    "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
+    "Big Data/6. Flink/0. Key Features of Flink.md",
+    "Big Data/6. Flink",
+    "Big Data/Flink/EventDrivenFlink.png",
+    "Big Data/Flink/0. Key Features of Flink.md",
+    "Big Data/Flink",
+    "Z-Archive/Pictures/Big Data/MemStoreFlush.png",
+    "Z-Archive/Pictures/Big Data/HBaseArchitecture.png",
+    "Big Data/5. Hbase/7. Optimization.md",
+    "Big Data/5. Hbase/6. Integration with Hive.md",
+    "Big Data/5. Hbase/5. MapReduce.md",
+    "Big Data/5. Hbase/4. API.md",
+    "Big Data/5. Hbase/2. Shell.md",
+    "Big Data/5. Hbase",
+    "Big Data/Hbase/MemStoreFlush.png",
+    "Big Data/Hbase/HBaseArchitecture.png",
+    "Big Data/Hbase/7. Optimization.md",
+    "Big Data/Hbase/6. Integration with Hive.md",
+    "Big Data/Hbase/5. MapReduce.md",
+    "Big Data/Hbase/4. API.md",
+    "Big Data/Hbase/3. Processes.md",
+    "Big Data/Hbase/2. Shell.md",
+    "Big Data/Hbase/1. Deployment .md",
+    "Big Data/Hbase/0. Hbase.md",
+    "Big Data/Hbase",
+    "Big Data/Hbase - Copy/MemStoreFlush.png",
+    "Big Data/Hbase - Copy/HBaseArchitecture.png",
+    "Big Data/Hbase - Copy",
     "Z-Archive/Pictures/Big Data/bypassShuffle.png",
     "hashShuffle 1.png",
-    "Z-Archive/Pictures/Big Data/sortShuffle.png",
-    "Z-Archive/Pictures/Big Data/optimizedHashShuffle.png",
-    "Z-Archive/Pictures/Big Data/hashShuffle.png",
-    "Big Data/3. Spark/4. Core/3. Task Scheduling.md",
-    "Big Data/3. Spark/4. Core/4. Spark Shuffle Analysis.md",
-    "Z-Archive/Pictures/Big Data/fair.png",
-    "Z-Archive/Pictures/Big Data/taskManager.png",
-    "Z-Archive/Pictures/Big Data/shuffleMap.png",
-    "Big Data/3. Spark/4. Core/2. Spark Communication Architecture.md",
-    "Z-Archive/Pictures/Big Data/SparkCommunicationArchitecture.png",
-    "Z-Archive/Pictures/Big Data/sparkMessage.png",
-    "Z-Archive/Pictures/Big Data/actor.png",
-    "Big Data/3. Spark/4. Core/1. Deployment.md",
-    "Big Data/3. Spark/4. Core/0. Spark Kernel.md",
-    "Big Data/3. Spark/3. Streaming/3. DStream Output.md",
     "Big Data/3. Spark/4. Core",
-    "Big Data/3. Spark/3. Streaming/2. DStream Transformations.md",
-    "Big Data/2. Scala/0. Comprehensive Guide.md",
-    "Big Data/2. Scala/10. Sbt.md",
-    "Big Data/2. Scala/9. Exception Handling.md",
-    "Big Data/2. Scala/8. Pattern Matching.md",
-    "Big Data/2. Scala/7. Collections.md",
-    "Big Data/2. Scala/6. Object-Oriented Programming.md",
-    "Big Data/2. Scala/5. Package Management.md",
-    "Big Data/2. Scala/4. Functional Programming.md",
-    "Big Data/2. Scala/3. Control Flow.md",
-    "Big Data/2. Scala/2. Operators.md",
-    "Big Data/2. Scala/1. Variables and Data Types.md",
-    "Big Data/1. Hadoop/1. Hadoop.md",
-    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
-    "Big Data/5. Hive/2. Data Manipulation Language (DML).md",
-    "Big Data/5. Hive/1. Data Definition Language (DDL).md",
-    "Big Data/5. Hive/0. Hive.md",
-    "Big Data/3. Spark/3. Streaming/0. Spark Streaming.md",
-    "Big Data/3. Spark/3. Streaming/1. Kafka Data Source.md",
     "Big Data/3. Spark/3. Streaming",
     "Big Data/3. Spark/2. Spark SQL",
     "Big Data/3. Spark/1. RDD",
     "Big Data/3. Spark/0. Concept & Architecture",
-    "Z-Archive/Pictures/Big Data",
-    "Big Data/5. Hive",
-    "Big Data/4. Data Lake",
-    "Big Data/3. Spark",
-    "Big Data/2. Kafka",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
