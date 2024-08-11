@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43c65b3b985f65e4",
+        "id": "de0b966bb04b0589",
         "type": "tabs",
         "children": [
           {
-            "id": "f918d8c96df7cdaf",
+            "id": "e5f97b6c79307ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -168,19 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f918d8c96df7cdaf",
+  "active": "e5f97b6c79307ccf",
   "lastOpenFiles": [
+    "Big Data/5. Hbase/3. Processes.md",
     "Big Data/5. Hbase/1. Deployment .md",
     "Big Data/5. Hbase/0. Hbase.md",
+    "Big Data/2. Scala/4. Functional Programming.md",
     "Big Data/2. Scala/1. Variables and Data Types.md",
     "Big Data/2. Scala/0. Comprehensive Guide.md",
-    "README.md",
+    "Big Data/1. Hadoop/5. Java API.md",
     "Big Data/1. Hadoop/4. HDFS Shell.md",
     "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
     "Big Data/1. Hadoop/2. HDFS.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/5. Hbase/2. Shell.md",
+    "README.md",
     "Programming Languages/Java/11. Maven/0. Basic.md",
-    "Big Data/5. Hbase/3. Processes.md",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
     "Big Data/6. Flink/0. Key Features of Flink.md",
     "Big Data/6. Flink",
@@ -193,7 +195,6 @@
     "Big Data/5. Hbase/6. Integration with Hive.md",
     "Big Data/5. Hbase/5. MapReduce.md",
     "Big Data/5. Hbase/4. API.md",
-    "Big Data/5. Hbase/2. Shell.md",
     "Big Data/5. Hbase",
     "Big Data/Hbase/MemStoreFlush.png",
     "Big Data/Hbase/HBaseArchitecture.png",
@@ -203,8 +204,6 @@
     "Big Data/Hbase/4. API.md",
     "Big Data/Hbase/3. Processes.md",
     "Big Data/Hbase/2. Shell.md",
-    "Big Data/Hbase/1. Deployment .md",
-    "Big Data/Hbase/0. Hbase.md",
     "Big Data/Hbase",
     "Big Data/Hbase - Copy/MemStoreFlush.png",
     "Big Data/Hbase - Copy/HBaseArchitecture.png",
