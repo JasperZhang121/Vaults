@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de0b966bb04b0589",
+        "id": "6f76c89cfb4d4524",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f97b6c79307ccf",
+            "id": "f0df3a2a2d960558",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/6. Flink/0. Key Features of Flink.md",
+                "file": "Big Data/7. Kafka/2. Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/6. Flink/0. Key Features of Flink.md",
+                "file": "Big Data/7. Kafka/2. Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/6. Flink/0. Key Features of Flink.md",
+                "file": "Big Data/7. Kafka/2. Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/6. Flink/0. Key Features of Flink.md"
+                "file": "Big Data/7. Kafka/2. Architecture.md"
               }
             }
           },
@@ -167,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5f97b6c79307ccf",
+  "active": "f0df3a2a2d960558",
   "lastOpenFiles": [
+    "Big Data/7. Kafka/1. Deployment & Commands.md",
+    "Big Data/7. Kafka/0. Kafka.md",
+    "Big Data/6. Flink/0. Key Features of Flink.md",
     "Big Data/5. Hbase/2. Shell.md",
     "Big Data/5. Hbase/3. Processes.md",
     "Big Data/5. Hbase/1. Deployment .md",
@@ -184,7 +187,6 @@
     "README.md",
     "Programming Languages/Java/11. Maven/0. Basic.md",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
-    "Big Data/6. Flink/0. Key Features of Flink.md",
     "Big Data/6. Flink",
     "Big Data/Flink/EventDrivenFlink.png",
     "Big Data/Flink/0. Key Features of Flink.md",
@@ -202,8 +204,6 @@
     "Big Data/Hbase/6. Integration with Hive.md",
     "Big Data/Hbase/5. MapReduce.md",
     "Big Data/Hbase/4. API.md",
-    "Big Data/Hbase/3. Processes.md",
-    "Big Data/Hbase/2. Shell.md",
     "Big Data/Hbase",
     "Big Data/Hbase - Copy/MemStoreFlush.png",
     "Big Data/Hbase - Copy/HBaseArchitecture.png",
