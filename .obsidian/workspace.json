@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f76c89cfb4d4524",
+        "id": "58530f8e664aa182",
         "type": "tabs",
         "children": [
           {
-            "id": "f0df3a2a2d960558",
+            "id": "2820e6f954c3f488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/7. Kafka/3. Kafka API.md",
+                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/7. Kafka/3. Kafka API.md",
+                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/7. Kafka/3. Kafka API.md",
+                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/7. Kafka/3. Kafka API.md"
+                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md"
               }
             }
           },
@@ -168,43 +168,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0df3a2a2d960558",
+  "active": "2820e6f954c3f488",
   "lastOpenFiles": [
+    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
+    "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
+    "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
+    "Programming Languages/Java/9. JDBC/4. Common Issues.md",
+    "Programming Languages/Java/9. JDBC/2. Core API Understanding.md",
+    "Programming Languages/Java/9. JDBC/1. Set up and Implementation.md",
+    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
+    "Big Data/0. Data Lake/2. Workflow.md",
+    "Big Data/0. Data Lake/1. Architecture.md",
+    "Big Data/0. Data Lake/0. Introduction.md",
+    "Big Data/0. Data Lake/3. DataX.md",
+    "Big Data/0. Data Lake",
+    "Big Data/8. Doris/3. Monitoring and Alerting.md",
+    "Big Data/8. Doris/2. Usage.md",
+    "Big Data/8. Doris/1. Installation.md",
+    "Big Data/8. Doris/0. Doris.md",
+    "Big Data/8. Doris",
+    "Big Data/doris/3. Monitoring and Alerting.md",
+    "Big Data/doris/2. Usage.md",
+    "Big Data/doris/1. Installation.md",
+    "Big Data/doris/0. Doris.md",
+    "Big Data/doris",
+    "Big Data/7. Kafka/5. Flume Integration.md",
+    "Big Data/7. Kafka/4. Monitoring.md",
+    "Big Data/7. Kafka/3. API.md",
+    "Big Data/7. Kafka/3. Kafka API.md",
     "Big Data/7. Kafka/2. Architecture.md",
     "Big Data/7. Kafka/1. Deployment & Commands.md",
     "Big Data/7. Kafka/0. Kafka.md",
-    "Big Data/6. Flink/0. Key Features of Flink.md",
-    "Big Data/5. Hbase/2. Shell.md",
-    "Big Data/5. Hbase/3. Processes.md",
-    "Big Data/5. Hbase/1. Deployment .md",
-    "Big Data/5. Hbase/0. Hbase.md",
-    "Big Data/2. Scala/4. Functional Programming.md",
-    "Big Data/2. Scala/1. Variables and Data Types.md",
-    "Big Data/2. Scala/0. Comprehensive Guide.md",
-    "Big Data/1. Hadoop/5. Java API.md",
-    "Big Data/1. Hadoop/4. HDFS Shell.md",
-    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
-    "Big Data/1. Hadoop/2. HDFS.md",
-    "Big Data/1. Hadoop/1. Hadoop.md",
-    "README.md",
-    "Programming Languages/Java/11. Maven/0. Basic.md",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
     "Big Data/6. Flink",
     "Big Data/Flink/EventDrivenFlink.png",
-    "Big Data/Flink/0. Key Features of Flink.md",
     "Big Data/Flink",
     "Z-Archive/Pictures/Big Data/MemStoreFlush.png",
     "Z-Archive/Pictures/Big Data/HBaseArchitecture.png",
-    "Big Data/5. Hbase/7. Optimization.md",
-    "Big Data/5. Hbase/6. Integration with Hive.md",
-    "Big Data/5. Hbase/5. MapReduce.md",
-    "Big Data/5. Hbase/4. API.md",
     "Big Data/5. Hbase",
     "Big Data/Hbase/MemStoreFlush.png",
     "Big Data/Hbase/HBaseArchitecture.png",
-    "Big Data/Hbase/7. Optimization.md",
-    "Big Data/Hbase/6. Integration with Hive.md",
-    "Big Data/Hbase/5. MapReduce.md",
     "Big Data/Hbase",
     "Big Data/Hbase - Copy/MemStoreFlush.png",
     "Big Data/Hbase - Copy/HBaseArchitecture.png",
@@ -213,9 +216,6 @@
     "hashShuffle 1.png",
     "Big Data/3. Spark/4. Core",
     "Big Data/3. Spark/3. Streaming",
-    "Big Data/3. Spark/2. Spark SQL",
-    "Big Data/3. Spark/1. RDD",
-    "Big Data/3. Spark/0. Concept & Architecture",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
