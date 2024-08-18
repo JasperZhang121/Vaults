@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
+                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
+                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
+                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/9. JDBC/5. Connection Pool.md"
+                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "2820e6f954c3f488",
   "lastOpenFiles": [
-    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
+    "Databases/MySQL/0. Precedence.md",
+    "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
     "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
+    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
     "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
     "Programming Languages/Java/9. JDBC/4. Common Issues.md",
     "Programming Languages/Java/9. JDBC/2. Core API Understanding.md",
@@ -197,8 +199,6 @@
     "Big Data/7. Kafka/3. API.md",
     "Big Data/7. Kafka/3. Kafka API.md",
     "Big Data/7. Kafka/2. Architecture.md",
-    "Big Data/7. Kafka/1. Deployment & Commands.md",
-    "Big Data/7. Kafka/0. Kafka.md",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
     "Big Data/6. Flink",
     "Big Data/Flink/EventDrivenFlink.png",
