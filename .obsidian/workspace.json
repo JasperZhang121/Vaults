@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "58530f8e664aa182",
+        "id": "8a6e0452edcea394",
         "type": "tabs",
         "children": [
           {
-            "id": "2820e6f954c3f488",
+            "id": "2e7c1df8f59f89f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2820e6f954c3f488",
+  "active": "2e7c1df8f59f89f4",
   "lastOpenFiles": [
-    "Databases/MySQL/0. Precedence.md",
     "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
+    "Databases/MySQL/0. Precedence.md",
     "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
     "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
     "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
