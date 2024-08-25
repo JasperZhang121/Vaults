@@ -11,8 +11,12 @@
             "id": "2e7c1df8f59f89f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Java/5. Annotation/1. Using Annotations.md"
+              }
             }
           },
           {
@@ -161,6 +169,11 @@
   },
   "active": "2e7c1df8f59f89f4",
   "lastOpenFiles": [
+    "Programming Languages/Java/4. Reflection/5. Inheritance Relationships.md",
+    "Programming Languages/Java/4. Reflection/4. Invoke Constructor Methods.md",
+    "Programming Languages/Java/4. Reflection/3. Invoke Method.md",
+    "Programming Languages/Java/4. Reflection/2. Field Information.md",
+    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
     "Databases/MySQL/0. Precedence.md",
     "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
@@ -185,11 +198,6 @@
     "Big Data/doris/1. Installation.md",
     "Big Data/doris/0. Doris.md",
     "Big Data/doris",
-    "Big Data/7. Kafka/5. Flume Integration.md",
-    "Big Data/7. Kafka/4. Monitoring.md",
-    "Big Data/7. Kafka/3. API.md",
-    "Big Data/7. Kafka/3. Kafka API.md",
-    "Big Data/7. Kafka/2. Architecture.md",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
     "Big Data/6. Flink",
     "Big Data/Flink/EventDrivenFlink.png",
