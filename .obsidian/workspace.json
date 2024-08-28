@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
+                "file": "Programming Languages/Java/14. Spring/Spring Annotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
+                "file": "Programming Languages/Java/14. Spring/Spring Annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
+                "file": "Programming Languages/Java/14. Spring/Spring Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/14. Spring/0. Principles of IoC.md"
+                "file": "Programming Languages/Java/14. Spring/Spring Annotation.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "2e7c1df8f59f89f4",
   "lastOpenFiles": [
+    "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
+    "Programming Languages/Java/14. Spring/Spring Annotation.md",
     "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
     "Programming Languages/Java/4. Reflection/5. Inheritance Relationships.md",
     "Programming Languages/Java/4. Reflection/4. Invoke Constructor Methods.md",
@@ -195,8 +197,6 @@
     "Big Data/8. Doris/0. Doris.md",
     "Big Data/8. Doris",
     "Big Data/doris/3. Monitoring and Alerting.md",
-    "Big Data/doris/2. Usage.md",
-    "Big Data/doris/1. Installation.md",
     "Big Data/doris",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
     "Big Data/6. Flink",
