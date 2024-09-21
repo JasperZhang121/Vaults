@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/Quick check.md",
+                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/Quick check.md"
+                "file": "Databases/MySQL/3. SQL.md"
               }
             }
           },
@@ -169,7 +169,10 @@
   },
   "active": "2e7c1df8f59f89f4",
   "lastOpenFiles": [
+    "Databases/MySQL/2. Data Type.md",
+    "Databases/MySQL/1. Tables.md",
     "Databases/MySQL/0. Precedence.md",
+    "Databases/MySQL/Quick check.md",
     "Programming Languages/Java/14. Spring/0. IOC/2. Annotation Configuration.md",
     "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
     "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
@@ -194,9 +197,6 @@
     "Big Data/0. Data Lake/0. Introduction.md",
     "Big Data/0. Data Lake/3. DataX.md",
     "Big Data/0. Data Lake",
-    "Big Data/8. Doris/3. Monitoring and Alerting.md",
-    "Big Data/8. Doris/2. Usage.md",
-    "Big Data/8. Doris/1. Installation.md",
     "Big Data/8. Doris",
     "Big Data/doris",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
