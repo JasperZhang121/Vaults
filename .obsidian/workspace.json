@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "Big Data/1. Hadoop/5. Java API.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "Big Data/1. Hadoop/5. Java API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
+                "file": "Big Data/1. Hadoop/5. Java API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md"
+                "file": "Big Data/1. Hadoop/5. Java API.md"
               }
             }
           },
@@ -169,6 +169,13 @@
   },
   "active": "2e7c1df8f59f89f4",
   "lastOpenFiles": [
+    "Big Data/1. Hadoop/4. HDFS Shell.md",
+    "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/1. Hadoop/5. Java API.md",
+    "Big Data/7. Kafka/0. Kafka.md",
+    "Databases/MySQL/3. SQL.md",
     "Databases/MySQL/2. Data Type.md",
     "Databases/MySQL/1. Tables.md",
     "Databases/MySQL/0. Precedence.md",
@@ -189,13 +196,6 @@
     "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
     "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
     "Programming Languages/Java/9. JDBC/4. Common Issues.md",
-    "Programming Languages/Java/9. JDBC/2. Core API Understanding.md",
-    "Programming Languages/Java/9. JDBC/1. Set up and Implementation.md",
-    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
-    "Big Data/0. Data Lake/2. Workflow.md",
-    "Big Data/0. Data Lake/1. Architecture.md",
-    "Big Data/0. Data Lake/0. Introduction.md",
-    "Big Data/0. Data Lake/3. DataX.md",
     "Big Data/0. Data Lake",
     "Big Data/8. Doris",
     "Big Data/doris",
