@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "74c978711ac41c58",
+        "id": "d99c78360b5076f2",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce0f31981eeb858",
+            "id": "6b1aee3e452f3bbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Big Data/1. Hadoop/4. HDFS Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Big Data/1. Hadoop/4. HDFS Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Big Data/1. Hadoop/4. HDFS Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Big Data/1. Hadoop/4. HDFS Shell.md"
+              }
             }
           },
           {
@@ -159,8 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ce0f31981eeb858",
+  "active": "6b1aee3e452f3bbb",
   "lastOpenFiles": [
+    "Big Data/1. Hadoop/6. MapReduce & Yarn.md",
+    "Big Data/1. Hadoop/3. Metadata.md",
+    "Big Data/1. Hadoop/4. HDFS Shell.md",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/0. Data Lake/3. DataX.md",
+    "Big Data/0. Data Lake/2. Workflow.md",
+    "Big Data/0. Data Lake/1. Architecture.md",
+    "Big Data/0. Data Lake/0. Introduction.md",
+    "Algorithm/Algo/Backtracking/Backtracking.md",
     "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
     "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/9. Networking",
@@ -194,19 +212,9 @@
     "Programming Languages/Java/2. Collections Framework/0. List.md",
     "Programming Languages/Java/2. Collections Framework",
     "Programming Languages/Java/14. Spring/0. IOC/2. Annotation Configuration.md",
-    "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
-    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
     "Programming Languages/Java/14. Spring/0. IOC",
-    "Programming Languages/Java/14. Spring/Spring Annotation.md",
     "Programming Languages/Java/14. Spring",
-    "Big Data/Spark/1. Spark.md",
-    "Big Data/Spark/2. Spark SQL.md",
     "Big Data/Spark",
-    "Big Data/Kafka/2. Architecture.md",
-    "Big Data/Kafka/1. Kafka.md",
-    "Big Data/Hadoop/5. Yarn.md",
-    "Big Data/Hadoop/4. Java API.md",
-    "Big Data/Hadoop/3. HDFS Shell.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
