@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a6e0452edcea394",
+        "id": "74c978711ac41c58",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7c1df8f59f89f4",
+            "id": "4ce0f31981eeb858",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/MySQL/3. SQL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "21ba460aa745ff57",
+            "id": "7095d05959c0a371",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL/3. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,13 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Databases/MySQL/3. SQL.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "dea00adaa0bd7b1a",
+            "id": "6461de1442b14953",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,54 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e7c1df8f59f89f4",
+  "active": "4ce0f31981eeb858",
   "lastOpenFiles": [
-    "Databases/MySQL/2. Data Type.md",
-    "Databases/MySQL/1. Tables.md",
-    "Databases/MySQL/0. Precedence.md",
-    "Databases/MySQL/Quick check.md",
+    "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/9. Networking",
+    "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
+    "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
+    "Programming Languages/Java/9. Multithreading/0. Intro.md",
+    "Programming Languages/Java/9. Multithreading",
+    "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
+    "Programming Languages/Java/7. JDBC",
+    "Programming Languages/Java/6. IO/2. Network based.md",
+    "Programming Languages/Java/6. IO/1. Advanced.md",
+    "Programming Languages/Java/6. IO/0. Intro.md",
+    "Programming Languages/Java/6. IO",
+    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/5. Networking",
+    "Z-Archive/Pictures/Big Data/yarnCluster.png",
+    "Z-Archive/Pictures/Big Data/yarnClient.png",
+    "Z-Archive/Pictures/Big Data/SparkStreamEngine.png",
+    "Z-Archive/Pictures/Big Data/SparkStreaming.png",
+    "Z-Archive/Pictures/Big Data/taskManager.png",
+    "Z-Archive/Pictures/Big Data/sparkMessage.png",
+    "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
+    "Z-Archive/Pictures/Big Data/SparkCommunicationArchitecture.png",
+    "Z-Archive/Pictures/Big Data/sparkContext.jpg",
+    "Z-Archive/Pictures/Big Data/sortShuffle.png",
+    "Z-Archive/Pictures/Big Data",
+    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
+    "Programming Languages/Java/2. Collections Framework/3. Map.md",
+    "Programming Languages/Java/2. Collections Framework/1. Set.md",
+    "Programming Languages/Java/2. Collections Framework/0. List.md",
+    "Programming Languages/Java/2. Collections Framework",
     "Programming Languages/Java/14. Spring/0. IOC/2. Annotation Configuration.md",
-    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
     "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
+    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
     "Programming Languages/Java/14. Spring/0. IOC",
     "Programming Languages/Java/14. Spring/Spring Annotation.md",
-    "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
-    "Programming Languages/Java/4. Reflection/5. Inheritance Relationships.md",
-    "Programming Languages/Java/4. Reflection/4. Invoke Constructor Methods.md",
-    "Programming Languages/Java/4. Reflection/3. Invoke Method.md",
-    "Programming Languages/Java/4. Reflection/2. Field Information.md",
-    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
-    "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
-    "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
-    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
-    "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
-    "Programming Languages/Java/9. JDBC/4. Common Issues.md",
-    "Programming Languages/Java/9. JDBC/2. Core API Understanding.md",
-    "Programming Languages/Java/9. JDBC/1. Set up and Implementation.md",
-    "Programming Languages/Java/9. JDBC/0. Java Database Connectivity.md",
-    "Big Data/0. Data Lake/2. Workflow.md",
-    "Big Data/0. Data Lake/1. Architecture.md",
-    "Big Data/0. Data Lake/0. Introduction.md",
-    "Big Data/0. Data Lake/3. DataX.md",
-    "Big Data/0. Data Lake",
-    "Big Data/8. Doris",
-    "Big Data/doris",
-    "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
-    "Big Data/6. Flink",
-    "Big Data/Flink/EventDrivenFlink.png",
-    "Big Data/Flink",
-    "Z-Archive/Pictures/Big Data/MemStoreFlush.png",
-    "Z-Archive/Pictures/Big Data/HBaseArchitecture.png",
-    "Big Data/5. Hbase",
-    "Big Data/Hbase/MemStoreFlush.png",
-    "Big Data/Hbase/HBaseArchitecture.png",
-    "Big Data/Hbase",
-    "Big Data/Hbase - Copy/MemStoreFlush.png",
-    "Big Data/Hbase - Copy/HBaseArchitecture.png",
-    "Big Data/Hbase - Copy",
-    "Z-Archive/Pictures/Big Data/bypassShuffle.png",
-    "hashShuffle 1.png",
-    "Big Data/3. Spark/4. Core",
+    "Programming Languages/Java/14. Spring",
+    "Big Data/Spark/1. Spark.md",
+    "Big Data/Spark/2. Spark SQL.md",
+    "Big Data/Spark",
+    "Big Data/Kafka/2. Architecture.md",
+    "Big Data/Kafka/1. Kafka.md",
+    "Big Data/Hadoop/5. Yarn.md",
+    "Big Data/Hadoop/4. Java API.md",
+    "Big Data/Hadoop/3. HDFS Shell.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
