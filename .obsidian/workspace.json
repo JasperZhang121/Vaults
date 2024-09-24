@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a6e0452edcea394",
+        "id": "a9d7769a6d646e82",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7c1df8f59f89f4",
+            "id": "924cda79917d66ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/1. Hadoop/5. Java API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7b02122da132805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md"
               }
             }
           },
@@ -180,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7b02122da132805",
+  "active": "924cda79917d66ae",
   "lastOpenFiles": [
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
+    "Big Data/7. Kafka/0. Kafka.md",
+    "Big Data/7. Kafka/3. API.md",
     "Big Data/1. Hadoop/5. Java API.md",
     "conflict-files-obsidian-git.md",
     "Big Data/1. Hadoop/6. MapReduce & Yarn.md",
@@ -190,7 +181,6 @@
     "Big Data/1. Hadoop/3. MapReduce & Yarn.md",
     "Big Data/1. Hadoop/2. HDFS.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
-    "Big Data/7. Kafka/0. Kafka.md",
     "Databases/MySQL/3. SQL.md",
     "Databases/MySQL/2. Data Type.md",
     "Databases/MySQL/1. Tables.md",
@@ -206,9 +196,6 @@
     "Programming Languages/Java/4. Reflection/4. Invoke Constructor Methods.md",
     "Programming Languages/Java/4. Reflection/3. Invoke Method.md",
     "Programming Languages/Java/4. Reflection/2. Field Information.md",
-    "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
-    "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
-    "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
     "Big Data/0. Data Lake",
     "Big Data/8. Doris",
     "Big Data/doris",
