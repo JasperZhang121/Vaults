@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
+                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
+                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
+                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md"
+                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md"
               }
             }
           },
@@ -169,6 +169,13 @@
   },
   "active": "924cda79917d66ae",
   "lastOpenFiles": [
+    "Programming Languages/Java/15. SpringCloud/0. Service Registration and Discovery.md",
+    "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
+    "nacos-center.png",
+    "nacos.png",
+    "Microservices.jpeg",
+    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
+    "Programming Languages/Java/15. SpringCloud",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
     "Big Data/7. Kafka/0. Kafka.md",
@@ -193,9 +200,6 @@
     "Programming Languages/Java/14. Spring/Spring Annotation.md",
     "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
     "Programming Languages/Java/4. Reflection/5. Inheritance Relationships.md",
-    "Programming Languages/Java/4. Reflection/4. Invoke Constructor Methods.md",
-    "Programming Languages/Java/4. Reflection/3. Invoke Method.md",
-    "Programming Languages/Java/4. Reflection/2. Field Information.md",
     "Big Data/0. Data Lake",
     "Big Data/8. Doris",
     "Big Data/doris",
@@ -210,11 +214,7 @@
     "Big Data/Hbase/HBaseArchitecture.png",
     "Big Data/Hbase",
     "Big Data/Hbase - Copy/MemStoreFlush.png",
-    "Big Data/Hbase - Copy/HBaseArchitecture.png",
     "Big Data/Hbase - Copy",
-    "Z-Archive/Pictures/Big Data/bypassShuffle.png",
-    "hashShuffle 1.png",
-    "Big Data/3. Spark/4. Core",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
