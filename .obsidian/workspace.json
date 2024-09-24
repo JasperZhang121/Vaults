@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
+                "file": "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
+                "file": "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
+                "file": "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/1. Nacos.md"
+                "file": "Programming Languages/Java/15. SpringCloud/3. API Gateway.md"
               }
             }
           },
@@ -169,11 +169,15 @@
   },
   "active": "924cda79917d66ae",
   "lastOpenFiles": [
-    "Programming Languages/Java/15. SpringCloud/0. Service Registration and Discovery.md",
+    "Programming Languages/Java/15. SpringCloud/2. Feign.md",
     "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
-    "nacos-center.png",
-    "nacos.png",
-    "Microservices.jpeg",
+    "Programming Languages/Java/15. SpringCloud/0. Service Registration and Discovery.md",
+    "Programming Languages/Java/15. SpringCloud/4. ElasticSearch.md",
+    "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
+    "Z-Archive/Pictures/Programming/gateway.jpg",
+    "Z-Archive/Pictures/Programming/nacos-center.png",
+    "Z-Archive/Pictures/Programming/nacos.png",
+    "Z-Archive/Pictures/Programming/Microservices.jpeg",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Java/15. SpringCloud",
     "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
@@ -197,9 +201,6 @@
     "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
     "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
     "Programming Languages/Java/14. Spring/0. IOC",
-    "Programming Languages/Java/14. Spring/Spring Annotation.md",
-    "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
-    "Programming Languages/Java/4. Reflection/5. Inheritance Relationships.md",
     "Big Data/0. Data Lake",
     "Big Data/8. Doris",
     "Big Data/doris",
@@ -213,7 +214,6 @@
     "Big Data/Hbase/MemStoreFlush.png",
     "Big Data/Hbase/HBaseArchitecture.png",
     "Big Data/Hbase",
-    "Big Data/Hbase - Copy/MemStoreFlush.png",
     "Big Data/Hbase - Copy",
     "Untitled 1.canvas",
     "Untitled.canvas"
