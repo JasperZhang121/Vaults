@@ -11,8 +11,12 @@
             "id": "cce6fa7b8412cb6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -161,52 +169,52 @@
   },
   "active": "cce6fa7b8412cb6a",
   "lastOpenFiles": [
-    "Programming Languages/Java/14. Spring/0. Principles of IoC.md",
     "conflict-files-obsidian-git.md",
-    "Big Data/4. Data Lake/3. DataX.md",
-    "Big Data/4. Data Lake/2. Workflow.md",
-    "Big Data/4. Data Lake/1. Architecture.md",
-    "Big Data/4. Data Lake/0. Introduction.md",
-    "Big Data/4. Data Lake",
-    "Big Data/3. Spark/2. Spark SQL.md",
-    "Big Data/3. Spark/1. Spark.md",
-    "Big Data/3. Spark",
-    "Big Data/2. Kafka/2. Architecture.md",
-    "Big Data/2. Kafka/1. Kafka.md",
-    "Big Data/2. Kafka",
-    "Big Data/1. Hadoop/5. Yarn.md",
-    "Big Data/1. Hadoop/4. Java API.md",
-    "Big Data/1. Hadoop/3. HDFS Shell.md",
-    "Big Data/1. Hadoop/2. HDFS.md",
-    "Big Data/1. Hadoop/1. Hadoop.md",
-    "Big Data/1. Hadoop/1. Hadoop & Ecosystem.md",
-    "Big Data/1. Hadoop",
-    "Big Data/Data Lake/2. Workflow.md",
-    "Big Data/Hadoop/1. Hadoop.md",
-    "Big Data/Data Lake/1. Architecture.md",
-    "Big Data/Data Lake/0. Introduction.md",
-    "Big Data/Data Lake",
-    "Artificial Intelligence/Machine Learning/Algorithm/5. Support Vector Machine.md",
-    "Artificial Intelligence/Machine Learning/Algorithm/8. K means.md",
-    "Blockchain/2. Technical Aspects/2. Consensus Algorithms.md",
-    "Big Data/Hadoop/3. HDFS Shell.md",
-    "Artificial Intelligence/Deep Learning/7. SLAM/1. Localization/1. Extended Kalman Filter.md",
-    "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Programming Languages/Python/Pytorch",
-    "Programming Languages/Python/OOP",
-    "Programming Languages/Python/Flask",
-    "Programming Languages/Python/Data Analysis & Modeling & ML",
+    "Z-Archive/Pictures/Programming/nacos.png",
+    "Z-Archive/Pictures/Programming/nacos-center.png",
+    "Z-Archive/Pictures/Programming/gateway.jpg",
+    "Z-Archive/Pictures/Programming/Microservices.jpeg",
+    "Z-Archive/Pictures/Big Data/yarnCluster.png",
+    "Z-Archive/Pictures/Big Data/yarnClient.png",
+    "Z-Archive/Pictures/Big Data/taskManager.png",
+    "Z-Archive/Pictures/Big Data/sparkMessage.png",
+    "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
+    "Z-Archive/Pictures/Big Data/sparkContext.jpg",
+    "Z-Archive/Pictures/Big Data",
+    "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/9. Networking",
+    "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
+    "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
+    "Programming Languages/Java/9. Multithreading/0. Intro.md",
     "Programming Languages/Java/9. Multithreading",
-    "Z-Archive/Pictures/FIN/protective put.png",
-    "Z-Archive/Pictures/FIN/covered call.png",
-    "Z-Archive/Pictures/FIN/bull spread.png",
-    "Z-Archive/Pictures/COA/full_adder.png",
-    "Z-Archive/Pictures/Crypto/Trivium.png",
-    "Z-Archive/Pictures/Crypto/LSFR2.png",
-    "Z-Archive/Pictures/Crypto/LSFR1.png",
-    "Z-Archive/Pictures/Programming/Java relationship.png",
-    "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
-    "Screen Shot 2023-10-31 at 7.46.50 pm.png",
+    "Programming Languages/Java/9. JDBC/6. Optimization and Utility Class Packaging.md",
+    "Programming Languages/Java/9. JDBC/5. Connection Pool.md",
+    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
+    "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
+    "Programming Languages/Java/9. JDBC/2. Core API Understanding.md",
+    "Programming Languages/Java/9. JDBC/1. Set up and Implementation.md",
+    "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
+    "Programming Languages/Java/7. JDBC",
+    "Programming Languages/Java/6. IO/2. Network based.md",
+    "Programming Languages/Java/6. IO/1. Advanced.md",
+    "Programming Languages/Java/6. IO/0. Intro.md",
+    "Programming Languages/Java/6. IO",
+    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/5. Networking",
+    "Programming Languages/Java/2. Collections Framework/3. Map.md",
+    "Programming Languages/Java/2. Collections Framework/2. Queue.md",
+    "Programming Languages/Java/2. Collections Framework/1. Set.md",
+    "Programming Languages/Java/2. Collections Framework/0. List.md",
+    "Programming Languages/Java/2. Collections Framework",
+    "Programming Languages/Java/15. SpringCloud/4. ElasticSearch.md",
+    "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
+    "Programming Languages/Java/15. SpringCloud/2. Feign.md",
+    "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
+    "Programming Languages/Java/15. SpringCloud",
+    "Programming Languages/Java/14. Spring/0. IOC",
+    "Big Data/Spark",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
