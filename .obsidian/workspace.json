@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d99c78360b5076f2",
+        "id": "aee916e71ea0916f",
         "type": "tabs",
         "children": [
           {
-            "id": "6b1aee3e452f3bbb",
+            "id": "0bcc0027d9a62990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
+                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
+                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
+                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md"
+                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md"
               }
             }
           },
@@ -168,10 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b1aee3e452f3bbb",
+  "active": "0bcc0027d9a62990",
   "lastOpenFiles": [
-    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "Containers and Orchestration/Docker/0.Operations.md",
+    "Containers and Orchestration/Kubernetes/0.Introduction.md",
+    "Containers and Orchestration/Kubernetes",
+    "Containers and Orchestration/Docker",
+    "Containers and Orchestration",
+    "Data Warehouse/4.1 Hive Cheat Sheet.md",
+    "Data Warehouse/4. Hive.md",
+    "Data Warehouse/2. Layering and Architecture.md",
+    "Data Warehouse/1. ETL & ELT.md",
+    "Data Warehouse/0. Key Features.md",
+    "Big Data/4. Hive/2. Data Manipulation Language (DML).md",
+    "Big Data/4. Hive/1. Data Definition Language (DDL).md",
     "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
     "Big Data/1. Hadoop/4. HDFS Shell.md",
@@ -192,18 +203,9 @@
     "Big Data/0. Data Lake/3. DataX.md",
     "Big Data/0. Data Lake/2. Workflow.md",
     "Big Data/0. Data Lake/1. Architecture.md",
-    "Big Data/0. Data Lake/0. Introduction.md",
-    "Algorithm/Algo/Backtracking/Backtracking.md",
-    "Programming Languages/Java/9. Networking/1. Advanced Networking.md",
-    "Programming Languages/Java/9. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/9. Networking",
-    "Programming Languages/Java/9. Multithreading/2. Thread vs Process.md",
-    "Programming Languages/Java/9. Multithreading/1. Synchronization and Coordination.md",
-    "Programming Languages/Java/9. Multithreading/0. Intro.md",
     "Programming Languages/Java/9. Multithreading",
-    "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/7. JDBC",
-    "Programming Languages/Java/6. IO/2. Network based.md",
     "Programming Languages/Java/6. IO",
     "Programming Languages/Java/5. Networking",
     "Z-Archive/Pictures/Big Data/yarnCluster.png",
@@ -213,9 +215,6 @@
     "Z-Archive/Pictures/Big Data/taskManager.png",
     "Z-Archive/Pictures/Big Data/sparkMessage.png",
     "Z-Archive/Pictures/Big Data",
-    "Programming Languages/Java/2. Collections Framework",
-    "Programming Languages/Java/14. Spring/0. IOC",
-    "Programming Languages/Java/14. Spring",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
