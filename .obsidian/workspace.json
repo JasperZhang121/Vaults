@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
+                "file": "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "6b1aee3e452f3bbb",
   "lastOpenFiles": [
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
     "Big Data/1. Hadoop/4. HDFS Shell.md",
@@ -202,8 +204,6 @@
     "Programming Languages/Java/7. JDBC/0. Java Database Connectivity.md",
     "Programming Languages/Java/7. JDBC",
     "Programming Languages/Java/6. IO/2. Network based.md",
-    "Programming Languages/Java/6. IO/1. Advanced.md",
-    "Programming Languages/Java/6. IO/0. Intro.md",
     "Programming Languages/Java/6. IO",
     "Programming Languages/Java/5. Networking",
     "Z-Archive/Pictures/Big Data/yarnCluster.png",
