@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/0.Introduction.md"
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "0bcc0027d9a62990",
   "lastOpenFiles": [
-    "Containers and Orchestration/Docker/0.Operations.md",
+    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
+    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
+    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
     "Containers and Orchestration/Kubernetes/0.Introduction.md",
+    "Containers and Orchestration/Docker/0.Operations.md",
     "Containers and Orchestration/Kubernetes",
     "Containers and Orchestration/Docker",
     "Containers and Orchestration",
@@ -183,8 +186,6 @@
     "Big Data/4. Hive/1. Data Definition Language (DDL).md",
     "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
     "Computer Operating System/Linux/Basic Linux/3. Shell.md",
-    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
-    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
     "Big Data/1. Hadoop/4. HDFS Shell.md",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
@@ -202,7 +203,6 @@
     "Big Data/1. Hadoop/1. Hadoop.md",
     "Big Data/0. Data Lake/3. DataX.md",
     "Big Data/0. Data Lake/2. Workflow.md",
-    "Big Data/0. Data Lake/1. Architecture.md",
     "Programming Languages/Java/9. Networking",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/7. JDBC",
