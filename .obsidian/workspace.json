@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/6. Common Issues.md",
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/6. Common Issues.md",
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/6. Common Issues.md",
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/6. Common Issues.md"
+                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "098df7c42ad52092",
   "lastOpenFiles": [
+    "Git/6. Common Issues.md",
     "Git/5. Advanced Git Features.md",
     "Git/4. Remote Repositories.md",
     "Git/0. Concepts.md",
@@ -177,7 +178,6 @@
     "Git/3. Basic Commands.md",
     "Git/4. Changes.md",
     "Git/2. Repository.md",
-    "Git/6. Common Issues.md",
     "Git/5. LFS.md",
     "Git/3. Branch.md",
     "Git/2. Repo.md",
