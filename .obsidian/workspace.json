@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
+                "file": "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "0bcc0027d9a62990",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
     "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "conflict-files-obsidian-git.md",
     "Git/6. Common Issues.md",
     "Git/5. Advanced Git Features.md",
     "Git/4. Remote Repositories.md",
@@ -189,7 +192,6 @@
     "Data Warehouse/0. Key Features.md",
     "Big Data/4. Hive/2. Data Manipulation Language (DML).md",
     "Big Data/4. Hive/1. Data Definition Language (DDL).md",
-    "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
     "Big Data/1. Hadoop/4. HDFS Shell.md",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
@@ -201,8 +203,6 @@
     "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
     "Programming Languages/Java/15. SpringCloud/0. Service Registration and Discovery.md",
     "Programming Languages/Java/15. SpringCloud",
-    "Big Data/1. Hadoop/6. MapReduce & Yarn.md",
-    "Big Data/1. Hadoop/3. Metadata.md",
     "Programming Languages/Java/9. Networking",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/7. JDBC",
