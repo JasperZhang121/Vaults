@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md"
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
               }
             }
           },
@@ -170,8 +169,9 @@
   },
   "active": "e0f6d5d9e8ae5d4a",
   "lastOpenFiles": [
-    "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
+    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
+    "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
     "Git/1. Initialization and Configuration.md",
     "Git/0. Concepts.md",
     "Computer Operating System/Linux/Basic Linux/3. Shell.md",
@@ -197,7 +197,6 @@
     "Git/5. Advanced Git Features.md",
     "Git/4. Remote Repositories.md",
     "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
-    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Containers and Orchestration/Kubernetes",
     "Containers and Orchestration/Docker",
     "Containers and Orchestration",
