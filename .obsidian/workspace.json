@@ -11,8 +11,12 @@
             "id": "f6b624bac2965437",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/16. Template/1. application.yml.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Languages/Java/16. Template/1. application.yml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Languages/Java/16. Template/1. application.yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Languages/Java/16. Template/1. application.yml.md"
+              }
             }
           },
           {
@@ -161,6 +169,9 @@
   },
   "active": "f6b624bac2965437",
   "lastOpenFiles": [
+    "Programming Languages/Java/16. Template/0. pom.xml.md",
+    "Programming Languages/Java/16. Template/1. application.yml.md",
+    "Programming Languages/Java/16. Template",
     "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
     "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
     "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
@@ -189,8 +200,6 @@
     "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
     "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
     "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
-    "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
-    "Programming Languages/Java/15. SpringCloud/2. Feign.md",
     "Z-Archive/Pictures/Programming/gateway.jpg",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/nacos.png",
@@ -201,7 +210,6 @@
     "Big Data/8. Doris",
     "Big Data/doris",
     "Z-Archive/Pictures/Big Data/EventDrivenFlink.png",
-    "Big Data/6. Flink",
     "Big Data/Flink/EventDrivenFlink.png",
     "Z-Archive/Pictures/Big Data/MemStoreFlush.png",
     "Z-Archive/Pictures/Big Data/HBaseArchitecture.png",
