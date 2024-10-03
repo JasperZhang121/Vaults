@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md"
+                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "e0f6d5d9e8ae5d4a",
   "lastOpenFiles": [
+    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
     "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
     "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/1. Assets/1. Stocks.md",
@@ -199,7 +200,6 @@
     "Containers and Orchestration/Docker",
     "Containers and Orchestration",
     "Data Warehouse/4.1 Hive Cheat Sheet.md",
-    "Data Warehouse/4. Hive.md",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
