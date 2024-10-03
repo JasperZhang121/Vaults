@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
+                "file": "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md"
               }
             }
           },
@@ -169,6 +170,11 @@
   },
   "active": "e0f6d5d9e8ae5d4a",
   "lastOpenFiles": [
+    "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
+    "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
     "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
     "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
@@ -186,20 +192,15 @@
     "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
     "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
-    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "conflict-files-obsidian-git.md",
     "Git/6. Common Issues.md",
     "Git/5. Advanced Git Features.md",
     "Git/4. Remote Repositories.md",
     "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
-    "Computer Operating System/Linux/Basic Linux/6. Cmake.md",
-    "Containers and Orchestration/Kubernetes/0.Introduction.md",
-    "Containers and Orchestration/Docker/0.Operations.md",
     "Containers and Orchestration/Kubernetes",
     "Containers and Orchestration/Docker",
     "Containers and Orchestration",
-    "Data Warehouse/4.1 Hive Cheat Sheet.md",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
