@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d7769a6d646e82",
+        "id": "555c68f164e831a6",
         "type": "tabs",
         "children": [
           {
-            "id": "924cda79917d66ae",
+            "id": "f6b624bac2965437",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/5. Mybatis Plus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/5. Mybatis Plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/5. Mybatis Plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/15. SpringCloud/5. Mybatis Plus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "924cda79917d66ae",
+  "active": "f6b624bac2965437",
   "lastOpenFiles": [
-    "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
+    "Programming Languages/Java/5. Annotation/1. Using Annotations.md",
+    "Programming Languages/Java/5. Networking/0. Fundamentals of Networking.md",
+    "Programming Languages/Java/5. Networking/1. Advanced Networking.md",
+    "Programming Languages/Java/1. OOP/1. Data Classes/1. Strings & Bytes.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/10. Classpath & Jar.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/1. Encapsulation.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/5. Interface.md",
+    "Programming Languages/Java/1. OOP/0. OOP Basic/6. Static.md",
+    "Programming Languages/Java/0. Basic/1. Understand.md",
+    "Programming Languages/Java/0. Basic/0. Intro.md",
     "Programming Languages/Java/15. SpringCloud/5. Mybatis Plus.md",
+    "Programming Languages/Java/15. SpringCloud/3. API Gateway.md",
     "Quant/5. Chinese Securities/3. Stock Auction.md",
     "Quant/5. Chinese Securities/2. Stock Market.md",
     "Quant/5. Chinese Securities/1. Stock Boards.md",
@@ -189,21 +191,11 @@
     "Big Data/4. Hive/3. Single Node Deployment Guide - Tecent Cloud.md",
     "Big Data/1. Hadoop/7. Single Node Deployment Guide - Tecent Cloud.md",
     "Programming Languages/Java/15. SpringCloud/2. Feign.md",
-    "Programming Languages/Java/15. SpringCloud/1. Nacos.md",
-    "Programming Languages/Java/15. SpringCloud/0. Service Registration and Discovery.md",
-    "Programming Languages/Java/15. SpringCloud/4. ElasticSearch.md",
     "Z-Archive/Pictures/Programming/gateway.jpg",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/Microservices.jpeg",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
     "Programming Languages/Java/15. SpringCloud",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
-    "Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
-    "Big Data/7. Kafka/0. Kafka.md",
-    "Big Data/7. Kafka/3. API.md",
-    "Big Data/1. Hadoop/5. Java API.md",
-    "conflict-files-obsidian-git.md",
     "Programming Languages/Java/14. Spring/0. IOC",
     "Big Data/0. Data Lake",
     "Big Data/8. Doris",
