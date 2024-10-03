@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Quant/5. Chinese Securities/2. Stock Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Quant/5. Chinese Securities/2. Stock Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+                "file": "Quant/5. Chinese Securities/2. Stock Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Operating System/Linux/Basic Linux/3. Shell.md"
+                "file": "Quant/5. Chinese Securities/2. Stock Market.md"
               }
             }
           },
@@ -169,22 +169,22 @@
   },
   "active": "e0f6d5d9e8ae5d4a",
   "lastOpenFiles": [
+    "Quant/5. Chinese Securities/0. History.md",
+    "Quant/5. Chinese Securities/1. Stock Boards.md",
+    "Quant/5. Chinese Securities/2. Stock Market.md",
+    "Quant/5. Chinese Securities/3. Stock Auction.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
     "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
     "Git/1. Initialization and Configuration.md",
     "Git/0. Concepts.md",
-    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
     "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
     "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
     "Quant/1. Assets/1. Stocks.md",
     "Quant/1. Assets/2. Bonds.md",
-    "Quant/5. Chinese Securities/0. History.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "Quant/5. Chinese Securities/3. Stock Auction.md",
-    "Quant/5. Chinese Securities/1. Stock Boards.md",
-    "Quant/5. Chinese Securities/2. Stock Market.md",
     "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
     "Quant/5. Chinese Securities",
     "Big Data/1. Hadoop/5. Java API.md",
