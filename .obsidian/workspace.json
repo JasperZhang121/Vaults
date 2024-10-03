@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/5. Chinese Securities/2. Stock Market.md",
+                "file": "Quant/5. Chinese Securities/1. Stock Boards.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant/5. Chinese Securities/2. Stock Market.md",
+                "file": "Quant/5. Chinese Securities/1. Stock Boards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant/5. Chinese Securities/2. Stock Market.md",
+                "file": "Quant/5. Chinese Securities/1. Stock Boards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant/5. Chinese Securities/2. Stock Market.md"
+                "file": "Quant/5. Chinese Securities/1. Stock Boards.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "e0f6d5d9e8ae5d4a",
   "lastOpenFiles": [
+    "Quant/5. Chinese Securities/3. Stock Auction.md",
+    "Quant/5. Chinese Securities/2. Stock Market.md",
     "Quant/5. Chinese Securities/0. History.md",
     "Quant/5. Chinese Securities/1. Stock Boards.md",
-    "Quant/5. Chinese Securities/2. Stock Market.md",
-    "Quant/5. Chinese Securities/3. Stock Auction.md",
     "Computer Operating System/Linux/Basic Linux/3. Shell.md",
     "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
     "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
