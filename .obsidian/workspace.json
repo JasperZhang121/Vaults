@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/11. Maven/4. Module Management.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/11. Maven/4. Module Management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/11. Maven/4. Module Management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/11. Maven/4. Module Management.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,12 +169,14 @@
   },
   "active": "3856517326668113",
   "lastOpenFiles": [
+    "Programming Languages/Java/14. Spring/0. IOC/2. Annotation Configuration.md",
+    "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
+    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
+    "Programming Languages/Java/11. Maven/4. Module Management.md",
     "Programming Languages/Java/11. Maven/3. Using Plugins.md",
     "Programming Languages/Java/11. Maven/2. Build Process.md",
     "Programming Languages/Java/11. Maven/1. Dependency Management.md",
     "Programming Languages/Java/11. Maven/0. Basic.md",
-    "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
-    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
     "Programming Languages/Java/7. IO/5. Zip.md",
     "Programming Languages/Java/7. IO/2. InputStream.md",
     "Programming Languages/Java/7. IO/1. File Object.md",
@@ -194,8 +196,6 @@
     "Quant/5. Chinese Securities/3. Stock Auction.md",
     "Quant/5. Chinese Securities/2. Stock Market.md",
     "Quant/5. Chinese Securities/0. History.md",
-    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
-    "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/5. Chinese Securities",
     "Containers and Orchestration/Kubernetes",
