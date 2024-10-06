@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "69d09ea06c928b3d",
+        "id": "ac8b3dd630f42d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "3856517326668113",
+            "id": "43ed15511a501fee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/1. Advanced/2. Functional Programming/3. Stream.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/1. Advanced/2. Functional Programming/3. Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/1. Advanced/2. Functional Programming/3. Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/1. Advanced/2. Functional Programming/3. Stream.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,35 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3856517326668113",
+  "active": "43ed15511a501fee",
   "lastOpenFiles": [
-    "Programming Languages/Java/1. Advanced/2. Functional Programming/2. Method References.md",
+    "Cloud Computing/Distributed Computing/3. Distributed Algorithms and Consensus.md",
+    "Cloud Computing/Distributed Computing/2. Models and Architecture.md",
+    "Cloud Computing/Distributed Computing/1. Basic.md",
+    "README.md",
     "Programming Languages/Java/1. Advanced/2. Functional Programming/3. Stream.md",
+    "Programming Languages/Java/1. Advanced/2. Functional Programming/2. Method References.md",
     "Programming Languages/Java/1. Advanced/2. Functional Programming/1. Lambda.md",
     "Programming Languages/Java/1. Advanced/2. Functional Programming/0. Functional Programming.md",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/9. Classes within the same package.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/8. Modifiers & Scope.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/7. Package.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/6. Static.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/5. Interface.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/4. Abstract.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/3. Polymorphism.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/12. Module.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/2. Inheritance.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/11. Class Version.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/10. Classpath & Jar.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/1. Encapsulation.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic/0. Intro.md",
+    "Programming Languages/Java/1. Advanced/1. Data Classes/8. Ready-made classes.md",
+    "Programming Languages/Java/1. Advanced/1. Data Classes/7. BigDecimal.md",
+    "Programming Languages/Java/1. Advanced/1. Data Classes/6. BigInteger.md",
+    "Programming Languages/Java/1. Advanced/1. Data Classes/4. Enum.md",
+    "Programming Languages/Java/1. Advanced/1. Data Classes/3. JavaBean.md",
     "Programming Languages/Java/1. Advanced/2. Functional Programming",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
-    "Programming Languages/Java/14. Spring/0. IOC/2. Annotation Configuration.md",
-    "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
-    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
-    "Programming Languages/Java/13. Web Development/4. MVC Development.md",
-    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
-    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
-    "Programming Languages/Java/13. Web Development/0. Web Basics.md",
-    "Programming Languages/Java/11. Maven/4. Module Management.md",
-    "Programming Languages/Java/11. Maven/3. Using Plugins.md",
-    "Programming Languages/Java/11. Maven/2. Build Process.md",
-    "Programming Languages/Java/11. Maven/1. Dependency Management.md",
-    "Programming Languages/Java/11. Maven/0. Basic.md",
-    "Programming Languages/Java/7. IO/5. Zip.md",
-    "Programming Languages/Java/7. IO/2. InputStream.md",
-    "Programming Languages/Java/7. IO/1. File Object.md",
-    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
-    "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
-    "Programming Languages/Java/9. JDBC/1. Set up and Implementation.md",
+    "Programming Languages/Java/1. Advanced/0. OOP Basic",
+    "Programming Languages/Java/1. Advanced/1. Data Classes",
+    "Programming Languages/Java/1. Advanced",
     "Programming Languages/Java/16. Template",
     "Quant/A practical Guide to quantitative finance interviews.pdf",
     "Quant/5. Chinese Securities",
@@ -206,9 +201,6 @@
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
     "Z-Archive/Pictures/Programming/Microservices.jpeg",
-    "Programming Languages/Java/15. SpringCloud",
-    "Programming Languages/Java/9. Networking",
-    "Programming Languages/Java/9. Multithreading",
     "Z-Archive/Pictures/Big Data/yarnCluster.png",
     "Z-Archive/Pictures/Big Data/yarnClient.png",
     "Z-Archive/Pictures/Big Data/SparkStreamEngine.png",
