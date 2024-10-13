@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b10cca8591554cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,10 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "098df7c42ad52092",
+  "active": "5b10cca8591554cc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
+    "conflict-files-obsidian-git.md",
+    "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
+    "Big Data/3. Spark/5. Pyspark/2. Spark Connect.md",
+    "Big Data/3. Spark/5. Pyspark/1. DataFrame.md",
+    "Big Data/3. Spark/5. Pyspark/0. Installation.md",
+    "Big Data/3. Spark/5. Pyspark",
     "Databases/MySQL/Syntax/Quick check.md",
     "Databases/MySQL/Syntax/8. Window Functions.md",
     "Databases/MySQL/Syntax/7. Exists.md",
@@ -192,10 +210,6 @@
     "Databases/MySQL/Operations/3. Filtering.md",
     "Databases/MySQL/Operations/20. Miscellaneous.md",
     "Databases/MySQL/Operations/2. Joins.md",
-    "Databases/MySQL/Operations/19. Schema.md",
-    "Databases/MySQL/Operations/18. Integrity & Constraints.md",
-    "Databases/MySQL/Operations/17. Concurrency & Locking.md",
-    "Databases/MySQL/Operations/16. Optimization & Performance Tuning.md",
     "Databases/MySQL/Operations",
     "Quant/5. Chinese Securities",
     "Programming Languages/Java/16. Template",
@@ -204,7 +218,6 @@
     "Programming Languages/Java/1. Advanced/0. OOP Basic",
     "Programming Languages/Java/1. Advanced",
     "Containers and Orchestration/Kubernetes",
-    "Containers and Orchestration/Docker",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
