@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5e995207488376",
+        "id": "9f2288ba1c440182",
         "type": "tabs",
         "children": [
           {
-            "id": "098df7c42ad52092",
+            "id": "8f0e83309f79c468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b10cca8591554cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/5. Hbase/5. MapReduce.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/5. Hbase/5. MapReduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big Data/5. Hbase/5. MapReduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Big Data/5. Hbase/5. MapReduce.md"
               }
             }
           },
@@ -180,8 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b10cca8591554cc",
+  "active": "8f0e83309f79c468",
   "lastOpenFiles": [
+    "Big Data/5. Hbase/4. API.md",
+    "Big Data/5. Hbase/1. Deployment .md",
+    "Big Data/5. Hbase/0. Hbase.md",
+    "Programming Languages/Java/15. SpringCloud/4. ElasticSearch.md",
+    "Data Warehouse/0. Key Features.md",
+    "Computer Operating System/Linux/Basic Linux/9. Nginx.md",
+    "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
+    "Computer Operating System/Linux/Basic Linux/10. Centos Bug Reports.md",
+    "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
     "conflict-files-obsidian-git.md",
     "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
@@ -201,15 +197,6 @@
     "Databases/MySQL/Syntax/0. Precedence.md",
     "Databases/MySQL/Syntax",
     "Databases/MySQL/Operations/Operations.md",
-    "Databases/MySQL/Operations/9. Database & Tables.md",
-    "Databases/MySQL/Operations/8. Index.md",
-    "Databases/MySQL/Operations/7. Views.md",
-    "Databases/MySQL/Operations/6. Transaction.md",
-    "Databases/MySQL/Operations/5. Manipulation.md",
-    "Databases/MySQL/Operations/4. Aggregate.md",
-    "Databases/MySQL/Operations/3. Filtering.md",
-    "Databases/MySQL/Operations/20. Miscellaneous.md",
-    "Databases/MySQL/Operations/2. Joins.md",
     "Databases/MySQL/Operations",
     "Quant/5. Chinese Securities",
     "Programming Languages/Java/16. Template",
