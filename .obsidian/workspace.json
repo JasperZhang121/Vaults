@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3957b97875f7c5c3",
+        "id": "cf006a4180bbd0fc",
         "type": "tabs",
         "children": [
           {
-            "id": "f27b1c2dd31f9edd",
+            "id": "9657d24542d02326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/9. Elastic Search/0. Overview.md",
+                "file": "Containers and Orchestration/Kubernetes/1.Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/9. Elastic Search/0. Overview.md",
+                "file": "Containers and Orchestration/Kubernetes/1.Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/9. Elastic Search/0. Overview.md",
+                "file": "Containers and Orchestration/Kubernetes/1.Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/9. Elastic Search/0. Overview.md"
+                "file": "Containers and Orchestration/Kubernetes/1.Components.md"
               }
             }
           },
@@ -167,12 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f27b1c2dd31f9edd",
+  "active": "9657d24542d02326",
   "lastOpenFiles": [
+    "Containers and Orchestration/Kubernetes/0.Introduction.md",
+    "Containers and Orchestration/Kubernetes/1.Components.md",
+    "Big Data/6. Flink/0. Key Features of Flink.md",
+    "Big Data/9. Elastic Search/0. Overview.md",
+    "Big Data/9. Elastic Search/1. Index & Shard.md",
     "Big Data/7. Kafka/2. Architecture.md",
     "Big Data/7. Kafka/1. Deployment & Commands.md",
     "Big Data/7. Kafka/0. Kafka.md",
-    "Big Data/9. Elastic Search/0. Overview.md",
     "Big Data/1. Hadoop/3. Metadata.md",
     "Big Data/9. Elastic Search",
     "Big Data/1. Hadoop/2. HDFS.md",
@@ -192,10 +196,6 @@
     "Computer Operating System/Linux/Basic Linux/10. Centos Bug Reports.md",
     "Computer Operating System/Linux/Basic Linux/7. Centos Git.md",
     "Programming Languages/Python/0. Data Analysis & Modeling & ML/1. Pandas.md",
-    "conflict-files-obsidian-git.md",
-    "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
-    "Big Data/3. Spark/5. Pyspark/2. Spark Connect.md",
-    "Big Data/3. Spark/5. Pyspark/1. DataFrame.md",
     "Big Data/3. Spark/5. Pyspark",
     "Databases/MySQL/Syntax",
     "Databases/MySQL/Operations",
