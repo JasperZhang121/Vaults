@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2288ba1c440182",
+        "id": "3957b97875f7c5c3",
         "type": "tabs",
         "children": [
           {
-            "id": "8f0e83309f79c468",
+            "id": "f27b1c2dd31f9edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f0e83309f79c468",
+  "active": "f27b1c2dd31f9edd",
   "lastOpenFiles": [
-    "Big Data/1. Hadoop/3. Metadata.md",
+    "Big Data/7. Kafka/2. Architecture.md",
+    "Big Data/7. Kafka/1. Deployment & Commands.md",
+    "Big Data/7. Kafka/0. Kafka.md",
     "Big Data/9. Elastic Search/0. Overview.md",
+    "Big Data/1. Hadoop/3. Metadata.md",
     "Big Data/9. Elastic Search",
     "Big Data/1. Hadoop/2. HDFS.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
@@ -193,10 +196,7 @@
     "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
     "Big Data/3. Spark/5. Pyspark/2. Spark Connect.md",
     "Big Data/3. Spark/5. Pyspark/1. DataFrame.md",
-    "Big Data/3. Spark/5. Pyspark/0. Installation.md",
     "Big Data/3. Spark/5. Pyspark",
-    "Databases/MySQL/Syntax/Quick check.md",
-    "Databases/MySQL/Syntax/8. Window Functions.md",
     "Databases/MySQL/Syntax",
     "Databases/MySQL/Operations",
     "Quant/5. Chinese Securities",
