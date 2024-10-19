@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/5. Hbase/5. MapReduce.md",
+                "file": "Big Data/9. Elastic Search/0. Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/5. Hbase/5. MapReduce.md",
+                "file": "Big Data/9. Elastic Search/0. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/5. Hbase/5. MapReduce.md",
+                "file": "Big Data/9. Elastic Search/0. Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/5. Hbase/5. MapReduce.md"
+                "file": "Big Data/9. Elastic Search/0. Overview.md"
               }
             }
           },
@@ -169,6 +169,16 @@
   },
   "active": "8f0e83309f79c468",
   "lastOpenFiles": [
+    "Big Data/1. Hadoop/3. Metadata.md",
+    "Big Data/9. Elastic Search/0. Overview.md",
+    "Big Data/9. Elastic Search",
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/0. Data Lake/1. Architecture.md",
+    "Big Data/0. Data Lake/2. Workflow.md",
+    "Big Data/0. Data Lake/3. DataX.md",
+    "Big Data/0. Data Lake/0. Introduction.md",
+    "Big Data/5. Hbase/5. MapReduce.md",
     "Big Data/5. Hbase/4. API.md",
     "Big Data/5. Hbase/1. Deployment .md",
     "Big Data/5. Hbase/0. Hbase.md",
@@ -187,16 +197,7 @@
     "Big Data/3. Spark/5. Pyspark",
     "Databases/MySQL/Syntax/Quick check.md",
     "Databases/MySQL/Syntax/8. Window Functions.md",
-    "Databases/MySQL/Syntax/7. Exists.md",
-    "Databases/MySQL/Syntax/6. Constraints.md",
-    "Databases/MySQL/Syntax/5. Join.md",
-    "Databases/MySQL/Syntax/4. Queries.md",
-    "Databases/MySQL/Syntax/3. SQL.md",
-    "Databases/MySQL/Syntax/2. Data Type.md",
-    "Databases/MySQL/Syntax/1. Tables.md",
-    "Databases/MySQL/Syntax/0. Precedence.md",
     "Databases/MySQL/Syntax",
-    "Databases/MySQL/Operations/Operations.md",
     "Databases/MySQL/Operations",
     "Quant/5. Chinese Securities",
     "Programming Languages/Java/16. Template",
@@ -204,7 +205,6 @@
     "Programming Languages/Java/1. Advanced/1. Data Classes",
     "Programming Languages/Java/1. Advanced/0. OOP Basic",
     "Programming Languages/Java/1. Advanced",
-    "Containers and Orchestration/Kubernetes",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
