@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45fe49e1e89a4ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,8 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4acb0cee1ce4aa6",
+  "active": "45fe49e1e89a4ad9",
   "lastOpenFiles": [
+    "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
+    "conflict-files-obsidian-git.md",
+    "Containers and Orchestration/Kubernetes/1.Components.md",
+    "Computer Operating System/Linux/Basic Linux/9. Nginx.md",
+    "Big Data/9. Elastic Search/1. Index & Shard.md",
+    "Big Data/9. Elastic Search/0. Overview.md",
+    "Big Data/9. Elastic Search",
     "Big Data/3. Spark/1. RDD/4. Collaboration.md",
     "Big Data/3. Spark/1. RDD/2. Actions.md",
     "Big Data/3. Spark/1. RDD/1. Transformations.md",
@@ -191,12 +211,6 @@
     "Databases/MySQL/Syntax/6. Constraints.md",
     "Databases/MySQL/Syntax/0. Precedence.md",
     "Databases/MySQL/Syntax/4. Queries.md",
-    "Databases/MySQL/Syntax/2. Data Type.md",
-    "Databases/MySQL/Syntax/1. Tables.md",
-    "Databases/MySQL/Operations/Operations.md",
-    "Databases/MySQL/Syntax/Quick check.md",
-    "Databases/MySQL/Syntax/5. Join.md",
-    "Databases/MySQL/Syntax/3. SQL.md",
     "Databases/MySQL/Operations",
     "Databases/MySQL/Mysql",
     "Databases/MySQL/Syntax",
@@ -204,7 +218,6 @@
     "Programming Languages/Java/1. Advanced/2. Functional Programming",
     "Programming Languages/Java/1. Advanced/0. OOP Basic",
     "Programming Languages/Java/1. Advanced/1. Data Classes",
-    "Programming Languages/Java/1. Advanced",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
