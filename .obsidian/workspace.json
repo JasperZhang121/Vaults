@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
+                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
+                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
+                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md"
+                "file": "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md"
               }
             }
           },
@@ -170,10 +169,14 @@
   },
   "active": "f4acb0cee1ce4aa6",
   "lastOpenFiles": [
+    "Big Data/3. Spark/1. RDD/4. Collaboration.md",
+    "Big Data/3. Spark/1. RDD/2. Actions.md",
+    "Big Data/3. Spark/1. RDD/1. Transformations.md",
+    "Big Data/3. Spark/1. RDD/0. RDD.md",
+    "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
     "Big Data/3. Spark/5. Pyspark/2. Spark Connect.md",
     "Big Data/3. Spark/5. Pyspark/1. DataFrame.md",
     "Big Data/3. Spark/5. Pyspark/0. Installation.md",
-    "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
     "Big Data/3. Spark/0. Concept & Architecture/2. Architecture and Execution.md",
     "Big Data/3. Spark/0. Concept & Architecture/1. Concepts.md",
     "Big Data/3. Spark/0. Concept & Architecture/0. Spark.md",
@@ -194,10 +197,6 @@
     "Databases/MySQL/Syntax/Quick check.md",
     "Databases/MySQL/Syntax/5. Join.md",
     "Databases/MySQL/Syntax/3. SQL.md",
-    "Databases/MySQL/Operations/9. Database & Tables.md",
-    "Databases/MySQL/Operations/8. Index.md",
-    "Databases/MySQL/Operations/7. Views.md",
-    "Databases/MySQL/Operations/6. Transaction.md",
     "Databases/MySQL/Operations",
     "Databases/MySQL/Mysql",
     "Databases/MySQL/Syntax",
