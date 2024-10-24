@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "10. Flask Web CentOS Server"
             }
+          },
+          {
+            "id": "06b8d034ee712a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,44 +202,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "06b8d034ee712a63",
   "lastOpenFiles": [
+    "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+    "conflict-files-obsidian-git.md",
+    "Containers and Orchestration/Kubernetes/1. Cluster Architecture/0. Nodes.md",
+    "Containers and Orchestration/Kubernetes/1. Cluster Architecture",
+    "Containers and Orchestration/Kubernetes/0. Overview/9. Finalizer.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/8. Field Selectors.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/7. Annotation.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/6. Namespaces.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/5. Labels and Selectors.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/4. Object Names and IDs.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/3. Kubernetes Object Management.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/12. Kubernetes API.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/2. Kubernetes Objects.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/11. Recommended Labels.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/10. Owners and Dependents.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/1. Components.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/0. Introduction.md",
+    "Containers and Orchestration/Kubernetes/0. Overview",
+    "Big Data/10. Schedule/2. Quartz Cron Expressions.md",
+    "Big Data/10. Schedule/1. Cron Expressions.md",
+    "Big Data/10. Schedule",
     "Programming Languages/Python/Flask/0. Start.md",
     "Programming Languages/Python/2. Flask/1. URL and View Mapping.md",
-    "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
     "Big Data/3. Spark/1. RDD/5. Reading and Saving RDD Files.md",
-    "conflict-files-obsidian-git.md",
     "Containers and Orchestration/Kubernetes/1.Components.md",
     "Computer Operating System/Linux/Basic Linux/9. Nginx.md",
     "Big Data/9. Elastic Search/1. Index & Shard.md",
     "Big Data/9. Elastic Search/0. Overview.md",
     "Big Data/9. Elastic Search",
     "Big Data/3. Spark/1. RDD/4. Collaboration.md",
-    "Big Data/3. Spark/1. RDD/2. Actions.md",
-    "Big Data/3. Spark/1. RDD/1. Transformations.md",
-    "Big Data/3. Spark/1. RDD/0. RDD.md",
-    "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
-    "Big Data/3. Spark/5. Pyspark/2. Spark Connect.md",
-    "Big Data/3. Spark/5. Pyspark/1. DataFrame.md",
-    "Big Data/3. Spark/5. Pyspark/0. Installation.md",
-    "Big Data/3. Spark/0. Concept & Architecture/2. Architecture and Execution.md",
-    "Big Data/3. Spark/0. Concept & Architecture/1. Concepts.md",
-    "Big Data/3. Spark/0. Concept & Architecture/0. Spark.md",
-    "Databases/MySQL/Syntax/8. Window Functions.md",
     "Big Data/3. Spark/5. Pyspark",
-    "Big Data/3. Spark/pyspark/3. Pandas API on Spark.md",
-    "Big Data/3. Spark/pyspark/2. Spark Connect.md",
-    "Big Data/3. Spark/pyspark/1. DataFrame.md",
-    "Big Data/3. Spark/pyspark/0. Installation.md",
     "Big Data/3. Spark/pyspark",
-    "Databases/MySQL/Syntax/7. Exists.md",
     "Databases/MySQL/Operations",
     "Databases/MySQL/Mysql",
     "Databases/MySQL/Syntax",
     "Databases/MySQL/New folder",
-    "Programming Languages/Java/1. Advanced/2. Functional Programming",
-    "Programming Languages/Java/1. Advanced/0. OOP Basic",
-    "Programming Languages/Java/1. Advanced/1. Data Classes",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
