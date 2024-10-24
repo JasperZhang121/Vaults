@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9ba93c11b1e477f",
+        "id": "0d58115394685824",
         "type": "tabs",
         "children": [
           {
-            "id": "31a8b40f1943171a",
+            "id": "c3583367478bf2e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Big Data/10. Schedule/1. Cron Expressions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Cron Expressions"
             }
           }
         ]
@@ -183,13 +187,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "c3583367478bf2e1",
   "lastOpenFiles": [
+    "Containers and Orchestration/Kubernetes/0.Overview/7. Annotation.md",
+    "Big Data/10. Schedule/1. Cron Expressions.md",
+    "Big Data/10. Schedule",
+    "Containers and Orchestration/Kubernetes/0.Overview/6. Namespaces.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/5. Labels and Selectors.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/2. Kubernetes Objects.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/4. Object Names and IDs.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/3. Kubernetes Object Management.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/1. Components.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/0. Introduction.md",
+    "Computer Operating System/8086/2. Addressing Mode.md",
+    "Containers and Orchestration/Kubernetes/0.Overview",
     "Big Data/3. Spark/5. Pyspark/2. Spark Connect.md",
     "Big Data/3. Spark/5. Pyspark/1. DataFrame.md",
     "Big Data/3. Spark/5. Pyspark/0. Installation.md",
-    "Containers and Orchestration/Kubernetes/1.Components.md",
-    "Containers and Orchestration/Kubernetes/0.Introduction.md",
     "Big Data/6. Flink/0. Key Features of Flink.md",
     "Big Data/9. Elastic Search/0. Overview.md",
     "Big Data/9. Elastic Search/1. Index & Shard.md",
@@ -204,14 +218,6 @@
     "Big Data/0. Data Lake/2. Workflow.md",
     "Big Data/0. Data Lake/3. DataX.md",
     "Big Data/0. Data Lake/0. Introduction.md",
-    "Big Data/5. Hbase/5. MapReduce.md",
-    "Big Data/5. Hbase/4. API.md",
-    "Big Data/5. Hbase/1. Deployment .md",
-    "Big Data/5. Hbase/0. Hbase.md",
-    "Programming Languages/Java/15. SpringCloud/4. ElasticSearch.md",
-    "Data Warehouse/0. Key Features.md",
-    "Computer Operating System/Linux/Basic Linux/9. Nginx.md",
-    "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
     "Big Data/3. Spark/5. Pyspark",
     "Databases/MySQL/Syntax",
     "Databases/MySQL/Operations",
@@ -219,8 +225,6 @@
     "Programming Languages/Java/16. Template",
     "Programming Languages/Java/1. Advanced/2. Functional Programming",
     "Programming Languages/Java/1. Advanced/1. Data Classes",
-    "Programming Languages/Java/1. Advanced/0. OOP Basic",
-    "Programming Languages/Java/1. Advanced",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
