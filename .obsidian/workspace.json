@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/10. Schedule/1. Cron Expressions.md",
+                "file": "Big Data/10. Schedule/2. Quartz Cron Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Cron Expressions"
+              "title": "2. Quartz Cron Expressions"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "c3583367478bf2e1",
   "lastOpenFiles": [
-    "Containers and Orchestration/Kubernetes/0.Overview/7. Annotation.md",
     "Big Data/10. Schedule/1. Cron Expressions.md",
+    "Big Data/10. Schedule/2. Quartz Cron Expressions.md",
+    "Containers and Orchestration/Kubernetes/0.Overview/7. Annotation.md",
     "Big Data/10. Schedule",
     "Containers and Orchestration/Kubernetes/0.Overview/6. Namespaces.md",
     "Containers and Orchestration/Kubernetes/0.Overview/5. Labels and Selectors.md",
@@ -217,7 +218,6 @@
     "Big Data/0. Data Lake/1. Architecture.md",
     "Big Data/0. Data Lake/2. Workflow.md",
     "Big Data/0. Data Lake/3. DataX.md",
-    "Big Data/0. Data Lake/0. Introduction.md",
     "Big Data/3. Spark/5. Pyspark",
     "Databases/MySQL/Syntax",
     "Databases/MySQL/Operations",
