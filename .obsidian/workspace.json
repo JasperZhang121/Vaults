@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0dd5e967ec558e",
+        "id": "0d541ebffcc8721f",
         "type": "tabs",
         "children": [
           {
-            "id": "aacc89023ab2f886",
+            "id": "2e40d737c2c6c305",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -110,10 +117,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -124,7 +132,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -132,9 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -146,7 +156,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -167,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aacc89023ab2f886",
+  "active": "2e40d737c2c6c305",
   "lastOpenFiles": [
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/4. API Aggregation Layer.md",
+    "Untitled.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md",
+    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/4. API Aggregation Layer.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/3. Custom Resources.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/2. Device Plugins.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/1. Network Plugins.md",
@@ -197,7 +210,6 @@
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/8. Scheduler Performance Tuning.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/7. Dynamic Resource Allocation.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/6. Scheduling Framework.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/5. Taints and Tolerations.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction",
     "Containers and Orchestration/Kubernetes/8. Policies",
     "Containers and Orchestration/Kubernetes/7. Security",
