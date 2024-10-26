@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad3c5e63e602246c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/8. Doris/0. Doris.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/8. Doris/0. Doris.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/8. Doris/0. Doris.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,48 +180,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3856517326668113",
+  "active": "ad3c5e63e602246c",
   "lastOpenFiles": [
-    "Programming Languages/Java/1. Advanced/2. Functional Programming/3. Stream.md",
-    "Programming Languages/Java/1. Advanced/2. Functional Programming/2. Method References.md",
-    "Programming Languages/Java/1. Advanced/2. Functional Programming/1. Lambda.md",
-    "Programming Languages/Java/1. Advanced/2. Functional Programming/0. Functional Programming.md",
-    "Programming Languages/Java/0. Basic/3. Control Flow.md",
-    "Programming Languages/Java/1. Advanced/2. Functional Programming",
-    "Programming Languages/Java/0. Basic/2. Syntax & Property.md",
-    "Programming Languages/Java/0. Basic/1. Understand.md",
-    "Programming Languages/Java/0. Basic/0. Intro.md",
-    "Programming Languages/Java/14. Spring/0. IOC/2. Annotation Configuration.md",
-    "Programming Languages/Java/14. Spring/0. IOC/1. Asembled Bean.md",
-    "Programming Languages/Java/14. Spring/0. IOC/0. Principles of IoC.md",
-    "Programming Languages/Java/13. Web Development/4. MVC Development.md",
-    "Programming Languages/Java/13. Web Development/3. JSP Development.md",
-    "Programming Languages/Java/13. Web Development/1. Introduction to Servlets.md",
-    "Programming Languages/Java/13. Web Development/0. Web Basics.md",
-    "Programming Languages/Java/11. Maven/4. Module Management.md",
-    "Programming Languages/Java/11. Maven/3. Using Plugins.md",
-    "Programming Languages/Java/11. Maven/2. Build Process.md",
-    "Programming Languages/Java/11. Maven/1. Dependency Management.md",
-    "Programming Languages/Java/11. Maven/0. Basic.md",
-    "Programming Languages/Java/7. IO/5. Zip.md",
-    "Programming Languages/Java/7. IO/2. InputStream.md",
-    "Programming Languages/Java/7. IO/1. File Object.md",
-    "Programming Languages/Java/9. JDBC/4. JDBC Extensions.md",
-    "Programming Languages/Java/9. JDBC/3. PreparedStatement CRUD.md",
-    "Programming Languages/Java/9. JDBC/1. Set up and Implementation.md",
-    "Programming Languages/Java/16. Template",
-    "Quant/A practical Guide to quantitative finance interviews.pdf",
-    "Quant/5. Chinese Securities",
-    "Containers and Orchestration/Kubernetes",
-    "Containers and Orchestration/Docker",
-    "Containers and Orchestration",
+    "Big Data/8. Doris/0. Doris.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+    "Databases/MySQL/Syntax/Quick check.md",
+    "Databases/MySQL/Syntax/8. Window Functions.md",
+    "Databases/MySQL/Syntax/7. Exists.md",
+    "Databases/MySQL/Syntax/6. Constraints.md",
+    "Databases/MySQL/Syntax/5. Join.md",
+    "Databases/MySQL/Syntax/4. Queries.md",
+    "Databases/MySQL/Syntax/3. SQL.md",
+    "Databases/MySQL/Syntax/2. Data Type.md",
+    "Databases/MySQL/Syntax/1. Tables.md",
+    "Databases/MySQL/Syntax/0. Precedence.md",
+    "Databases/MySQL/Syntax",
+    "Databases/MySQL/Operations/9. Database & Tables.md",
+    "Databases/MySQL/Operations/Operations.md",
+    "Databases/MySQL/Operations/8. Index.md",
+    "Databases/MySQL/Operations/7. Views.md",
+    "Databases/MySQL/Operations/6. Transaction.md",
+    "Databases/MySQL/Operations/5. Manipulation.md",
+    "Databases/MySQL/Operations/4. Aggregate.md",
+    "Databases/MySQL/Operations/3. Filtering.md",
+    "Databases/MySQL/Operations/20. Miscellaneous.md",
+    "Databases/MySQL/Operations/2. Joins.md",
+    "Databases/MySQL/Operations/19. Schema.md",
+    "Databases/MySQL/Operations/17. Concurrency & Locking.md",
+    "Databases/MySQL/Operations/18. Integrity & Constraints.md",
+    "Databases/MySQL/Operations",
+    "Containers and Orchestration/Kubernetes/5. Storage",
+    "Containers and Orchestration/Kubernetes/4. Services, Load Balancing, and Networking",
+    "Containers and Orchestration/Kubernetes/3. Workload/Workload Management",
+    "Containers and Orchestration/Kubernetes/3. Workload/Pods",
+    "Containers and Orchestration/Kubernetes/3. Workload",
+    "Containers and Orchestration/Kubernetes/2. Containers",
+    "Containers and Orchestration/Kubernetes/1. Cluster Architecture",
+    "Containers and Orchestration/Kubernetes/0. Overview",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
     "Z-Archive/Pictures/Programming/Microservices.jpeg",
-    "Programming Languages/Java/15. SpringCloud",
-    "Programming Languages/Java/9. Networking",
-    "Programming Languages/Java/9. Multithreading",
     "Z-Archive/Pictures/Big Data/yarnCluster.png",
     "Z-Archive/Pictures/Big Data/yarnClient.png",
     "Z-Archive/Pictures/Big Data/SparkStreamEngine.png",
