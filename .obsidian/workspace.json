@@ -11,10 +11,14 @@
             "id": "8cc8d4e76ebce1a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10. Flask Web CentOS Server"
             }
           }
         ]
@@ -183,8 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cc8d4e76ebce1a1",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Programming Languages/Python/Flask/1. URL and View Mapping.md",
+    "Programming Languages/Python/Flask/0. Start.md",
     "Containers and Orchestration/Kubernetes/5. Storage/5. Volume Attributes Classes.md",
     "Containers and Orchestration/Kubernetes/5. Storage/4. Storage Classes.md",
     "Containers and Orchestration/Kubernetes/5. Storage/3. Ephemeral Volumes.md",
@@ -211,8 +217,6 @@
     "Containers and Orchestration/Kubernetes/3. Workload/Workload Management/6. CronJob.md",
     "Containers and Orchestration/Kubernetes/3. Workload/Workload Management/5. Automatic Cleanup for Finished Jobs.md",
     "Containers and Orchestration/Kubernetes/3. Workload/Workload Management/4. Job.md",
-    "Containers and Orchestration/Kubernetes/3. Workload/Workload Management/3. DaemonSet.md",
-    "Containers and Orchestration/Kubernetes/3. Workload/Workload Management/2. StatefulSets.md",
     "Containers and Orchestration/Kubernetes/3. Workload/Workload Management",
     "Containers and Orchestration/Kubernetes/3. Workload/Pods",
     "Containers and Orchestration/Kubernetes/3. Workload",
