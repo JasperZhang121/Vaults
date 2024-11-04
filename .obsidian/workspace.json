@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e11bdbe9a2d503",
+        "id": "9f58c33f0415ce78",
         "type": "tabs",
         "children": [
           {
-            "id": "a2703f47ab050dbe",
+            "id": "46c71478c600aec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+                "file": "Big Data/11. Certificate/CDGA/0. Data Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Flask Web CentOS Server"
+              "title": "0. Data Management"
             }
           }
         ]
@@ -187,13 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "46c71478c600aec1",
   "lastOpenFiles": [
+    "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+    "Big Data/11. Certificate/CDGA/0. Data Management.md",
+    "Big Data/11. Certificate/CDGA",
+    "Big Data/11. Certificate",
     "Big Data/5. Hbase/3. Processes.md",
     "Big Data/5. Hbase/2. Shell.md",
     "Big Data/5. Hbase/1. Deployment .md",
     "Big Data/5. Hbase/0. Hbase.md",
-    "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
     "conflict-files-obsidian-git.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/9. Resource Bin Packing.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/8. Scheduler Performance Tuning.md",
@@ -216,15 +219,12 @@
     "Containers and Orchestration/Kubernetes/6. Configuration/6. Resource Management for Windows Nodes.md",
     "Containers and Orchestration/Kubernetes/6. Configuration/5. Organizing Cluster Access Using `kubeconfig` Files.md",
     "Containers and Orchestration/Kubernetes/6. Configuration/2. Secrets.md",
-    "Containers and Orchestration/Kubernetes/6. Configuration/4. Resource Management for Pods and Containers.md",
     "Containers and Orchestration/Kubernetes/6. Configuration",
     "Containers and Orchestration/Kubernetes/7. Security",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes",
     "Containers and Orchestration/Kubernetes/11.  Windows in Kubernetes",
     "Containers and Orchestration/Kubernetes/10. Cluster Administration",
     "Containers and Orchestration/Kubernetes/5. Storage",
-    "Containers and Orchestration/Kubernetes/4. Services, Load Balancing, and Networking",
-    "Containers and Orchestration/Kubernetes/3. Workload/Workload Management",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
