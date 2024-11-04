@@ -11,10 +11,14 @@
             "id": "a2703f47ab050dbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10. Flask Web CentOS Server"
             }
           }
         ]
@@ -183,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2703f47ab050dbe",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
     "Big Data/5. Hbase/3. Processes.md",
     "Big Data/5. Hbase/2. Shell.md",
