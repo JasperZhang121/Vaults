@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d541ebffcc8721f",
+        "id": "aaaea2822cd933e5",
         "type": "tabs",
         "children": [
           {
-            "id": "2e40d737c2c6c305",
+            "id": "5124e3d8083f09ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Big Data/1. Hadoop/3. Metadata.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Metadata"
             }
           }
         ]
@@ -179,8 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e40d737c2c6c305",
+  "active": "5124e3d8083f09ab",
   "lastOpenFiles": [
+    "Big Data/1. Hadoop/2. HDFS.md",
+    "Big Data/1. Hadoop/1. Hadoop.md",
+    "Big Data/0. Data Lake/3. DataX.md",
+    "Big Data/0. Data Lake/2. Workflow.md",
+    "Big Data/0. Data Lake/1. Architecture.md",
+    "Big Data/0. Data Lake/0. Introduction.md",
     "Untitled.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/4. API Aggregation Layer.md",
@@ -204,12 +214,6 @@
     "Containers and Orchestration/Kubernetes/10. Cluster Administration/0. Node Shutdowns.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/12. API-Initiated Eviction.md",
     "Containers and Orchestration/Kubernetes/10. Cluster Administration",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/11. Node-Pressure Eviction.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/10. Kubernetes Preemption.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/9. Resource Bin Packing.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/8. Scheduler Performance Tuning.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/7. Dynamic Resource Allocation.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/6. Scheduling Framework.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction",
     "Containers and Orchestration/Kubernetes/8. Policies",
     "Containers and Orchestration/Kubernetes/7. Security",
