@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99d880d511cab073",
+        "id": "9bec1a9da5ab458b",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0429280175c3a9",
+            "id": "8b3bbee23fb8763e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers and Orchestration/Kubernetes/1. Cluster Architecture/0. Nodes.md",
+                "file": "Programming Languages/Scala/1. DataTypesAndFunctions/0. Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Nodes"
+              "title": "0. Data Types"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -188,10 +187,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb0429280175c3a9",
+  "active": "8b3bbee23fb8763e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming Languages/Scala/0. SyntaxAndControl/1. Control structures.md",
+    "Programming Languages/Scala/1. DataTypesAndFunctions/0. Data Types.md",
+    "Programming Languages/Scala/0. SyntaxAndControl/0. SyntaxBasics.md",
+    "Big Data/3. Spark/6. Source Code/0. Spark Storage.md",
+    "Programming Languages/Scala/2. CollectionsAndPatterns",
+    "Programming Languages/Scala/1. DataTypesAndFunctions",
+    "Programming Languages/Scala/0. SyntaxAndControl",
+    "Programming Languages/Scala",
+    "Statistics/1. Statistical Inference/BlockData.png",
+    "Statistics/1. Statistical Inference/Pasted image 20241112170822.png",
+    "Statistics/1. Statistical Inference",
+    "Big Data/3. Spark/1. RDD/6. Accumulators & Broadcast Variables.md",
+    "Big Data/3. Spark/6. Source Code",
+    "Big Data/3. Spark/Untitled.md",
+    "Big Data/3. Spark/1. RDD/4. Collaboration.md",
+    "Big Data/3. Spark/1. RDD/2. Actions.md",
+    "Big Data/3. Spark/1. RDD/1. Transformations.md",
+    "Big Data/3. Spark/1. RDD/0. RDD.md",
+    "Big Data/3. Spark/0. Concept & Architecture/2. Architecture and Execution.md",
+    "Big Data/3. Spark/0. Concept & Architecture/1. Concepts.md",
+    "Big Data/3. Spark/0. Concept & Architecture/0. Spark.md",
     "Containers and Orchestration/Kubernetes/1. Cluster Architecture/0. Nodes.md",
+    "conflict-files-obsidian-git.md",
     "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/9. Resource Bin Packing.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/8. Scheduler Performance Tuning.md",
@@ -203,29 +223,10 @@
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/2. Pod Overhead.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/12. API-Initiated Eviction.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/11. Node-Pressure Eviction.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/10. Kubernetes Preemption.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/1. Assigning Pods to Nodes.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/0. Kubernetes Scheduler.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction",
-    "Containers and Orchestration/Kubernetes/8. Policies/2. Process ID (PID) Limits and Reservations.md",
-    "Containers and Orchestration/Kubernetes/8. Policies/1. Resource Quotas.md",
-    "Containers and Orchestration/Kubernetes/8. Policies/0. Limit Ranges.md",
     "Containers and Orchestration/Kubernetes/8. Policies",
-    "Containers and Orchestration/Kubernetes/7. Security/9. Linux Kernel Security Constraints for Pods and Containers.md",
-    "Containers and Orchestration/Kubernetes/7. Security/8. API Server Bypass Risks.md",
-    "Containers and Orchestration/Kubernetes/7. Security/7. Authentication Mechanisms.md",
-    "Containers and Orchestration/Kubernetes/7. Security/6. Multi-Tenancy.md",
-    "Containers and Orchestration/Kubernetes/7. Security/5. Role-Based Access Control (RBAC) Good Practices.md",
-    "Containers and Orchestration/Kubernetes/7. Security/4. Controlling Access.md",
-    "Containers and Orchestration/Kubernetes/7. Security/3. Service Accounts.md",
     "Containers and Orchestration/Kubernetes/7. Security",
     "Containers and Orchestration/Kubernetes/6. Configuration",
-    "Containers and Orchestration/Kubernetes/5. Storage",
-    "Containers and Orchestration/Kubernetes/4. Services, Load Balancing, and Networking",
-    "Containers and Orchestration/Kubernetes/3. Workload/Workload Management",
-    "Containers and Orchestration/Kubernetes/3. Workload/Pods",
-    "Containers and Orchestration/Kubernetes/3. Workload",
-    "Containers and Orchestration/Kubernetes/2. Containers",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Z-Archive/Pictures/Programming/nacos-center.png",
     "Z-Archive/Pictures/Programming/gateway.jpg",
@@ -234,8 +235,6 @@
     "Z-Archive/Pictures/Big Data/yarnClient.png",
     "Z-Archive/Pictures/Big Data/taskManager.png",
     "Z-Archive/Pictures/Big Data/sparkMessage.png",
-    "Z-Archive/Pictures/Big Data/sparkDAG.jpg",
-    "Z-Archive/Pictures/Big Data/sparkContext.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
