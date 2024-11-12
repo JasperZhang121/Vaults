@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -187,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "bb0429280175c3a9",
   "lastOpenFiles": [
     "Containers and Orchestration/Kubernetes/0. Overview/12. Kubernetes API.md",
     "Containers and Orchestration/Kubernetes/1. Cluster Architecture/0. Nodes.md",
