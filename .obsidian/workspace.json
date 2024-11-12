@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Scala/1. DataTypesAndFunctions/0. Data Types.md",
+                "file": "Programming Languages/Scala/2. CollectionsAndPatterns/1. Pattern Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Data Types"
+              "title": "1. Pattern Matching"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "8b3bbee23fb8763e",
   "lastOpenFiles": [
-    "Programming Languages/Scala/0. SyntaxAndControl/1. Control structures.md",
+    "Programming Languages/Scala/2. CollectionsAndPatterns/0. Collections.md",
+    "Programming Languages/Scala/2. CollectionsAndPatterns/1. Pattern Matching.md",
+    "Programming Languages/Scala/1. DataTypesAndFunctions/1. Functions.md",
     "Programming Languages/Scala/1. DataTypesAndFunctions/0. Data Types.md",
+    "Programming Languages/Scala/0. SyntaxAndControl/1. Control structures.md",
     "Programming Languages/Scala/0. SyntaxAndControl/0. SyntaxBasics.md",
     "Big Data/3. Spark/6. Source Code/0. Spark Storage.md",
     "Programming Languages/Scala/2. CollectionsAndPatterns",
@@ -220,9 +223,6 @@
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/5. Taints and Tolerations.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/4. Pod Topology Spread Constraints.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/3. Pod Scheduling Readiness.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/2. Pod Overhead.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/12. API-Initiated Eviction.md",
-    "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction/11. Node-Pressure Eviction.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction",
     "Containers and Orchestration/Kubernetes/8. Policies",
     "Containers and Orchestration/Kubernetes/7. Security",
