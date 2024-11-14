@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/7. Kafka/0. Kafka.md",
+                "file": "Big Data/7. Kafka/1. Deployment & Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Kafka"
+              "title": "1. Deployment & Commands"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "2211178bb0dd9076",
   "lastOpenFiles": [
+    "Big Data/7. Kafka/0. Kafka.md",
     "Big Data/11. Data Migration/1. DataX.md",
     "Big Data/11. Data Migration/0. Sqoop.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
@@ -223,7 +224,6 @@
     "Big Data/3. Spark/1. RDD/0. RDD.md",
     "Big Data/3. Spark/0. Concept & Architecture/2. Architecture and Execution.md",
     "Big Data/3. Spark/0. Concept & Architecture/1. Concepts.md",
-    "Big Data/3. Spark/0. Concept & Architecture/0. Spark.md",
     "Containers and Orchestration/Kubernetes/9. Scheduling, Preemption and Eviction",
     "Containers and Orchestration/Kubernetes/8. Policies",
     "Containers and Orchestration/Kubernetes/7. Security",
