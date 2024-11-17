@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9eb8fca4e8115292",
+        "id": "bebad06864b0d790",
         "type": "tabs",
         "children": [
           {
-            "id": "e115d59b65a2ccc6",
+            "id": "39067ce38ac7a681",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Data/8. Doris/0. Doris.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. Doris"
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +179,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e115d59b65a2ccc6",
+  "active": "39067ce38ac7a681",
   "lastOpenFiles": [
+    "Git/6. Common Issues.md",
+    "Git/4. Remote Repositories.md",
+    "Git/2. Repository.md",
+    "Git/0. Concepts.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/1. Components.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/0. Introduction.md",
+    "Big Data/6. Flink/3. Flink Operators.md",
+    "Big Data/6. Flink/4. Time and Window in Stream Processing.md",
+    "Big Data/6. Flink/2. Architecture.md",
+    "Z-Archive/Pictures/Big Data/taskOperatorChain.png",
+    "Z-Archive/Pictures/Big Data/flinkOperator.png",
+    "Statistics/1. Statistical Inference/flinkOperator.png",
+    "Big Data/6. Flink/1. Deployment and Startup.md",
+    "Big Data/8. Doris/3. Monitoring and Alerting.md",
+    "Big Data/8. Doris/2. Usage.md",
+    "Big Data/8. Doris/1. Installation.md",
+    "Big Data/8. Doris/0. Doris.md",
     "Big Data/1. Hadoop/3. Metadata.md",
     "conflict-files-obsidian-git.md",
     "Statistics/1. Statistical Inference/Pasted image 20241112170822.png",
@@ -206,21 +219,7 @@
     "Big Data/11. Data Migration/0. Sqoop.md",
     "Big Data/11. Data Migration",
     "Big Data/1. Hadoop/2. HDFS.md",
-    "Big Data/1. Hadoop/1. Hadoop.md",
-    "Big Data/0. Data Lake/3. DataX.md",
-    "Big Data/0. Data Lake/2. Workflow.md",
-    "Big Data/0. Data Lake/1. Architecture.md",
-    "Big Data/0. Data Lake/0. Introduction.md",
-    "Untitled.md",
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/5. Operator Pattern.md",
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/4. API Aggregation Layer.md",
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/3. Custom Resources.md",
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/2. Device Plugins.md",
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/1. Network Plugins.md",
-    "Containers and Orchestration/Kubernetes/12. Extending Kubernetes/0. Compute, Storage, and Networking Extensions.md",
-    "Containers and Orchestration/Kubernetes/11.  Windows in Kubernetes/1. Running Windows Containers.md",
     "Containers and Orchestration/Kubernetes/12. Extending Kubernetes",
-    "Containers and Orchestration/Kubernetes/11.  Windows in Kubernetes/0. Windows Containers.md",
     "Containers and Orchestration/Kubernetes/11.  Windows in Kubernetes",
     "Containers and Orchestration/Kubernetes/10. Cluster Administration",
     "Z-Archive/Pictures/Programming/nacos.png",
@@ -228,9 +227,6 @@
     "Z-Archive/Pictures/Programming/gateway.jpg",
     "Z-Archive/Pictures/Programming/Microservices.jpeg",
     "Z-Archive/Pictures/Big Data/yarnCluster.png",
-    "Z-Archive/Pictures/Big Data/yarnClient.png",
-    "Z-Archive/Pictures/Big Data/SparkStreamEngine.png",
-    "Z-Archive/Pictures/Big Data/SparkStreaming.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
