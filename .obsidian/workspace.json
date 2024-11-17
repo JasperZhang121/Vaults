@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "3. Metadata"
             }
+          },
+          {
+            "id": "0ea3cc5ff9c28ee4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5124e3d8083f09ab",
+  "active": "0ea3cc5ff9c28ee4",
   "lastOpenFiles": [
     "Big Data/1. Hadoop/2. HDFS.md",
     "Big Data/1. Hadoop/1. Hadoop.md",
