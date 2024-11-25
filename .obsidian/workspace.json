@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/8. Doris/0. Doris.md",
+                "file": "Big Data/11. Data Migration/1. DataX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Doris"
+              "title": "1. DataX"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "9c95aa3773841807",
   "lastOpenFiles": [
+    "Big Data/11. Data Migration/0. Sqoop.md",
+    "Big Data/8. Doris/3. Monitoring and Alerting.md",
+    "Big Data/8. Doris/2. Usage.md",
+    "Big Data/8. Doris/1. Installation.md",
+    "Big Data/8. Doris/0. Doris.md",
     "Big Data/6. Flink/4. Time and Window in Stream Processing.md",
     "Big Data/6. Flink/3. Flink Operators.md",
     "Big Data/6. Flink/2. Architecture.md",
@@ -210,11 +215,6 @@
     "Programming Languages/Java/4. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/4. Reflection/2. Field Information.md",
     "Programming Languages/Java/2. Collections/3. equals and hashCode.md",
-    "Programming Languages/Java/2. Collections/2. Map.md",
-    "Programming Languages/Java/2. Collections/1. equals.md",
-    "Programming Languages/Java/2. Collections/0. List.md",
-    "Programming Languages/Java/1. Advanced/1. Data Classes/6. BigInteger.md",
-    "Programming Languages/Java/1. Advanced/1. Data Classes/7. BigDecimal.md",
     "Z-Archive/Pictures/Big Data/taskOperatorChain.png",
     "Z-Archive/Pictures/Big Data/flinkOperator.png",
     "Statistics/1. Statistical Inference/flinkOperator.png",
