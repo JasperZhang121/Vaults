@@ -7,7 +7,6 @@ Here’s what `@Component` does:
 2. **Dependency Injection**: You can inject this component into other beans using annotations like `@Autowired`.
     
 3. **Scope**: By default, beans defined using `@Component` are singleton beans. However, you can change the scope (e.g., prototype, request, session) using `@Scope` if needed.
-    
 
 ### Example:
 
