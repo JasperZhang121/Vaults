@@ -36,5 +36,5 @@ In this example:
 
 ### 4. **Differences from `@Autowired`:**
 
-- `@Autowired` is typically used in Spring for general-purpose dependency injection (including Spring beans), while `@Resource` is more focused on injecting external resources (like database connections or JMS queues).
+- `@Autowired` is typically used in Spring for general-purpose dependency injection (including Spring beans), while `@Resource` is more focused on <mark style="background: #FFB86CA6;">injecting external resources (like database connections or JMS queues)</mark>.
 - `@Resource` requires the resource to be declared in a container (like a JNDI resource), whereas Spring’s `@Autowired` works based on the Spring context.
