@@ -1,3 +1,4 @@
+
 `@Transactional` is a Spring annotation used to define transaction boundaries in your application. It ensures that all database operations within the scope of the method (or class, if applied at the class level) are executed within a single transaction. If any operation fails, the transaction will be rolled back to maintain data consistency.
 
 Key points:

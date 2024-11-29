@@ -1,3 +1,4 @@
+
 The `@JsonProperty` annotation is part of the Jackson library, commonly used in Java for <mark style="background: #FFB8EBA6;">serializing and deserializing JSON data</mark> to Java objects and vice versa. It is typically used with Java classes that will be converted to/from JSON.
 
 ### Purpose of `@JsonProperty`

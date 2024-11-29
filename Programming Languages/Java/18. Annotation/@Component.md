@@ -1,3 +1,4 @@
+
 In Spring, `@Component` is a class-level annotation that indicates the class is a Spring-managed bean. It is a more general-purpose annotation and serves as a component in the Spring context that can be automatically discovered and injected by Spring's dependency injection mechanism.
 
 Here’s what `@Component` does:

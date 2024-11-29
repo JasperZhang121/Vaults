@@ -1,3 +1,4 @@
+
 `@PostConstruct` is an annotation provided by Java in the `javax.annotation` package, typically used in Java EE (Enterprise Edition) applications, though it can also be used in Spring Framework. It is applied to a method in a Spring bean or any managed bean, and this method will be <mark style="background: #FFB8EBA6;">automatically invoked by the container after the bean has been fully initialized (i.e., after the constructor has been executed and all dependencies have been injected)</mark>.
 
 ### How it works:

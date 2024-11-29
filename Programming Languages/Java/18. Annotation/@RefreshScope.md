@@ -1,3 +1,4 @@
+
 The `@RefreshScope` annotation is used in Spring Cloud to mark a bean so that it can be <mark style="background: #FFB8EBA6;">dynamically refreshed at runtime</mark> when the application's configuration is updated. This is particularly useful when working with Spring Cloud Config, where configuration changes can be applied without needing to restart the entire application.
 
 When a bean is annotated with `@RefreshScope`, Spring Cloud will automatically refresh the bean's properties whenever the configuration changes (e.g., from an external config server like Spring Cloud Config Server). This is typically used for beans that need to be reinitialized or have their properties refreshed based on changes to the configuration.

@@ -1,3 +1,4 @@
+
 The `@Schema` annotation is part of the **Swagger/OpenAPI** specification and is used to <mark style="background: #FFB8EBA6;">describe the properties of a class or field in a REST API</mark>. It is commonly used in combination with **Springdoc OpenAPI** or **Springfox** to generate API documentation that is automatically accessible to consumers of your API.
 
 ### Common Use Cases for `@Schema`

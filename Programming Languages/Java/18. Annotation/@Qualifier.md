@@ -1,3 +1,4 @@
+
 In Spring, the `@Qualifier` annotation is used to <mark style="background: #FFB8EBA6;">resolve ambiguity when there are multiple beans of the same type</mark> in the Spring context. It allows you to specify which bean to inject when there are multiple candidates for autowiring. It's commonly used in conjunction with the `@Autowired` annotation to provide more fine-grained control over bean injection.
 
 ### How `@Qualifier` Works

@@ -1,3 +1,4 @@
+
 The `@Resource` annotation is part of the Java EE (Jakarta EE) specification and is commonly used for <mark style="background: #FFB8EBA6;">dependency injection</mark>. It is often used in Java applications, particularly with Java EE containers like Wildfly, Glassfish, and others, to inject resources such as data sources, EJBs (Enterprise JavaBeans), or other beans into your classes.
 
 Here’s a breakdown of how `@Resource` works:

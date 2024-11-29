@@ -1,3 +1,4 @@
+
 `@Slf4j` is an annotation provided by **Lombok** that automatically generates a logger for the class it's applied to. It simplifies logging by eliminating the need to manually declare and initialize a logger field in your class.
 
 ### Example Usage:
