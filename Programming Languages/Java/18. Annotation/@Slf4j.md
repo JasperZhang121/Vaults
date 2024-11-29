@@ -30,6 +30,5 @@ public class ExampleService {
     ```java
     private static final Logger log = LoggerFactory.getLogger(ExampleService.class);
     ```
-    
 
 This makes your code cleaner and reduces boilerplate code for logging.
