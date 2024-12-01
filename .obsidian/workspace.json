@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/13. Certificate/CDGA/0. Data Management.md",
+                "file": "Programming Languages/Java/18. Annotation/@Slf4j.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Data Management"
+              "title": "@Slf4j"
             }
           }
         ]
@@ -178,6 +178,9 @@
   },
   "active": "42c9ef06fd54e85e",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@RestController.md",
+    "Programming Languages/Java/18. Annotation/@RequestMapping.md",
+    "Big Data/13. Certificate/CDGA/0. Data Management.md",
     "Big Data/12. Schedule/2. Quartz Cron Expressions.md",
     "Big Data/12. Schedule/1. Cron Expressions.md",
     "Big Data/7. Kafka/1. Deployment & Commands.md",
