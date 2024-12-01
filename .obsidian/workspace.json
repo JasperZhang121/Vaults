@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "@Slf4j"
             }
+          },
+          {
+            "id": "f3f1bca0eeeb6f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c9ef06fd54e85e",
+  "active": "f3f1bca0eeeb6f04",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@Slf4j.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/16. SpringCloud/6. Multi-Environment Configurations.md",
+    "Git/7. VPN (Git Connection Issues).md",
+    "Git/4. Branching and Merging.md",
     "Programming Languages/Java/18. Annotation/@RestController.md",
     "Programming Languages/Java/18. Annotation/@RequestMapping.md",
     "Big Data/13. Certificate/CDGA/0. Data Management.md",
