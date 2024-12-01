@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be8333829bf2c648",
+        "id": "04273e715708e274",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e124cbff7bc139",
+            "id": "067169748c0e9eea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Programming Languages/Java/15. SpringCloud/6. ymal.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "6. ymal"
             }
           }
         ]
@@ -181,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e124cbff7bc139",
+  "active": "067169748c0e9eea",
   "lastOpenFiles": [
+    "Programming Languages/Java/15. SpringCloud/6. ymal.md",
     "Big Data/8. Doris/1. Installation.md",
     "Big Data/8. Doris/0. Doris.md",
     "Big Data/3. Spark/1. RDD/1. Transformations.md",
