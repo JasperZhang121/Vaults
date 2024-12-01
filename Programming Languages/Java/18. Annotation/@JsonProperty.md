@@ -3,7 +3,7 @@ The `@JsonProperty` annotation is part of the Jackson library, commonly used in 
 
 ### Purpose of `@JsonProperty`
 
-1. **Custom JSON Property Name:** It allows you to map a field in a Java object to a different name in the JSON object. This is particularly useful when the field name in Java does not match the desired JSON property name.
+1. **Custom JSON Property Name:** It allows you to <mark style="background: #ADCCFFA6;">map a field in a Java object to a different name in the JSON object</mark>. This is particularly useful when the field name in Java does not match the desired JSON property name.
     
 2. **Handling Null Values:** You can also use it to define default values or control how `null` values are handled during serialization.
     
