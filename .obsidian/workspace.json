@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/10. ClickHouse/0. Introduction and Installation.md",
+                "file": "Big Data/7. Kafka/1. Deployment & Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Introduction and Installation"
+              "title": "1. Deployment & Commands"
             }
           }
         ]
@@ -176,8 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "42c9ef06fd54e85e",
   "lastOpenFiles": [
+    "Big Data/7. Kafka/1. Kafka.md",
+    "Big Data/7. Kafka/1. Deployment & Commands.md",
+    "Big Data/7. Kafka/0. Kafka.md",
+    "Big Data/10. ClickHouse/0. Introduction and Installation.md",
     "Big Data/10. Schedule/2. Quartz Cron Expressions.md",
     "Big Data/10. Schedule/1. Cron Expressions.md",
     "Programming Languages/Java/18. Annotation/@JsonProperty.md",
