@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/7. Kafka/1. Deployment & Commands.md",
+                "file": "Big Data/13. Certificate/CDGA/0. Data Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Deployment & Commands"
+              "title": "0. Data Management"
             }
           }
         ]
@@ -178,16 +178,16 @@
   },
   "active": "42c9ef06fd54e85e",
   "lastOpenFiles": [
-    "Big Data/7. Kafka/1. Kafka.md",
+    "Big Data/12. Schedule/2. Quartz Cron Expressions.md",
+    "Big Data/12. Schedule/1. Cron Expressions.md",
     "Big Data/7. Kafka/1. Deployment & Commands.md",
+    "Big Data/7. Kafka/1. Kafka.md",
     "Big Data/7. Kafka/0. Kafka.md",
     "Big Data/10. ClickHouse/0. Introduction and Installation.md",
     "Big Data/10. Schedule/2. Quartz Cron Expressions.md",
     "Big Data/10. Schedule/1. Cron Expressions.md",
     "Programming Languages/Java/18. Annotation/@JsonProperty.md",
     "Untitled.md",
-    "Big Data/12. Schedule/2. Quartz Cron Expressions.md",
-    "Big Data/12. Schedule/1. Cron Expressions.md",
     "Programming Languages/Java/18. Annotation/@Table.md",
     "Programming Languages/Java/18. Annotation/@Tag.md",
     "Programming Languages/Java/18. Annotation/@Entity.md"
