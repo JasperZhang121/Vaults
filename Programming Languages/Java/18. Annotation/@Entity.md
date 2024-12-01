@@ -1,6 +1,6 @@
 In Java, the `@Entity` annotation is used to mark a class as an entity in JPA (Java Persistence API). This means that the class is mapped to a database table, and JPA will manage the persistence of its instances in the database.
 
-Here's an example of how to use `@Entity`:
+Example of how to use `@Entity`:
 
 ```java
 import javax.persistence.Entity;
