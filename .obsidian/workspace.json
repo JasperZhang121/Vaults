@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@interface.md",
+                "file": "Programming Languages/Java/18. Annotation/@JsonProperty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@interface"
+              "title": "@JsonProperty"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "14d740fcb18c1411",
   "lastOpenFiles": [
-    "Programming Languages/Java/18. Annotation/@Transactional.md",
     "Programming Languages/Java/18. Annotation/@interface.md",
+    "Programming Languages/Java/18. Annotation/@Transactional.md",
     "Programming Languages/Java/18. Annotation/@Target.md",
     "Programming Languages/Java/18. Annotation/@SneakyThrows.md",
     "Programming Languages/Java/18. Annotation/@Slf4j.md",
