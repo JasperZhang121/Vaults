@@ -1,6 +1,6 @@
 `@Documented` is a marker annotation in Java that is used to indicate that the annotation it is applied to should be documented by the Javadoc tool. If an annotation is marked with `@Documented`, it will be included in the generated documentation, even though the annotation itself does not affect the code execution.
 
-Here’s an example of how it's used:
+Example of how it's used:
 
 ```java
 import java.lang.annotation.Documented;

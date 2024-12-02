@@ -1,7 +1,4 @@
 The `@Conditional` annotation in Spring is used to conditionally enable or disable beans based on certain conditions. It allows you to define conditions that must be met for a bean to be registered in the application context.
-
-Here's an overview of how `@Conditional` works:
-
 ### Purpose:
 
 `@Conditional` is used to create custom conditions for when a particular bean should be registered. For example, you can enable a bean only if a certain property is set, or if a specific class is present in the classpath.
