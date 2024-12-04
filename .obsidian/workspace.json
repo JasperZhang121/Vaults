@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/13. Certificate/CDGA/Data Modeling.md",
+                "file": "Big Data/13. Certificate/CDGA/4. Data Modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Modeling"
+              "title": "4. Data Modeling"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "ef41dbddb3d127a2",
   "lastOpenFiles": [
     "Big Data/13. Certificate/CDGA/3. Data Architecture.md",
-    "Big Data/13. Certificate/CDGA/Data Modeling.md",
+    "Big Data/13. Certificate/CDGA/4. Data Modeling.md",
     "Big Data/13. Certificate/CDGA/2. Data Governance.md",
     "Big Data/13. Certificate/CDGA/1. Data Handling Ethics.md",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
