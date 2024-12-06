@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Retention.md",
+                "file": "Programming Languages/Java/7. IO/7. Serialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Retention"
+              "title": "7. Serialization"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Serializable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,8 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88a38042dd8a36f2",
+  "active": "0e3d9c4c550f9ca9",
   "lastOpenFiles": [
+    "Big Data/3. Spark/1. RDD/3. Serialization & Dependencies & Persistence.md",
+    "Programming Languages/Java/18. Annotation/@Builder.md",
+    "Programming Languages/Java/18. Annotation/@Retention.md",
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
     "Programming Languages/Java/18. Annotation/@Getter.md",
     "Programming Languages/Java/18. Annotation/@GetMapping.md",
@@ -199,7 +202,6 @@
     "Programming Languages/Java/18. Annotation/@JsonNaming.md",
     "Programming Languages/Java/18. Annotation/@EnableFeignClients.md",
     "Programming Languages/Java/18. Annotation/@Documented.md",
-    "Programming Languages/Java/18. Annotation/@Builder.md",
     "Programming Languages/Java/18. Annotation/@Operation.md",
     "Programming Languages/Java/18. Annotation/@PostConstruct.md",
     "Programming Languages/Java/0. Basic/0. Intro.md",
@@ -215,8 +217,6 @@
     "Programming Languages/Java/18. Annotation/@TableName.md",
     "Programming Languages/Java/18. Annotation/@Table.md",
     "Programming Languages/Java/18. Annotation/@Mapper - MapStruct.md",
-    "Programming Languages/Java/18. Annotation/@Mapper - MyBatis.md",
-    "Programming Languages/Java/20. Framework/0. Domain-Driven Design.md",
     "Programming Languages/Python/Flask",
     "Programming Languages/Java/9. Networking",
     "Programming Languages/Java/9. Multithreading",
