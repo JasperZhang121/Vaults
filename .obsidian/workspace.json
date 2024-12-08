@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/5. Remote Repositories.md",
+                "file": "Big Data/13. Certificate/CDGA/7. Data Integration and Interoperability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Remote Repositories"
+              "title": "7. Data Integration and Interoperability"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "211970ccdbb37657",
   "lastOpenFiles": [
+    "Big Data/13. Certificate/CDGA/6. Data Security.md",
+    "Big Data/13. Certificate/CDGA/7. Data Integration and Interoperability.md",
+    "Big Data/13. Certificate/CDGA/5. Data Storage and Operations.md",
+    "Big Data/13. Certificate/CDGA/4. Data Modeling and Design.md",
+    "Git/5. Remote Repositories.md",
     "Git/5. Advanced Git Features.md",
     "Git/4. Branching and Merging.md",
     "Git/3. Basic Commands.md",
@@ -196,7 +201,6 @@
     "Programming Languages/Go/1. Syntax/1. Variables.md",
     "Programming Languages/Go/1. Syntax/0. Basic.md",
     "Big Data/13. Certificate/CDGA/3. Data Architecture.md",
-    "Big Data/13. Certificate/CDGA/4. Data Modeling.md",
     "Big Data/13. Certificate/CDGA/2. Data Governance.md",
     "Big Data/13. Certificate/CDGA/1. Data Handling Ethics.md",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
@@ -210,10 +214,6 @@
     "Programming Languages/Java/18. Annotation/@RestController.md",
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
     "Programming Languages/Java/18. Annotation/@RequestMapping.md",
-    "Programming Languages/Java/18. Annotation/@Operation.md",
-    "Programming Languages/Java/18. Annotation/@Mapper - MyBatis.md",
-    "Programming Languages/Java/18. Annotation/@Mapper - MapStruct.md",
-    "Programming Languages/Java/18. Annotation/@JsonSerialize.md",
     "Programming Languages/Java/9. Networking",
     "Programming Languages/Java/9. Multithreading",
     "Programming Languages/Java/7. JDBC",
