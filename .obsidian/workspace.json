@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/19. Intellij/1. Disabling Spring Boot Logging System Using VM Options.md",
+                "file": "Big Data/13. Certificate/CDGA/10. Data Warehousing and Business Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Disabling Spring Boot Logging System Using VM Options"
+              "title": "10. Data Warehousing and Business Intelligence"
             }
           }
         ]
@@ -189,8 +189,10 @@
   },
   "active": "1ef44ebdd1a5b539",
   "lastOpenFiles": [
-    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
+    "Big Data/13. Certificate/CDGA/11..md",
+    "Big Data/13. Certificate/CDGA/10. Data Warehousing and Business Intelligence.md",
     "Programming Languages/Java/19. Intellij/1. Disabling Spring Boot Logging System Using VM Options.md",
+    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
     "Containers and Orchestration/Docker/0.Operations.md",
     "Big Data/8. Doris/3. Monitoring and Alerting.md",
     "Big Data/8. Doris/2. Usage.md",
@@ -213,8 +215,6 @@
     "Big Data/13. Certificate/CDGA/9. Reference and Master Data.md",
     "Big Data/13. Certificate/CDGA/8. Document and Content Management.md",
     "Big Data/13. Certificate/CDGA/7. Data Integration and Interoperability.md",
-    "Big Data/13. Certificate/CDGA/6. Data Security.md",
-    "Big Data/13. Certificate/CDGA/5. Data Storage and Operations.md",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
     "Programming Languages/Python/Flask",
