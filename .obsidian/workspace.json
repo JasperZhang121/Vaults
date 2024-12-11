@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9665a32fabd0be",
+        "id": "f276a67ec078dc7c",
         "type": "tabs",
         "children": [
           {
-            "id": "1ef44ebdd1a5b539",
+            "id": "211970ccdbb37657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Design Patterns.md",
+                "file": "Big Data/13. Certificate/CDGA/9. Reference and Master Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Patterns"
+              "title": "9. Reference and Master Data"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Serializable",
+                "query": "clash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Pandas API on Spark"
+              "title": "Backlinks"
             }
           },
           {
@@ -122,12 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Pandas API on Spark"
+              "title": "Outgoing links"
             }
           },
           {
@@ -148,11 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Big Data/3. Spark/5. Pyspark/3. Pandas API on Spark.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 3. Pandas API on Spark"
+              "title": "Outline"
             }
           },
           {
@@ -187,53 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3d9c4c550f9ca9",
+  "active": "211970ccdbb37657",
   "lastOpenFiles": [
-    "Programming Languages/Java/21. Summary",
-    "Programming Languages/Backend",
-    "Big Data/13. Certificate/CDGA/10. Data Warehousing and Business Intelligence.md",
-    "Big Data/13. Certificate/CDGA/11..md",
     "Programming Languages/Java/19. Intellij/1. Disabling Spring Boot Logging System Using VM Options.md",
-    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
-    "Containers and Orchestration/Docker/0.Operations.md",
-    "Big Data/8. Doris/3. Monitoring and Alerting.md",
-    "Big Data/8. Doris/2. Usage.md",
-    "Big Data/8. Doris/1. Installation.md",
-    "Big Data/8. Doris/0. Doris.md",
-    "Big Data/4. Hive/2. Data Manipulation Language (DML).md",
-    "Big Data/4. Hive/1. Data Definition Language (DDL).md",
-    "Big Data/4. Hive/0. Hive.md",
-    "Containers and Orchestration/Kubernetes/0. Overview/2. Kubernetes Objects.md",
-    "Containers and Orchestration/Kubernetes/0. Overview/1. Components.md",
-    "Containers and Orchestration/Kubernetes/0. Overview/0. Introduction.md",
-    "Big Data/13. Certificate/CDGA/2. Data Governance.md",
-    "Big Data/13. Certificate/CDGA/0. Data Management.md",
-    "Big Data/13. Certificate/CDGA/1. Data Handling Ethics.md",
-    "Programming Languages/Java/16. SpringCloud/6. Multi-Environment Configurations.md",
-    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
-    "Programming Languages/Java/14. Spring/0. IOC/6. Using Conditional Configuration.md",
-    "conflict-files-obsidian-git.md",
-    "Big Data/13. Certificate/CDGA/4. Data Modeling and Design.md",
-    "Big Data/13. Certificate/CDGA/9. Reference and Master Data.md",
-    "Big Data/13. Certificate/CDGA/8. Document and Content Management.md",
+    "Programming Languages/Java/18. Annotation/@RequestBody.md",
+    "Programming Languages/Java/18. Annotation/@Getter.md",
+    "Programming Languages/Java/18. Annotation/@GetMapping.md",
+    "Programming Languages/Java/09. JDBC/6. Optimization and Utility Class Packaging.md",
+    "Programming Languages/Java/09. JDBC/5. Connection Pool.md",
+    "Programming Languages/Java/09. JDBC/4. JDBC Extensions.md",
+    "Programming Languages/Java/09. JDBC/3. PreparedStatement CRUD.md",
+    "Programming Languages/Java/09. JDBC/2. Core API Understanding.md",
+    "Programming Languages/Java/09. JDBC/1. Set up and Implementation.md",
+    "Programming Languages/Java/09. JDBC/0. Java Database Connectivity.md",
+    "Programming Languages/Java/09. JDBC",
+    "Programming Languages/Java/08. Test/5. Parameterized Testing.md",
+    "Programming Languages/Java/08. Test/4. Conditional Testing.md",
+    "Programming Languages/Java/08. Test/3. Testing Exceptions.md",
+    "Programming Languages/Java/08. Test/2. Fixtures.md",
+    "Programming Languages/Java/08. Test/1. JUnit Tests.md",
+    "Programming Languages/Java/08. Test",
+    "Programming Languages/Java/07. IO/9. Writer.md",
+    "Programming Languages/Java/07. IO/8. Reader.md",
+    "Programming Languages/Java/07. IO/7. Serialization.md",
+    "Programming Languages/Java/07. IO/6. Classpath Resources.md",
+    "Programming Languages/Java/07. IO/5. Zip.md",
+    "Programming Languages/Java/07. IO/4. Filter Pattern.md",
+    "Programming Languages/Java/07. IO/3. OutputStream.md",
+    "Programming Languages/Java/07. IO/2. InputStream.md",
+    "Programming Languages/Java/07. IO/11. Using Files.md",
+    "Programming Languages/Java/07. IO/10. PrintStream and PrintWriter.md",
+    "Programming Languages/Java/07. IO",
+    "Programming Languages/Java/06. Generics",
+    "Programming Languages/Java/05. Networking",
+    "Programming Languages/Java/04. Reflection",
+    "Programming Languages/Java/03. Exception",
+    "Programming Languages/Java/02. Collections",
+    "Programming Languages/Java/01. Advanced/1. Data Classes",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
-    "Programming Languages/Python/Flask",
-    "Programming Languages/Java/9. Networking",
-    "Programming Languages/Java/9. Multithreading",
-    "Programming Languages/Java/7. JDBC",
-    "Programming Languages/Java/6. IO",
-    "Programming Languages/Java/05. Networking",
-    "Programming Languages/Java/20. Framework",
-    "Programming Languages/Java/2. Collections Framework",
-    "Programming Languages/Java/1. OOP/1. Data Classes",
+    "Z-Archive/Pictures/Big Data/kafka architecture.png",
+    "Statistics/1. Statistical Inference/kafka architecture.png",
     "Z-Archive/Pictures/Big Data/taskOperatorChain.png",
     "Z-Archive/Pictures/Big Data/flinkOperator.png",
     "Statistics/1. Statistical Inference/flinkOperator.png",
-    "Z-Archive/Pictures/Big Data/kafka architecture.png",
-    "Statistics/1. Statistical Inference/kafka architecture.png",
-    "Statistics/1. Statistical Inference/BlockData.png",
     "Statistics/1. Statistical Inference/Pasted image 20241112170822.png",
+    "Statistics/1. Statistical Inference/BlockData.png",
     "Z-Archive/Pictures/Programming/nacos.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
