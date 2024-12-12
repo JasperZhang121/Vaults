@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/13. Certificate/CDGA/12. Data Quality.md",
+                "file": "Big Data/13. Certificate/CDGA/14. Data Management Maturity Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Data Quality"
+              "title": "14. Data Management Maturity Assessment"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -186,8 +185,10 @@
   },
   "active": "211970ccdbb37657",
   "lastOpenFiles": [
-    "Big Data/13. Certificate/CDGA/11. Metadata Management.md",
+    "Big Data/13. Certificate/CDGA/13. Big Data and Data Science.md",
+    "Big Data/13. Certificate/CDGA/14. Data Management Maturity Assessment.md",
     "Big Data/13. Certificate/CDGA/12. Data Quality.md",
+    "Big Data/13. Certificate/CDGA/11. Metadata Management.md",
     "Big Data/13. Certificate/CDGA/10. Data Warehousing and Business Intelligence.md",
     "Big Data/13. Certificate/CDGA/9. Reference and Master Data.md",
     "Programming Languages/Java/19. Intellij/1. Disabling Spring Boot Logging System Using VM Options.md",
@@ -212,8 +213,6 @@
     "Programming Languages/Java/07. IO/8. Reader.md",
     "Programming Languages/Java/07. IO/7. Serialization.md",
     "Programming Languages/Java/07. IO/6. Classpath Resources.md",
-    "Programming Languages/Java/07. IO/5. Zip.md",
-    "Programming Languages/Java/07. IO/4. Filter Pattern.md",
     "Programming Languages/Java/07. IO",
     "Programming Languages/Java/06. Generics",
     "Programming Languages/Java/05. Networking",
