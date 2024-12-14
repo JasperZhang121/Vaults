@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "attachmentFolderPath": "Statistics/1. Statistical Inference"
+  "attachmentFolderPath": "Statistics/1. Statistical Inference",
+  "promptDelete": false
 }
