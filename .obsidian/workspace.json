@@ -11,10 +11,14 @@
             "id": "08d4fa40320beaec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/20. Framework/1. Spring MVC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Spring MVC"
             }
           }
         ]
@@ -172,8 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "08d4fa40320beaec",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@Operation.md",
+    "Programming Languages/Java/18. Annotation/@JsonSerialize.md",
+    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
+    "Programming Languages/Java/19. Intellij/1. Disabling Spring Boot Logging System Using VM Options.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Programming Languages/Java/21. JVM/0. Overview.md",
@@ -185,7 +193,6 @@
     "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
     "Programming Languages/Java/16. SpringCloud/4. ElasticSearch.md",
     "Programming Languages/Java/20. Framework/1. Spring MVC.md",
-    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/08. Test/5. Parameterized Testing.md",
     "Programming Languages/Java/08. Test/4. Conditional Testing.md",
@@ -199,9 +206,6 @@
     "Programming Languages/Java/07. IO/8. Reader.md",
     "Programming Languages/Java/07. IO/5. Zip.md",
     "Programming Languages/Java/07. IO/6. Classpath Resources.md",
-    "Programming Languages/Java/07. IO/10. PrintStream and PrintWriter.md",
-    "Programming Languages/Java/07. IO/4. Filter Pattern.md",
-    "Programming Languages/Java/07. IO/11. Using Files.md",
     "Programming Languages/Java/07. IO",
     "Programming Languages/Java/04. Reflection",
     "Programming Languages/Java/03. Exception",
