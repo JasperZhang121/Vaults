@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cab5f8ae2bf3ebf1",
+        "id": "5718ae4d59bafe4b",
         "type": "tabs",
         "children": [
           {
-            "id": "070e4c1f0f675858",
+            "id": "08d4fa40320beaec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "070e4c1f0f675858",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
+    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
+    "Programming Languages/Java/21. JVM/1. Architecture.md",
+    "Programming Languages/Java/21. JVM/0. Overview.md",
+    "Programming Languages/Java/10. Multithreading/0. Basics.md",
+    "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
+    "Databases/GaussDB/0. Introduction to GaussDB.md",
+    "Programming Languages/Java/16. SpringCloud/6. Multi-Environment Configurations.md",
+    "Databases/GaussDB",
+    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
+    "Programming Languages/Java/16. SpringCloud/4. ElasticSearch.md",
+    "Programming Languages/Java/20. Framework/1. Spring MVC.md",
+    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/08. Test/5. Parameterized Testing.md",
     "Programming Languages/Java/08. Test/4. Conditional Testing.md",
@@ -190,19 +202,8 @@
     "Programming Languages/Java/07. IO/10. PrintStream and PrintWriter.md",
     "Programming Languages/Java/07. IO/4. Filter Pattern.md",
     "Programming Languages/Java/07. IO/11. Using Files.md",
-    "Programming Languages/Java/07. IO/2. InputStream.md",
-    "Programming Languages/Java/07. IO/1. File Object.md",
     "Programming Languages/Java/07. IO",
-    "Programming Languages/Java/04. Reflection/6. Dynamic Proxy.md",
-    "Programming Languages/Java/04. Reflection/5. Inheritance Relationships.md",
-    "Programming Languages/Java/04. Reflection/4. Invoke Constructor Methods.md",
-    "Programming Languages/Java/04. Reflection/3. Invoke Method.md",
-    "Programming Languages/Java/04. Reflection/2. Field Information.md",
-    "Programming Languages/Java/04. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/04. Reflection",
-    "Programming Languages/Java/03. Exception/Commons Logging.md",
-    "Programming Languages/Java/03. Exception/6. Logging.md",
-    "Programming Languages/Java/03. Exception/5. Assertions.md",
     "Programming Languages/Java/03. Exception",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
@@ -210,7 +211,6 @@
     "Programming Languages/Java/06. Generics",
     "Programming Languages/Java/05. Networking",
     "Programming Languages/Java/02. Collections",
-    "Programming Languages/Java/01. Advanced/1. Data Classes",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming"
+    "Programming Languages/Java/01. Advanced/1. Data Classes"
   ]
 }
