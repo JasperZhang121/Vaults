@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5718ae4d59bafe4b",
+        "id": "e125ccd565767037",
         "type": "tabs",
         "children": [
           {
-            "id": "08d4fa40320beaec",
+            "id": "9e0323c0215f8080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/20. Framework/1. Spring MVC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Spring MVC"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -176,36 +172,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08d4fa40320beaec",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
-    "Programming Languages/Java/18. Annotation/@Operation.md",
-    "Programming Languages/Java/18. Annotation/@JsonSerialize.md",
-    "Programming Languages/Java/19. Intellij/0. Run & Build.md",
-    "Programming Languages/Java/19. Intellij/1. Disabling Spring Boot Logging System Using VM Options.md",
-    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
-    "Programming Languages/Java/21. JVM/1. Architecture.md",
-    "Programming Languages/Java/21. JVM/0. Overview.md",
-    "Programming Languages/Java/10. Multithreading/0. Basics.md",
-    "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
-    "Databases/GaussDB/0. Introduction to GaussDB.md",
-    "Programming Languages/Java/16. SpringCloud/6. Multi-Environment Configurations.md",
+    "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
+    "Big Data/2. Scala/10. Sbt.md",
+    "Statistics/1. Probability Theory/Questions sheet.md",
+    "Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+    "Statistics/1. Probability Theory/4. Likelihood function.md",
+    "Statistics/1. Probability Theory/3. Probability Density Function.md",
+    "Statistics/1. Probability Theory/1. Probability Distributions.md",
+    "Statistics/1. Probability Theory/0. Basic Probability Rules.md",
+    "Quant/5. Chinese Securities/1. Stock Boards.md",
+    "Quant/5. Chinese Securities/0. History.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
+    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/0. Definition.md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
+    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
+    "Quant/1. Assets/3. Commodities.md",
+    "Quant/1. Assets/2. Bonds.md",
+    "Quant/1. Assets/1. Stocks.md",
+    "Quant/1. Assets/0. Overview.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/5. Key Players.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
+    "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
     "Databases/GaussDB",
-    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
-    "Programming Languages/Java/16. SpringCloud/4. ElasticSearch.md",
-    "Programming Languages/Java/20. Framework/1. Spring MVC.md",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/08. Test/5. Parameterized Testing.md",
-    "Programming Languages/Java/08. Test/4. Conditional Testing.md",
-    "Programming Languages/Java/08. Test/3. Testing Exceptions.md",
-    "Programming Languages/Java/08. Test/2. Fixtures.md",
-    "Programming Languages/Java/08. Test/1. JUnit Tests.md",
     "Programming Languages/Java/08. Test",
-    "Programming Languages/Java/07. IO/9. Writer.md",
-    "Programming Languages/Java/07. IO/3. OutputStream.md",
-    "Programming Languages/Java/07. IO/7. Serialization.md",
-    "Programming Languages/Java/07. IO/8. Reader.md",
-    "Programming Languages/Java/07. IO/5. Zip.md",
-    "Programming Languages/Java/07. IO/6. Classpath Resources.md",
     "Programming Languages/Java/07. IO",
     "Programming Languages/Java/04. Reflection",
     "Programming Languages/Java/03. Exception",
