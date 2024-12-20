@@ -11,10 +11,14 @@
             "id": "9e0323c0215f8080",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git/9. Revert.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "9. Revert"
             }
           }
         ]
@@ -172,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "9e0323c0215f8080",
   "lastOpenFiles": [
+    "Git/9. Revert.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
     "Big Data/2. Scala/10. Sbt.md",
     "Statistics/1. Probability Theory/Questions sheet.md",
@@ -199,7 +204,6 @@
     "Quant/0. FIN & Econ Theory/Capital Market/5. Key Players.md",
     "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
     "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
     "Programming Languages/Java/07. IO",
