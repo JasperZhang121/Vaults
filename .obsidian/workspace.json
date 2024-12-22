@@ -11,10 +11,14 @@
             "id": "5f2c277775932881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -175,6 +179,13 @@
   "active": "5f2c277775932881",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
+    "Programming Languages/Java/21. JVM/1. Architecture.md",
+    "Programming Languages/Java/21. JVM/0. Overview.md",
+    "Programming Languages/Java/21. JVM",
+    "Git/9. Revert.md",
+    "Databases/GaussDB/0. Introduction to GaussDB.md",
+    "Databases/GaussDB",
     "Programming Languages/Java/08. Test/5. Parameterized Testing.md",
     "Programming Languages/Java/08. Test/4. Conditional Testing.md",
     "Programming Languages/Java/08. Test/3. Testing Exceptions.md",
@@ -197,20 +208,13 @@
     "Programming Languages/Java/04. Reflection/5. Inheritance Relationships.md",
     "Programming Languages/Java/04. Reflection/4. Invoke Constructor Methods.md",
     "Programming Languages/Java/04. Reflection/3. Invoke Method.md",
-    "Programming Languages/Java/04. Reflection/2. Field Information.md",
-    "Programming Languages/Java/04. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/04. Reflection",
-    "Programming Languages/Java/03. Exception/Commons Logging.md",
-    "Programming Languages/Java/03. Exception/6. Logging.md",
-    "Programming Languages/Java/03. Exception/5. Assertions.md",
     "Programming Languages/Java/03. Exception",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
     "Programming Languages/Java/09. JDBC",
     "Programming Languages/Java/06. Generics",
     "Programming Languages/Java/05. Networking",
-    "Programming Languages/Java/02. Collections",
-    "Programming Languages/Java/01. Advanced/1. Data Classes",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming"
+    "Programming Languages/Java/02. Collections"
   ]
 }
