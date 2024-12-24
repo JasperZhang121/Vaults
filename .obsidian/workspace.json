@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/11. Maven/1. Dependency Management.md",
+                "file": "Programming Languages/Java/11. Maven/3. Plugins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Dependency Management"
+              "title": "3. Plugins"
             }
           }
         ]
@@ -176,9 +176,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "9e0323c0215f8080",
   "lastOpenFiles": [
     "Programming Languages/Java/11. Maven/0. Basic.md",
+    "Programming Languages/Java/11. Maven/3. Plugins.md",
+    "Programming Languages/Java/11. Maven/2. Build Process.md",
+    "Programming Languages/Java/11. Maven/1. Dependency Management.md",
+    "Programming Languages/Java/11. Maven/4. Module Management.md",
+    "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
+    "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
+    "Programming Languages/Java/19. Intellij/3. Run vs. Debug.md",
+    "Programming Languages/Java/19. Intellij/2. Indexing.md",
+    "Programming Languages/Java/19. Intellij/Untitled",
+    "Git/1. Initialization and Configuration.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Programming Languages/Java/21. JVM/0. Overview.md",
     "Git/9. Revert.md",
@@ -195,15 +205,6 @@
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Stochastic Differential Equations/0. Definition.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/2. Drawbacks.md",
     "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/1. Assumptions.md",
-    "Quant/4. Statistical  Models/2. Stochastic Calculus/Black Scholes/0. Definition.md",
-    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/1. Maximum Likelihood Estimation (MLE).md",
-    "Quant/4. Statistical  Models/1. Time Series Analysis/ARIMA/0. Autoregressive Integrated Moving Average.md",
-    "Quant/1. Assets/3. Commodities.md",
-    "Quant/1. Assets/2. Bonds.md",
-    "Quant/1. Assets/1. Stocks.md",
-    "Quant/1. Assets/0. Overview.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/6. Risk In Capital Market.md",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
     "Programming Languages/Java/07. IO",
@@ -214,7 +215,6 @@
     "Programming Languages/Java/09. JDBC",
     "Programming Languages/Java/06. Generics",
     "Programming Languages/Java/05. Networking",
-    "Programming Languages/Java/02. Collections",
-    "Programming Languages/Java/01. Advanced/1. Data Classes"
+    "Programming Languages/Java/02. Collections"
   ]
 }
