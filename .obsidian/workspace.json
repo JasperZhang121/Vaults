@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/11. Maven/3. Plugins.md",
+                "file": "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Plugins"
+              "title": "6. Publishing Artifacts"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "9e0323c0215f8080",
   "lastOpenFiles": [
-    "Programming Languages/Java/11. Maven/0. Basic.md",
-    "Programming Languages/Java/11. Maven/3. Plugins.md",
-    "Programming Languages/Java/11. Maven/2. Build Process.md",
     "Programming Languages/Java/11. Maven/1. Dependency Management.md",
+    "Programming Languages/Java/11. Maven/0. Basic.md",
+    "Programming Languages/Java/11. Maven/2. Build Process.md",
+    "Programming Languages/Java/11. Maven/3. Plugins.md",
     "Programming Languages/Java/11. Maven/4. Module Management.md",
     "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
     "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
