@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e125ccd565767037",
+        "id": "7f281ecfd190d253",
         "type": "tabs",
         "children": [
           {
-            "id": "9e0323c0215f8080",
+            "id": "e086bce59c5cb84e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/19. Intellij/3. Run vs. Debug.md",
+                "file": "Programming Languages/Java/18. Annotation/@Schema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Run vs. Debug"
+              "title": "@Schema"
             }
           }
         ]
@@ -176,8 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e0323c0215f8080",
+  "active": "e086bce59c5cb84e",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@RequestParam.md",
+    "Programming Languages/Java/18. Annotation/@TableLogic.md",
+    "Programming Languages/Java/18. Annotation/@TableField.md",
+    "Programming Languages/Java/19. Intellij/4. Navigation.md",
+    "Git/11. Tips.md",
+    "Git/10. Intellij.md",
+    "Git/4. Branching and Merging.md",
+    "Programming Languages/Java/19. Intellij/Tips",
+    "Programming Languages/Java/19. Intellij/3. Run vs. Debug.md",
     "Programming Languages/Java/19. Intellij/2. Indexing.md",
     "Programming Languages/Java/20. Framework/0. Domain-Driven Design.md",
     "Programming Languages/Java/20. Framework/1. Spring MVC.md",
@@ -191,20 +200,11 @@
     "Programming Languages/Java/11. Maven/3. Plugins.md",
     "Programming Languages/Java/11. Maven/4. Module Management.md",
     "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
-    "Programming Languages/Java/19. Intellij/3. Run vs. Debug.md",
-    "Programming Languages/Java/19. Intellij/Untitled",
     "Git/1. Initialization and Configuration.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Programming Languages/Java/21. JVM/0. Overview.md",
     "Git/9. Revert.md",
     "Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/2.2 Basic Statistical Descriptions of a Single Data Variable.md",
-    "Big Data/2. Scala/10. Sbt.md",
-    "Statistics/1. Probability Theory/Questions sheet.md",
-    "Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
-    "Statistics/1. Probability Theory/4. Likelihood function.md",
-    "Statistics/1. Probability Theory/3. Probability Density Function.md",
-    "Statistics/1. Probability Theory/1. Probability Distributions.md",
-    "Statistics/1. Probability Theory/0. Basic Probability Rules.md",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
     "Programming Languages/Java/07. IO",
