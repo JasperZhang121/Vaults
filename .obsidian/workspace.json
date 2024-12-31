@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c216d277b7b79647",
+        "id": "b0cebb1774b58d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "2eeb29b82382cdbe",
+            "id": "79ca226145988b3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Operation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@Operation"
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "79ca226145988b3f",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@Operation.md",
     "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
     "Programming Languages/Java/16. SpringCloud/Untitled",
     "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
@@ -205,7 +202,6 @@
     "Programming Languages/Java/11. Maven/3. Plugins.md",
     "Programming Languages/Java/11. Maven/4. Module Management.md",
     "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
-    "Git/1. Initialization and Configuration.md",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
     "Programming Languages/Java/07. IO",
