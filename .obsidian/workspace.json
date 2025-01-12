@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "7d2a46f15a288054",
+    "id": "d6c4637d03c9aba2",
     "type": "split",
     "children": [
       {
-        "id": "b0cebb1774b58d5b",
+        "id": "f276a67ec078dc7c",
         "type": "tabs",
         "children": [
           {
-            "id": "79ca226145988b3f",
+            "id": "211970ccdbb37657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/19. Intellij/5. Removing `.idea` Folder.md",
+                "file": "Programming Languages/Java/1. Threads In Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Removing `.idea` Folder"
-            }
-          },
-          {
-            "id": "65ac23296ab985a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "1. Threads In Sequence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6551ee4a8a1558b0",
+    "id": "e842880b3bac6047",
     "type": "split",
     "children": [
       {
-        "id": "6c5db3a8f56376d8",
+        "id": "7faa162f138bac53",
         "type": "tabs",
         "children": [
           {
-            "id": "6126ef7c3c57798e",
+            "id": "0e3d9c4c550f9ca9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +47,12 @@
             }
           },
           {
-            "id": "aa212cbfdfd7e7ba",
+            "id": "fd15b7c9e49ac477",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +64,17 @@
             }
           },
           {
-            "id": "52778bef81feb60d",
+            "id": "a16cfca35d6d24dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7095d05959c0a371",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,23 +87,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 302.5
   },
   "right": {
-    "id": "8ac07aae3df4b560",
+    "id": "7dcb91c75a3768a3",
     "type": "split",
     "children": [
       {
-        "id": "e3d317cd2debc2e0",
+        "id": "b0573f0c77a254ee",
         "type": "tabs",
         "children": [
           {
-            "id": "cac1985e3107aa4d",
+            "id": "d8837a168bb7d2e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +112,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @Table"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6cee2c26590df231",
+            "id": "99ec26e8c41d3271",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from @Table"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ab05736e0e72e967",
+            "id": "6fc3d4e5b474eb74",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +142,17 @@
             }
           },
           {
-            "id": "e6eec85f8d3f8b8c",
+            "id": "17198e5890d3f845",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6461de1442b14953",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,24 +164,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "9193cd17c2ee1b83",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of @Table"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,45 +183,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65ac23296ab985a9",
+  "active": "211970ccdbb37657",
   "lastOpenFiles": [
+    "Programming Languages/Java/22. Scenarios",
+    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
+    "Programming Languages/Java/1. Threads In Sequence.md",
     "Programming Languages/Java/19. Intellij/5. Removing `.idea` Folder.md",
+    "Databases/Redis/Basic/5. Commands Reference.md",
+    "Databases/Redis/Basic/4. Basic Commands.md",
+    "Databases/Redis/Basic/3. Data Type.md",
+    "Databases/Redis/Basic/2. Command Server.md",
+    "Databases/Redis/Basic/1. Implementation.md",
+    "Databases/Redis/Basic/0. Introduction.md",
+    "Programming Languages/Java/16. SpringCloud/1. Nacos.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/3. Stream.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/1. Lambda.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/Untitled.md",
+    "Big Data/13. Certificate/CDGA/14. Data Management Maturity Assessment.md",
     "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/18. Annotation/@TableId.md",
-    "Programming Languages/Java/18. Annotation/@EqualsAndHashCode.md",
-    "Programming Languages/Java/18. Annotation/@ConfigurationProperties.md",
-    "Programming Languages/Java/18. Annotation/@Operation.md",
-    "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
-    "Programming Languages/Java/16. SpringCloud/Untitled",
-    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
-    "Programming Languages/Java/18. Annotation/@NotNull.md",
-    "Programming Languages/Java/18. Annotation/@Schema.md",
-    "Programming Languages/Java/18. Annotation/@RequestParam.md",
-    "Programming Languages/Java/18. Annotation/@TableLogic.md",
-    "Programming Languages/Java/18. Annotation/@TableField.md",
-    "Programming Languages/Java/19. Intellij/4. Navigation.md",
+    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
+    "Programming Languages/Java/21. JVM/1. Architecture.md",
+    "Programming Languages/Java/21. JVM/0. Overview.md",
+    "Programming Languages/Java/21. JVM",
+    "Git/9. Revert.md",
     "Git/11. Tips.md",
     "Git/10. Intellij.md",
-    "Git/4. Branching and Merging.md",
-    "Programming Languages/Java/19. Intellij/Tips",
-    "Programming Languages/Java/19. Intellij/3. Run vs. Debug.md",
-    "Programming Languages/Java/19. Intellij/2. Indexing.md",
-    "Programming Languages/Java/20. Framework/0. Domain-Driven Design.md",
-    "Programming Languages/Java/20. Framework/1. Spring MVC.md",
-    "Programming Languages/Java/16. SpringCloud/2. Feign.md",
-    "Programming Languages/Java/18. Annotation/@Transactional.md",
-    "Programming Languages/Java/21. JVM/1. Architecture.md",
-    "Programming Languages/Java/11. Maven/6. Publishing Artifacts.md",
-    "Programming Languages/Java/11. Maven/1. Dependency Management.md",
+    "Databases/GaussDB/0. Introduction to GaussDB.md",
     "Databases/GaussDB",
+    "Big Data/13. Certificate/CDGA/13. Big Data and Data Science.md",
+    "Big Data/13. Certificate/CDGA/12. Data Quality.md",
+    "Big Data/13. Certificate/CDGA/11. Metadata Management.md",
+    "Programming Languages/Java/09. JDBC",
     "Programming Languages/Java/08. Test",
     "Programming Languages/Java/07. IO",
+    "Programming Languages/Java/06. Generics",
+    "Programming Languages/Java/05. Networking",
     "Programming Languages/Java/04. Reflection",
     "Programming Languages/Java/03. Exception",
+    "Programming Languages/Java/02. Collections",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
-    "Programming Languages/Java/09. JDBC",
-    "Programming Languages/Java/06. Generics",
-    "Programming Languages/Java/05. Networking"
+    "Z-Archive/Pictures/Big Data/kafka architecture.png",
+    "Statistics/1. Statistical Inference/kafka architecture.png",
+    "Z-Archive/Pictures/Big Data/taskOperatorChain.png",
+    "Z-Archive/Pictures/Big Data/flinkOperator.png",
+    "Statistics/1. Statistical Inference/flinkOperator.png",
+    "Statistics/1. Statistical Inference/Pasted image 20241112170822.png",
+    "Statistics/1. Statistical Inference/BlockData.png",
+    "Z-Archive/Pictures/Programming/nacos.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
