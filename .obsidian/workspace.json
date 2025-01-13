@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "@Valid"
             }
+          },
+          {
+            "id": "c733a7416366a4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f642ba462f290d2",
+  "active": "c733a7416366a4c5",
   "lastOpenFiles": [
-    "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
     "Programming Languages/Java/18. Annotation/@Valid.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/1. Threads In Sequence.md",
+    "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
     "Programming Languages/Java/18. Annotation/@Value.md",
     "Programming Languages/Java/18. Annotation/@Qualifier.md",
     "Computer Operating System/Linux/Basic Linux/8. Clash Proxy Setup.md",
@@ -193,7 +210,6 @@
     "Git/10. Intellij.md",
     "Git/11. Tips.md",
     "Programming Languages/Java/19. Intellij/5. Removing `.idea` Folder.md",
-    "conflict-files-obsidian-git.md",
     "Programming Languages/Java/18. Annotation/@TableId.md",
     "Programming Languages/Java/18. Annotation/@EqualsAndHashCode.md",
     "Programming Languages/Java/18. Annotation/@ConfigurationProperties.md",
@@ -205,7 +221,6 @@
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
     "Programming Languages/Java/18. Annotation/@TableLogic.md",
     "Programming Languages/Java/18. Annotation/@TableField.md",
-    "Programming Languages/Java/19. Intellij/4. Navigation.md",
     "Programming Languages/Java/19. Intellij/Tips",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
