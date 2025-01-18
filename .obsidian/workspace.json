@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea2b7400f6f46e33",
+        "id": "e4e43c85ff84b2df",
         "type": "tabs",
         "children": [
           {
-            "id": "c07851d0d03d4da4",
+            "id": "52fb2bb386f9d669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/1. Initialization and Configuration.md",
+                "file": "Programming Languages/Java/14. Spring/Component Version Relationships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Initialization and Configuration"
+              "title": "Component Version Relationships"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -176,12 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c07851d0d03d4da4",
+  "active": "52fb2bb386f9d669",
   "lastOpenFiles": [
+    "Programming Languages/Java/14. Spring/Spring Annotation.md",
+    "Programming Languages/Java/14. Spring/Component Version Relationships.md",
+    "Programming Languages/Java/15. SpringBoot/0. Basic Application.md",
+    "Programming Languages/Java/22. Practices/1. Threads In Sequence.md",
+    "Programming Languages/Java/22. Practices",
+    "Git/1. Initialization and Configuration.md",
     "Git/0. Concepts.md",
     "Programming Languages/Java/18. Annotation/@Valid.md",
     "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/1. Threads In Sequence.md",
     "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
     "Programming Languages/Java/18. Annotation/@Value.md",
     "Programming Languages/Java/18. Annotation/@Qualifier.md",
@@ -201,10 +207,6 @@
     "Programming Languages/Java/18. Annotation/@Operation.md",
     "Programming Languages/Java/16. SpringCloud/Untitled",
     "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
-    "Programming Languages/Java/18. Annotation/@NotNull.md",
-    "Programming Languages/Java/18. Annotation/@Schema.md",
-    "Programming Languages/Java/18. Annotation/@RequestParam.md",
-    "Programming Languages/Java/18. Annotation/@TableLogic.md",
     "Programming Languages/Java/19. Intellij/Tips",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
@@ -214,7 +216,6 @@
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
     "Programming Languages/Java/09. JDBC",
-    "Programming Languages/Java/06. Generics",
-    "Programming Languages/Java/05. Networking"
+    "Programming Languages/Java/06. Generics"
   ]
 }
