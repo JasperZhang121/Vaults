@@ -1,4 +1,5 @@
 `@RequestParam` is a Spring MVC annotation used to extract query parameters, form parameters, or path parameters from the HTTP request in a controller method. It's commonly used in web applications built with Spring Framework to access data sent by the client as part of the URL or request body.
+
 ### 1. Query Parameters
 
 If a client sends data as part of the URL query string, you can use `@RequestParam` to retrieve those values in your controller method.
