@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4694cc7499889355",
+        "id": "c2f9f82e2a9f1866",
         "type": "tabs",
         "children": [
           {
-            "id": "5f642ba462f290d2",
+            "id": "f10965766b3cf166",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Valid.md",
+                "file": "Programming Languages/Java/18. Annotation/@RequestParam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Valid"
-            }
-          },
-          {
-            "id": "c733a7416366a4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "@RequestParam"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -192,11 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c733a7416366a4c5",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@RequestMapping.md",
+    "Programming Languages/Java/22. Scenarios",
+    "Programming Languages/Java/22. Scenarios/1. Threads In Sequence.md",
+    "Programming Languages/Java/Untitled.md",
     "Programming Languages/Java/18. Annotation/@Valid.md",
     "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/1. Threads In Sequence.md",
     "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
     "Programming Languages/Java/18. Annotation/@Value.md",
     "Programming Languages/Java/18. Annotation/@Qualifier.md",
@@ -219,8 +206,6 @@
     "Programming Languages/Java/18. Annotation/@NotNull.md",
     "Programming Languages/Java/18. Annotation/@Schema.md",
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
-    "Programming Languages/Java/18. Annotation/@TableLogic.md",
-    "Programming Languages/Java/18. Annotation/@TableField.md",
     "Programming Languages/Java/19. Intellij/Tips",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
@@ -230,7 +215,6 @@
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png",
     "Programming Languages/Java/09. JDBC",
-    "Programming Languages/Java/06. Generics",
-    "Programming Languages/Java/05. Networking"
+    "Programming Languages/Java/06. Generics"
   ]
 }
