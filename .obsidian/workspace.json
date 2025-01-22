@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f9f82e2a9f1866",
+        "id": "c60108793dece13c",
         "type": "tabs",
         "children": [
           {
-            "id": "f10965766b3cf166",
+            "id": "a60ca35f07c415b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@RequestParam.md",
+                "file": "Programming Languages/Java/23. Open Source/0. Flowable/1. Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@RequestParam"
+              "title": "1. Environment"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -176,10 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f10965766b3cf166",
+  "active": "a60ca35f07c415b9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basics.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/1. Environment.md",
+    "Containers and Orchestration/Kubernetes/0. Overview/0. Introduction.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable",
+    "Programming Languages/Java/23. Open Source/Untitled.md",
+    "Programming Languages/Java/23. Open Source",
+    "Containers and Orchestration/Docker/0.Operations.md",
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
+    "conflict-files-obsidian-git.md",
     "Programming Languages/Java/22. Practices/1. Threads In Sequence.md",
     "Programming Languages/Java/22. Practices",
     "Programming Languages/Java/14. Spring/Component Version Relationships.md",
@@ -201,20 +209,13 @@
     "Git/10. Intellij.md",
     "Git/11. Tips.md",
     "Programming Languages/Java/19. Intellij/5. Removing `.idea` Folder.md",
-    "Programming Languages/Java/18. Annotation/@TableId.md",
-    "Programming Languages/Java/18. Annotation/@EqualsAndHashCode.md",
-    "Programming Languages/Java/18. Annotation/@ConfigurationProperties.md",
-    "Programming Languages/Java/18. Annotation/@Operation.md",
     "Programming Languages/Java/16. SpringCloud/Untitled",
-    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
     "Programming Languages/Java/19. Intellij/Tips",
     "Databases/GaussDB",
     "Programming Languages/Java/08. Test",
     "Programming Languages/Java/07. IO",
     "Programming Languages/Java/04. Reflection",
-    "Programming Languages/Java/03. Exception",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
-    "Statistics/1. Statistical Inference/dataHandlingEthics.png",
-    "Programming Languages/Java/09. JDBC"
+    "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
 }
