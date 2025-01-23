@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/0. Flowable/1. Environment.md",
+                "file": "Programming Languages/Java/18. Annotation/@Aspect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Environment"
-            }
-          },
-          {
-            "id": "0596caeb64a138f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "@Aspect"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -192,8 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0596caeb64a138f3",
+  "active": "a60ca35f07c415b9",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@EnableAsync.md",
+    "Programming Languages/Java/18. Annotation/@Aspect.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Environment.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basics.md",
@@ -222,8 +208,6 @@
     "Git/7. Common Issues.md",
     "Git/6. Advanced Git Features.md",
     "Git/10. Intellij.md",
-    "Git/11. Tips.md",
-    "Programming Languages/Java/19. Intellij/5. Removing `.idea` Folder.md",
     "Programming Languages/Java/16. SpringCloud/Untitled",
     "Programming Languages/Java/19. Intellij/Tips",
     "Databases/GaussDB",
