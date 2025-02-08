@@ -1,1 +1,5 @@
-.obsidian/workspace.json
+# Ignore macOS file
+.DS_Store
+
+# Ignore an Obsidian configuration folder
+.obsidian/
