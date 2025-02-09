@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08f81fefc2debf0c",
+        "id": "5e7f8a90c3f541d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a144b612c7222cd7",
+            "id": "51dc393ff8bdbaff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming Languages/Java/16. SpringCloud/1. Nacos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "1. Nacos"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nacos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a144b612c7222cd7",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/2. HolidayController.md",
