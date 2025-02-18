@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Pattern.md",
+                "file": "Programming Languages/Java/18. Annotation/@EnumValue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Pattern"
+              "title": "@EnumValue"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "b97d6a58f8350f01",
   "lastOpenFiles": [
-    "Git/8. VPN (Git Connection Issues).md",
+    "Programming Languages/Java/18. Annotation/@JsonValue.md",
+    "Programming Languages/Java/18. Annotation/@EnumValue.md",
     "Programming Languages/Java/18. Annotation/@Pattern.md",
+    "Git/8. VPN (Git Connection Issues).md",
     "Git/3. Basic Commands.md",
     "Git/4. Branching and Merging.md",
     "Git/11. Tips.md",
@@ -206,9 +208,7 @@
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basics.md",
     "Containers and Orchestration/Kubernetes/0. Overview/0. Introduction.md",
     "Programming Languages/Java/23. Open Source/0. Flowable",
-    "Programming Languages/Java/23. Open Source/Untitled.md",
     "Programming Languages/Java/23. Open Source",
-    "Containers and Orchestration/Docker/0.Operations.md",
     "Programming Languages/Java/22. Practices",
     "Programming Languages/Java/22. Scenarios",
     "Programming Languages/Java/16. SpringCloud/Untitled",
