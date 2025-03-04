@@ -120,4 +120,4 @@ The **@Autowired** annotation is a core part of the Spring Framework's dependenc
     This avoids ambiguity when multiple beans of the same type exist.
     
 - **Keep It Simple:**  
-    Design your beans so that dependencies are clear and minimal. This reduces complexity and improves maintainability.
+Design your beans so that dependencies are clear and minimal. This reduces complexity and improves maintainability.
