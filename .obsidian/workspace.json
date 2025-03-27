@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "17e6fa0b8d8e12d1",
+        "id": "9250cf31ca990e36",
         "type": "tabs",
         "children": [
           {
-            "id": "bbfcad5e9260033a",
+            "id": "9712fba9767da168",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Mock.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@Mock"
+              "title": "New tab"
             }
           }
         ]
@@ -177,12 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbfcad5e9260033a",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
+    "Big Data/6. Flink/3. Flink Operators.md",
+    "Big Data/6. Flink/4. Time and Window in Stream Processing.md",
+    "Big Data/6. Flink/2. Architecture.md",
+    "Big Data/6. Flink/1. Deployment and Startup.md",
+    "Big Data/6. Flink/0. Key Features of Flink.md",
+    "Git/8. VPN (Git Connection Issues).md",
     "Programming Languages/Java/18. Annotation/@Mock.md",
     "Programming Languages/Java/18. Annotation/@AliasFor.md",
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
-    "Git/8. VPN (Git Connection Issues).md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/18. Annotation/@Primary.md",
     "Programming Languages/Java/18. Annotation/@Order.md",
@@ -200,11 +201,6 @@
     "Git/4. Branching and Merging.md",
     "Git/11. Tips.md",
     "Programming Languages/Java/14. Spring/1. AOP/1. Annotation-Based AOP Configuration.md",
-    "Programming Languages/Java/14. Spring/1. AOP/2. AOP Pitfalls Guide.md",
-    "Programming Languages/Java/14. Spring/1. AOP/0. Assembling AOP.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/3. HolidayService.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/2. HolidayController.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/1. BNMP.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Programming Languages/Java/23. Open Source/0. Flowable",
