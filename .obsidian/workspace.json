@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@JsonIgnore.md",
+                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@JsonIgnore"
+              "title": "2. RedisTemplate API"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +179,19 @@
   },
   "active": "e1574b343f593b3a",
   "lastOpenFiles": [
-    "Programming Languages/Java/18. Annotation/@Async.md",
+    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
+    "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+    "Databases/Redis/Jedis/2. Jedis Pool.md",
+    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
+    "Databases/Redis/Basic/5. Commands Reference.md",
+    "Databases/Redis/Basic/4. Basic Commands.md",
+    "Databases/Redis/Basic/3. Data Type.md",
+    "Databases/Redis/Basic/2. Command Server.md",
+    "Databases/Redis/Basic/1. Implementation.md",
+    "Databases/Redis/Basic/0. Introduction.md",
     "Programming Languages/Java/18. Annotation/@JsonIgnore.md",
+    "Programming Languages/Java/18. Annotation/Untitled.md",
+    "Programming Languages/Java/18. Annotation/@Async.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/0. Process Engine.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "conflict-files-obsidian-git.md",
@@ -195,17 +206,6 @@
     "Programming Languages/Java/18. Annotation/@RequestParam.md",
     "Programming Languages/Java/18. Annotation/@Primary.md",
     "Programming Languages/Java/18. Annotation/@Order.md",
-    "Programming Languages/Java/18. Annotation/@Idempotent.md",
-    "Programming Languages/Java/18. Annotation/@EnableDiscoveryClient.md",
-    "Programming Languages/Java/18. Annotation/@Autowired.md",
-    "Programming Languages/Java/18. Annotation/@Lazy.md",
-    "Programming Languages/Java/18. Annotation/@NotNull.md",
-    "Programming Languages/Java/18. Annotation/@Qualifier.md",
-    "Programming Languages/Java/18. Annotation/@RequiredArgsConstructor.md",
-    "Programming Languages/Java/18. Annotation/@EnumValue.md",
-    "Programming Languages/Java/18. Annotation/@JsonValue.md",
-    "Programming Languages/Java/18. Annotation/@Pattern.md",
-    "Git/3. Basic Commands.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Programming Languages/Java/23. Open Source/0. Flowable",
