@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5255bc9ee0e474f",
+        "id": "e1ca09667a958547",
         "type": "tabs",
         "children": [
           {
-            "id": "723f6bc5703ff823",
+            "id": "b3ef4550efd0b42a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/1. Process Engines.md",
+                "file": "Programming Languages/Java/24. Utils/GraphProcessor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Process Engines"
+              "title": "GraphProcessor"
             }
           }
         ]
@@ -178,10 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "723f6bc5703ff823",
+  "active": "b3ef4550efd0b42a",
   "lastOpenFiles": [
-    "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/0. Process Engine.md",
+    "Programming Languages/Java/18. Annotation/@Idempotent.md",
+    "Programming Languages/Java/24. Utils/GraphProcessor.md",
+    "Programming Languages/Java/24. Utils",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/1. Process Engines.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/0. Process Engine.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/2. BPMN.md",
@@ -195,7 +198,6 @@
     "Programming Languages/Java/18. Annotation/@Autowired.md",
     "Programming Languages/Java/18. Annotation/@AliasFor.md",
     "Git/8. VPN (Git Connection Issues).md",
-    "Programming Languages/Java/18. Annotation/@Idempotent.md",
     "Programming Languages/Java/18. Annotation/@Order.md",
     "Programming Languages/Java/18. Annotation/@Primary.md",
     "Programming Languages/Java/18. Annotation/@EnableDiscoveryClient.md",
@@ -206,7 +208,6 @@
     "Git/7. Common Issues.md",
     "Programming Languages/Java/16. SpringCloud/1. Nacos.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/2. HolidayController.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/3. HolidayService.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable",
@@ -215,7 +216,6 @@
     "Programming Languages/Java/16. SpringCloud/Untitled",
     "Programming Languages/Java/19. Intellij/Tips",
     "Databases/GaussDB",
-    "Programming Languages/Java/08. Test",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
