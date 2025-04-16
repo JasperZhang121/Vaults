@@ -216,7 +216,7 @@ public class MyWebApplication {
 
 Even though `@SpringBootApplication` provides defaults that suit most applications, it also supports a set of attributes to customize its behavior. Here are the attributes you can pass in:
 
-#### 1. **scanBasePackages**
+#### 1. **scanBasePackages**　
 
 - **Type:** `String[]`
     

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ca09667a958547",
+        "id": "d9d26c824378e721",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ef4550efd0b42a",
+            "id": "034996731e374714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@SpringBootApplication.md",
+                "file": "Programming Languages/Java/18. Annotation/@RequiresPermissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@SpringBootApplication"
+              "title": "@RequiresPermissions"
             }
           }
         ]
@@ -178,10 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ef4550efd0b42a",
+  "active": "034996731e374714",
   "lastOpenFiles": [
-    "Programming Languages/Java/24. Utils/GraphProcessor.md",
+    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
+    "Programming Languages/Java/18. Annotation/@RequiresPermissions.md",
     "Programming Languages/Java/18. Annotation/@SpringBootApplication.md",
+    "Programming Languages/Java/24. Utils/GraphProcessor.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/18. Annotation/@JsonIgnore.md",
     "Programming Languages/Java/18. Annotation/@Async.md",
@@ -206,8 +208,6 @@
     "Programming Languages/Java/18. Annotation/@EnableDiscoveryClient.md",
     "Programming Languages/Java/18. Annotation/@EnableAsync.md",
     "Programming Languages/Java/18. Annotation/@EqualsAndHashCode.md",
-    "Programming Languages/Java/18. Annotation/@RequiredArgsConstructor.md",
-    "Git/6. Advanced Git Features.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable",
