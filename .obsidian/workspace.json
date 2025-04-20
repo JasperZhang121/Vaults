@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -178,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "034996731e374714",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
     "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
     "Programming Languages/Java/18. Annotation/@RequiresPermissions.md",
