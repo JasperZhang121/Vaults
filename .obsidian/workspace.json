@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b00edaa7bd20cf39",
+        "id": "77baf796e2b6a8de",
         "type": "tabs",
         "children": [
           {
-            "id": "e1574b343f593b3a",
+            "id": "3c4c639ed3501784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. RedisTemplate API"
+              "title": "New tab"
             }
           }
         ]
@@ -177,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1574b343f593b3a",
+  "active": "3c4c639ed3501784",
   "lastOpenFiles": [
-    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
     "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
+    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
     "Databases/Redis/Jedis/2. Jedis Pool.md",
     "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
     "Databases/Redis/Basic/5. Commands Reference.md",
