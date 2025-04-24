@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@RequiresPermissions.md",
+                "file": "Programming Languages/Java/01. Advanced/2. Functional Programming/3. Stream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@RequiresPermissions"
+              "title": "3. Stream"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nacos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -177,10 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "034996731e374714",
   "lastOpenFiles": [
-    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
     "Programming Languages/Java/18. Annotation/@RequiresPermissions.md",
+    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
     "Programming Languages/Java/18. Annotation/@SpringBootApplication.md",
     "Programming Languages/Java/24. Utils/GraphProcessor.md",
     "conflict-files-obsidian-git.md",
@@ -206,7 +208,6 @@
     "Programming Languages/Java/18. Annotation/@Primary.md",
     "Programming Languages/Java/18. Annotation/@EnableDiscoveryClient.md",
     "Programming Languages/Java/18. Annotation/@EnableAsync.md",
-    "Programming Languages/Java/18. Annotation/@EqualsAndHashCode.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable",
