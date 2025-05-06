@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1322ba1c88e8b06e",
+        "id": "f9d2e57925dacfe1",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0ef1f3ca2a4bc1",
+            "id": "74bd50bffe9bf835",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f0ef1f3ca2a4bc1",
+  "active": "74bd50bffe9bf835",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/18. Annotation/@FunctionalInterface.md",
