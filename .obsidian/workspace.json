@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "77baf796e2b6a8de",
+        "id": "05fcf06667153332",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4c639ed3501784",
+            "id": "d95816c3482bfa83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -177,8 +173,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c4c639ed3501784",
+  "active": "d95816c3482bfa83",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@FunctionalInterface.md",
+    "Programming Languages/Java/18. Annotation/@Qualifier.md",
+    "Programming Languages/Java/18. Annotation/@RequestMapping.md",
+    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
+    "Programming Languages/Java/00. Basic/3. Control Flow.md",
+    "Programming Languages/Java/00. Basic/2. Syntax & Property.md",
+    "Programming Languages/Java/00. Basic/1. Understand.md",
+    "Programming Languages/Java/16. SpringCloud/1. Nacos.md",
+    "Programming Languages/Java/16. SpringCloud/2. Feign.md",
+    "Programming Languages/Java/16. SpringCloud/4. ElasticSearch.md",
+    "Programming Languages/Java/16. SpringCloud/0. Service Registration and Discovery.md",
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/24. Utils/GraphProcessor.md",
     "Programming Languages/Java/24. Utils",
@@ -195,18 +202,7 @@
     "Big Data/13. Certificate/CDGA & CDGP/2. Data Governance.md",
     "Big Data/13. Certificate/CDGA & CDGP/14. Data Management Maturity Assessment.md",
     "Big Data/13. Certificate/CDGA & CDGP/13. Big Data and Data Science.md",
-    "Big Data/13. Certificate/CDGA & CDGP/12. Data Quality.md",
-    "Big Data/13. Certificate/CDGA & CDGP/11. Metadata Management.md",
-    "Big Data/13. Certificate/CDGA & CDGP/10. Data Warehousing and Business Intelligence.md",
-    "Big Data/13. Certificate/CDGA & CDGP/1. Data Handling Ethics.md",
-    "Big Data/13. Certificate/CDGA & CDGP/0. Data Management.md",
     "Big Data/13. Certificate/CDGA & CDGP",
-    "Databases/Redis/SpringDataRedis/2. RedisTemplate API.md",
-    "Databases/Redis/SpringDataRedis/1. RedisTemplate from Spring Data Redis.md",
-    "Databases/Redis/Jedis/2. Jedis Pool.md",
-    "Databases/Redis/Jedis/1. Jedis - Redis Java Client.md",
-    "Databases/Redis/Basic/5. Commands Reference.md",
-    "Databases/Redis/Basic/4. Basic Commands.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
