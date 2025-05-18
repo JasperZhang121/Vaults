@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "0. Dump Memory"
             }
+          },
+          {
+            "id": "014d958455012800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,12 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6126ef7c3c57798e",
+  "active": "014d958455012800",
   "lastOpenFiles": [
-    "Programming Languages/Java/24. Utils/GraphProcessor.md",
     "Programming Languages/Java/25. Troubleshooting/0. Dump Memory.md",
-    "Programming Languages/Java/25. Troubleshooting",
     "conflict-files-obsidian-git.md",
+    "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
+    "Big Data/13. Certificate/HCIE",
+    "Programming Languages/Java/24. Utils/GraphProcessor.md",
+    "Programming Languages/Java/25. Troubleshooting",
     "Programming Languages/Java/18. Annotation/@FunctionalInterface.md",
     "Programming Languages/Java/18. Annotation/@Qualifier.md",
     "Programming Languages/Java/18. Annotation/@RequestMapping.md",
@@ -206,7 +223,6 @@
     "Big Data/13. Certificate/CDGA & CDGP/4. Data Modeling and Design.md",
     "Big Data/13. Certificate/CDGA & CDGP/3. Data Architecture.md",
     "Big Data/13. Certificate/CDGA & CDGP/2. Data Governance.md",
-    "Big Data/13. Certificate/CDGA & CDGP/14. Data Management Maturity Assessment.md",
     "Big Data/13. Certificate/CDGA & CDGP",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
@@ -214,7 +230,6 @@
     "Programming Languages/Java/23. Open Source/0. Flowable",
     "Programming Languages/Java/23. Open Source",
     "Programming Languages/Java/22. Practices",
-    "Programming Languages/Java/22. Scenarios",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
