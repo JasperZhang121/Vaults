@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 248.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fffa78f90ae3526a",
+  "active": "6126ef7c3c57798e",
   "lastOpenFiles": [
     "Programming Languages/Java/26. Spring Ai/7. Retrieval Augmented Generation.md",
     "Programming Languages/Java/26. Spring Ai/7.1.md",
