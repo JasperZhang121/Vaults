@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "df8b6ded7a9b0bbf",
+        "id": "23ed7cac85071534",
         "type": "tabs",
         "children": [
           {
-            "id": "43d63b2a9ac605ad",
+            "id": "26433d1557bc9040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/25. Troubleshooting/0. Dump Memory.md",
+                "file": "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Dump Memory"
-            }
-          },
-          {
-            "id": "014d958455012800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "@ConditionalOnMissingBean"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "014d958455012800",
+  "active": "26433d1557bc9040",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
     "Programming Languages/Java/25. Troubleshooting/0. Dump Memory.md",
     "conflict-files-obsidian-git.md",
     "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
@@ -222,7 +208,6 @@
     "Big Data/13. Certificate/CDGA & CDGP/5. Data Storage and Operations.md",
     "Big Data/13. Certificate/CDGA & CDGP/4. Data Modeling and Design.md",
     "Big Data/13. Certificate/CDGA & CDGP/3. Data Architecture.md",
-    "Big Data/13. Certificate/CDGA & CDGP/2. Data Governance.md",
     "Big Data/13. Certificate/CDGA & CDGP",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
