@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5175e2cd263a295e",
+        "id": "c2494f3175c4922f",
         "type": "tabs",
         "children": [
           {
-            "id": "dd71f1d31c8139ff",
+            "id": "d296c6713e5c981b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd71f1d31c8139ff",
+  "active": "d296c6713e5c981b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Programming Languages/Java/19. Intellij/3. Run vs. Debug.md",
