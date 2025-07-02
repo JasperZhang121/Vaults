@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@AutoConfiguration.md",
+                "file": "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@AutoConfiguration"
+              "title": "ModelQuery"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "26433d1557bc9040",
   "lastOpenFiles": [
-    "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
     "Programming Languages/Java/18. Annotation/@AutoConfiguration.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
+    "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
     "conflict-files-obsidian-git.md",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
     "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
@@ -209,14 +211,12 @@
     "Programming Languages/Java/00. Basic/1. Understand.md",
     "Programming Languages/Java/16. SpringCloud/1. Nacos.md",
     "Programming Languages/Java/16. SpringCloud/2. Feign.md",
-    "Programming Languages/Java/16. SpringCloud/4. ElasticSearch.md",
     "Programming Languages/Java/24. Utils",
     "Big Data/13. Certificate/CDGA & CDGP",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Programming Languages/Java/23. Open Source/0. Flowable",
-    "Programming Languages/Java/23. Open Source",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
