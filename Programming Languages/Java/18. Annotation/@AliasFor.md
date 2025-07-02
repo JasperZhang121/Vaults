@@ -1,8 +1,8 @@
-The **@AliasFor** annotation is part of the Spring Framework’s core annotation utilities (found in the `org.springframework.core.annotation` package). It serves as a meta-annotation that lets you declare that one attribute of an annotation is an alias for another attribute, either within the same annotation or in a meta-annotation.
+The **@AliasFor** annotation is part of the Spring Framework’s core annotation utilities (found in the `org.springframework.core.annotation` package). It serves as a meta-annotation that lets you <mark style="background: #FFB8EBA6;">declare that one attribute of an annotation is an alias for another attribute</mark>, either within the same annotation or in a meta-annotation.
 
 ### Key Points
 
-- **Attribute Linking:** When you mark an attribute with @AliasFor, you establish an explicit link between two attributes. For example, if you have two attributes, say `value` and `name`, you can indicate that they are interchangeable. If a user specifies one, Spring treats it as setting both.
+- **Attribute Linking:** When you mark an attribute with @AliasFor, you establish an explicit link between two attributes. For example, if you have two attributes, say `value` and `name`, you can indicate that they are interchangeable. If a user specifies one, <mark style="background: #ABF7F7A6;">Spring treats it as setting both</mark>.
     
 - **Reducing Redundancy:** This is particularly useful in reducing redundancy. It allows the creation of composed annotations where multiple attributes might conceptually represent the same setting.
     
