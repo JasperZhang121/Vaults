@@ -1,14 +1,12 @@
 
-In modern business process management (BPM) systems, the ability to programmatically retrieve and filter process models is essential for both runtime operations and administrative tooling. Flowable’s `ModelQuery` interface provides a fluent, type-safe API for constructing complex queries against the model repository. This document offers an academic overview of its design, implementation, and practical usage patterns.
+Flowable’s `ModelQuery` interface provides a fluent, type-safe API for constructing complex queries against the model repository. 
 
 #### 1. Introduction
 
-A _model_ in Flowable represents a BPMN, CMMN, or DMN artifact that has been created or deployed to the Flowable Repository Service. Efficient querying of these models is crucial for:
+A _model_ in Flowable represents a BPMN, CMMN, or DMN artifact that has been created or deployed to the <mark style="background: #FFB8EBA6;">Flowable Repository Service</mark>. Efficient querying of these models is crucial for:
 
 1. **Dynamic UI rendering**, where only certain models should be displayed.
-    
 2. **Automated governance**, such as ensuring only the latest approved versions are executed.
-    
 3. **Multi-tenant isolation**, enforcing organizational boundaries.
 
 Flowable addresses these requirements via its `ModelQuery` API, which extends a generic `Query<T,Q>` interface, enabling method chaining and compile-time safety.
@@ -54,7 +52,7 @@ public interface ModelQuery
 }
 ```
 
-- Each `modelXxx(...)` or `orderByXxx()` method returns the same `ModelQuery` instance, enabling chained invocations.
+- Each `modelXxx(...)` or `orderByXxx()` method returns the same `ModelQuery` instance, enabling <mark style="background: #BBFABBA6;">chained invocations</mark>.
     
 - Query execution is triggered by terminal operations:
     
@@ -97,7 +95,6 @@ SELECT *
  WHERE [conditions based on non-null fields]
  ORDER BY [property from orderByXxx()]
 ```
-
 
 #### 4. Typical Usage Patterns
 
