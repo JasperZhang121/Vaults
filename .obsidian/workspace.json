@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f1557aa48c2f2146",
+        "id": "b6eff263b70e82af",
         "type": "tabs",
         "children": [
           {
-            "id": "201a3b16c1934d49",
+            "id": "fffa78f90ae3526a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/2. BPMN.md",
+                "file": "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. BPMN"
+              "title": "@ConditionalOnMissingBean"
+            }
+          },
+          {
+            "id": "e5568257514a6218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/18. Annotation/@AliasFor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@AliasFor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 248.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -177,46 +192,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "201a3b16c1934d49",
+  "active": "e5568257514a6218",
   "lastOpenFiles": [
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/0. Basics.md",
     "Programming Languages/Java/26. Spring Ai/ChatClient/ChatClientMessageAggregator.md",
-    "Programming Languages/Java/26. Spring Ai/Class/Chatclient",
-    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
-    "Programming Languages/Java/26. Spring Ai/1. Advisors API.md",
-    "Programming Languages/Java/26. Spring Ai/7. Retrieval Augmented Generation.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
     "Programming Languages/Java/26. Spring Ai/ChatClient",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/18. Annotation/@AutoConfiguration.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
     "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
-    "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
-    "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/18. Annotation/@AutoConfiguration.md",
+    "Programming Languages/Java/18. Annotation/@JsonProperty.md",
+    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
+    "Programming Languages/Java/26. Spring Ai/7. Retrieval Augmented Generation.md",
+    "Programming Languages/Java/26. Spring Ai/7.1.md",
     "Programming Languages/Java/26. Spring Ai/6.2 MCP Server Boot Starter.md",
     "Programming Languages/Java/26. Spring Ai/6.1 MCP Client Boot Starter.md",
     "Programming Languages/Java/26. Spring Ai/6. Model Context Protocol (MCP).md",
     "Programming Languages/Java/26. Spring Ai/5. Chat Memory.md",
+    "Programming Languages/Java/25. Troubleshooting/0. Dump Memory.md",
+    "Programming Languages/Java/25. Troubleshooting",
     "Programming Languages/Java/26. Spring Ai/4. Multimodality API.md",
     "Programming Languages/Java/26. Spring Ai/3. Structured Output Converter.md",
     "Programming Languages/Java/26. Spring Ai/2. Prompts.md",
+    "Programming Languages/Java/26. Spring Ai/1. Advisors API.md",
+    "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
+    "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
+    "Programming Languages/Java/21. JVM/1. Architecture.md",
+    "Programming Languages/Java/25. Spring Ai/0. Core API Model",
     "Programming Languages/Java/26. Spring Ai",
-    "Programming Languages/Java/25. Troubleshooting/0. Dump Memory.md",
+    "Programming Languages/Java/21. JVM/0. Overview.md",
     "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
-    "Big Data/13. Certificate/HCIE",
-    "Programming Languages/Java/24. Utils/GraphProcessor.md",
-    "Programming Languages/Java/25. Troubleshooting",
     "Programming Languages/Java/18. Annotation/@FunctionalInterface.md",
-    "Programming Languages/Java/18. Annotation/@Qualifier.md",
-    "Programming Languages/Java/18. Annotation/@RequestMapping.md",
-    "Programming Languages/Java/16. SpringCloud/5. Mybatis Plus.md",
-    "Programming Languages/Java/00. Basic/3. Control Flow.md",
-    "Programming Languages/Java/00. Basic/2. Syntax & Property.md",
+    "Big Data/13. Certificate/HCIE/Data Preprocessing",
+    "Programming Languages/Java/10. Multithreading/0. Basics.md",
+    "Big Data/13. Certificate/HCIE",
+    "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/0. Process Engine.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/0. Basics.md",
     "Programming Languages/Java/24. Utils",
-    "Big Data/13. Certificate/CDGA & CDGP",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
-    "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
+    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
