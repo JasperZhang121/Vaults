@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b6eff263b70e82af",
+        "id": "c891fcac0b418616",
         "type": "tabs",
         "children": [
           {
-            "id": "fffa78f90ae3526a",
+            "id": "65b8c15687e37bfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
+                "file": "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ConditionalOnMissingBean"
-            }
-          },
-          {
-            "id": "e5568257514a6218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/18. Annotation/@AliasFor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@AliasFor"
+              "title": "0. Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5568257514a6218",
+  "active": "65b8c15687e37bfc",
   "lastOpenFiles": [
+    "Containers and Orchestration/Docker/1. Operations.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+    "Programming Languages/Java/23. Open Source/1. Drools",
+    "Containers and Orchestration/Docker/0. Introduction.md",
+    "Programming Languages/Java/18. Annotation/@AliasFor.md",
     "Programming Languages/Java/26. Spring Ai/ChatClient/ChatClientMessageAggregator.md",
     "Programming Languages/Java/26. Spring Ai/ChatClient",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
@@ -224,14 +214,9 @@
     "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
     "Programming Languages/Java/18. Annotation/@FunctionalInterface.md",
     "Big Data/13. Certificate/HCIE/Data Preprocessing",
-    "Programming Languages/Java/10. Multithreading/0. Basics.md",
     "Big Data/13. Certificate/HCIE",
-    "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/0. Process Engine.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/0. Basics.md",
     "Programming Languages/Java/24. Utils",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
