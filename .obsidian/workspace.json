@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+                "file": "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Introduction"
+              "title": "1. Working Memory"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md",
+                "file": "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @Table"
+              "title": "Backlinks for 1. Working Memory"
             }
           },
           {
@@ -179,8 +179,9 @@
   },
   "active": "65b8c15687e37bfc",
   "lastOpenFiles": [
-    "Containers and Orchestration/Docker/1. Operations.md",
     "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
+    "Containers and Orchestration/Docker/1. Operations.md",
     "Programming Languages/Java/23. Open Source/1. Drools",
     "Containers and Orchestration/Docker/0. Introduction.md",
     "Programming Languages/Java/18. Annotation/@AliasFor.md",
@@ -212,7 +213,6 @@
     "Programming Languages/Java/26. Spring Ai",
     "Programming Languages/Java/21. JVM/0. Overview.md",
     "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
-    "Programming Languages/Java/18. Annotation/@FunctionalInterface.md",
     "Big Data/13. Certificate/HCIE/Data Preprocessing",
     "Big Data/13. Certificate/HCIE",
     "Programming Languages/Java/24. Utils",
