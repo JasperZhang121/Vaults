@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c891fcac0b418616",
+        "id": "d8ab662ea25010b8",
         "type": "tabs",
         "children": [
           {
-            "id": "65b8c15687e37bfc",
+            "id": "5f30c94a3c99e61d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
+                "file": "Programming Languages/Java/21. JVM/1. Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Working Memory"
+              "title": "1. Architecture"
             }
           }
         ]
@@ -177,10 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b8c15687e37bfc",
+  "active": "5f30c94a3c99e61d",
   "lastOpenFiles": [
-    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
+    "Z-Archive/Pictures/Programming/JVM-Model.jpg",
+    "Programming Languages/Java/21. JVM/1. Architecture.md",
+    "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
+    "Statistics/1. Statistical Inference/JVM-Model.jpg",
+    "Programming Languages/Java/21. JVM/0. Overview.md",
     "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
     "Containers and Orchestration/Docker/1. Operations.md",
     "Programming Languages/Java/23. Open Source/1. Drools",
     "Containers and Orchestration/Docker/0. Introduction.md",
@@ -205,14 +211,10 @@
     "Programming Languages/Java/26. Spring Ai/4. Multimodality API.md",
     "Programming Languages/Java/26. Spring Ai/3. Structured Output Converter.md",
     "Programming Languages/Java/26. Spring Ai/2. Prompts.md",
-    "Programming Languages/Java/26. Spring Ai/1. Advisors API.md",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
     "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
-    "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Programming Languages/Java/25. Spring Ai/0. Core API Model",
     "Programming Languages/Java/26. Spring Ai",
-    "Programming Languages/Java/21. JVM/0. Overview.md",
-    "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
     "Big Data/13. Certificate/HCIE/Data Preprocessing",
     "Big Data/13. Certificate/HCIE",
     "Programming Languages/Java/24. Utils",
