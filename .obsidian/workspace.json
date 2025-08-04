@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/21. JVM/1. Architecture.md",
+                "file": "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Architecture"
+              "title": "2. Class Loading and Bytecode"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -180,9 +179,9 @@
   },
   "active": "5f30c94a3c99e61d",
   "lastOpenFiles": [
+    "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Z-Archive/Pictures/Programming/JVM-Model.jpg",
-    "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
     "Statistics/1. Statistical Inference/JVM-Model.jpg",
     "Programming Languages/Java/21. JVM/0. Overview.md",
