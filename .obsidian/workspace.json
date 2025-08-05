@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
+                "file": "Algorithm/Leetcode/Array/Matrix/79. Word Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. SSO Login"
+              "title": "79. Word Search"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -179,8 +180,11 @@
   },
   "active": "022168234a84a234",
   "lastOpenFiles": [
-    "Z-Archive/Pictures/Programming/sso.png",
+    "Algorithm/Algo/Backtracking/Backtracking.md",
+    "Algorithm/Leetcode/String/131. Palindrome Partitioning.md",
+    "Algorithm/Leetcode/Array/Subarray/491. Non-decreasing Subsequences.md",
     "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
+    "Z-Archive/Pictures/Programming/sso.png",
     "Programming Languages/Design Patterns.md",
     "Programming Languages/Java/27. Issues In Dev",
     "conflict-files-obsidian-git.md",
@@ -208,9 +212,7 @@
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/2. BPMN.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/0. Basics.md",
-    "Programming Languages/Java/26. Spring Ai/ChatClient/ChatClientMessageAggregator.md",
     "Programming Languages/Java/26. Spring Ai/Class/Chatclient",
-    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
     "Programming Languages/Java/26. Spring Ai/ChatClient",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
