@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "273fb5a66b555244",
+        "id": "aadd7ef0d14dc6a8",
         "type": "tabs",
         "children": [
           {
-            "id": "022168234a84a234",
+            "id": "278d2244034d1ca4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Leetcode/Array/Matrix/79. Word Search.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "79. Word Search"
+              "title": "New tab"
             }
           }
         ]
@@ -177,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "022168234a84a234",
+  "active": "278d2244034d1ca4",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/Array/Matrix/79. Word Search.md",
     "Algorithm/Algo/Backtracking/Backtracking.md",
     "Algorithm/Leetcode/String/131. Palindrome Partitioning.md",
     "Algorithm/Leetcode/Array/Subarray/491. Non-decreasing Subsequences.md",
@@ -210,7 +207,6 @@
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/0. Intro.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/2. BPMN.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/0. Basics.md",
     "Programming Languages/Java/26. Spring Ai/Class/Chatclient",
     "Programming Languages/Java/26. Spring Ai/ChatClient",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
