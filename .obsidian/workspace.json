@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7d2a46f15a288054",
+    "id": "7f9c62977d1baae1",
     "type": "split",
     "children": [
       {
-        "id": "d939f3e295ee68fc",
+        "id": "bcb05efc4d2d794d",
         "type": "tabs",
         "children": [
           {
-            "id": "f50d5d49f88f4c03",
+            "id": "b83e285a1dd68116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Industry/Workflow.md",
+                "file": "Containers and Orchestration/Docker/2. Commands.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workflow"
+              "title": "2. Commands"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6551ee4a8a1558b0",
+    "id": "d6eab1354c425bcd",
     "type": "split",
     "children": [
       {
-        "id": "6c5db3a8f56376d8",
+        "id": "d395e21bf15ba826",
         "type": "tabs",
         "children": [
           {
-            "id": "6126ef7c3c57798e",
+            "id": "bb254405edc900b3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "aa212cbfdfd7e7ba",
+            "id": "8408611fde893ab3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "redis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "52778bef81feb60d",
+            "id": "846497f37b1fdd2b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 300
   },
   "right": {
-    "id": "8ac07aae3df4b560",
+    "id": "a6bec9b6cbde1e17",
     "type": "split",
     "children": [
       {
-        "id": "e3d317cd2debc2e0",
+        "id": "ba2abefd50d49a73",
         "type": "tabs",
         "children": [
           {
-            "id": "cac1985e3107aa4d",
+            "id": "7f3829b4eae4ff4f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,38 +103,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @Table"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6cee2c26590df231",
+            "id": "aa1ee5ee6fbb401a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from @Table"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ab05736e0e72e967",
+            "id": "712a28d8ffebcd46",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e6eec85f8d3f8b8c",
+            "id": "7fc247f72e3913c3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,15 +149,17 @@
             }
           },
           {
-            "id": "9193cd17c2ee1b83",
+            "id": "a578d8eeb361cfde",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @Table"
+              "title": "Outline"
             }
           }
         ]
@@ -174,54 +176,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "f50d5d49f88f4c03",
+  "active": "b83e285a1dd68116",
   "lastOpenFiles": [
-    "Artificial Intelligence/Industry/Agent.md",
-    "Artificial Intelligence/Industry/Workflow.md",
-    "Artificial Intelligence/Industry/Nacos With MCP.md",
-    "Artificial Intelligence/Industry",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Java/23. Open Source/3. Netty/1. Selector.md",
-    "Programming Languages/Java/23. Open Source/3. Netty/0. Channel & Buffer.md",
-    "Programming Languages/Java/23. Open Source/3. Netty",
-    "Algorithm/Leetcode/Array/Matrix/79. Word Search.md",
-    "Algorithm/Algo/Backtracking/Backtracking.md",
-    "Algorithm/Leetcode/String/131. Palindrome Partitioning.md",
-    "Algorithm/Leetcode/Array/Subarray/491. Non-decreasing Subsequences.md",
-    "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
-    "Z-Archive/Pictures/Programming/sso.png",
-    "Programming Languages/Design Patterns.md",
-    "Programming Languages/Java/27. Issues In Dev",
-    "Z-Archive/Pictures/Programming/JVM-Model.jpg",
-    "Statistics/1. Statistical Inference/JVM-Model.jpg",
-    "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
-    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
-    "Programming Languages/Java/23. Open Source/1. Drools",
     "Containers and Orchestration/Docker/1. Operations.md",
+    "Containers and Orchestration/Docker/2. Commands.md",
     "Containers and Orchestration/Docker/0. Introduction.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Hidden Markov Models (HMM).md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Decoding Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Models & Algorithm/Conditional Random Fields (CRF).md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/3.1 Viterbi Algorithm.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/2. Max Matching.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/1. Segmentation Method.md",
-    "Artificial Intelligence/Natural Language Processing/Language Processing/0. Word Segmentation.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/0. Process Engine.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/1. Process Engines.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/2. HolidayController.md",
-    "Programming Languages/Java/26. Spring Ai/Class/Chatclient",
-    "Programming Languages/Java/26. Spring Ai/ChatClient",
-    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
-    "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
-    "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
-    "Programming Languages/Java/26. Spring Ai",
-    "Big Data/13. Certificate/HCIE",
-    "Programming Languages/Java/25. Troubleshooting",
-    "Z-Archive/Pictures/Data/dataHandlingEthics.png",
-    "Statistics/1. Statistical Inference/dataHandlingEthics.png"
+    "Containers and Orchestration/Docker/Pragmatic Shell Scripting.md",
+    "Computer Operating System/Linux/Shell Commands/Pragmatic Shell Scripting.md",
+    "Computer Operating System/Linux/Basic Linux/3. Shell.md",
+    "Computer Operating System/Linux/Shell Commands",
+    "Computer Operating System/Linux/Basic Linux/2. Vi and Vim.md",
+    "Computer Operating System/Linux/Basic Linux/1. Preparation and Intro.md",
+    "Computer Operating System/Linux/Basic Linux/9. Nginx.md",
+    "Artificial Intelligence/Industry/Agent.md",
+    "Artificial Intelligence/Industry/Nacos With MCP.md",
+    "Artificial Intelligence/Industry/Workflow.md"
   ]
 }
