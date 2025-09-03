@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1. Outbound HTTP Validation & SSRF Guard"
             }
+          },
+          {
+            "id": "ca59927d531ea973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +193,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c747cd08483bea75",
+  "active": "ca59927d531ea973",
   "lastOpenFiles": [
-    "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
+    "Containers and Orchestration/Docker/2. Commands.md",
+    "Computer Operating System/Linux/Shell Commands/Pragmatic Shell Scripting.md",
+    "Computer Operating System/Linux/Shell Commands",
+    "Artificial Intelligence/Industry/Agent.md",
+    "Artificial Intelligence/Industry/Workflow.md",
+    "Artificial Intelligence/Industry/Nacos With MCP.md",
+    "Artificial Intelligence/Industry",
     "Programming Languages/Java/27. Issues In Dev/1. Outbound HTTP Validation & SSRF Guard.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Programming Languages/Java/21. JVM/0. Overview.md",
@@ -208,20 +231,12 @@
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
     "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
-    "conflict-files-obsidian-git.md",
     "Programming Languages/Java/18. Annotation/@AutoConfiguration.md",
     "Programming Languages/Java/18. Annotation/@JsonProperty.md",
     "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
-    "Programming Languages/Java/26. Spring Ai/7. Retrieval Augmented Generation.md",
-    "Programming Languages/Java/26. Spring Ai/7.1.md",
-    "Programming Languages/Java/26. Spring Ai/6.2 MCP Server Boot Starter.md",
-    "Programming Languages/Java/26. Spring Ai/6.1 MCP Client Boot Starter.md",
-    "Programming Languages/Java/26. Spring Ai/6. Model Context Protocol (MCP).md",
     "Programming Languages/Java/25. Troubleshooting",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
     "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
-    "Programming Languages/Java/25. Spring Ai/0. Core API Model",
-    "Programming Languages/Java/26. Spring Ai",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
