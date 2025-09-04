@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "0. Chat Client API"
             }
+          },
+          {
+            "id": "339474eab6e4bfa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,9 +193,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c811dc33f0104aeb",
+  "active": "339474eab6e4bfa9",
   "lastOpenFiles": [
+    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
     "conflict-files-obsidian-git.md",
+    "Programming Languages/Java/23. Open Source/3. Netty/1. Selector.md",
+    "Programming Languages/Java/23. Open Source/3. Netty/0. Channel & Buffer.md",
+    "Programming Languages/Java/23. Open Source/3. Netty",
+    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+    "Programming Languages/Java/23. Open Source/1. Drools",
+    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
+    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
+    "Z-Archive/Pictures/Programming/sso.png",
+    "Z-Archive/Pictures/Programming/JVM-Model.jpg",
+    "Statistics/1. Statistical Inference/JVM-Model.jpg",
+    "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
+    "Programming Languages/Java/27. Issues In Dev/1. Outbound HTTP Validation & SSRF Guard.md",
+    "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
+    "Programming Languages/Java/27. Issues In Dev",
+    "Programming Languages/Java/26. Spring Ai/ChatClient/ChatClientMessageAggregator.md",
+    "Programming Languages/Java/26. Spring Ai/ChatClient",
+    "Containers and Orchestration/Docker/2. Commands.md",
+    "Containers and Orchestration/Docker/1. Operations.md",
+    "Containers and Orchestration/Docker/0. Introduction.md",
+    "Computer Operating System/Linux/Shell Commands/Pragmatic Shell Scripting.md",
+    "Computer Operating System/Linux/Shell Commands",
+    "Artificial Intelligence/Industry/Workflow.md",
+    "Artificial Intelligence/Industry/Nacos With MCP.md",
+    "Artificial Intelligence/Industry/Agent.md",
+    "Artificial Intelligence/Industry",
     "Big Data/13. Certificate/HCIE/1. Feature Scaling.md",
     "Big Data/13. Certificate/HCIE",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api/1. Process Engines.md",
@@ -191,33 +233,10 @@
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample/0. Intro.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/2. BPMN.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/1. Environment.md",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic/0. Basics.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/2. Core Api",
     "Programming Languages/Java/23. Open Source/0. Flowable/1. Sample",
-    "Programming Languages/Java/23. Open Source/0. Flowable/0. Basic",
-    "Programming Languages/Java/23. Open Source/0. Flowable",
-    "Programming Languages/Java/23. Open Source",
-    "Programming Languages/Java/22. Scenarios/1. Threads In Sequence.md",
-    "Programming Languages/Java/22. Scenarios",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
     "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
-    "Programming Languages/Java/26. Spring Ai/7. Retrieval Augmented Generation.md",
-    "Programming Languages/Java/26. Spring Ai/6.2 MCP Server Boot Starter.md",
-    "Programming Languages/Java/26. Spring Ai/6.1 MCP Client Boot Starter.md",
-    "Programming Languages/Java/26. Spring Ai/6. Model Context Protocol (MCP).md",
-    "Programming Languages/Java/26. Spring Ai/4. Multimodality API.md",
-    "Programming Languages/Java/26. Spring Ai/5. Chat Memory.md",
-    "Programming Languages/Java/26. Spring Ai/3. Structured Output Converter.md",
-    "Programming Languages/Java/26. Spring Ai/1. Advisors API.md",
-    "Programming Languages/Java/26. Spring Ai/2. Prompts.md",
-    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
-    "Programming Languages/Java/26. Spring Ai",
-    "Programming Languages/Java/25. Troubleshooting/0. Dump Memory.md",
-    "Programming Languages/Java/25. Troubleshooting",
-    "Programming Languages/Java/24. Utils/GraphProcessor.md",
-    "Programming Languages/Java/24. Utils",
-    "Programming Languages/Java/18. Annotation/@Primary.md",
-    "Programming Languages/Java/18. Annotation/@Pattern.md",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
     "Statistics/1. Statistical Inference/dataHandlingEthics.png"
   ]
