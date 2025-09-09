@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/4.1 Non–Fast-Forward Merge.md",
+                "file": "Git/5.1 git revert -m 1 <merge-commit>.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Non–Fast-Forward Merge"
+              "title": "5.1 git revert -m 1 <merge-commit>"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "ff6db0b5d8bbe9b4",
   "lastOpenFiles": [
-    "Git/4. Branching and Merging.md",
+    "Git/5. Advanced Git Features.md",
+    "Git/5.1 git revert -m 1 <merge-commit>.md",
     "Git/4.1 Non–Fast-Forward Merge.md",
+    "Git/4. Branching and Merging.md",
     "Git/10. Tips.md",
     "Git/9. Intellij.md",
     "Git/8. VPN (Git Connection Issues).md",
@@ -192,7 +194,6 @@
     "Git/6. Advanced Git Features.md",
     "Git/5.1 Remote Repositories.md",
     "Git/4.1 Changes.md",
-    "Git/5. Advanced Git Features.md",
     "Artificial Intelligence/Industry/Agent.md",
     "Artificial Intelligence/Industry/Nacos With MCP.md",
     "Artificial Intelligence/Industry/MCP Servers.md",
