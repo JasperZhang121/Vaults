@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers and Orchestration/Docker/Common Services.md",
+                "file": "Artificial Intelligence/Industry/MCP Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Services"
+              "title": "MCP Server"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -180,8 +181,24 @@
   },
   "active": "c747cd08483bea75",
   "lastOpenFiles": [
-    "Programming Languages/Java/21. JVM/0. Overview.md",
+    "Artificial Intelligence/Industry/Workflow.md",
+    "Artificial Intelligence/Industry/MCP Server.md",
+    "Artificial Intelligence/Industry/Nacos With MCP.md",
+    "Artificial Intelligence/Industry/Agent.md",
+    "Git/8. VPN (Git Connection Issues).md",
+    "Git/7. Common Issues.md",
+    "Git/6. Advanced Git Features.md",
+    "Git/3. Basic Commands.md",
+    "Git/4. Branching and Merging.md",
+    "Git/2. Repository.md",
+    "Git/1. Initialization and Configuration.md",
+    "Git/0. Concepts.md",
+    "Git/11. Tips.md",
+    "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
+    "Programming Languages/Java/17. Template/1. application.yml.md",
+    "Programming Languages/Java/18. Annotation/@FeignClient.md",
     "Containers and Orchestration/Docker/Common Services.md",
+    "Programming Languages/Java/21. JVM/0. Overview.md",
     "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Programming Languages/Java/27. Issues In Dev/1. Outbound HTTP Validation & SSRF Guard.md",
@@ -189,15 +206,9 @@
     "Containers and Orchestration/Docker/2. Commands.md",
     "Computer Operating System/Linux/Shell Commands/Pragmatic Shell Scripting.md",
     "Computer Operating System/Linux/Shell Commands",
-    "Artificial Intelligence/Industry/Agent.md",
-    "Artificial Intelligence/Industry/Workflow.md",
-    "Artificial Intelligence/Industry/Nacos With MCP.md",
     "Artificial Intelligence/Industry",
     "Programming Languages/Java/27. Issues In Dev/0. SSO Login.md",
     "Programming Languages/Java/22. Scenarios/1. Threads In Sequence.md",
-    "Git/1. Initialization and Configuration.md",
-    "Programming Languages/Java/23. Open Source/3. Netty/1. Selector.md",
-    "Programming Languages/Java/23. Open Source/3. Netty/0. Channel & Buffer.md",
     "Programming Languages/Java/23. Open Source/3. Netty/0.NIO",
     "Programming Languages/Java/23. Open Source/2. Conductor",
     "Programming Languages/Java/23. Open Source/3. Netty",
@@ -206,19 +217,9 @@
     "Z-Archive/Pictures/Programming/JVM-Model.jpg",
     "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
     "Statistics/1. Statistical Inference/JVM-Model.jpg",
-    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
-    "Containers and Orchestration/Docker/1. Operations.md",
     "Programming Languages/Java/23. Open Source/1. Drools",
-    "Containers and Orchestration/Docker/0. Introduction.md",
-    "Programming Languages/Java/18. Annotation/@AliasFor.md",
-    "Programming Languages/Java/26. Spring Ai/ChatClient/ChatClientMessageAggregator.md",
     "Programming Languages/Java/26. Spring Ai/ChatClient",
-    "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces/ModelQuery.md",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
-    "Programming Languages/Java/18. Annotation/@ConditionalOnMissingBean.md",
-    "Programming Languages/Java/18. Annotation/@AutoConfiguration.md",
-    "Programming Languages/Java/18. Annotation/@JsonProperty.md",
     "Programming Languages/Java/25. Troubleshooting",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
     "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
