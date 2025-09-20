@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@DisallowConcurrentExecution.md",
+                "file": "Programming Languages/Java/23. Open Source/4. Quartz/3. State, Concurrency, and Idempotency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@DisallowConcurrentExecution"
+              "title": "3. State, Concurrency, and Idempotency"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "5d5d13ee521902dc",
   "lastOpenFiles": [
-    "Programming Languages/Java/18. Annotation/@PersistJobDataAfterExecution.md",
+    "Programming Languages/Java/23. Open Source/4. Quartz/2. Scheduling Semantic.md",
+    "Programming Languages/Java/23. Open Source/4. Quartz/3. State, Concurrency, and Idempotency.md",
+    "Programming Languages/Java/23. Open Source/4. Quartz/1. Core Model and Architecture.md",
+    "Programming Languages/Java/23. Open Source/4. Quartz/0. Overview.md",
     "Programming Languages/Java/18. Annotation/@DisallowConcurrentExecution.md",
+    "Programming Languages/Java/23. Open Source/4. Quartz",
+    "Programming Languages/Java/18. Annotation/@PersistJobDataAfterExecution.md",
     "Programming Languages/Java/18. Annotation/@RequiredArgsConstructor.md",
     "Programming Languages/Java/18. Annotation/@Data.md",
     "Artificial Intelligence/Industry/MCP Server.md",
@@ -202,10 +207,6 @@
     "Git/2. Repository.md",
     "Git/1. Initialization and Configuration.md",
     "Git/0. Concepts.md",
-    "Git/11. Tips.md",
-    "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
-    "Programming Languages/Java/17. Template/1. application.yml.md",
-    "Programming Languages/Java/18. Annotation/@FeignClient.md",
     "Computer Operating System/Linux/Shell Commands",
     "Artificial Intelligence/Industry",
     "Programming Languages/Java/23. Open Source/3. Netty/0.NIO",
@@ -219,7 +220,6 @@
     "Programming Languages/Java/23. Open Source/1. Drools",
     "Programming Languages/Java/26. Spring Ai/ChatClient",
     "Programming Languages/Java/23. Open Source/0. Flowable/3. Interfaces",
-    "Programming Languages/Java/25. Troubleshooting",
     "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
     "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
     "Z-Archive/Pictures/Data/dataHandlingEthics.png",
