@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "be5d6972b690db1d",
+        "id": "9ed31b9fbc6478e2",
         "type": "tabs",
         "children": [
           {
-            "id": "c747cd08483bea75",
+            "id": "5d5d13ee521902dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Industry/MCP Server.md",
+                "file": "Programming Languages/Java/18. Annotation/@DisallowConcurrentExecution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP Server"
-            }
-          },
-          {
-            "id": "4f35683cd799a375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "@DisallowConcurrentExecution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -194,8 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f35683cd799a375",
+  "active": "5d5d13ee521902dc",
   "lastOpenFiles": [
+    "Programming Languages/Java/18. Annotation/@PersistJobDataAfterExecution.md",
+    "Programming Languages/Java/18. Annotation/@DisallowConcurrentExecution.md",
+    "Programming Languages/Java/18. Annotation/@RequiredArgsConstructor.md",
+    "Programming Languages/Java/18. Annotation/@Data.md",
     "Artificial Intelligence/Industry/MCP Server.md",
     "conflict-files-obsidian-git.md",
     "Git/9. Intellij.md",
@@ -218,10 +206,6 @@
     "Programming Languages/Java/16. SpringCloud/7. RestTemplate.md",
     "Programming Languages/Java/17. Template/1. application.yml.md",
     "Programming Languages/Java/18. Annotation/@FeignClient.md",
-    "Containers and Orchestration/Docker/Common Services.md",
-    "Programming Languages/Java/21. JVM/0. Overview.md",
-    "Programming Languages/Java/21. JVM/1. Architecture.md",
-    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Computer Operating System/Linux/Shell Commands",
     "Artificial Intelligence/Industry",
     "Programming Languages/Java/23. Open Source/3. Netty/0.NIO",

@@ -1,5 +1,5 @@
 The `@RequiredArgsConstructor` annotation is part of the Lombok library. It automatically generates a constructor for your class that takes as parameters all fields that are either:
-	•	final fields: Because they must be initialized.
+	•	<mark style="background: #FFB8EBA6;">final fields</mark>: Because they must be initialized.
 	•	Fields annotated with @NonNull: Ensuring they are not null (unless they have default values).
 
 This helps reduce boilerplate code, especially when you have many final or required fields in your class.
