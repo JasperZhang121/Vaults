@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux/4. Functional Filters Cookbook.md",
+                "file": "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/2. Combining-Merging-Windowing Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Functional Filters Cookbook"
+              "title": "2. Combining-Merging-Windowing Operators"
             }
           }
         ]
@@ -180,17 +180,20 @@
   },
   "active": "5d5d13ee521902dc",
   "lastOpenFiles": [
+    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/1. Transforming & Filtering Operators.md",
+    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/0. Reactor Basics.md",
+    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/1. Tracing & Context Propagation.md",
+    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/0. Micrometer Metrics for Reactor-WebFlux.md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/2. Project Loom vs Reactive (trade-offs).md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/0. Migrating from MVC-JDBC to WebFlux-R2DBC.md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/1. Reactor vs RxJava vs Mutiny.md",
+    "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux/4. Functional Filters Cookbook.md",
     "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)/1. Reactive Mongo-Redis, Transactions & Limitations.md",
     "Programming Languages/Java/28. Reactive Programming/4. Testing/0. StepVerifier & Virtual Time.md",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/2. Event-Driven Integration (Kafka-RabbitMQ reactive).md",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/1. Resilience (retryWhen, circuit breaker, bulkhead).md",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/3. Bridging Blocking Code (boundedElastic) & DTO Mapping.md",
-    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/0. Migrating from MVC-JDBC to WebFlux-R2DBC.md",
-    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/1. Reactor vs RxJava vs Mutiny.md",
-    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/2. Project Loom vs Reactive (trade-offs).md",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/3. Legacy Integration Playbook.md",
-    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/0. Micrometer Metrics for Reactor-WebFlux.md",
-    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/1. Tracing & Context Propagation.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/2. Profiling, Memory, GC & Throughput Tuning.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/3. Common Pitfalls & Anti-Patterns.md",
     "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/4. Context, Hooks, Sinks & Processors.md",
@@ -199,12 +202,9 @@
     "Programming Languages/Java/28. Reactive Programming/0. Fundamentals/3. Cold vs Hot, Schedulers & Threading Model.md",
     "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/6. Advanced Patterns.md",
     "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/5. Debugging & BlockHound.md",
-    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/1. Transforming & Filtering Operators.md",
-    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/0. Reactor Basics.md",
     "Programming Languages/Java/28. Reactive Programming/0. Fundamentals/1. Reactive Streams Spec & Roles (Publisher-Subscriber-Subscription).md",
     "Programming Languages/Java/28. Reactive Programming/0. Fundamentals/0. Overview & Motivation.md",
     "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)/0. R2DBC Basics & Spring Data R2DBC.md",
-    "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux/4. Functional Filters Cookbook.md",
     "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux/3. Filters, Exception Handling, SSE & WebSocket.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
