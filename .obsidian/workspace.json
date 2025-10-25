@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/2. Conductor/2. Key Components.md",
+                "file": "Programming Languages/Java/23. Open Source/2. Conductor/4. Storage, indexing & scaling notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Key Components"
+              "title": "4. Storage, indexing & scaling notes"
             }
           }
         ]
@@ -180,11 +180,11 @@
   },
   "active": "f1d223c59294a192",
   "lastOpenFiles": [
-    "Programming Languages/Java/23. Open Source/2. Conductor/3. Execution model & worker API.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/2. Key Components.md",
+    "Programming Languages/Java/23. Open Source/2. Conductor/3. Reliability knobs.md",
+    "Programming Languages/Java/23. Open Source/2. Conductor/2. Execution model & worker API.md",
+    "Programming Languages/Java/23. Open Source/2. Conductor/1. Key Components.md",
     "Programming Languages/Java/23. Open Source/2. Conductor/0. Netflix Conductor.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/5. Storage, indexing & scaling notes.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/4. Reliability knobs.md",
+    "Programming Languages/Java/23. Open Source/2. Conductor/4. Storage, indexing & scaling notes.md",
     "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
     "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
     "Programming Languages/Java/01. Advanced/0. OOP Basic/2. Inheritance.md",
