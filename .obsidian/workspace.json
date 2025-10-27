@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "7d2a46f15a288054",
+    "id": "7f9c62977d1baae1",
     "type": "split",
     "children": [
       {
-        "id": "1a2b740663feb433",
+        "id": "32d0b7e2cc8c8068",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d223c59294a192",
+            "id": "fbd869679e6774f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Java/23. Open Source/2. Conductor/4. Storage, indexing & scaling notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. Storage, indexing & scaling notes"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6551ee4a8a1558b0",
+    "id": "d6eab1354c425bcd",
     "type": "split",
     "children": [
       {
-        "id": "6c5db3a8f56376d8",
+        "id": "d395e21bf15ba826",
         "type": "tabs",
         "children": [
           {
-            "id": "6126ef7c3c57798e",
+            "id": "bb254405edc900b3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "aa212cbfdfd7e7ba",
+            "id": "8408611fde893ab3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "52778bef81feb60d",
+            "id": "846497f37b1fdd2b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 300
   },
   "right": {
-    "id": "8ac07aae3df4b560",
+    "id": "a6bec9b6cbde1e17",
     "type": "split",
     "children": [
       {
-        "id": "e3d317cd2debc2e0",
+        "id": "ba2abefd50d49a73",
         "type": "tabs",
         "children": [
           {
-            "id": "cac1985e3107aa4d",
+            "id": "7f3829b4eae4ff4f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,38 +99,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Working Memory"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6cee2c26590df231",
+            "id": "aa1ee5ee6fbb401a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from @Table"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ab05736e0e72e967",
+            "id": "712a28d8ffebcd46",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e6eec85f8d3f8b8c",
+            "id": "7fc247f72e3913c3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,15 +145,17 @@
             }
           },
           {
-            "id": "9193cd17c2ee1b83",
+            "id": "a578d8eeb361cfde",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@Table.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @Table"
+              "title": "Outline"
             }
           }
         ]
@@ -169,43 +167,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "f1d223c59294a192",
+  "active": "fbd869679e6774f3",
   "lastOpenFiles": [
+    "Programming Languages/Java/23. Open Source/2. Conductor/4. Storage, indexing & scaling notes.md",
     "Programming Languages/Java/23. Open Source/2. Conductor/3. Reliability knobs.md",
     "Programming Languages/Java/23. Open Source/2. Conductor/2. Execution model & worker API.md",
     "Programming Languages/Java/23. Open Source/2. Conductor/1. Key Components.md",
     "Programming Languages/Java/23. Open Source/2. Conductor/0. Netflix Conductor.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/4. Storage, indexing & scaling notes.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
-    "Programming Languages/Java/01. Advanced/0. OOP Basic/2. Inheritance.md",
-    "Programming Languages/Java/01. Advanced/0. OOP Basic/1. Encapsulation.md",
-    "Programming Languages/Java/01. Advanced/0. OOP Basic/0. Intro.md",
-    "Programming Languages/Java/21. JVM/1. Architecture.md",
-    "Programming Languages/Java/21. JVM/0. Overview.md",
-    "Programming Languages/Java/28. Reactive Programming/0. Fundamentals/0. Overview & Motivation.md",
-    "Git/10. Tips.md",
-    "Git/Untitled.md",
-    "Programming Languages/Java/00. Basic/1. Understand.md",
-    "Programming Languages/Java/00. Basic/0. Intro.md",
-    "Programming Languages/Java/00. Basic/3. Control Flow.md",
-    "Programming Languages/Java/00. Basic/2. Syntax & Property.md",
+    "Programming Languages/Java/23. Open Source/2. Conductor",
+    "Git/Summary/Git × Obsidian push incident.md",
+    "Git/Summary",
     "conflict-files-obsidian-git.md",
-    "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
-    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/2. Combining-Merging-Windowing Operators.md",
-    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/1. Transforming & Filtering Operators.md",
-    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/0. Reactor Basics.md",
-    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/1. Tracing & Context Propagation.md",
+    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/3. Common Pitfalls & Anti-Patterns.md",
+    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/2. Profiling, Memory, GC & Throughput Tuning.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/0. Micrometer Metrics for Reactor-WebFlux.md",
+    "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance/1. Tracing & Context Propagation.md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/3. Legacy Integration Playbook.md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/2. Project Loom vs Reactive (trade-offs).md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/0. Migrating from MVC-JDBC to WebFlux-R2DBC.md",
+    "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop/1. Reactor vs RxJava vs Mutiny.md",
+    "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/3. Bridging Blocking Code (boundedElastic) & DTO Mapping.md",
+    "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/2. Event-Driven Integration (Kafka-RabbitMQ reactive).md",
+    "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/1. Resilience (retryWhen, circuit breaker, bulkhead).md",
+    "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture/0. Service Backpressure & Rate Limiting.md",
+    "Programming Languages/Java/28. Reactive Programming/4. Testing/2. Test Sinks, Cold vs Hot Testing.md",
+    "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)/1. Reactive Mongo-Redis, Transactions & Limitations.md",
+    "Programming Languages/Java/28. Reactive Programming/4. Testing/1. WebTestClient for WebFlux.md",
+    "Programming Languages/Java/28. Reactive Programming/4. Testing/0. StepVerifier & Virtual Time.md",
+    "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)/2. Paging, Sorting & Projections.md",
+    "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)/0. R2DBC Basics & Spring Data R2DBC.md",
+    "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux/4. Functional Filters Cookbook.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture",
@@ -213,16 +213,6 @@
     "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)",
     "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux",
     "Programming Languages/Java/28. Reactive Programming/1. Project Reactor",
-    "Programming Languages/Java/28. Reactive Programming/0. Fundamentals",
-    "Programming Languages/Java/28. Reactive Programming",
-    "Programming Languages/Java/23. Open Source/4. Quartz",
-    "Z-Archive/Pictures/Programming/sso.png",
-    "Z-Archive/Pictures/Programming/JVM-Model.jpg",
-    "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
-    "Statistics/1. Statistical Inference/JVM-Model.jpg",
-    "Statistics/1. Statistical Inference/Pasted image 20250526003919.png",
-    "Statistics/1. Statistical Inference/Pasted image 20250526000206.png",
-    "Z-Archive/Pictures/Data/dataHandlingEthics.png",
-    "Statistics/1. Statistical Inference/dataHandlingEthics.png"
+    "Programming Languages/Java/28. Reactive Programming/0. Fundamentals"
   ]
 }
