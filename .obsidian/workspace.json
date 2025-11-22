@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "10. Tips"
             }
+          },
+          {
+            "id": "aa9b60cef8eafe4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "959f501b325c0dba",
+  "active": "aa9b60cef8eafe4b",
   "lastOpenFiles": [
     "Git/7. Common Issues.md",
     "Git/10. Tips.md",
