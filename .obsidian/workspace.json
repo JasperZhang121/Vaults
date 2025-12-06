@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/1. Drools/2. Drools Rule Language.md",
+                "file": "Programming Languages/Java/23. Open Source/1. Drools/4. Usage in Spring Boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Drools Rule Language"
+              "title": "4. Usage in Spring Boot"
             }
           }
         ]
@@ -180,9 +180,11 @@
   },
   "active": "959f501b325c0dba",
   "lastOpenFiles": [
-    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/3. Kie Classes.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/4. Usage in Spring Boot.md",
     "Programming Languages/Java/23. Open Source/1. Drools/2. Drools Rule Language.md",
     "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/1. Working Memory.md",
     "Git/10. Tips.md",
     "Git/7. Common Issues.md",
     "Programming Languages/Java/26. Spring Ai/Response Format/DeepSeek.md",
@@ -206,8 +208,6 @@
     "Programming Languages/Java/00. Basic/1. Understand.md",
     "Programming Languages/Java/00. Basic/0. Intro.md",
     "Programming Languages/Java/00. Basic/3. Control Flow.md",
-    "Programming Languages/Java/00. Basic/2. Syntax & Property.md",
-    "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture",
