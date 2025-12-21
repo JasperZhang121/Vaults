@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "0. Basic"
             }
+          },
+          {
+            "id": "24030189ce3f758d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ef09cefe60c00f0",
+  "active": "24030189ce3f758d",
   "lastOpenFiles": [
+    "Programming Languages/Go/1. Syntax/0. Basic.md",
+    "conflict-files-obsidian-git.md",
     "Programming Languages/Go/0. Intro/1. Features of Go.md",
     "Programming Languages/Go/0. Intro/0. Overview of Go.md",
     "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
@@ -211,7 +227,6 @@
     "Git/10. Tips.md",
     "Git/7. Common Issues.md",
     "Programming Languages/Java/26. Spring Ai/Response Format/DeepSeek.md",
-    "conflict-files-obsidian-git.md",
     "Git/Summary/Git × Obsidian push incident.md",
     "Git/Summary",
     "Programming Languages/Java/26. Spring Ai/Response Format/OpenAI.md",
@@ -223,7 +238,6 @@
     "Programming Languages/Java/23. Open Source/2. Conductor/0. Netflix Conductor.md",
     "Programming Languages/Java/01. Advanced/0. OOP Basic/2. Inheritance.md",
     "Programming Languages/Java/01. Advanced/0. OOP Basic/1. Encapsulation.md",
-    "Programming Languages/Java/01. Advanced/0. OOP Basic/0. Intro.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture",
