@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "878593a8b31816eb",
+        "id": "81bd91625149fec2",
         "type": "tabs",
         "children": [
           {
-            "id": "e86b5980e000129c",
+            "id": "90e48f813b9a08bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/23. Open Source/3. Netty/1. Selector.md",
+                "file": "Programming Languages/Java/02. Collections/0. List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Selector"
+              "title": "0. List"
             }
           }
         ]
@@ -178,10 +178,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e86b5980e000129c",
+  "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
-    "Programming Languages/Java/23. Open Source/3. Netty/0. Channel & Buffer.md",
+    "Programming Languages/Java/02. Collections/2. Map.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/1. Lambda.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/0. Functional Programming.md",
+    "Computer Networking/1. Overview/1. Concept.md",
+    "Programming Languages/Java/12. Network Programming/0. Basic.md",
+    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/4. Usage in Spring Boot.md",
+    "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
+    "Programming Languages/Java/16. SpringCloud/3. API Gateway.md",
+    "Programming Languages/Java/16. SpringCloud/0. Service Registration and Discovery.md",
     "Programming Languages/Java/23. Open Source/3. Netty/1. Selector.md",
+    "Programming Languages/Java/23. Open Source/4. Quartz/0. Overview.md",
+    "Programming Languages/Java/23. Open Source/3. Netty/0. Channel & Buffer.md",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
     "Programming Languages/Java/21. JVM/0. Overview.md",
     "Programming Languages/Go/1. Syntax/1. Variables.md",
@@ -194,18 +206,6 @@
     "Programming Languages/Java/04. Reflection/1. Class and Reflection.md",
     "Programming Languages/Java/04. Reflection/6. Dynamic Proxy.md",
     "Programming Languages/Java/03. Exception/Commons Logging.md",
-    "Programming Languages/Java/03. Exception/5. Assertions.md",
-    "Programming Languages/Java/03. Exception/4. NullPointerException.md",
-    "Programming Languages/Java/03. Exception/3. Common Exceptions.md",
-    "Programming Languages/Java/03. Exception/0. Introduction to Exception Handling.md",
-    "Programming Languages/Java/02. Collections/1. equals.md",
-    "Programming Languages/Java/02. Collections/0. List.md",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/3. Stream.md",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/1. Lambda.md",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/0. Functional Programming.md",
-    "Programming Languages/Go/1. Syntax/4. Control_Structures.md.md",
-    "Programming Languages/Go/1. Syntax/2. Data Types.md",
     "Git/Summary",
     "Programming Languages/Java/26. Spring Ai/Response Format",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
