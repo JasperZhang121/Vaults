@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/02. Collections/0. List.md",
+                "file": "Programming Languages/Java/24. Utils/CatchUtils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. List"
+              "title": "CatchUtils"
             }
           }
         ]
@@ -180,6 +180,10 @@
   },
   "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
+    "Programming Languages/Java/24. Utils/MapUtils.md",
+    "Programming Languages/Java/24. Utils/GraphProcessor.md",
+    "Programming Languages/Java/24. Utils/CatchUtils.md",
+    "Programming Languages/Java/02. Collections/0. List.md",
     "Programming Languages/Java/02. Collections/2. Map.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/1. Lambda.md",
@@ -202,10 +206,6 @@
     "Programming Languages/Go/0. Intro/0. Overview of Go.md",
     "Programming Languages/Java/04. Reflection/4. Invoke Constructor Methods.md",
     "Programming Languages/Java/04. Reflection/3. Invoke Method.md",
-    "Programming Languages/Java/04. Reflection/2. Field Information.md",
-    "Programming Languages/Java/04. Reflection/1. Class and Reflection.md",
-    "Programming Languages/Java/04. Reflection/6. Dynamic Proxy.md",
-    "Programming Languages/Java/03. Exception/Commons Logging.md",
     "Git/Summary",
     "Programming Languages/Java/26. Spring Ai/Response Format",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
