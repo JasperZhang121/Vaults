@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/24. Utils/CatchUtils.md",
+                "file": "Programming Languages/Java/24. Utils/MapUtils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CatchUtils"
+              "title": "MapUtils"
+            }
+          },
+          {
+            "id": "17ec0950da24a27f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90e48f813b9a08bb",
+  "active": "17ec0950da24a27f",
   "lastOpenFiles": [
-    "Programming Languages/Java/24. Utils/MapUtils.md",
-    "Programming Languages/Java/24. Utils/GraphProcessor.md",
     "Programming Languages/Java/24. Utils/CatchUtils.md",
+    "Programming Languages/Java/24. Utils/GraphProcessor.md",
+    "Programming Languages/Java/24. Utils/MapUtils.md",
     "Programming Languages/Java/02. Collections/0. List.md",
     "Programming Languages/Java/02. Collections/2. Map.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
