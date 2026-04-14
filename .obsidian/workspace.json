@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/21. JVM/3. Java Memory Model.md",
-                "mode": "source",
+                "file": "Artificial Intelligence/Industry/Skill.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Java Memory Model"
+              "title": "Skill"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac07aae3df4b560",
@@ -180,10 +181,11 @@
   },
   "active": "6c50dd1d9b4f6564",
   "lastOpenFiles": [
+    "Programming Languages/Java/21. JVM/3. Java Memory Model.md",
+    "Artificial Intelligence/Industry/Skill.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/NestedFunctionDemo.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
-    "Programming Languages/Java/21. JVM/3. Java Memory Model.md",
     "Programming Languages/Java/21. JVM/1. Architecture.md",
     "Programming Languages/Java/01. Advanced/0. OOP Basic/3. Polymorphism.md",
     "conflict-files-obsidian-git.md",
@@ -208,7 +210,6 @@
     "Programming Languages/Java/00. Basic/0. Intro.md",
     "Algorithm/Leetcode/Array/DP/45. Jump Game II.md",
     "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/2. Combining-Merging-Windowing Operators.md",
-    "Programming Languages/Java/28. Reactive Programming/1. Project Reactor/1. Transforming & Filtering Operators.md",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture",
