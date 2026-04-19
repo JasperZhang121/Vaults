@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/NestedFunctionDemo.md",
+                "file": "Programming Languages/Python/Pip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NestedFunctionDemo"
+              "title": "Pip"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "@Asy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,18 @@
   },
   "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/0. Functional Programming.md",
+    "Programming Languages/Python/Pytorch/2. Neural Network.md",
+    "Programming Languages/Python/Pytorch/1. Quick Look.md",
+    "Programming Languages/Python/Pytorch/0. Introduction.md",
+    "Programming Languages/Python/OOP/3. Polymorphism.md",
+    "Programming Languages/Python/OOP/2. Inheritance.md",
+    "Programming Languages/Python/OOP/1. Encapsulation.md",
+    "Programming Languages/Python/OOP/0. Class.md",
+    "Programming Languages/Java/18. Annotation/@Async.md",
+    "Databases/Redis/Basic/3. Data Type.md",
+    "Databases/Redis/Basic/0. Introduction.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/NestedFunctionDemo.md",
+    "Programming Languages/Java/01. Advanced/2. Functional Programming/0. Functional Programming.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
@@ -198,16 +208,6 @@
     "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
     "Programming Languages/Java/23. Open Source/1. Drools/4. Usage in Spring Boot.md",
     "Programming Languages/Java/23. Open Source/1. Drools/0. Introduction.md",
-    "Programming Languages/Java/16. SpringCloud/3. API Gateway.md",
-    "Programming Languages/Java/16. SpringCloud/0. Service Registration and Discovery.md",
-    "Programming Languages/Java/23. Open Source/3. Netty/1. Selector.md",
-    "Programming Languages/Java/23. Open Source/4. Quartz/0. Overview.md",
-    "Programming Languages/Java/23. Open Source/3. Netty/0. Channel & Buffer.md",
-    "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
-    "Programming Languages/Java/21. JVM/0. Overview.md",
-    "Programming Languages/Go/1. Syntax/1. Variables.md",
-    "Programming Languages/Go/1. Syntax/0. Basic.md",
-    "Programming Languages/Go/0. Intro/1. Features of Go.md",
     "Git/Summary",
     "Programming Languages/Java/26. Spring Ai/Response Format",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
