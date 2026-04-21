@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Pip.md",
+                "file": "Programming Languages/Python/4. Annotations/@dataclass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pip"
+              "title": "@dataclass"
             }
           }
         ]
@@ -180,9 +180,20 @@
   },
   "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
+    "Programming Languages/Python/4. Annotations/@staticmethod.md",
+    "Programming Languages/Python/4. Annotations/@dataclass.md",
+    "Programming Languages/Python/3. OOP/7. @property.md",
+    "Programming Languages/Python/4. Annotations",
+    "Programming Languages/Python/3. OOP/6. __slots__.md",
+    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
+    "Programming Languages/Python/3. OOP/4. Object Information.md",
+    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
+    "Programming Languages/Python/3. OOP/2. Access Control.md",
+    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
+    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
+    "Programming Languages/Python/Pip.md",
     "conflict-files-obsidian-git.md",
     "Artificial Intelligence/Industry/Skill.md",
-    "Programming Languages/Python/Pip.md",
     "Programming Languages/Python/Pytorch/2. Neural Network.md",
     "Programming Languages/Python/Pytorch/1. Quick Look.md",
     "Programming Languages/Python/Pytorch/0. Introduction.md",
@@ -198,16 +209,6 @@
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/1. Lambda.md",
-    "Programming Languages/Java/24. Utils/MapUtils.md",
-    "Programming Languages/Java/21. JVM/3. Java Memory Model.md",
-    "Programming Languages/Java/24. Utils/CatchUtils.md",
-    "Programming Languages/Java/24. Utils/GraphProcessor.md",
-    "Programming Languages/Java/02. Collections/0. List.md",
-    "Programming Languages/Java/02. Collections/2. Map.md",
-    "Computer Networking/1. Overview/1. Concept.md",
-    "Programming Languages/Java/12. Network Programming/0. Basic.md",
-    "Programming Languages/Java/26. Spring Ai/0. Chat Client API.md",
     "Git/Summary",
     "Programming Languages/Java/26. Spring Ai/Response Format",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
@@ -215,7 +216,6 @@
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture",
     "Programming Languages/Java/28. Reactive Programming/4. Testing",
     "Programming Languages/Java/28. Reactive Programming/3. Data Access (Reactive)",
-    "Programming Languages/Java/28. Reactive Programming/2. Spring WebFlux",
     "Z-Archive/Pictures/Programming/sso.png",
     "Z-Archive/Pictures/Programming/JVM-Model.jpg",
     "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
