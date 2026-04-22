@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/4. Annotations/@dataclass.md",
+                "file": "Programming Languages/Python/4. Annotations/@app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@dataclass"
+              "title": "@app"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
-    "Programming Languages/Python/4. Annotations/@staticmethod.md",
+    "Programming Languages/Python/4. Annotations/@router.md",
+    "Programming Languages/Python/4. Annotations/@app.md",
     "Programming Languages/Python/4. Annotations/@dataclass.md",
+    "Programming Languages/Python/4. Annotations/@staticmethod.md",
     "Programming Languages/Python/3. OOP/7. @property.md",
     "Programming Languages/Python/4. Annotations",
     "Programming Languages/Python/3. OOP/6. __slots__.md",
@@ -205,10 +207,8 @@
     "Databases/Redis/Basic/3. Data Type.md",
     "Databases/Redis/Basic/0. Introduction.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/NestedFunctionDemo.md",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/0. Functional Programming.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
-    "Programming Languages/Java/01. Advanced/2. Functional Programming/2. Method References.md",
     "Git/Summary",
     "Programming Languages/Java/26. Spring Ai/Response Format",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
