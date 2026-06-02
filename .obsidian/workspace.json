@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Industry/Retrieval-Augmented Generation.md",
-                "mode": "preview",
+                "file": "Programming Languages/Java/18. Annotation/@ExceptionHandler.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retrieval-Augmented Generation"
+              "title": "@ExceptionHandler"
             }
           }
         ]
@@ -180,10 +180,14 @@
   },
   "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
+    "Programming Languages/Java/14. Spring/3. Web/3. Interceptors.md",
+    "Programming Languages/Java/18. Annotation/@ExceptionHandler.md",
+    "Programming Languages/Java/18. Annotation/@Validated.md",
+    "Programming Languages/Java/18. Annotation/@Valid.md",
+    "Artificial Intelligence/Industry/Retrieval-Augmented Generation.md",
     "Artificial Intelligence/Industry/MCP Servers.md",
     "Artificial Intelligence/Industry/MCP Server.md",
     "Artificial Intelligence/Industry/Nacos With MCP.md",
-    "Artificial Intelligence/Industry/Retrieval-Augmented Generation.md",
     "Artificial Intelligence/Industry/Skill.md",
     "Git/2. Repository.md",
     "Artificial Intelligence/Skills",
@@ -204,10 +208,6 @@
     "Programming Languages/Python/3. OOP/1. Encapsulation.md",
     "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
     "Programming Languages/Python/Pip.md",
-    "conflict-files-obsidian-git.md",
-    "Programming Languages/Python/Pytorch/2. Neural Network.md",
-    "Programming Languages/Python/Pytorch/1. Quick Look.md",
-    "Programming Languages/Python/Pytorch/0. Introduction.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Git/Summary",
