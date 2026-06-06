@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "@AuthenticationPrincipal"
             }
+          },
+          {
+            "id": "7b24dcc01ad1762a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90e48f813b9a08bb",
+  "active": "7b24dcc01ad1762a",
   "lastOpenFiles": [
-    "Big Data/7. Kafka/1. Deployment & Commands.md",
     "Programming Languages/Java/18. Annotation/@AuthenticationPrincipal.md",
+    "conflict-files-obsidian-git.md",
+    "Big Data/7. Kafka/1. Deployment & Commands.md",
     "Big Data/7. Kafka/0. Kafka.md",
     "Big Data/0. Data Lake/0. Introduction.md",
     "Programming Languages/Java/18. Annotation/@ExceptionHandler.md",
@@ -207,7 +223,6 @@
     "Programming Languages/Python/3. OOP/6. __slots__.md",
     "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
     "Programming Languages/Python/3. OOP/4. Object Information.md",
-    "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Git/Summary",
