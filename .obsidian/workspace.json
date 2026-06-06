@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@ExceptionHandler.md",
+                "file": "Programming Languages/Java/18. Annotation/@AuthenticationPrincipal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ExceptionHandler"
+              "title": "@AuthenticationPrincipal"
             }
           }
         ]
@@ -180,8 +180,12 @@
   },
   "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
-    "Programming Languages/Java/14. Spring/3. Web/3. Interceptors.md",
+    "Big Data/7. Kafka/1. Deployment & Commands.md",
+    "Programming Languages/Java/18. Annotation/@AuthenticationPrincipal.md",
+    "Big Data/7. Kafka/0. Kafka.md",
+    "Big Data/0. Data Lake/0. Introduction.md",
     "Programming Languages/Java/18. Annotation/@ExceptionHandler.md",
+    "Programming Languages/Java/14. Spring/3. Web/3. Interceptors.md",
     "Programming Languages/Java/18. Annotation/@Validated.md",
     "Programming Languages/Java/18. Annotation/@Valid.md",
     "Artificial Intelligence/Industry/Retrieval-Augmented Generation.md",
@@ -204,10 +208,6 @@
     "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
     "Programming Languages/Python/3. OOP/4. Object Information.md",
     "Programming Languages/Python/3. OOP/3. Inheritance & Polymorphism.md",
-    "Programming Languages/Python/3. OOP/2. Access Control.md",
-    "Programming Languages/Python/3. OOP/1. Encapsulation.md",
-    "Programming Languages/Python/3. OOP/0. Classes and Instances.md",
-    "Programming Languages/Python/Pip.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Git/Summary",
