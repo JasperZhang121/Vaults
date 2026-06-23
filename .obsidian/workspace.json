@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/18. Annotation/@AuthenticationPrincipal.md",
+                "file": "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@AuthenticationPrincipal"
-            }
-          },
-          {
-            "id": "7b24dcc01ad1762a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "5. Thread Synchronization"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b24dcc01ad1762a",
+  "active": "90e48f813b9a08bb",
   "lastOpenFiles": [
+    "Programming Languages/Java/10. Multithreading/3. Interrupting Threads.md",
+    "Programming Languages/Java/10. Multithreading/2. Thread States.md",
+    "Programming Languages/Java/10. Multithreading/1. Creating a New Thread.md",
+    "Programming Languages/Java/10. Multithreading/8. wait and notify.md",
+    "Programming Languages/Java/10. Multithreading/11. CAS.md",
+    "Programming Languages/Java/10. Multithreading/10. ReadWriteLock.md",
+    "Programming Languages/Java/10. Multithreading/0. Basics.md",
+    "Programming Languages/Java/10. Multithreading/9. ReentrantLock.md",
+    "Programming Languages/Java/10. Multithreading/7.  Deadlock.md",
     "Programming Languages/Java/18. Annotation/@AuthenticationPrincipal.md",
     "conflict-files-obsidian-git.md",
     "Big Data/7. Kafka/1. Deployment & Commands.md",
@@ -213,16 +207,7 @@
     "Artificial Intelligence/Skills",
     "Git/1. Initialization and Configuration.md",
     "Git/3. Basic Commands.md",
-    "Git/0. Concepts.md",
-    "Programming Languages/Python/4. Annotations/@staticmethod.md",
-    "Programming Languages/Python/4. Annotations/@router.md",
-    "Programming Languages/Python/4. Annotations/@app.md",
-    "Programming Languages/Python/4. Annotations/@dataclass.md",
-    "Programming Languages/Python/3. OOP/7. @property.md",
     "Programming Languages/Python/4. Annotations",
-    "Programming Languages/Python/3. OOP/6. __slots__.md",
-    "Programming Languages/Python/3. OOP/5. Instance Attributes and Class Attributes.md",
-    "Programming Languages/Python/3. OOP/4. Object Information.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Git/Summary",
