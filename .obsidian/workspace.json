@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81bd91625149fec2",
+        "id": "df61db5f49728c50",
         "type": "tabs",
         "children": [
           {
-            "id": "90e48f813b9a08bb",
+            "id": "e5168ec59c5b3044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
+                "file": "Computer Networking/7. Cryptology/AES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Thread Synchronization"
+              "title": "AES"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90e48f813b9a08bb",
+  "active": "e5168ec59c5b3044",
   "lastOpenFiles": [
+    "Blockchain/2. Technical Aspects/1. Cryptography.md",
+    "Computer Networking/7. Cryptology/AES.md",
+    "Computer Networking/7. Cryptology",
+    "Programming Languages/Java/00. Basic/2. Syntax & Property.md",
+    "Programming Languages/Java/00. Basic/0. Intro.md",
+    "Programming Languages/Java/10. Multithreading/5. Thread Synchronization.md",
     "Programming Languages/Java/10. Multithreading/3. Interrupting Threads.md",
     "Programming Languages/Java/10. Multithreading/2. Thread States.md",
     "Programming Languages/Java/10. Multithreading/1. Creating a New Thread.md",
@@ -201,12 +207,7 @@
     "Artificial Intelligence/Industry/Retrieval-Augmented Generation.md",
     "Artificial Intelligence/Industry/MCP Servers.md",
     "Artificial Intelligence/Industry/MCP Server.md",
-    "Artificial Intelligence/Industry/Nacos With MCP.md",
-    "Artificial Intelligence/Industry/Skill.md",
-    "Git/2. Repository.md",
     "Artificial Intelligence/Skills",
-    "Git/1. Initialization and Configuration.md",
-    "Git/3. Basic Commands.md",
     "Programming Languages/Python/4. Annotations",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/Untitled",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
@@ -215,7 +216,6 @@
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
     "Programming Languages/Java/28. Reactive Programming/5. Patterns & Architecture",
-    "Programming Languages/Java/28. Reactive Programming/4. Testing",
     "Z-Archive/Pictures/Programming/sso.png",
     "Z-Archive/Pictures/Programming/JVM-Model.jpg",
     "Statistics/1. Statistical Inference/JVM-Model 1.jpg",
