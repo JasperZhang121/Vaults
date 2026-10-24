@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Industry/Skill.md",
-                "mode": "preview",
+                "file": "Computer Operating System/Linux/Basic Linux/9. Nginx.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill"
+              "title": "9. Nginx"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cmd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,6 +181,13 @@
   },
   "active": "6c50dd1d9b4f6564",
   "lastOpenFiles": [
+    "Computer Operating System/Linux/Shell Commands/Pragmatic Shell Scripting.md",
+    "Artificial Intelligence/Industry/MCP Servers.md",
+    "Programming Languages/Java/11. Maven/5. Maven Wrapper (mvnw).md",
+    "Containers and Orchestration/Docker/2. Commands.md",
+    "Containers and Orchestration/Docker/0. Introduction.md",
+    "Containers and Orchestration/Kubernetes/3. Workload/Workload Management/0. Deployments.md",
+    "Artificial Intelligence/Industry/Skill.md",
     "Programming Languages/Python/4. Annotations/@staticmethod.md",
     "Programming Languages/Python/4. Annotations/@router.md",
     "Programming Languages/Python/4. Annotations/@dataclass.md",
@@ -189,7 +196,6 @@
     "Programming Languages/Java/18. Annotation/@ExceptionHandler.md",
     "Artificial Intelligence/Industry/Retrieval-Augmented Generation.md",
     "Programming Languages/Java/21. JVM/3. Java Memory Model.md",
-    "Artificial Intelligence/Industry/Skill.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples/NestedFunctionDemo.md",
     "Programming Languages/Java/01. Advanced/2. Functional Programming/Examples",
     "Programming Languages/Java/21. JVM/2. Class Loading and Bytecode.md",
@@ -204,12 +210,6 @@
     "Programming Languages/Java/26. Spring Ai/Response Format",
     "Programming Languages/Java/23. Open Source/2. Conductor/4. Storage, indexing & scaling notes.md",
     "Programming Languages/Java/23. Open Source/2. Conductor/3. Reliability knobs.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/2. Execution model & worker API.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/1. Key Components.md",
-    "Programming Languages/Java/23. Open Source/2. Conductor/0. Netflix Conductor.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/4. Usage in Spring Boot.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/3. Kie Classes.md",
-    "Programming Languages/Java/23. Open Source/1. Drools/2. Drools Rule Language.md",
     "Git/Summary",
     "Programming Languages/Java/28. Reactive Programming/7. Observability & Performance",
     "Programming Languages/Java/28. Reactive Programming/6. Migration & Interop",
